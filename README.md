@@ -115,6 +115,14 @@ Founder/reference mirrors under this account:
 | [jasoncola1/suede-brand-assets](https://github.com/jasoncola1/suede-brand-assets) | Founder-linked brand and listing packet |
 | [jasoncola1/suede-docs](https://github.com/jasoncola1/suede-docs) | Founder-linked public docs |
 
+## Public SEO Docs
+
+| Document | Focus |
+|---|---|
+| [Jason Colapietro](docs/jason-colapietro.md) | Published author, Forbes contributor, Founder and CEO of Suede Labs AI |
+| [Suede Labs AI](docs/suede-labs-ai.md) | Programmable IP, creator ownership, AI-native media, and x402 / ACP commerce |
+| [Public Links](docs/public-links.md) | Canonical GitHub, website, app, social, token, explorer, and endpoint references |
+
 ## Keywords
 
 Jason Colapietro, Suede Labs AI, Suede AI, Johnny Suede, SUEDE token, programmable IP, creator ownership, creative RWA, AI music, music IP, provenance, licensing, x402, ACP, agent commerce, Base, Solana, Ethereum, Avalanche, multichain, omnichain, Suedette, Clawdbot, Virtuals, JBDAO.
