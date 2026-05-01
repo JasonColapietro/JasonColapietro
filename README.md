@@ -95,12 +95,14 @@ The broader Suede ecosystem includes independent community launches and experime
 
 ## Public GitHub Work
 
-Recommended Suede public repositories:
+Public Suede repositories:
 
-- `suede-token` - canonical SUEDE token, contracts, supply, and ecosystem reference
-- `suede-x402-acp` - live public x402 and ACP-ready endpoint reference
-- `suede-brand-assets` - logos, color specs, listing copy, official links, and media kit
-- `suede-docs` - public docs for programmable IP, creator ownership, provenance, licensing, and agent commerce
+| Repository | Purpose |
+|---|---|
+| [suede-token](https://github.com/jasoncola1/suede-token) | Canonical SUEDE token, contracts, supply, and ecosystem reference |
+| [suede-x402-acp](https://github.com/jasoncola1/suede-x402-acp) | Live public x402 and ACP-ready endpoint reference |
+| [suede-brand-assets](https://github.com/jasoncola1/suede-brand-assets) | Logos, color specs, listing copy, official links, and media kit |
+| [suede-docs](https://github.com/jasoncola1/suede-docs) | Public docs for programmable IP, creator ownership, provenance, licensing, and agent commerce |
 
 ## Keywords
 
