@@ -1,5 +1,7 @@
 # Jason Colapietro
 
+<img src="./assets/jason-colapietro-github-avatar.png" alt="Jason Colapietro, founder of Suede Labs AI" width="180" />
+
 Founder of **Suede Labs AI**.
 
 I am building programmable IP and creator ownership infrastructure for AI-native media. My work focuses on provenance, licensing, creative RWA media assets, x402 payments, ACP-ready agent commerce, and practical tools that help creators control and monetize their work.
