@@ -95,14 +95,23 @@ The broader Suede ecosystem includes independent community launches and experime
 
 ## Public GitHub Work
 
-Public Suede repositories:
+Official Suede Labs AI repositories:
 
 | Repository | Purpose |
 |---|---|
-| [suede-token](https://github.com/jasoncola1/suede-token) | Canonical SUEDE token, contracts, supply, and ecosystem reference |
-| [suede-x402-acp](https://github.com/jasoncola1/suede-x402-acp) | Live public x402 and ACP-ready endpoint reference |
-| [suede-brand-assets](https://github.com/jasoncola1/suede-brand-assets) | Logos, color specs, listing copy, official links, and media kit |
-| [suede-docs](https://github.com/jasoncola1/suede-docs) | Public docs for programmable IP, creator ownership, provenance, licensing, and agent commerce |
+| [Suede-AI/suede-token](https://github.com/Suede-AI/suede-token) | Canonical SUEDE token, contracts, supply, and ecosystem reference |
+| [Suede-AI/suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) | Live public x402 and ACP-ready endpoint reference |
+| [Suede-AI/suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Logos, color specs, listing copy, official links, and media kit |
+| [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public docs for programmable IP, creator ownership, provenance, licensing, and agent commerce |
+
+Founder/reference mirrors under this account:
+
+| Repository | Purpose |
+|---|---|
+| [jasoncola1/suede-token](https://github.com/jasoncola1/suede-token) | Founder-linked token reference |
+| [jasoncola1/suede-x402-acp](https://github.com/jasoncola1/suede-x402-acp) | Founder-linked endpoint reference |
+| [jasoncola1/suede-brand-assets](https://github.com/jasoncola1/suede-brand-assets) | Founder-linked brand and listing packet |
+| [jasoncola1/suede-docs](https://github.com/jasoncola1/suede-docs) | Founder-linked public docs |
 
 ## Keywords
 
