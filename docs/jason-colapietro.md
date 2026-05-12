@@ -12,7 +12,7 @@ Jason works on programmable IP, creator ownership, AI-native media, music rights
 | Role | Founder and CEO, Suede Labs AI |
 | Author profile | Published author |
 | Media profile | Forbes contributor |
-| GitHub | https://github.com/jasoncola1 |
+| GitHub | https://github.com/JasonColapietro |
 | X | https://x.com/johnnysuede |
 | Company | Suede Labs AI |
 

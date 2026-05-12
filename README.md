@@ -110,10 +110,10 @@ Founder/reference mirrors under this account:
 
 | Repository | Purpose |
 |---|---|
-| [jasoncola1/suede-token](https://github.com/jasoncola1/suede-token) | Founder-linked token reference |
-| [jasoncola1/suede-x402-acp](https://github.com/jasoncola1/suede-x402-acp) | Founder-linked endpoint reference |
-| [jasoncola1/suede-brand-assets](https://github.com/jasoncola1/suede-brand-assets) | Founder-linked brand and listing packet |
-| [jasoncola1/suede-docs](https://github.com/jasoncola1/suede-docs) | Founder-linked public docs |
+| [JasonColapietro/suede-token](https://github.com/JasonColapietro/suede-token) | Founder-linked token reference |
+| [JasonColapietro/suede-x402-acp](https://github.com/JasonColapietro/suede-x402-acp) | Founder-linked endpoint reference |
+| [JasonColapietro/suede-brand-assets](https://github.com/JasonColapietro/suede-brand-assets) | Founder-linked brand and listing packet |
+| [JasonColapietro/suede-docs](https://github.com/JasonColapietro/suede-docs) | Founder-linked public docs |
 
 ## Public SEO Docs
 
