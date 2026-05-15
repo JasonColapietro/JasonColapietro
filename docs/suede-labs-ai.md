@@ -1,10 +1,10 @@
 # Suede Labs AI
 
-Suede Labs AI is a programmable IP and creator ownership platform for AI-native media, founded by Jason Colapietro.
+[Suede Labs AI](https://suedeai.ai) is a programmable IP and creator-ownership platform for AI-native media, founded by [Jason Colapietro](https://github.com/JasonColapietro).
 
-Suede focuses on ownership, provenance, rights registration, licensing, monetization, token-enabled access, and agent-accessible commerce for creator-owned assets.
+Suede focuses on ownership, provenance, rights registration, licensing, royalty infrastructure, token-enabled access, and agent-accessible commerce for creator-owned assets.
 
-## Public Repositories
+## Public repositories
 
 | Repository | Purpose |
 |---|---|
@@ -13,13 +13,13 @@ Suede focuses on ownership, provenance, rights registration, licensing, monetiza
 | https://github.com/Suede-AI/suede-brand-assets | Official brand assets and listing packet |
 | https://github.com/Suede-AI/suede-docs | Official public docs |
 
-## Core Concepts
+## Core concepts
 
 - Programmable IP
 - Creator ownership
 - Creative RWA media assets
 - Provenance and rights metadata
-- Licensing and monetization workflows
+- Licensing and royalty workflows
 - x402 payments
 - ACP-ready agent commerce
 - AI music as an initial high-signal media category

@@ -1,36 +1,33 @@
 # Jason Colapietro
 
-Jason Colapietro is a published author, Forbes contributor, and Founder and CEO of Suede Labs AI.
+Jason Colapietro is a published author, Forbes contributor, and Founder & CEO of [Suede Labs AI](https://suedeai.ai).
 
-Jason works on programmable IP, creator ownership, AI-native media, music rights, provenance, licensing, x402 payments, ACP-ready agent commerce, and creative RWA media assets.
+He builds programmable IP and creator-ownership infrastructure for AI-native media — the layer underneath songs, video, likeness, and creative work that lets authors prove provenance, control rights, and capture revenue as their work moves across products, chains, and AI agents.
 
-## Public Identity
+## Public identity
 
 | Field | Reference |
 |---|---|
 | Name | Jason Colapietro |
-| Role | Founder and CEO, Suede Labs AI |
+| Role | Founder & CEO, Suede Labs AI |
 | Author profile | Published author |
 | Media profile | Forbes contributor |
 | GitHub | https://github.com/JasonColapietro |
 | X | https://x.com/johnnysuede |
-| Company | Suede Labs AI |
+| Company | https://suedeai.ai |
 
-## Areas of Work
+## Areas of work
 
-- Programmable IP
-- Creator ownership
-- AI-native media
-- Music IP and rights
-- Provenance
-- Licensing
-- x402 payments
-- ACP-ready agent commerce
-- Base, Solana, Ethereum, Avalanche, multichain, and omnichain media rails
+- Programmable IP and rights-aware media workflows
+- Creator ownership for AI-native media
+- Provenance, licensing, and royalty infrastructure
+- x402 payments and ACP-ready agent commerce
+- Multichain rails — Base, Solana, Ethereum, Avalanche, omnichain
+- AI music as an initial high-signal media category inside a broader programmable IP layer
 
 ## Suede Labs AI
 
-Suede Labs AI is a programmable IP and creator ownership platform for AI-native media. Suede connects creative assets to proof of authorship, rights metadata, licensing workflows, token-enabled access, and agent-accessible commerce.
+[Suede Labs AI](https://suedeai.ai) is a programmable IP and creator-ownership platform for AI-native media. The platform connects creative assets to proof of authorship, rights metadata, licensing workflows, token-enabled access, and agent-accessible commerce.
 
 Official Suede GitHub: https://github.com/Suede-AI
 
