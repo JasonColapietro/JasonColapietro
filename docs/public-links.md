@@ -8,20 +8,21 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 |---|---|
 | GitHub | https://github.com/JasonColapietro |
 | X | https://x.com/johnnysuede |
-| Suede Labs AI org | https://github.com/Suede-AI |
+| Suede Labs AI | https://github.com/Suede-AI |
 
 ## Suede Labs AI
 
 | Type | URL |
 |---|---|
-| Company | https://suedeai.ai |
-| App | https://app.suedeai.ai |
 | GitHub | https://github.com/Suede-AI |
-| Suede Labs X | https://x.com/AISUEDE |
+| App | https://app.suedeai.xyz |
+| Website | https://suedeai.org |
+| Company | https://suedeai.ai |
+| X | https://x.com/AISUEDE |
 | Telegram | https://t.me/SUEDEAI |
 | CoinGecko | https://www.coingecko.com/en/coins/johnny-suede |
 
-## Official GitHub repositories
+## Official GitHub Docs
 
 | Repository | URL |
 |---|---|
@@ -30,14 +31,13 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Brand assets | https://github.com/Suede-AI/suede-brand-assets |
 | Public docs | https://github.com/Suede-AI/suede-docs |
 
-## Public endpoints
+## Public Endpoints
 
 ```text
-GET  https://app.suedeai.ai/.well-known/x402
-GET  https://app.suedeai.ai/.well-known/x402.json
-GET  https://app.suedeai.ai/.well-known/agent-card.json
-POST https://app.suedeai.ai/agent/generate
-POST https://app.suedeai.ai/create-music
-POST https://app.suedeai.ai/agent/video
+GET  https://app.suedeai.xyz/.well-known/x402
+GET  https://app.suedeai.xyz/.well-known/x402.json
+POST https://app.suedeai.xyz/agent/generate
+POST https://app.suedeai.xyz/create-music
+POST https://app.suedeai.xyz/agent/video
 POST https://suede-ai-app.onrender.com/agents/commerce
 ```
