@@ -5,7 +5,7 @@
 ## Connect
 
 - **X / Twitter** — [@johnnysuede](https://x.com/johnnysuede)
-- **LinkedIn** — [linkedin.com/in/jasoncolapietro](https://linkedin.com/in/jasoncolapietro)
+- **LinkedIn** — [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro)
 - **Email** — [johnnysuedes@gmail.com](mailto:johnnysuedes@gmail.com)
 - **Suede** — [suedeai.org](https://suedeai.org)
 
