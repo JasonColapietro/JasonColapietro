@@ -1,5 +1,16 @@
 # Jason Colapietro
 
+**Hi, I'm Jason** — building creator-ownership infrastructure for the AI era.
+
+## Connect
+
+- **X / Twitter** — [@johnnysuede](https://x.com/johnnysuede)
+- **LinkedIn** — [linkedin.com/in/jasoncolapietro](https://linkedin.com/in/jasoncolapietro)
+- **Email** — [johnnysuedes@gmail.com](mailto:johnnysuedes@gmail.com)
+- **Suede** — [suedeai.org](https://suedeai.org)
+
+---
+
 <img src="./assets/jason-colapietro-github-avatar.png" alt="Jason Colapietro, Founder and CEO of Suede Labs AI" width="180" />
 
 Published author, Forbes contributor, Founder and CEO of **Suede Labs AI**.
