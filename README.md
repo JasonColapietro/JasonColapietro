@@ -45,7 +45,7 @@ Music is an early, high-signal category for Suede, but the larger focus is progr
 
 | Type | URL |
 |---|---|
-| Suede app | https://app.suedeai.xyz |
+| Suede app | https://app.suedeai.ai |
 | Suede website | https://suedeai.org |
 | Company site | https://suedeai.ai |
 | Jason Colapietro X | https://x.com/johnnysuede |
@@ -78,16 +78,16 @@ Suede Labs AI exposes public x402 and ACP-ready surfaces for paid media workflow
 Current public x402 discovery:
 
 ```text
-https://app.suedeai.xyz/.well-known/x402
-https://app.suedeai.xyz/.well-known/x402.json
+https://app.suedeai.ai/.well-known/x402
+https://app.suedeai.ai/.well-known/x402.json
 ```
 
 Current public paid endpoints:
 
 ```text
-POST https://app.suedeai.xyz/agent/generate
-POST https://app.suedeai.xyz/create-music
-POST https://app.suedeai.xyz/agent/video
+POST https://app.suedeai.ai/agent/generate
+POST https://app.suedeai.ai/create-music
+POST https://app.suedeai.ai/agent/video
 ```
 
 Current ACP-ready commerce endpoint:

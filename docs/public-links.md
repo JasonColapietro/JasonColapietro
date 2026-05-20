@@ -15,7 +15,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Type | URL |
 |---|---|
 | GitHub | https://github.com/Suede-AI |
-| App | https://app.suedeai.xyz |
+| App | https://app.suedeai.ai |
 | Website | https://suedeai.org |
 | Company | https://suedeai.ai |
 | X | https://x.com/AISUEDE |
@@ -34,10 +34,10 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 ## Public Endpoints
 
 ```text
-GET  https://app.suedeai.xyz/.well-known/x402
-GET  https://app.suedeai.xyz/.well-known/x402.json
-POST https://app.suedeai.xyz/agent/generate
-POST https://app.suedeai.xyz/create-music
-POST https://app.suedeai.xyz/agent/video
+GET  https://app.suedeai.ai/.well-known/x402
+GET  https://app.suedeai.ai/.well-known/x402.json
+POST https://app.suedeai.ai/agent/generate
+POST https://app.suedeai.ai/create-music
+POST https://app.suedeai.ai/agent/video
 POST https://suede-ai-app.onrender.com/agents/commerce
 ```
