@@ -50,25 +50,49 @@ Music is an early, high-signal category for Suede, but the larger focus is progr
 | Suede Labs on Telegram | [t.me/SUEDEAI](https://t.me/SUEDEAI) |
 | SUEDE on CoinGecko | [coingecko.com/en/coins/johnny-suede](https://www.coingecko.com/en/coins/johnny-suede) |
 
-## Suede Social — Founder Writing
+## Writing & Editorial
 
-Long-form editorial from Jason Colapietro, Founder and CEO of Suede Labs.
+Long-form work by **Jason Colapietro** (also publishing as **Johnny Suede**) — magazine essays, the Print the Quiet series, the Stake Your Claim book, and X Articles. The full archive lives at [github.com/JasonColapietro/suede-brand-assets/tree/main/articles](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles).
 
-Current series: **Print the Quiet** — a nine-part series on tone, dynamics, and the parts of music that don't fit on a lead sheet.
+### Suede Social Magazine
+
+The two-voice masthead — Jason Colapietro (Co-founder, "Rig diaries") and Johnny Suede (Founder, "Brand-voice columns") — running on [social.suedeai.ai](https://social.suedeai.ai) and mirrored to the archive.
+
+→ [articles/magazine](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/magazine) — 25 essays + the [Internet Has Thoughts](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/magazine/thoughts) column.
+
+### Series — Print the Quiet
+
+A nine-part series on tone, dynamics, and the parts of music that don't fit on a lead sheet.
 
 | # | Title |
 |---|---|
-| 1 | [Print the Quiet — Jeff Buckley and the *Hallelujah* recording](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/jeff-buckley-tone-hallelujah.md) |
-| 2 | [The Loudness War, in Numbers](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/loudness-war-in-numbers.md) |
-| 3 | [The Religion of the Compressor](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/religion-of-the-compressor.md) |
-| 4 | [The Lost Art of Clean](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/lost-art-of-clean.md) |
-| 5 | [The Room as Instrument](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/room-as-instrument.md) |
-| 6 | [One Take, or Twenty](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/one-take-or-twenty.md) |
-| 7 | [Tape Is a Compressor](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/tape-is-a-compressor.md) |
-| 8 | [The Vocal Chain, 1994 → 2026](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/vocal-chain-1994-2026.md) |
-| 9 | [What's in the Tape That Isn't in the Score](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/whats-in-the-tape.md) |
+| 1 | [Print the Quiet — Jeff Buckley and the *Hallelujah* recording](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/01-jeff-buckley-tone-hallelujah.md) |
+| 2 | [The Loudness War, in Numbers](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/02-loudness-war-in-numbers.md) |
+| 3 | [The Religion of the Compressor](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/03-religion-of-the-compressor.md) |
+| 4 | [The Lost Art of Clean](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/04-lost-art-of-clean.md) |
+| 5 | [The Room as Instrument](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/05-room-as-instrument.md) |
+| 6 | [One Take, or Twenty](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/06-one-take-or-twenty.md) |
+| 7 | [Tape Is a Compressor](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/07-tape-is-a-compressor.md) |
+| 8 | [The Vocal Chain, 1994 → 2026](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/08-vocal-chain-1994-2026.md) |
+| 9 | [What's in the Tape That Isn't in the Score](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/09-whats-in-the-tape.md) |
 
-Series index: [suede-brand-assets/articles](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles).
+Series index: [print-the-quiet/](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/print-the-quiet).
+
+### Books — Stake Your Claim
+
+The operational manual for the AI agent economy. Eight books in one — by Jason Colapietro.
+
+→ [articles/books/stake-your-claim](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/books/stake-your-claim) · Full book: [suede-ai.github.io/book.html](https://suede-ai.github.io/book.html)
+
+### X Articles
+
+Long-form posts from [@AISUEDE on X](https://x.com/aisuede).
+
+→ [articles/x-articles](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/x-articles)
+
+### Substack
+
+→ [articles/substack](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/substack) — *archive coming soon.*
 
 ## SUEDE Token
 
