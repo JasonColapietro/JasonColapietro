@@ -39,5 +39,7 @@ GET  https://app.suedeai.ai/.well-known/x402.json
 POST https://app.suedeai.ai/agent/generate
 POST https://app.suedeai.ai/create-music
 POST https://app.suedeai.ai/agent/video
-POST https://suede-ai-app.onrender.com/agents/commerce
 ```
+
+Direct backend origins, webhook-dependent routes, admin routes, and internal
+commerce endpoints are intentionally not listed in this public link index.
