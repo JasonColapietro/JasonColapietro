@@ -41,5 +41,5 @@ POST https://app.suedeai.ai/create-music
 POST https://app.suedeai.ai/agent/video
 ```
 
-Direct backend origins, webhook-dependent routes, admin routes, and internal
-commerce endpoints are intentionally not listed in this public link index.
+Internal origins, admin routes, and non-public commerce endpoints are
+intentionally not listed in this public link index.

@@ -118,8 +118,8 @@ POST https://app.suedeai.ai/agent/video
 ```
 
 ACP-ready commerce is represented through public agent metadata and app-hosted
-x402 credit purchase flows. Direct backend origins and webhook-dependent routes
-are intentionally not listed in this public profile README.
+x402 credit purchase flows. Internal origins and non-public routes are
+intentionally not listed in this public profile README.
 
 ## Production Ecosystem References
 
