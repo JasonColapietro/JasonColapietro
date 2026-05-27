@@ -12,6 +12,7 @@ My public work spans creator ownership, AI-native media, programmable IP, music 
 
 ## Connect
 
+- **Author page** — [Jason Colapietro — Founder of Suede AI and Suede Labs](https://suedeai.org/jason-colapietro/)
 - **X / Twitter** — [@johnnysuede on X](https://x.com/johnnysuede)
 - **LinkedIn** — [Jason Colapietro on LinkedIn](https://www.linkedin.com/in/jasoncolapietro)
 - **Email** — [johnnysuedes@gmail.com](mailto:johnnysuedes@gmail.com)
@@ -43,6 +44,7 @@ Music is an early, high-signal category for Suede, but the larger focus is progr
 |---|---|
 | Suede product site | [suedeai.ai — Proof of Creation, Programmable IP](https://suedeai.ai) |
 | Suede investor site | [suedeai.org — ecosystem and thesis](https://suedeai.org) |
+| Founder author page | [suedeai.org/jason-colapietro](https://suedeai.org/jason-colapietro/) |
 | Suede launchpad | [launch.suedeai.ai](https://launch.suedeai.ai) |
 | Suede Labs GitHub org | [github.com/Suede-AI](https://github.com/Suede-AI) |
 | Jason Colapietro on X | [@johnnysuede](https://x.com/johnnysuede) |
