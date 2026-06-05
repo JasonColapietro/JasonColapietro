@@ -140,23 +140,25 @@ The broader Suede ecosystem includes independent community launches and experime
 
 ## Public GitHub Work
 
-Official Suede Labs AI repositories:
+**Suede Labs AI — canonical public repositories**
 
-| Repository | Purpose |
+| Repository | What it is |
 |---|---|
-| [Suede-AI/suede-token](https://github.com/Suede-AI/suede-token) | Canonical SUEDE token, contracts, supply, and ecosystem reference |
-| [Suede-AI/suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) | Live public x402 and ACP-ready endpoint reference |
-| [Suede-AI/suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Logos, color specs, listing copy, official links, and media kit |
-| [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public docs for programmable IP, creator ownership, provenance, licensing, and agent commerce |
+| [Suede-AI/suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) | Python SDK for the Suede **x402** API — pay-per-call creative endpoints, USDC on Base (`pip install suede-ai`) |
+| [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public docs: programmable IP, creator ownership, provenance, licensing, x402, ACP |
+| [Suede-AI/suede-token](https://github.com/Suede-AI/suede-token) | Canonical SUEDE token — contracts, supply, ecosystem reference |
+| [Suede-AI/suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Logos, color specs, listing copy, official links, media kit |
+| [Suede-AI/dna](https://github.com/Suede-AI/dna) | Suede DNA — searchable archive of 409 guitarist rigs and signal chains |
+| [Suede-AI/guitar-chords](https://github.com/Suede-AI/guitar-chords) | [guitarchords.info](https://guitarchords.info) — free guitar chord, scale, and tuner tools |
 
-Founder/reference mirrors under this account:
+**Founder repositories under this account**
 
-| Repository | Purpose |
+| Repository | What it is |
 |---|---|
-| [JasonColapietro/suede-token](https://github.com/JasonColapietro/suede-token) | Founder-linked token reference |
-| [JasonColapietro/suede-x402-acp](https://github.com/JasonColapietro/suede-x402-acp) | Founder-linked endpoint reference |
-| [JasonColapietro/suede-brand-assets](https://github.com/JasonColapietro/suede-brand-assets) | Founder-linked brand and listing packet |
-| [JasonColapietro/suede-docs](https://github.com/JasonColapietro/suede-docs) | Founder-linked public docs |
+| [the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | *THE SIGNAL CHAIN* — illustrated history of electric guitar tone ([read free](https://guitar.solutions)) |
+| [the-top-100-pedals…](https://github.com/JasonColapietro/the-top-100-pedals-list-that-the-press-fears) | *The Suede 100* — the 100 most important guitar effects pedals, ranked |
+| [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | AI agent skills for creators — rights passport, provenance packaging, release prep |
+| [tokenmaxxing](https://github.com/JasonColapietro/tokenmaxxing) | Essay — *Is AI a bubble?* on tokenmaxxing, AI economics, and the hyperscaler money loop |
 
 ## About Jason Colapietro
 
