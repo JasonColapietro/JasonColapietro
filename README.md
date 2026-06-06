@@ -193,3 +193,10 @@ The broader Suede ecosystem includes independent community launches and experime
 | [Jason Colapietro](docs/jason-colapietro.md) | Published author, Forbes contributor, Founder and CEO of Suede Labs AI |
 | [Suede Labs AI](docs/suede-labs-ai.md) | Programmable IP, creator ownership, AI-native media, and x402 / ACP commerce |
 | [Public Links](docs/public-links.md) | Canonical GitHub, website, app, social, token, explorer, and endpoint references |
+
+
+## Books
+
+- **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Kindle)
+- **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Kindle)
+- **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Kindle)
