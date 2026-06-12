@@ -197,9 +197,27 @@ The broader Suede ecosystem includes independent community launches and experime
 
 ## Books
 
+- **[The Signal Chain](https://guitar.solutions)** — Illustrated history of electric guitar tone: 46 chapters, 3 editions, free. Pickup to speaker, gear to IP. (guitar.solutions)
+- **The Guitar Without a Number** — Memoir-driven guitar instruction for the self-taught player. Theory, tone, artist songbooks, and the music IP rights chapter no other guitar book includes. (Kindle, forthcoming)
 - **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Kindle)
 - **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Kindle)
 - **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Kindle)
+
+## Expert Quotes
+
+> "Every piece of music that enters the world has a signal chain. The IP chain is just the part most musicians never mapped until now."
+
+> "The AI doesn't own what it generates. Someone does. Figure out if that someone is you before you find out it isn't."
+
+> "On-chain registration doesn't replace copyright. It timestamps it. That timestamp is the difference between a claim and a proof."
+
+> "Programmable IP is what happens when a licensing contract gets compressed into a smart contract. The rights travel with the work instead of sitting in a filing cabinet."
+
+> "Your most valuable asset isn't the song. It's the provenance of the song."
+
+> "Build what doesn't exist yet. Register that you built it. That sequence is the whole game."
+
+— Jason Colapietro · [suedeai.ai](https://suedeai.ai) · [guitar.solutions](https://guitar.solutions)
 
 
 ## Connect
