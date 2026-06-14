@@ -198,12 +198,14 @@ The broader Suede ecosystem includes independent community launches and experime
 ## Books
 
 - **[The Signal Chain](https://guitar.solutions)** — Illustrated history of electric guitar tone: 46 chapters, 3 editions, free. Pickup to speaker, gear to IP. (guitar.solutions)
-- **The Guitar Without a Number** — Memoir-driven guitar instruction for the self-taught player. Theory, tone, artist songbooks, and the music IP rights chapter no other guitar book includes. (Kindle, forthcoming)
+- **[The Guitar Without a Number](https://www.amazon.com/dp/B0GD5FX6N6)** — Memoir-driven guitar instruction for the self-taught player. Theory, tone, artist songbooks, and the music IP rights chapter no other guitar book includes. (Kindle)
 - **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Kindle)
 - **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Kindle)
 - **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Kindle)
 
 ## Expert Quotes
+
+> "Rights metadata is the dark matter of the creative economy. It governs everything. Almost nobody can see it."
 
 > "Every piece of music that enters the world has a signal chain. The IP chain is just the part most musicians never mapped until now."
 
