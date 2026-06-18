@@ -2,120 +2,136 @@
 
 <img src="./assets/jason-colapietro-github-avatar.png" alt="Jason Colapietro, Founder and CEO of Suede Labs AI" width="180" />
 
-Published author, Forbes contributor, Founder and CEO of **Suede Labs AI**.
+**Jason Colapietro** is a published author, Forbes contributor, and Founder and CEO of **Suede Labs AI**.
 
-I am building programmable IP and creator ownership infrastructure for AI-native media. My work focuses on provenance, licensing, creative RWA media assets, x402 payments, ACP-ready agent commerce, and practical tools that help creators control and monetize their work.
+I build programmable IP and creator ownership infrastructure for AI-native media: provenance, rights metadata, licensing workflows, royalty routing, creative RWA media assets, x402 payments, ACP-ready agent commerce, and practical tools that help creators control, prove, and monetize what they make.
 
-Suede Labs AI connects creative assets to proof of authorship, rights metadata, licensing workflows, token-enabled access, and agent-accessible commerce.
-
-My public work spans creator ownership, AI-native media, programmable IP, music rights, provenance, licensing, and the shift from static media to agent-accessible creative assets.
+Suede Labs AI connects music, media, likeness, and creative assets to proof of authorship, registry-backed ownership records, token-enabled access, and agent-accessible commerce. Music is the first high-signal category; the larger system is programmable ownership for creator-owned IP.
 
 ## Connect
 
-- **Author page** — [Jason Colapietro — Founder of Suede AI and Suede Labs](https://suedeai.org/jason-colapietro/)
-- **X / Twitter** — [@johnnysuede on X](https://x.com/johnnysuede)
-- **LinkedIn** — [Jason Colapietro on LinkedIn](https://www.linkedin.com/in/jasoncolapietro)
-- **Email** — [johnnysuedes@gmail.com](mailto:johnnysuedes@gmail.com)
-- **Suede** — [suedeai.org](https://suedeai.org)
-
-## Programmable IP and Creator Ownership Infrastructure
-
-- **Programmable IP** for creator-owned media
-- **Creator ownership** and rights-aware media workflows
-- **Provenance** for AI-native creative assets
-- **Licensing infrastructure** for music, media, likeness, and creative IP
-- **Creative RWA media assets**
-- **x402 payments** for paid agent and API workflows
-- **ACP-ready agent commerce**
-- **Base, Solana, Ethereum, Avalanche, multichain, and omnichain media rails**
-- **AI music** as a core media use case inside a broader programmable IP layer
-
-## Suede Labs AI — Programmable IP Platform for AI-Native Media
-
-Suede Labs AI is a programmable IP and creator ownership platform for AI-native media.
-
-The thesis is simple: as AI makes media easier to generate, remix, license, and distribute, creators need a stronger ownership layer. Suede is focused on making IP easier to register, verify, license, route, and monetize across product surfaces, chains, and agent workflows.
-
-Music is an early, high-signal category for Suede, but the larger focus is programmable ownership for creator-owned IP.
-
-## Public Suede Links
-
-| Type | Link |
+| Channel | Link |
 |---|---|
-| Suede product site | [suedeai.ai — Proof of Creation, Programmable IP](https://suedeai.ai) |
-| Suede investor site | [suedeai.org — ecosystem and thesis](https://suedeai.org) |
-| Founder author page | [suedeai.org/jason-colapietro](https://suedeai.org/jason-colapietro/) |
-| Suede launchpad | [launch.suedeai.ai](https://launch.suedeai.ai) |
-| Suede Labs GitHub org | [github.com/Suede-AI](https://github.com/Suede-AI) |
-| Jason Colapietro on X | [@johnnysuede](https://x.com/johnnysuede) |
-| Suede Labs on X | [@AISUEDE](https://x.com/AISUEDE) |
-| Suede Labs on Telegram | [t.me/SUEDEAI](https://t.me/SUEDEAI) |
-| SUEDE on CoinGecko | [coingecko.com/en/coins/johnny-suede](https://www.coingecko.com/en/coins/johnny-suede) |
+| Author page | [Jason Colapietro - Founder of Suede AI and Suede Labs](https://suedeai.org/jason-colapietro/) |
+| GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
+| X / Twitter | [@johnnysuede](https://x.com/johnnysuede) |
+| LinkedIn | [Jason Colapietro on LinkedIn](https://www.linkedin.com/in/jasoncolapietro) |
+| Linktree | [linktr.ee/suedelabsai](https://linktr.ee/suedelabsai) |
+| Email | [johnnysuedes@gmail.com](mailto:johnnysuedes@gmail.com) |
 
-## Writing & Editorial
+## Current Focus
 
-Long-form work by **Jason Colapietro** (also publishing as **Johnny Suede**) — magazine essays, the Print the Quiet series, the Stake Your Claim book, and X Articles. The full archive lives at [github.com/JasonColapietro/suede-brand-assets/tree/main/articles](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles).
+- Programmable IP for creator-owned media
+- Creator ownership, provenance, and rights-aware media workflows
+- Licensing infrastructure for music, likeness, media, and creative IP
+- Royalty routing, registry-backed assets, and creative RWA media assets
+- x402 payments for paid API and agent workflows
+- ACP-ready agent commerce and public agent metadata
+- Base, Solana, Ethereum, Avalanche, multichain, and omnichain media rails
+- AI music as an early use case inside a broader programmable IP layer
 
-### Suede Social Magazine
+## Project Index
 
-The two-voice masthead — Jason Colapietro (Co-founder, "Rig diaries") and Johnny Suede (Founder, "Brand-voice columns") — running on [social.suedeai.ai](https://social.suedeai.ai) and mirrored to the archive.
+### Suede Labs AI and Creator Ownership
 
-→ [articles/magazine](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/magazine) — 25 essays + the [Internet Has Thoughts](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/magazine/thoughts) column.
-
-### Series — Print the Quiet
-
-A nine-part series on tone, dynamics, and the parts of music that don't fit on a lead sheet.
-
-| # | Title |
+| Project | What it is |
 |---|---|
-| 1 | [Print the Quiet — Jeff Buckley and the *Hallelujah* recording](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/01-jeff-buckley-tone-hallelujah.md) |
-| 2 | [The Loudness War, in Numbers](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/02-loudness-war-in-numbers.md) |
-| 3 | [The Religion of the Compressor](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/03-religion-of-the-compressor.md) |
-| 4 | [The Lost Art of Clean](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/04-lost-art-of-clean.md) |
-| 5 | [The Room as Instrument](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/05-room-as-instrument.md) |
-| 6 | [One Take, or Twenty](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/06-one-take-or-twenty.md) |
-| 7 | [Tape Is a Compressor](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/07-tape-is-a-compressor.md) |
-| 8 | [The Vocal Chain, 1994 → 2026](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/08-vocal-chain-1994-2026.md) |
-| 9 | [What's in the Tape That Isn't in the Score](https://github.com/JasonColapietro/suede-brand-assets/blob/main/articles/print-the-quiet/09-whats-in-the-tape.md) |
+| [Suede Labs AI](https://suedeai.ai) | Programmable IP and creator ownership infrastructure for AI-native media |
+| [suedeai.org](https://suedeai.org) | SEO-first ownership, provenance, and Suede ecosystem site |
+| [app.suedeai.ai](https://app.suedeai.ai) | Suede application surface for creator tools and agent-accessible workflows |
+| [Suede-AI/suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) | Python SDK for the Suede x402 API and pay-per-call creative endpoints |
+| [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public docs for programmable IP, creator ownership, x402, ACP, and AI-native media |
+| [Suede-AI/suede-token](https://github.com/Suede-AI/suede-token) | Canonical SUEDE token, contract, supply, and ecosystem reference |
+| [Suede-AI/suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Official brand assets, colors, copy, links, media kit, and writing archive |
+| [Suede-AI/suedeai-org](https://github.com/Suede-AI/suedeai-org) | Public SEO site for Suede ownership and provenance positioning |
+| [Suede-AI/Suede-AI.github.io](https://github.com/Suede-AI/Suede-AI.github.io) | Stake Your Claim public book and creator ownership materials |
+| [Suede-AI/suede-market-maker](https://github.com/Suede-AI/suede-market-maker) | Public Suede market-maker dashboard reference with Telegram controls |
 
-Series index: [print-the-quiet/](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/print-the-quiet).
+### Music, Guitar, Media, and Creator Tools
 
-### Books — Stake Your Claim
+| Project | What it is |
+|---|---|
+| [the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | THE SIGNAL CHAIN - illustrated history of electric guitar tone and signal flow |
+| [guitar.solutions](https://guitar.solutions) | Free public edition of The Signal Chain |
+| [Suede-AI/guitar-solutions](https://github.com/Suede-AI/guitar-solutions) | Suede engineering reference for guitar signal-chain knowledge |
+| [Suede-AI/guitar-chords](https://github.com/Suede-AI/guitar-chords) | guitarchords.info - chord library, scales, chromatic tuner, and metronome |
+| [Suede-AI/guitarhub](https://github.com/Suede-AI/guitarhub) | Open guitar hub and front door to Suede Social |
+| [Suede-AI/dna](https://github.com/Suede-AI/dna) | Suede DNA - searchable archive of guitarist rigs and signal chains |
+| [the-suede-100](https://github.com/JasonColapietro/the-suede-100) | The canonical 1-100 guitar pedal ranking, edition 1 |
+| [the-top-100-pedals-list-that-the-press-fears](https://github.com/JasonColapietro/the-top-100-pedals-list-that-the-press-fears) | Standalone Next.js edition of The Suede 100 article |
+| [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | AI agent skills for rights passports, provenance packaging, credits, splits, and release prep |
+| [podcast-sync](https://github.com/JasonColapietro/podcast-sync) | YouTube-to-podcast RSS pipeline for @aisuede |
 
-The operational manual for the AI agent economy. Eight books in one — by Jason Colapietro.
+### Agent, Payments, AI, and Developer Work
 
-→ [articles/books/stake-your-claim](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/books/stake-your-claim) · Full book: [suede-ai.github.io/book.html](https://suede-ai.github.io/book.html)
+| Project | What it is |
+|---|---|
+| [ios-app-dev-skills](https://github.com/JasonColapietro/ios-app-dev-skills) | Public-safe iOS app development skills and slash commands for AI coding agents |
+| [anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Two anti-AI-slop HTML template systems: warm editorial and Suede IP terminal |
+| [tokenmaxxing](https://github.com/JasonColapietro/tokenmaxxing) | Essay site on AI economics, tokenmaxxing, and the hyperscaler money loop |
+| [suede-investor-deck](https://github.com/JasonColapietro/suede-investor-deck) | Investor brief for Suede Labs AI and creator ownership infrastructure |
+| [x402](https://github.com/JasonColapietro/x402) | Research fork of the HTTP 402 payment protocol for internet-native payments |
+| [awesome-x402](https://github.com/JasonColapietro/awesome-x402) | Curated x402 ecosystem resources for agent payments and API monetization |
+| [awesome-agentic-commerce](https://github.com/JasonColapietro/awesome-agentic-commerce) | Curated agentic commerce resources |
+| [awesome-agent-payments-protocol](https://github.com/JasonColapietro/awesome-agent-payments-protocol) | Curated AP2, A2A, and x402 resources |
+| [Awesome-AI-Agents](https://github.com/JasonColapietro/Awesome-AI-Agents) | AI agent frameworks and tool research |
+| [awesome-x402-servers](https://github.com/JasonColapietro/awesome-x402-servers) | x402 server ecosystem tracking |
+| [superpowers](https://github.com/JasonColapietro/superpowers) | Agentic skills framework and software development methodology research |
+| [hermes-agent](https://github.com/JasonColapietro/hermes-agent) | Agent architecture research fork |
+| [eliza](https://github.com/JasonColapietro/eliza) | Open-source agentic operating system research fork |
 
-### X Articles
+### Public Mirror and Reference Repositories
 
-Long-form posts from [@AISUEDE on X](https://x.com/aisuede).
+| Repository | Purpose |
+|---|---|
+| [JasonColapietro/suede-docs](https://github.com/JasonColapietro/suede-docs) | Founder-linked Suede docs mirror |
+| [JasonColapietro/suede-brand-assets](https://github.com/JasonColapietro/suede-brand-assets) | Founder-linked brand assets and writing archive |
+| [JasonColapietro/suede-token](https://github.com/JasonColapietro/suede-token) | Founder-linked token and ecosystem reference |
+| [JasonColapietro/assets](https://github.com/JasonColapietro/assets) | Token asset registry research fork |
+| [JasonColapietro/awesome-blockchain-ai](https://github.com/JasonColapietro/awesome-blockchain-ai) | Blockchain and AI project research |
+| [JasonColapietro/ai-audio-startups](https://github.com/JasonColapietro/ai-audio-startups) | AI audio and music startup landscape tracking |
+| [JasonColapietro/awesome-solana](https://github.com/JasonColapietro/awesome-solana) | Solana ecosystem research |
+| [JasonColapietro/Awesome-Base-Ecosystem](https://github.com/JasonColapietro/Awesome-Base-Ecosystem) | Base ecosystem research |
+| [JasonColapietro/awesome-web3](https://github.com/JasonColapietro/awesome-web3) | Web3 tooling and ecosystem research |
 
-→ [articles/x-articles](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/x-articles)
+## Writing and Editorial
 
-### Substack
+Long-form work by Jason Colapietro, also publishing as Johnny Suede, spans guitar culture, programmable IP, creator ownership, AI-native media, agent commerce, and the future of creative rights.
 
-→ [articles/substack](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/substack) — *archive coming soon.*
+| Archive | Focus |
+|---|---|
+| [Suede Social Magazine](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/magazine) | Rig diaries, brand-voice columns, Internet Has Thoughts, and Suede Social essays |
+| [Print the Quiet](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/print-the-quiet) | Nine-part series on tone, dynamics, recording, and music that does not fit on a lead sheet |
+| [Stake Your Claim](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/books/stake-your-claim) | Operational manual for the AI agent economy and creator ownership |
+| [X Articles](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/x-articles) | Long-form posts from @AISUEDE |
+| [Substack archive](https://github.com/JasonColapietro/suede-brand-assets/tree/main/articles/substack) | Public archive path for Substack writing |
+
+## Books
+
+| Book | Link |
+|---|---|
+| The Signal Chain | [guitar.solutions](https://guitar.solutions) |
+| The Guitar Without a Number | [Amazon Kindle](https://www.amazon.com/dp/B0GD5FX6N6) |
+| Suede Labs: The Human Authenticity Layer | [Amazon Kindle](https://www.amazon.com/dp/B0GD5FX6N6) |
+| Proof as Infrastructure | [Amazon Kindle](https://www.amazon.com/dp/B0GMB2VLXQ) |
+| Stake Your Claim | [Amazon Kindle](https://www.amazon.com/dp/B0GRG8LGQQ) |
 
 ## SUEDE Token
 
 `SUEDE` is the utility token connected to Suede Labs AI and the Johnny Suede ecosystem.
-
-Primary public references:
 
 | Chain | Contract / Mint |
 |---|---|
 | Solana | `2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump` |
 | Base | `0x40461291347e1eCbb09499F3371D3f17f10d7159` |
 
-Independent explorers and aggregators:
-
 | Source | Link |
 |---|---|
-| DexScreener (Solana) | [Johnny Suede / SOL on Raydium](https://dexscreener.com/solana/2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump) |
-| Solscan (Solana) | [SUEDE token on Solscan](https://solscan.io/token/2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump) |
-| Phantom (Solana) | [SUEDE token page](https://phantom.com/tokens/solana/2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump) |
-| BaseScan (Base) | [Johnny Suede (SUEDE) ERC-20 / OFT](https://basescan.org/token/0x40461291347e1eCbb09499F3371D3f17f10d7159) |
-| CoinGecko | [SUEDE — Johnny Suede](https://www.coingecko.com/en/coins/johnny-suede) |
+| DexScreener | [Johnny Suede / SOL on Raydium](https://dexscreener.com/solana/2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump) |
+| Solscan | [SUEDE token on Solscan](https://solscan.io/token/2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump) |
+| Phantom | [SUEDE token page](https://phantom.com/tokens/solana/2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump) |
+| BaseScan | [Johnny Suede (SUEDE) ERC-20 / OFT](https://basescan.org/token/0x40461291347e1eCbb09499F3371D3f17f10d7159) |
+| CoinGecko | [SUEDE - Johnny Suede](https://www.coingecko.com/en/coins/johnny-suede) |
 
 Public supply reference:
 
@@ -143,92 +159,40 @@ POST https://app.suedeai.ai/create-music
 POST https://app.suedeai.ai/agent/video
 ```
 
-ACP-ready commerce is represented through public agent metadata and app-hosted
-x402 credit purchase flows. Internal origins and non-public routes are
-intentionally not listed in this public profile README.
-
-## Production Ecosystem References
-
-The broader Suede ecosystem includes independent community launches and experiments. These are the non-independent, officially live production ecosystem references I currently include in public Suede materials.
-
-| Name | Chain | Contract / Mint | Context |
-|---|---|---|---|
-| `Suedette` | Solana | Public explorer reference | Ecosystem token / creator-side experiment |
-| `Producer by Suede Labs: Clawdbot` (`SVID`) | Base | Public explorer reference | Agent-commerce ecosystem context |
-| `JBDAO` | Solana | Public explorer reference | Creator-side community experiment |
+ACP-ready commerce is represented through public agent metadata and app-hosted x402 credit purchase flows. Internal origins, admin routes, and non-public commerce routes are intentionally not listed in this public profile README.
 
 ## Press and Publications
 
 | Source | Reference |
 |---|---|
-| Book | [*Suede Labs: The Human Authenticity Layer* on Amazon](https://www.amazon.com/Suede-Labs-Authenticity-Ownership-Creative-ebook/dp/B0GD5FX6N6) — by Jason "Johnny Suede" Colapietro |
-| Press | [Suede Labs Brings AI-Powered Creative Tools to Students (MEXC News)](https://www.mexc.co/news/428376) |
+| Book | [Suede Labs: The Human Authenticity Layer on Amazon](https://www.amazon.com/Suede-Labs-Authenticity-Ownership-Creative-ebook/dp/B0GD5FX6N6) |
+| Press | [Suede Labs Brings AI-Powered Creative Tools to Students - MEXC News](https://www.mexc.co/news/428376) |
 
-## Public GitHub Work
+## Topic Index
 
-**Suede Labs AI — canonical public repositories**
-
-| Repository | What it is |
+| Theme | Search language |
 |---|---|
-| [Suede-AI/suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) | Python SDK for the Suede **x402** API — pay-per-call creative endpoints, USDC on Base (`pip install suede-ai`) |
-| [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public docs: programmable IP, creator ownership, provenance, licensing, x402, ACP |
-| [Suede-AI/suede-token](https://github.com/Suede-AI/suede-token) | Canonical SUEDE token — contracts, supply, ecosystem reference |
-| [Suede-AI/suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Logos, color specs, listing copy, official links, media kit |
-| [Suede-AI/dna](https://github.com/Suede-AI/dna) | Suede DNA — searchable archive of 409 guitarist rigs and signal chains |
-| [Suede-AI/guitar-chords](https://github.com/Suede-AI/guitar-chords) | [guitarchords.info](https://guitarchords.info) — free guitar chord, scale, and tuner tools |
-
-**Founder repositories under this account**
-
-| Repository | What it is |
-|---|---|
-| [the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | *THE SIGNAL CHAIN* — illustrated history of electric guitar tone ([read free](https://guitar.solutions)) |
-| [the-top-100-pedals…](https://github.com/JasonColapietro/the-top-100-pedals-list-that-the-press-fears) | *The Suede 100* — the 100 most important guitar effects pedals, ranked |
-| [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | AI agent skills for creators — rights passport, provenance packaging, release prep |
-| [tokenmaxxing](https://github.com/JasonColapietro/tokenmaxxing) | Essay — *Is AI a bubble?* on tokenmaxxing, AI economics, and the hyperscaler money loop |
-
-## About Jason Colapietro
-
-| Document | Focus |
-|---|---|
-| [Jason Colapietro](docs/jason-colapietro.md) | Published author, Forbes contributor, Founder and CEO of Suede Labs AI |
-| [Suede Labs AI](docs/suede-labs-ai.md) | Programmable IP, creator ownership, AI-native media, and x402 / ACP commerce |
-| [Public Links](docs/public-links.md) | Canonical GitHub, website, app, social, token, explorer, and endpoint references |
-
-
-## Books
-
-- **[The Signal Chain](https://guitar.solutions)** — Illustrated history of electric guitar tone: 46 chapters, 3 editions, free. Pickup to speaker, gear to IP. (guitar.solutions)
-- **[The Guitar Without a Number](https://www.amazon.com/dp/B0GD5FX6N6)** — Memoir-driven guitar instruction for the self-taught player. Theory, tone, artist songbooks, and the music IP rights chapter no other guitar book includes. (Kindle)
-- **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Kindle)
-- **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Kindle)
-- **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Kindle)
+| Jason Colapietro | Published author, Forbes contributor, Founder and CEO of Suede Labs AI |
+| Suede Labs AI | Programmable IP, creator ownership, AI-native media, proof of authorship |
+| Music rights | Provenance, licensing, royalty routing, registry-backed media assets |
+| Agent commerce | x402 payments, ACP-ready workflows, paid APIs, autonomous agent access |
+| Creative RWA | Creator-owned media, token-enabled access, on-chain provenance, Base, Solana |
+| Guitar and tone | The Signal Chain, Suede DNA, guitar rigs, effects pedals, guitar tools |
 
 ## Expert Quotes
 
-> "Rights metadata is the dark matter of the creative economy. It governs everything. Almost nobody can see it."
+> Rights metadata is the dark matter of the creative economy. It governs everything. Almost nobody can see it.
 
-> "Every piece of music that enters the world has a signal chain. The IP chain is just the part most musicians never mapped until now."
+> Every piece of music that enters the world has a signal chain. The IP chain is just the part most musicians never mapped until now.
 
-> "The AI doesn't own what it generates. Someone does. Figure out if that someone is you before you find out it isn't."
+> The AI does not own what it generates. Someone does. Figure out if that someone is you before you find out it is not.
 
-> "On-chain registration doesn't replace copyright. It timestamps it. That timestamp is the difference between a claim and a proof."
+> On-chain registration does not replace copyright. It timestamps it. That timestamp is the difference between a claim and a proof.
 
-> "Programmable IP is what happens when a licensing contract gets compressed into a smart contract. The rights travel with the work instead of sitting in a filing cabinet."
+> Programmable IP is what happens when a licensing contract gets compressed into a smart contract. The rights travel with the work instead of sitting in a filing cabinet.
 
-> "Your most valuable asset isn't the song. It's the provenance of the song."
+> Your most valuable asset is not the song. It is the provenance of the song.
 
-> "Build what doesn't exist yet. Register that you built it. That sequence is the whole game."
+> Build what does not exist yet. Register that you built it. That sequence is the whole game.
 
-— Jason Colapietro · [suedeai.ai](https://suedeai.ai) · [guitar.solutions](https://guitar.solutions)
-
-
-## Connect
-
-- Linktree (all links): https://linktr.ee/suedelabsai
-- X: https://x.com/johnnysuede
-- Instagram: https://www.instagram.com/suedeai/
-- Facebook: https://www.facebook.com/people/Suede-Labs-AI/61584534847516
-- YouTube: https://www.youtube.com/@aisuede
-- Telegram: https://t.me/SUEDEAI
-- Discord: https://discord.gg/YECSFQX2g
-- LinkedIn: https://www.linkedin.com/in/jasoncolapietro
+Jason Colapietro - [suedeai.ai](https://suedeai.ai) - [suedeai.org](https://suedeai.org) - [guitar.solutions](https://guitar.solutions)

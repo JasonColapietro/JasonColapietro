@@ -8,10 +8,14 @@ Suede focuses on ownership, provenance, rights registration, licensing, monetiza
 
 | Repository | Purpose |
 |---|---|
+| https://github.com/Suede-AI/suede-sdk-python | Python SDK for the Suede x402 API and pay-per-call creative endpoints |
 | https://github.com/Suede-AI/suede-token | Official SUEDE token, contracts, supply, and ecosystem reference |
-| https://github.com/Suede-AI/suede-x402-acp | Official x402 and ACP-ready endpoint reference |
 | https://github.com/Suede-AI/suede-brand-assets | Official brand assets and listing packet |
 | https://github.com/Suede-AI/suede-docs | Official public docs |
+| https://github.com/Suede-AI/suedeai-org | SEO-first ownership and provenance website for suedeai.org |
+| https://github.com/Suede-AI/dna | Suede DNA guitarist rig and signal-chain archive |
+| https://github.com/Suede-AI/guitar-chords | Free guitar chord, scale, tuner, and metronome tools |
+| https://github.com/Suede-AI/guitar-solutions | Suede engineering reference for guitar signal-chain knowledge |
 
 ## Core Concepts
 
@@ -23,6 +27,9 @@ Suede focuses on ownership, provenance, rights registration, licensing, monetiza
 - x402 payments
 - ACP-ready agent commerce
 - AI music as an initial high-signal media category
+- Registry-backed media assets
+- Royalty routing
+- Agent-accessible creative APIs
 
 ## Token
 

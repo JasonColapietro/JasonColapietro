@@ -24,9 +24,26 @@ Jason works on programmable IP, creator ownership, AI-native media, music rights
 - Music IP and rights
 - Provenance
 - Licensing
+- Royalty routing
+- Registry-backed media assets
 - x402 payments
 - ACP-ready agent commerce
 - Base, Solana, Ethereum, Avalanche, multichain, and omnichain media rails
+
+## Public Projects
+
+| Project | Focus |
+|---|---|
+| Suede Labs AI | Programmable IP and creator ownership infrastructure |
+| Suede SDK for Python | x402 pay-per-call creative API access |
+| Suede Docs | Public docs for programmable IP, creator ownership, provenance, licensing, x402, and ACP |
+| SUEDE Token | Token, contract, supply, and ecosystem reference |
+| Suede Brand Assets | Official links, media kit, writing archive, and listing copy |
+| Suede DNA | Guitarist rig and signal-chain archive |
+| The Signal Chain | Illustrated history of electric guitar tone |
+| The Suede 100 | Guitar effects pedal ranking and editorial project |
+| Suede Creator Skills | AI agent skills for rights passports, provenance packaging, credits, splits, and release prep |
+| Tokenmaxxing | Essay project on AI economics and agent-era market structure |
 
 ## Suede Labs AI
 
