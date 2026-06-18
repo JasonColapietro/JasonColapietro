@@ -34,6 +34,13 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Suede DNA | https://github.com/Suede-AI/dna |
 | Guitar tools | https://github.com/Suede-AI/guitar-chords |
 
+## Jason Research And Reference Repositories
+
+| Repository | URL |
+|---|---|
+| AI audio startups | https://github.com/JasonColapietro/ai-audio-startups |
+| iOS app dev skills | https://github.com/JasonColapietro/ios-app-dev-skills |
+
 ## Public Endpoints
 
 ```text

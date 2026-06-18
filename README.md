@@ -60,6 +60,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | [the-suede-100](https://github.com/JasonColapietro/the-suede-100) | The canonical 1-100 guitar pedal ranking, edition 1 |
 | [the-top-100-pedals-list-that-the-press-fears](https://github.com/JasonColapietro/the-top-100-pedals-list-that-the-press-fears) | Standalone Next.js edition of The Suede 100 article |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | AI agent skills for rights passports, provenance packaging, credits, splits, and release prep |
+| [ai-audio-startups](https://github.com/JasonColapietro/ai-audio-startups) | AI audio and music technology startup landscape map, including Suede AI in rights-aware music generation |
 | [podcast-sync](https://github.com/JasonColapietro/podcast-sync) | YouTube-to-podcast RSS pipeline for @aisuede |
 
 ### Agent, Payments, AI, and Developer Work
@@ -178,6 +179,7 @@ ACP-ready commerce is represented through public agent metadata and app-hosted x
 | Agent commerce | x402 payments, ACP-ready workflows, paid APIs, autonomous agent access |
 | Creative RWA | Creator-owned media, token-enabled access, on-chain provenance, Base, Solana |
 | Guitar and tone | The Signal Chain, Suede DNA, guitar rigs, effects pedals, guitar tools |
+| AI audio startups | AI music, music technology, audio startups, rights-aware generation, Suede AI |
 
 ## Expert Quotes
 
