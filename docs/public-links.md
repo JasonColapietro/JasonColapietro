@@ -8,6 +8,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 |---|---|
 | GitHub | https://github.com/JasonColapietro |
 | X | https://x.com/johnnysuede |
+| JC Investment Group LLC | https://jcinvestmentgroup.ventures |
 | Suede Labs AI | https://github.com/Suede-AI |
 
 ## Suede Labs AI

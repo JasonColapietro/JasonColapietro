@@ -15,6 +15,7 @@ Jason works on programmable IP, creator ownership, AI-native media, music rights
 | GitHub | https://github.com/JasonColapietro |
 | X | https://x.com/johnnysuede |
 | Company | Suede Labs AI |
+| Holding company | JC Investment Group LLC |
 
 ## Areas of Work
 
@@ -34,6 +35,7 @@ Jason works on programmable IP, creator ownership, AI-native media, music rights
 
 | Project | Focus |
 |---|---|
+| JC Investment Group LLC | Founder-led holding company for creator-rights infrastructure, music IP, provenance, licensing, and royalty rails |
 | Suede Labs AI | Programmable IP and creator ownership infrastructure |
 | Suede SDK for Python | x402 pay-per-call creative API access |
 | Suede Docs | Public docs for programmable IP, creator ownership, provenance, licensing, x402, and ACP |
@@ -54,4 +56,4 @@ Official Suede GitHub: https://github.com/Suede-AI
 
 ## Keywords
 
-Jason Colapietro, published author, Forbes contributor, Founder and CEO, Suede Labs AI, Suede AI, programmable IP, creator ownership, AI music, AI audio startups, music technology, music rights, provenance, licensing, x402, ACP, agent commerce, creative RWA, Base, Solana.
+Jason Colapietro, published author, Forbes contributor, Founder and CEO, Suede Labs AI, JC Investment Group LLC, Suede AI, programmable IP, creator ownership, AI music, AI audio startups, music technology, music rights, provenance, licensing, royalty rails, x402, ACP, agent commerce, creative RWA, Base, Solana.

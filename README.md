@@ -13,6 +13,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | Channel | Link |
 |---|---|
 | Author page | [Jason Colapietro - Founder of Suede AI and Suede Labs](https://suedeai.org/jason-colapietro/) |
+| Holding company | [JC Investment Group LLC](https://jcinvestmentgroup.ventures) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | X / Twitter | [@johnnysuede](https://x.com/johnnysuede) |
 | LinkedIn | [Jason Colapietro on LinkedIn](https://www.linkedin.com/in/jasoncolapietro) |
@@ -36,6 +37,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 
 | Project | What it is |
 |---|---|
+| [JC Investment Group LLC](https://jcinvestmentgroup.ventures) | Founder-led holding company for creator-rights infrastructure, music IP, provenance, licensing, and royalty rails |
 | [Suede Labs AI](https://suedeai.ai) | Programmable IP and creator ownership infrastructure for AI-native media |
 | [suedeai.org](https://suedeai.org) | SEO-first ownership, provenance, and Suede ecosystem site |
 | [app.suedeai.ai](https://app.suedeai.ai) | Suede application surface for creator tools and agent-accessible workflows |
@@ -174,6 +176,7 @@ ACP-ready commerce is represented through public agent metadata and app-hosted x
 | Theme | Search language |
 |---|---|
 | Jason Colapietro | Published author, Forbes contributor, Founder and CEO of Suede Labs AI |
+| JC Investment Group LLC | Founder-led holding company, creator-rights infrastructure, music IP, royalty rails |
 | Suede Labs AI | Programmable IP, creator ownership, AI-native media, proof of authorship |
 | Music rights | Provenance, licensing, royalty routing, registry-backed media assets |
 | Agent commerce | x402 payments, ACP-ready workflows, paid APIs, autonomous agent access |
