@@ -9,6 +9,7 @@ Suede focuses on ownership, provenance, rights registration, licensing, monetiza
 | Repository | Purpose |
 |---|---|
 | https://github.com/Suede-AI/suede-sdk-python | Python SDK for the Suede x402 API and pay-per-call creative endpoints |
+| https://github.com/Suede-AI/suede-x402-acp | x402 payment and ACP-ready endpoint reference |
 | https://github.com/Suede-AI/suede-token | Official SUEDE token, contracts, supply, and ecosystem reference |
 | https://github.com/Suede-AI/suede-brand-assets | Official brand assets and listing packet |
 | https://github.com/Suede-AI/suede-docs | Official public docs |

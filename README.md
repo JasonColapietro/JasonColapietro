@@ -42,6 +42,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | [suedeai.org](https://suedeai.org) | SEO-first ownership, provenance, and Suede ecosystem site |
 | [app.suedeai.ai](https://app.suedeai.ai) | Suede application surface for creator tools and agent-accessible workflows |
 | [Suede-AI/suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) | Python SDK for the Suede x402 API and pay-per-call creative endpoints |
+| [Suede-AI/suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) | x402 and ACP-ready endpoint reference |
 | [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public docs for programmable IP, creator ownership, x402, ACP, and AI-native media |
 | [Suede-AI/suede-token](https://github.com/Suede-AI/suede-token) | Canonical SUEDE token, contract, supply, and ecosystem reference |
 | [Suede-AI/suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Official brand assets, colors, copy, links, media kit, and writing archive |
@@ -88,6 +89,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | Repository | Purpose |
 |---|---|
 | [JasonColapietro/suede-docs](https://github.com/JasonColapietro/suede-docs) | Founder-linked Suede docs mirror |
+| [JasonColapietro/suede-x402-acp](https://github.com/JasonColapietro/suede-x402-acp) | Founder-linked x402 and ACP endpoint reference |
 | [JasonColapietro/suede-brand-assets](https://github.com/JasonColapietro/suede-brand-assets) | Founder-linked brand assets and writing archive |
 | [JasonColapietro/suede-token](https://github.com/JasonColapietro/suede-token) | Founder-linked token and ecosystem reference |
 | [JasonColapietro/assets](https://github.com/JasonColapietro/assets) | Token asset registry research fork |
