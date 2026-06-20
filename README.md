@@ -15,6 +15,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | Author page | [Jason Colapietro - Founder of Suede AI and Suede Labs](https://suedeai.org/jason-colapietro/) |
 | Holding company | [JC Investment Group LLC](https://jcinvestmentgroup.ventures) |
 | Domain portfolio | [JCIG domain portfolio](https://jcinvestmentgroup.ventures/domains) |
+| Suede universe | [Websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | X / Twitter | [@johnnysuede](https://x.com/johnnysuede) |
 | LinkedIn | [Jason Colapietro on LinkedIn](https://www.linkedin.com/in/jasoncolapietro) |
@@ -31,6 +32,22 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 - ACP-ready agent commerce and public agent metadata
 - Base, Solana, Ethereum, Avalanche, multichain, and omnichain media rails
 - AI music as an early use case inside a broader programmable IP layer
+
+## Suede Universe
+
+Full index: [Suede universe websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md).
+
+| Surface | Link |
+|---|---|
+| Suede Hub | [hub.suedeai.ai](https://hub.suedeai.ai) |
+| Suede AI | [suedeai.ai](https://suedeai.ai) |
+| Suede app | [app.suedeai.ai](https://app.suedeai.ai) |
+| Suede Labs entity site | [suedeai.org](https://suedeai.org) |
+| JC Investment Group LLC | [jcinvestmentgroup.ventures](https://jcinvestmentgroup.ventures) |
+| Domain routing portfolio | [jcinvestmentgroup.ventures/domains](https://jcinvestmentgroup.ventures/domains) |
+| Suede Distro | [distro.suedeai.ai](https://distro.suedeai.ai) |
+| Suede Social | [suede.social](https://suede.social) |
+| x402 manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
 
 ## Project Index
 

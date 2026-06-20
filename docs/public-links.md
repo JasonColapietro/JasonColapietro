@@ -11,12 +11,15 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | JC Investment Group LLC | https://jcinvestmentgroup.ventures |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
 | JCIG domains JSON | https://jcinvestmentgroup.ventures/domains.json |
+| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
 | Suede Labs AI | https://github.com/Suede-AI |
 
 ## Suede Labs AI
 
 | Type | URL |
 |---|---|
+| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| Hub | https://hub.suedeai.ai |
 | GitHub | https://github.com/Suede-AI |
 | App | https://app.suedeai.ai |
 | Website | https://suedeai.org |
@@ -24,6 +27,17 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | X | https://x.com/AISUEDE |
 | Telegram | https://t.me/SUEDEAI |
 | CoinGecko | https://www.coingecko.com/en/coins/johnny-suede |
+
+## Suede Universe Directories
+
+| Type | URL |
+|---|---|
+| Suede Hub | https://hub.suedeai.ai |
+| JC Investment Group holdings | https://jcinvestmentgroup.ventures/holdings |
+| JC Investment Group holdings JSON | https://jcinvestmentgroup.ventures/holdings.json |
+| JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
+| JCIG domain portfolio JSON | https://jcinvestmentgroup.ventures/domains.json |
+| GitHub profile index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
 
 ## Official GitHub Docs
 
