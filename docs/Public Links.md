@@ -11,18 +11,18 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | JC Investment Group LLC | https://jcinvestmentgroup.ventures |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
 | JCIG domains JSON | https://jcinvestmentgroup.ventures/domains.json |
-| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
 | Suede Labs AI | https://github.com/Suede-AI |
 
 ## Suede Labs AI
 
 | Type | URL |
 |---|---|
-| Suede Labs AI universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| Suede Labs AI universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
 | Hub | https://hub.suedeai.ai |
 | Ecosystem map | https://hub2.suedeai.ai |
 | Muse | https://muse.suedeai.ai |
-| iOS app line | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#ios-apps |
+| iOS app line | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#ios-apps |
 | GitHub | https://github.com/Suede-AI |
 | App | https://app.suedeai.ai |
 | Website | https://suedeai.org |
@@ -38,12 +38,12 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Suede Hub | https://hub.suedeai.ai |
 | Suede ecosystem map | https://hub2.suedeai.ai |
 | Suede Muse | https://muse.suedeai.ai |
-| Eight live App Store apps | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#ios-apps |
+| Eight live App Store apps | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#ios-apps |
 | JC Investment Group holdings | https://jcinvestmentgroup.ventures/holdings |
 | JC Investment Group holdings JSON | https://jcinvestmentgroup.ventures/holdings.json |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
 | JCIG domain portfolio JSON | https://jcinvestmentgroup.ventures/domains.json |
-| GitHub profile index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| GitHub profile index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
 
 ## Official GitHub Docs
 
@@ -76,7 +76,7 @@ POST https://app.suedeai.ai/agent/video
 ```
 
 Full current x402 resource list:
-https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#public-paid-api-resources
+https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#public-paid-api-resources
 
 Public x402 and ACP-ready positioning is represented through the public SDK,
 the x402 / ACP endpoint reference, public discovery metadata, and app-hosted

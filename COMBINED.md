@@ -3,10 +3,10 @@
 Generated from the profile repository markdown files. Source order:
 
 1. README.md
-2. docs/jason-colapietro.md
-3. docs/public-links.md
-4. docs/suede-labs-ai.md
-5. docs/suede-universe-websites-apps.md
+2. docs/Jason Colapietro.md
+3. docs/Public Links.md
+4. docs/Suede Labs AI.md
+5. docs/Suede Universe Websites and Apps.md
 
 ---
 
@@ -30,7 +30,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | Author page | [Jason Colapietro - Founder of Suede Labs AI](https://suedeai.org/jason-colapietro/) |
 | Holding company | [JC Investment Group LLC](https://jcinvestmentgroup.ventures) |
 | Domain portfolio | [JCIG domain portfolio](https://jcinvestmentgroup.ventures/domains) |
-| Suede Labs AI universe | [Websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md) |
+| Suede Labs AI universe | [Websites, apps, and public surfaces](./docs/Suede%20Universe%20Websites%20and%20Apps.md) |
 | Combined profile markdown | [COMBINED.md](./COMBINED.md) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | X / Twitter | [@johnnysuede](https://x.com/johnnysuede) |
@@ -51,7 +51,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 
 ## Suede Labs AI Universe
 
-Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md).
+Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/Suede%20Universe%20Websites%20and%20Apps.md).
 
 | Surface | Link |
 |---|---|
@@ -63,7 +63,7 @@ Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/
 | JC Investment Group LLC | [jcinvestmentgroup.ventures](https://jcinvestmentgroup.ventures) |
 | Domain routing portfolio | [jcinvestmentgroup.ventures/domains](https://jcinvestmentgroup.ventures/domains) |
 | Suede Muse | [muse.suedeai.ai](https://muse.suedeai.ai) |
-| iOS app line | [Eight live App Store apps](./docs/suede-universe-websites-apps.md#ios-apps) |
+| iOS app line | [Eight live App Store apps](./docs/Suede%20Universe%20Websites%20and%20Apps.md#ios-apps) |
 | Suede Distro | [distro.suedeai.ai](https://distro.suedeai.ai) |
 | Suede Social | [suede.social](https://suede.social) |
 | x402 manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
@@ -202,7 +202,7 @@ POST https://app.suedeai.ai/agent/video
 ```
 
 Full current x402 resource list:
-[Suede Universe public paid API resources](./docs/suede-universe-websites-apps.md#public-paid-api-resources).
+[Suede Universe public paid API resources](./docs/Suede%20Universe%20Websites%20and%20Apps.md#public-paid-api-resources).
 
 ACP-ready commerce is represented through public agent metadata and app-hosted x402 credit purchase flows. Internal origins, admin routes, and non-public commerce routes are intentionally not listed in this public profile README.
 
@@ -247,7 +247,7 @@ Jason Colapietro - [suedeai.ai](https://suedeai.ai) - [suedeai.org](https://sued
 
 ---
 
-## Source: `docs/jason-colapietro.md`
+## Source: `docs/Jason Colapietro.md`
 
 # Jason Colapietro
 
@@ -313,7 +313,7 @@ Jason Colapietro, published author, Forbes contributor, Founder and CEO, Suede L
 
 ---
 
-## Source: `docs/public-links.md`
+## Source: `docs/Public Links.md`
 
 # Public Links
 
@@ -328,18 +328,18 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | JC Investment Group LLC | https://jcinvestmentgroup.ventures |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
 | JCIG domains JSON | https://jcinvestmentgroup.ventures/domains.json |
-| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
 | Suede Labs AI | https://github.com/Suede-AI |
 
 ## Suede Labs AI
 
 | Type | URL |
 |---|---|
-| Suede Labs AI universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| Suede Labs AI universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
 | Hub | https://hub.suedeai.ai |
 | Ecosystem map | https://hub2.suedeai.ai |
 | Muse | https://muse.suedeai.ai |
-| iOS app line | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#ios-apps |
+| iOS app line | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#ios-apps |
 | GitHub | https://github.com/Suede-AI |
 | App | https://app.suedeai.ai |
 | Website | https://suedeai.org |
@@ -355,12 +355,12 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Suede Hub | https://hub.suedeai.ai |
 | Suede ecosystem map | https://hub2.suedeai.ai |
 | Suede Muse | https://muse.suedeai.ai |
-| Eight live App Store apps | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#ios-apps |
+| Eight live App Store apps | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#ios-apps |
 | JC Investment Group holdings | https://jcinvestmentgroup.ventures/holdings |
 | JC Investment Group holdings JSON | https://jcinvestmentgroup.ventures/holdings.json |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
 | JCIG domain portfolio JSON | https://jcinvestmentgroup.ventures/domains.json |
-| GitHub profile index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| GitHub profile index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
 
 ## Official GitHub Docs
 
@@ -393,7 +393,7 @@ POST https://app.suedeai.ai/agent/video
 ```
 
 Full current x402 resource list:
-https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#public-paid-api-resources
+https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#public-paid-api-resources
 
 Public x402 and ACP-ready positioning is represented through the public SDK,
 the x402 / ACP endpoint reference, public discovery metadata, and app-hosted
@@ -403,7 +403,7 @@ are intentionally not listed in this public link index.
 
 ---
 
-## Source: `docs/suede-labs-ai.md`
+## Source: `docs/Suede Labs AI.md`
 
 # Suede Labs AI
 
@@ -411,7 +411,7 @@ Suede Labs AI is a programmable IP and creator ownership platform for AI-native 
 
 Suede focuses on ownership, provenance, rights registration, licensing, monetization, token-enabled access, and agent-accessible commerce for creator-owned assets.
 
-Public surface map: https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md
+Public surface map: https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md
 
 ## Public Repositories
 
@@ -457,7 +457,7 @@ Suede Labs AI, Johnny Suede, SUEDE token, Jason Colapietro, programmable IP, cre
 
 ---
 
-## Source: `docs/suede-universe-websites-apps.md`
+## Source: `docs/Suede Universe Websites and Apps.md`
 
 # Suede Labs AI Universe Websites, Apps, and Public Surfaces
 

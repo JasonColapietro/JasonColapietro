@@ -4,7 +4,7 @@ Suede Labs AI is a programmable IP and creator ownership platform for AI-native 
 
 Suede focuses on ownership, provenance, rights registration, licensing, monetization, token-enabled access, and agent-accessible commerce for creator-owned assets.
 
-Public surface map: https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md
+Public surface map: https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md
 
 ## Public Repositories
 

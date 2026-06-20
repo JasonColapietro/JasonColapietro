@@ -15,7 +15,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | Author page | [Jason Colapietro - Founder of Suede Labs AI](https://suedeai.org/jason-colapietro/) |
 | Holding company | [JC Investment Group LLC](https://jcinvestmentgroup.ventures) |
 | Domain portfolio | [JCIG domain portfolio](https://jcinvestmentgroup.ventures/domains) |
-| Suede Labs AI universe | [Websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md) |
+| Suede Labs AI universe | [Websites, apps, and public surfaces](./docs/Suede%20Universe%20Websites%20and%20Apps.md) |
 | Combined profile markdown | [COMBINED.md](./COMBINED.md) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | X / Twitter | [@johnnysuede](https://x.com/johnnysuede) |
@@ -36,7 +36,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 
 ## Suede Labs AI Universe
 
-Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md).
+Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/Suede%20Universe%20Websites%20and%20Apps.md).
 
 | Surface | Link |
 |---|---|
@@ -48,7 +48,7 @@ Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/
 | JC Investment Group LLC | [jcinvestmentgroup.ventures](https://jcinvestmentgroup.ventures) |
 | Domain routing portfolio | [jcinvestmentgroup.ventures/domains](https://jcinvestmentgroup.ventures/domains) |
 | Suede Muse | [muse.suedeai.ai](https://muse.suedeai.ai) |
-| iOS app line | [Eight live App Store apps](./docs/suede-universe-websites-apps.md#ios-apps) |
+| iOS app line | [Eight live App Store apps](./docs/Suede%20Universe%20Websites%20and%20Apps.md#ios-apps) |
 | Suede Distro | [distro.suedeai.ai](https://distro.suedeai.ai) |
 | Suede Social | [suede.social](https://suede.social) |
 | x402 manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
@@ -187,7 +187,7 @@ POST https://app.suedeai.ai/agent/video
 ```
 
 Full current x402 resource list:
-[Suede Universe public paid API resources](./docs/suede-universe-websites-apps.md#public-paid-api-resources).
+[Suede Universe public paid API resources](./docs/Suede%20Universe%20Websites%20and%20Apps.md#public-paid-api-resources).
 
 ACP-ready commerce is represented through public agent metadata and app-hosted x402 credit purchase flows. Internal origins, admin routes, and non-public commerce routes are intentionally not listed in this public profile README.
 
