@@ -16,6 +16,7 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | Holding company | [JC Investment Group LLC](https://jcinvestmentgroup.ventures) |
 | Domain portfolio | [JCIG domain portfolio](https://jcinvestmentgroup.ventures/domains) |
 | Suede universe | [Websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md) |
+| Combined profile markdown | [COMBINED.md](./COMBINED.md) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | X / Twitter | [@johnnysuede](https://x.com/johnnysuede) |
 | LinkedIn | [Jason Colapietro on LinkedIn](https://www.linkedin.com/in/jasoncolapietro) |
