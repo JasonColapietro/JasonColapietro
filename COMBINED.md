@@ -27,10 +27,10 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 
 | Channel | Link |
 |---|---|
-| Author page | [Jason Colapietro - Founder of Suede AI and Suede Labs](https://suedeai.org/jason-colapietro/) |
+| Author page | [Jason Colapietro - Founder of Suede Labs AI](https://suedeai.org/jason-colapietro/) |
 | Holding company | [JC Investment Group LLC](https://jcinvestmentgroup.ventures) |
 | Domain portfolio | [JCIG domain portfolio](https://jcinvestmentgroup.ventures/domains) |
-| Suede universe | [Websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md) |
+| Suede Labs AI universe | [Websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md) |
 | Combined profile markdown | [COMBINED.md](./COMBINED.md) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | X / Twitter | [@johnnysuede](https://x.com/johnnysuede) |
@@ -49,19 +49,21 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 - Base, Solana, Ethereum, Avalanche, multichain, and omnichain media rails
 - AI music as an early use case inside a broader programmable IP layer
 
-## Suede Universe
+## Suede Labs AI Universe
 
-Full index: [Suede universe websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md).
+Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md).
 
 | Surface | Link |
 |---|---|
 | Suede Hub | [hub.suedeai.ai](https://hub.suedeai.ai) |
 | Suede ecosystem map | [hub2.suedeai.ai](https://hub2.suedeai.ai) |
-| Suede AI | [suedeai.ai](https://suedeai.ai) |
+| Suede Labs AI | [suedeai.ai](https://suedeai.ai) |
 | Suede app | [app.suedeai.ai](https://app.suedeai.ai) |
 | Suede Labs entity site | [suedeai.org](https://suedeai.org) |
 | JC Investment Group LLC | [jcinvestmentgroup.ventures](https://jcinvestmentgroup.ventures) |
 | Domain routing portfolio | [jcinvestmentgroup.ventures/domains](https://jcinvestmentgroup.ventures/domains) |
+| Suede Muse | [muse.suedeai.ai](https://muse.suedeai.ai) |
+| iOS app line | [Eight live App Store apps](./docs/suede-universe-websites-apps.md#ios-apps) |
 | Suede Distro | [distro.suedeai.ai](https://distro.suedeai.ai) |
 | Suede Social | [suede.social](https://suede.social) |
 | x402 manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
@@ -98,7 +100,7 @@ Full index: [Suede universe websites, apps, and public surfaces](./docs/suede-un
 | [the-suede-100](https://github.com/JasonColapietro/the-suede-100) | The canonical 1-100 guitar pedal ranking, edition 1 |
 | [the-top-100-pedals-list-that-the-press-fears](https://github.com/JasonColapietro/the-top-100-pedals-list-that-the-press-fears) | Standalone Next.js edition of The Suede 100 article |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | AI agent skills for rights passports, provenance packaging, credits, splits, and release prep |
-| [ai-audio-startups](https://github.com/JasonColapietro/ai-audio-startups) | AI audio and music technology startup landscape map, including Suede AI in rights-aware music generation |
+| [ai-audio-startups](https://github.com/JasonColapietro/ai-audio-startups) | AI audio and music technology startup landscape map, including Suede Labs AI in rights-aware music generation |
 | [podcast-sync](https://github.com/JasonColapietro/podcast-sync) | YouTube-to-podcast RSS pipeline for @aisuede |
 
 ### Agent, Payments, AI, and Developer Work
@@ -222,7 +224,7 @@ ACP-ready commerce is represented through public agent metadata and app-hosted x
 | Agent commerce | x402 payments, ACP-ready workflows, paid APIs, autonomous agent access |
 | Creative RWA | Creator-owned media, token-enabled access, on-chain provenance, Base, Solana |
 | Guitar and tone | The Signal Chain, Suede DNA, guitar rigs, effects pedals, guitar tools |
-| AI audio startups | AI music, music technology, audio startups, rights-aware generation, Suede AI |
+| AI audio startups | AI music, music technology, audio startups, rights-aware generation, Suede Labs AI |
 
 ## Expert Quotes
 
@@ -295,7 +297,7 @@ Jason works on programmable IP, creator ownership, AI-native media, music rights
 | The Signal Chain | Illustrated history of electric guitar tone |
 | The Suede 100 | Guitar effects pedal ranking and editorial project |
 | Suede Creator Skills | AI agent skills for rights passports, provenance packaging, credits, splits, and release prep |
-| AI Audio Startups | AI audio and music technology startup landscape map with Suede AI listed under creation and production |
+| AI Audio Startups | AI audio and music technology startup landscape map with Suede Labs AI listed under creation and production |
 | Tokenmaxxing | Essay project on AI economics and agent-era market structure |
 
 ## Suede Labs AI
@@ -306,7 +308,7 @@ Official Suede GitHub: https://github.com/Suede-AI
 
 ## Keywords
 
-Jason Colapietro, published author, Forbes contributor, Founder and CEO, Suede Labs AI, JC Investment Group LLC, domain portfolio, Suede AI, programmable IP, creator ownership, AI music, AI audio startups, music technology, music rights, provenance, licensing, royalty rails, x402, ACP, agent commerce, creative RWA, Base, Solana.
+Jason Colapietro, published author, Forbes contributor, Founder and CEO, Suede Labs AI, JC Investment Group LLC, domain portfolio, programmable IP, creator ownership, AI music, AI audio startups, music technology, music rights, provenance, licensing, royalty rails, x402, ACP, agent commerce, creative RWA, Base, Solana.
 
 
 ---
@@ -333,9 +335,11 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 
 | Type | URL |
 |---|---|
-| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| Suede Labs AI universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
 | Hub | https://hub.suedeai.ai |
 | Ecosystem map | https://hub2.suedeai.ai |
+| Muse | https://muse.suedeai.ai |
+| iOS app line | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#ios-apps |
 | GitHub | https://github.com/Suede-AI |
 | App | https://app.suedeai.ai |
 | Website | https://suedeai.org |
@@ -344,12 +348,14 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Telegram | https://t.me/SUEDEAI |
 | CoinGecko | https://www.coingecko.com/en/coins/johnny-suede |
 
-## Suede Universe Directories
+## Suede Labs AI Universe Directories
 
 | Type | URL |
 |---|---|
 | Suede Hub | https://hub.suedeai.ai |
 | Suede ecosystem map | https://hub2.suedeai.ai |
+| Suede Muse | https://muse.suedeai.ai |
+| Eight live App Store apps | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#ios-apps |
 | JC Investment Group holdings | https://jcinvestmentgroup.ventures/holdings |
 | JC Investment Group holdings JSON | https://jcinvestmentgroup.ventures/holdings.json |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
@@ -446,14 +452,14 @@ Public surface map: https://github.com/JasonColapietro/JasonColapietro/blob/main
 
 ## Keywords
 
-Suede Labs AI, Suede AI, Johnny Suede, SUEDE token, Jason Colapietro, programmable IP, creator ownership, creative RWA, AI-native media, AI music, music IP, provenance, licensing, x402, ACP, agent commerce.
+Suede Labs AI, Johnny Suede, SUEDE token, Jason Colapietro, programmable IP, creator ownership, creative RWA, AI-native media, AI music, music IP, provenance, licensing, x402, ACP, agent commerce.
 
 
 ---
 
 ## Source: `docs/suede-universe-websites-apps.md`
 
-# Suede Universe Websites, Apps, and Public Surfaces
+# Suede Labs AI Universe Websites, Apps, and Public Surfaces
 
 Verified: June 20, 2026
 
@@ -467,8 +473,8 @@ Primary source surfaces checked for this list:
 - Suede Hub: https://hub.suedeai.ai
 - JC Investment Group holdings feed: https://jcinvestmentgroup.ventures/holdings.json
 - JCIG domain portfolio: https://jcinvestmentgroup.ventures/domains.json
-- Suede AI sitemap: https://suedeai.ai/sitemap.xml
-- Suede AI org sitemap: https://suedeai.org/sitemap.xml
+- Suede Labs AI sitemap: https://suedeai.ai/sitemap.xml
+- Suede Labs AI org sitemap: https://suedeai.org/sitemap.xml
 - x402 manifest: https://app.suedeai.ai/.well-known/x402.json
 
 ## Canonical Directories
@@ -480,14 +486,14 @@ Primary source surfaces checked for this list:
 | JC Investment Group LLC | https://jcinvestmentgroup.ventures | Founder-led holding company and holdings ledger |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains | Owned domain portfolio and routing policy |
 | Suede Labs AI entity site | https://suedeai.org | Entity, investor, provenance, and ownership thesis site |
-| Suede AI home | https://suedeai.ai | Main public Suede Labs front door |
+| Suede Labs AI home | https://suedeai.ai | Main public Suede Labs front door |
 | Suede app | https://app.suedeai.ai | Authenticated app and creator tooling surface |
 
 ## Core Websites And Apps
 
 | Surface | URL | Focus |
 | --- | --- | --- |
-| Suede AI | https://suedeai.ai | Programmable IP and creator ownership infrastructure |
+| Suede Labs AI | https://suedeai.ai | Programmable IP and creator ownership infrastructure |
 | Suede app dashboard | https://app.suedeai.ai | Creator tools, account surfaces, and agent-accessible workflows |
 | Create | https://app.suedeai.ai/create | AI music and media creation |
 | Suede Distro | https://distro.suedeai.ai | Music distribution and royalty-aware splits |
@@ -499,6 +505,7 @@ Primary source surfaces checked for this list:
 | Suede NFT Studio | https://nft.suedeai.ai | Collectibles, editions, and provenance certificates |
 | Suede Launchpad | https://launch.suedeai.ai | Token and IP-backed launch surface |
 | Suede Labs AI Studio | https://studio.suedeai.ai | Creator workspace for rights lookup, analysis, stems, and IP management |
+| Suede Muse | https://muse.suedeai.ai | Creative training for musicians with daily constraints and owned outputs |
 | Strumly | https://strumly.suedeai.ai | Conversational AI guitar coach |
 | FretPulse | https://fretpulse.suedeai.ai | Guitar tuner, trainer, rig analyzer, and gear companion |
 | VoicePrint | https://print.suedeai.ai | Vocal range and register classification |
@@ -582,10 +589,14 @@ These resources are listed in the public x402 manifests on
 
 | App | URL |
 | --- | --- |
-| Suede: AI Music Generator | https://apps.apple.com/us/app/suede-labs-ai/id6765461286 |
-| FretPulse Guitar Practice | https://apps.apple.com/us/app/fretpulse-guitar-practice/id6766649729 |
-| Suede Studio Guitar | https://apps.apple.com/us/app/suede-studio-guitar/id6767552764 |
-| Suede Studio Voice | https://apps.apple.com/us/app/suede-studio-voice/id6767763231 |
+| Agentix: AI Agent Tracker | https://apps.apple.com/us/app/agentix-ai-agent-tracker/id6778286160?uo=4 |
+| FretPulse: Guitar Practice | https://apps.apple.com/us/app/fretpulse-guitar-practice/id6766649729?uo=4 |
+| Suede Agents: AI That Earns | https://apps.apple.com/us/app/suede-agents-ai-that-earns/id6778880737?uo=4 |
+| Suede Social | https://apps.apple.com/us/app/suede-social/id6770668793?uo=4 |
+| Suede Studio Guitar | https://apps.apple.com/us/app/suede-studio-guitar/id6767552764?uo=4 |
+| Suede Studio Muse | https://apps.apple.com/us/app/suede-studio-muse/id6779134962?uo=4 |
+| Suede Studio Voice | https://apps.apple.com/us/app/suede-studio-voice/id6767763231?uo=4 |
+| Suede: AI Music Generator | https://apps.apple.com/us/app/suede-ai-music-generator/id6765461286?uo=4 |
 
 ## Public Thesis, Press, And Content Hubs
 
@@ -603,7 +614,7 @@ These resources are listed in the public x402 manifests on
 | Vault docs | https://suedeai.ai/vaults/docs | Vault documentation |
 | Institutional preview | https://suedeai.ai/institutional-preview | Institutional overview |
 | Founder image archive | https://suedeai.ai/jason-colapietro-images | Press image archive |
-| Blog | https://suedeai.ai/blog | Suede AI blog |
+| Blog | https://suedeai.ai/blog | Suede Labs AI blog |
 | Story Protocol comparison | https://suedeai.ai/vs/story-protocol | Competitive SEO page |
 | Patchbay comparison | https://suedeai.ai/vs/patchbay | Competitive SEO page |
 | Audius comparison | https://suedeai.ai/vs/audius | Competitive SEO page |
@@ -624,7 +635,7 @@ These resources are listed in the public x402 manifests on
 | Contact | https://suedeai.org/contact/ | Contact |
 | Jason Colapietro Substack | https://jasoncolapietro.substack.com | Public writing |
 
-## Suede AI Blog Articles
+## Suede Labs AI Blog Articles
 
 These article URLs are listed in the public `suedeai.ai` sitemap.
 
@@ -659,7 +670,7 @@ These article URLs are listed in the public `suedeai.ai` sitemap.
 | SUEDE on Coinbase | https://www.coinbase.com/price/johnny-suede-solana-2ncehpecqvnmfzju5fdmakws1vbxmzxvwr6qqlpapump-token | Token price page |
 | SUEDE token repo | https://github.com/Suede-AI/suede-token | Token reference |
 | Suede SDK for Python | https://github.com/Suede-AI/suede-sdk-python | Python SDK |
-| Suede AI package on PyPI | https://pypi.org/project/suede-ai/ | Python package |
+| Suede Labs AI package on PyPI | https://pypi.org/project/suede-ai/ | Python package |
 | Suede public docs | https://github.com/Suede-AI/suede-docs | Public documentation |
 | Suede brand assets | https://github.com/Suede-AI/suede-brand-assets | Brand assets and media kit |
 | Suede Creator Skills | https://github.com/JasonColapietro/suede-creator-skills | Agent skills |
@@ -669,7 +680,7 @@ These article URLs are listed in the public `suedeai.ai` sitemap.
 
 | Surface | URL |
 | --- | --- |
-| X / Twitter, Suede AI | https://x.com/AISUEDE |
+| X / Twitter, Suede Labs AI | https://x.com/AISUEDE |
 | X / Twitter, Jason / Johnny Suede | https://x.com/johnnysuede |
 | LinkedIn | https://www.linkedin.com/in/jasoncolapietro |
 | YouTube | https://www.youtube.com/@aisuede |
@@ -695,7 +706,7 @@ strong enough to deserve an indexable standalone page.
 | `jasoncolapietro.vip` | Founder identity | VIP/contact alias |
 | `jasoncolapietro.xyz` | Founder identity | Temporary defensive redirect |
 | `colapietrolabs.com` | Labs and AI | Best Colapietro Labs brand candidate |
-| `suedeailabs.com` | Labs and AI | Suede AI Labs alias |
+| `suedeailabs.com` | Labs and AI | Suede Labs AI alias |
 | `colapietroai.com` | Labs and AI | AI founder-lab alias |
 | `jasonsuedeai.com` | Labs and AI | AI alias |
 | `johnnysuedeai.com` | Labs and AI | AI alias |

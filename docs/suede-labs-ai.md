@@ -45,4 +45,4 @@ Public surface map: https://github.com/JasonColapietro/JasonColapietro/blob/main
 
 ## Keywords
 
-Suede Labs AI, Suede AI, Johnny Suede, SUEDE token, Jason Colapietro, programmable IP, creator ownership, creative RWA, AI-native media, AI music, music IP, provenance, licensing, x402, ACP, agent commerce.
+Suede Labs AI, Johnny Suede, SUEDE token, Jason Colapietro, programmable IP, creator ownership, creative RWA, AI-native media, AI music, music IP, provenance, licensing, x402, ACP, agent commerce.

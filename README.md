@@ -12,10 +12,10 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 
 | Channel | Link |
 |---|---|
-| Author page | [Jason Colapietro - Founder of Suede AI and Suede Labs](https://suedeai.org/jason-colapietro/) |
+| Author page | [Jason Colapietro - Founder of Suede Labs AI](https://suedeai.org/jason-colapietro/) |
 | Holding company | [JC Investment Group LLC](https://jcinvestmentgroup.ventures) |
 | Domain portfolio | [JCIG domain portfolio](https://jcinvestmentgroup.ventures/domains) |
-| Suede universe | [Websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md) |
+| Suede Labs AI universe | [Websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md) |
 | Combined profile markdown | [COMBINED.md](./COMBINED.md) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | X / Twitter | [@johnnysuede](https://x.com/johnnysuede) |
@@ -34,19 +34,21 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 - Base, Solana, Ethereum, Avalanche, multichain, and omnichain media rails
 - AI music as an early use case inside a broader programmable IP layer
 
-## Suede Universe
+## Suede Labs AI Universe
 
-Full index: [Suede universe websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md).
+Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/suede-universe-websites-apps.md).
 
 | Surface | Link |
 |---|---|
 | Suede Hub | [hub.suedeai.ai](https://hub.suedeai.ai) |
 | Suede ecosystem map | [hub2.suedeai.ai](https://hub2.suedeai.ai) |
-| Suede AI | [suedeai.ai](https://suedeai.ai) |
+| Suede Labs AI | [suedeai.ai](https://suedeai.ai) |
 | Suede app | [app.suedeai.ai](https://app.suedeai.ai) |
 | Suede Labs entity site | [suedeai.org](https://suedeai.org) |
 | JC Investment Group LLC | [jcinvestmentgroup.ventures](https://jcinvestmentgroup.ventures) |
 | Domain routing portfolio | [jcinvestmentgroup.ventures/domains](https://jcinvestmentgroup.ventures/domains) |
+| Suede Muse | [muse.suedeai.ai](https://muse.suedeai.ai) |
+| iOS app line | [Eight live App Store apps](./docs/suede-universe-websites-apps.md#ios-apps) |
 | Suede Distro | [distro.suedeai.ai](https://distro.suedeai.ai) |
 | Suede Social | [suede.social](https://suede.social) |
 | x402 manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
@@ -83,7 +85,7 @@ Full index: [Suede universe websites, apps, and public surfaces](./docs/suede-un
 | [the-suede-100](https://github.com/JasonColapietro/the-suede-100) | The canonical 1-100 guitar pedal ranking, edition 1 |
 | [the-top-100-pedals-list-that-the-press-fears](https://github.com/JasonColapietro/the-top-100-pedals-list-that-the-press-fears) | Standalone Next.js edition of The Suede 100 article |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | AI agent skills for rights passports, provenance packaging, credits, splits, and release prep |
-| [ai-audio-startups](https://github.com/JasonColapietro/ai-audio-startups) | AI audio and music technology startup landscape map, including Suede AI in rights-aware music generation |
+| [ai-audio-startups](https://github.com/JasonColapietro/ai-audio-startups) | AI audio and music technology startup landscape map, including Suede Labs AI in rights-aware music generation |
 | [podcast-sync](https://github.com/JasonColapietro/podcast-sync) | YouTube-to-podcast RSS pipeline for @aisuede |
 
 ### Agent, Payments, AI, and Developer Work
@@ -207,7 +209,7 @@ ACP-ready commerce is represented through public agent metadata and app-hosted x
 | Agent commerce | x402 payments, ACP-ready workflows, paid APIs, autonomous agent access |
 | Creative RWA | Creator-owned media, token-enabled access, on-chain provenance, Base, Solana |
 | Guitar and tone | The Signal Chain, Suede DNA, guitar rigs, effects pedals, guitar tools |
-| AI audio startups | AI music, music technology, audio startups, rights-aware generation, Suede AI |
+| AI audio startups | AI music, music technology, audio startups, rights-aware generation, Suede Labs AI |
 
 ## Expert Quotes
 

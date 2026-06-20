@@ -18,9 +18,11 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 
 | Type | URL |
 |---|---|
-| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
+| Suede Labs AI universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
 | Hub | https://hub.suedeai.ai |
 | Ecosystem map | https://hub2.suedeai.ai |
+| Muse | https://muse.suedeai.ai |
+| iOS app line | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#ios-apps |
 | GitHub | https://github.com/Suede-AI |
 | App | https://app.suedeai.ai |
 | Website | https://suedeai.org |
@@ -29,12 +31,14 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Telegram | https://t.me/SUEDEAI |
 | CoinGecko | https://www.coingecko.com/en/coins/johnny-suede |
 
-## Suede Universe Directories
+## Suede Labs AI Universe Directories
 
 | Type | URL |
 |---|---|
 | Suede Hub | https://hub.suedeai.ai |
 | Suede ecosystem map | https://hub2.suedeai.ai |
+| Suede Muse | https://muse.suedeai.ai |
+| Eight live App Store apps | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#ios-apps |
 | JC Investment Group holdings | https://jcinvestmentgroup.ventures/holdings |
 | JC Investment Group holdings JSON | https://jcinvestmentgroup.ventures/holdings.json |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |

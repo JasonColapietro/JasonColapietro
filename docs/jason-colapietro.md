@@ -46,7 +46,7 @@ Jason works on programmable IP, creator ownership, AI-native media, music rights
 | The Signal Chain | Illustrated history of electric guitar tone |
 | The Suede 100 | Guitar effects pedal ranking and editorial project |
 | Suede Creator Skills | AI agent skills for rights passports, provenance packaging, credits, splits, and release prep |
-| AI Audio Startups | AI audio and music technology startup landscape map with Suede AI listed under creation and production |
+| AI Audio Startups | AI audio and music technology startup landscape map with Suede Labs AI listed under creation and production |
 | Tokenmaxxing | Essay project on AI economics and agent-era market structure |
 
 ## Suede Labs AI
@@ -57,4 +57,4 @@ Official Suede GitHub: https://github.com/Suede-AI
 
 ## Keywords
 
-Jason Colapietro, published author, Forbes contributor, Founder and CEO, Suede Labs AI, JC Investment Group LLC, domain portfolio, Suede AI, programmable IP, creator ownership, AI music, AI audio startups, music technology, music rights, provenance, licensing, royalty rails, x402, ACP, agent commerce, creative RWA, Base, Solana.
+Jason Colapietro, published author, Forbes contributor, Founder and CEO, Suede Labs AI, JC Investment Group LLC, domain portfolio, programmable IP, creator ownership, AI music, AI audio startups, music technology, music rights, provenance, licensing, royalty rails, x402, ACP, agent commerce, creative RWA, Base, Solana.
