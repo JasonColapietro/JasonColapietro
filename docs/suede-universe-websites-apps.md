@@ -21,6 +21,7 @@ Primary source surfaces checked for this list:
 | Surface | URL | Role |
 | --- | --- | --- |
 | Suede Hub | https://hub.suedeai.ai | Directory for the Suede ecosystem |
+| Suede ecosystem map | https://hub2.suedeai.ai | Interactive ecosystem map |
 | JC Investment Group LLC | https://jcinvestmentgroup.ventures | Founder-led holding company and holdings ledger |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains | Owned domain portfolio and routing policy |
 | Suede Labs AI entity site | https://suedeai.org | Entity, investor, provenance, and ownership thesis site |
@@ -38,6 +39,7 @@ Primary source surfaces checked for this list:
 | Suede Social | https://suede.social | Creator magazine and community |
 | Social app surface | https://social.suedeai.ai | Suede social/app surface |
 | Suede Hub | https://hub.suedeai.ai | Ecosystem directory |
+| Suede ecosystem map | https://hub2.suedeai.ai | Interactive map of Suede platforms, protocols, apps, and surfaces |
 | Suede Cosmos | https://cosmos.suedeai.ai | Music artist graph and Apple Music preview exploration |
 | Suede NFT Studio | https://nft.suedeai.ai | Collectibles, editions, and provenance certificates |
 | Suede Launchpad | https://launch.suedeai.ai | Token and IP-backed launch surface |
@@ -86,15 +88,46 @@ Primary source surfaces checked for this list:
 | Public x402 endpoint manifest | https://api.suedeai.xyz/.well-known/x402.json | Public x402 manifest on API domain |
 | API domain | https://api.suedeai.xyz | API surface |
 | ACP surface | https://acp.suedeai.ai | Agentic commerce surface |
+| Virtuals ACP marketplace | https://app.virtuals.io/acp | ACP marketplace surface |
 | Producer on Virtuals | https://app.virtuals.io/acp/agent/019e3991-374d-75f3-a6b8-17ff309b4cd2 | Producer-class ACP agent |
 | Suede ACP | https://app.virtuals.io/acp/agent/019dd13e-eb0b-7750-aee0-9788ffd3a8d9 | Suede agent on Virtuals ACP |
 | Johnny Suede Agent | https://app.virtuals.io/virtuals/21351 | Johnny Suede agent surface |
+
+## Public Paid API Resources
+
+These resources are listed in the public x402 manifests on
+`app.suedeai.ai` and `api.suedeai.xyz`.
+
+| Resource | URL |
+| --- | --- |
+| Agent music generation | https://app.suedeai.ai/agent/generate |
+| Agent video generation | https://app.suedeai.ai/agent/video |
+| Create music | https://app.suedeai.ai/create-music |
+| Acapella extraction | https://app.suedeai.ai/v1/acapella |
+| Audio analysis | https://app.suedeai.ai/v1/analyze |
+| Chain chat | https://app.suedeai.ai/v1/chain-chat |
+| Continue generation | https://app.suedeai.ai/v1/continue |
+| Cover generation | https://app.suedeai.ai/v1/cover |
+| Extend generation | https://app.suedeai.ai/v1/extend |
+| Lyric sync | https://app.suedeai.ai/v1/lyric-sync |
+| Lyrics | https://app.suedeai.ai/v1/lyrics |
+| Mastering | https://app.suedeai.ai/v1/mastering |
+| MIDI generation | https://app.suedeai.ai/v1/midi |
+| Prompt analysis | https://app.suedeai.ai/v1/prompt-analyze |
+| Rig analysis | https://app.suedeai.ai/v1/rig/analyze |
+| Rig oracle | https://app.suedeai.ai/v1/rig/oracle |
+| Rig roast | https://app.suedeai.ai/v1/rig/roast |
+| Rights lookup | https://app.suedeai.ai/v1/rights/{assetHash} |
+| Stem separation | https://app.suedeai.ai/v1/stems |
+| Stem separation pro | https://app.suedeai.ai/v1/stems-pro |
+| Style coach | https://app.suedeai.ai/v1/style-coach |
+| Vox generation | https://app.suedeai.ai/v1/vox |
 
 ## iOS Apps
 
 | App | URL |
 | --- | --- |
-| Suede Studio Inspiration | https://apps.apple.com/us/app/suede-studio-inspiration/id6765461286 |
+| Suede: AI Music Generator | https://apps.apple.com/us/app/suede-labs-ai/id6765461286 |
 | FretPulse Guitar Practice | https://apps.apple.com/us/app/fretpulse-guitar-practice/id6766649729 |
 | Suede Studio Guitar | https://apps.apple.com/us/app/suede-studio-guitar/id6767552764 |
 | Suede Studio Voice | https://apps.apple.com/us/app/suede-studio-voice/id6767763231 |
@@ -135,6 +168,33 @@ Primary source surfaces checked for this list:
 | Full preview | https://suedeai.org/full-preview/ | Investor/full preview |
 | Contact | https://suedeai.org/contact/ | Contact |
 | Jason Colapietro Substack | https://jasoncolapietro.substack.com | Public writing |
+
+## Suede AI Blog Articles
+
+These article URLs are listed in the public `suedeai.ai` sitemap.
+
+| Article | URL |
+| --- | --- |
+| Agentic commerce creators x402 pays artists | https://suedeai.ai/blog/agentic-commerce-creators-x402-pays-artists |
+| How AI agents are rewriting music ownership | https://suedeai.ai/blog/how-ai-agents-are-rewriting-music-ownership |
+| How to protect music IP 2026 step by step | https://suedeai.ai/blog/how-to-protect-music-ip-2026-step-by-step |
+| Music split sheets AI collaborations | https://suedeai.ai/blog/music-split-sheets-ai-collaborations |
+| Ownership as the default | https://suedeai.ai/blog/ownership-as-the-default |
+| Provenance in AI music | https://suedeai.ai/blog/provenance-in-ai-music |
+| Suede Labs TechBullion iOS apps musicians terminal | https://suedeai.ai/blog/suede-labs-techbullion-ios-apps-musicians-terminal |
+| What is an IP vault | https://suedeai.ai/blog/what-is-an-ip-vault |
+| What is programmable IP guide for musicians | https://suedeai.ai/blog/what-is-programmable-ip-guide-for-musicians |
+| Who owns AI-generated music | https://suedeai.ai/blog/who-owns-ai-generated-music |
+| Why artists need IP registry before AI agents | https://suedeai.ai/blog/why-artists-need-ip-registry-before-ai-agents |
+
+## Books And Publication Pages
+
+| Book | URL |
+| --- | --- |
+| The Signal Chain | https://guitar.solutions |
+| Suede Labs: The Human Authenticity Layer | https://www.amazon.com/Suede-Labs-Authenticity-Ownership-Creative-ebook/dp/B0GD5FX6N6 |
+| Proof as Infrastructure | https://www.amazon.com/dp/B0GMB2VLXQ |
+| Stake Your Claim | https://www.amazon.com/dp/B0GRG8LGQQ |
 
 ## Token, Docs, SDK, And Developer Links
 

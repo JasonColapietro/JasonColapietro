@@ -20,6 +20,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 |---|---|
 | Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md |
 | Hub | https://hub.suedeai.ai |
+| Ecosystem map | https://hub2.suedeai.ai |
 | GitHub | https://github.com/Suede-AI |
 | App | https://app.suedeai.ai |
 | Website | https://suedeai.org |
@@ -33,6 +34,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Type | URL |
 |---|---|
 | Suede Hub | https://hub.suedeai.ai |
+| Suede ecosystem map | https://hub2.suedeai.ai |
 | JC Investment Group holdings | https://jcinvestmentgroup.ventures/holdings |
 | JC Investment Group holdings JSON | https://jcinvestmentgroup.ventures/holdings.json |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
@@ -68,6 +70,9 @@ POST https://app.suedeai.ai/agent/generate
 POST https://app.suedeai.ai/create-music
 POST https://app.suedeai.ai/agent/video
 ```
+
+Full current x402 resource list:
+https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/suede-universe-websites-apps.md#public-paid-api-resources
 
 Public x402 and ACP-ready positioning is represented through the public SDK,
 the x402 / ACP endpoint reference, public discovery metadata, and app-hosted

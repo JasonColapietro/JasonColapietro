@@ -40,6 +40,7 @@ Full index: [Suede universe websites, apps, and public surfaces](./docs/suede-un
 | Surface | Link |
 |---|---|
 | Suede Hub | [hub.suedeai.ai](https://hub.suedeai.ai) |
+| Suede ecosystem map | [hub2.suedeai.ai](https://hub2.suedeai.ai) |
 | Suede AI | [suedeai.ai](https://suedeai.ai) |
 | Suede app | [app.suedeai.ai](https://app.suedeai.ai) |
 | Suede Labs entity site | [suedeai.org](https://suedeai.org) |
@@ -181,6 +182,9 @@ POST https://app.suedeai.ai/agent/generate
 POST https://app.suedeai.ai/create-music
 POST https://app.suedeai.ai/agent/video
 ```
+
+Full current x402 resource list:
+[Suede Universe public paid API resources](./docs/suede-universe-websites-apps.md#public-paid-api-resources).
 
 ACP-ready commerce is represented through public agent metadata and app-hosted x402 credit purchase flows. Internal origins, admin routes, and non-public commerce routes are intentionally not listed in this public profile README.
 
