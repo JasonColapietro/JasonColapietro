@@ -6,8 +6,12 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 
 | Type | URL |
 |---|---|
+| Primary Jason entity | https://suedeai.ai/founder |
+| Supporting founder profile | https://suedeai.org/jason-colapietro/ |
 | GitHub | https://github.com/JasonColapietro |
 | X | https://x.com/johnnysuede |
+| LinkedIn | https://www.linkedin.com/in/jasoncolapietro |
+| Substack | https://jasoncolapietro.substack.com/ |
 | JC Investment Group LLC | https://jcinvestmentgroup.ventures |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
 | JCIG domains JSON | https://jcinvestmentgroup.ventures/domains.json |

@@ -12,7 +12,10 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 
 | Channel | Link |
 |---|---|
-| Author page | [Jason Colapietro - Founder of Suede Labs AI](https://suedeai.org/jason-colapietro/) |
+| Primary Jason entity | [suedeai.ai/founder](https://suedeai.ai/founder) |
+| Supporting founder profile | [suedeai.org/jason-colapietro](https://suedeai.org/jason-colapietro/) |
+| Suede AI | [suedeai.ai](https://suedeai.ai) |
+| Suede Labs AI entity site | [suedeai.org](https://suedeai.org) |
 | Holding company | [JC Investment Group LLC](https://jcinvestmentgroup.ventures) |
 | Domain portfolio | [JCIG domain portfolio](https://jcinvestmentgroup.ventures/domains) |
 | Suede Labs AI universe | [Websites, apps, and public surfaces](./docs/Suede%20Universe%20Websites%20and%20Apps.md) |
@@ -22,6 +25,18 @@ Suede Labs AI connects music, media, likeness, and creative assets to proof of a
 | LinkedIn | [Jason Colapietro on LinkedIn](https://www.linkedin.com/in/jasoncolapietro) |
 | Linktree | [linktr.ee/suedelabsai](https://linktr.ee/suedelabsai) |
 | Email | [johnnysuedes@gmail.com](mailto:johnnysuedes@gmail.com) |
+
+## Jason Colapietro Entity Graph
+
+Jason Colapietro is the primary person entity. Johnny Suede is his public and artist alias. Suede AI, Suede Labs AI, and Suede Labs are supporting company and product terms that point back to Jason as founder and CEO.
+
+| Entity | Role |
+|---|---|
+| Jason Colapietro | Canonical person, founder, author, builder |
+| Johnny Suede | Alternate public and artist identity for Jason Colapietro |
+| Suede AI | Plain-language product and search term |
+| Suede Labs AI | Company and product-line authority term |
+| Suede Labs | Short-form supporting organization name |
 
 ## Current Focus
 

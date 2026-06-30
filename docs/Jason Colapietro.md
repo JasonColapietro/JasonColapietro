@@ -18,6 +18,16 @@ Jason works on programmable IP, creator ownership, AI-native media, music rights
 | Holding company | JC Investment Group LLC |
 | Domain portfolio | https://jcinvestmentgroup.ventures/domains |
 
+## Entity URLs
+
+| Field | URL |
+|---|---|
+| Primary owned entity URL | https://suedeai.ai/founder |
+| Supporting owned profile URL | https://suedeai.org/jason-colapietro/ |
+| GitHub profile | https://github.com/JasonColapietro |
+| X / Twitter alias | https://x.com/johnnysuede |
+| LinkedIn profile | https://www.linkedin.com/in/jasoncolapietro |
+
 ## Areas of Work
 
 - Programmable IP

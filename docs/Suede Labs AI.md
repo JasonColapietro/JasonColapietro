@@ -6,6 +6,14 @@ Suede focuses on ownership, provenance, rights registration, licensing, monetiza
 
 Public surface map: https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md
 
+## Founder Connection
+
+Founder entity: https://suedeai.ai/founder
+
+Supporting founder profile: https://suedeai.org/jason-colapietro/
+
+Jason Colapietro is the canonical person entity behind Suede AI, Suede Labs AI, and Suede Labs. Johnny Suede is Jason's public and artist alias.
+
 ## Public Repositories
 
 | Repository | Purpose |
