@@ -130,9 +130,9 @@ These resources are listed in the public x402 manifests on
 | --- | --- |
 | Agentix: AI Agent Tracker | https://apps.apple.com/us/app/agentix-ai-agent-tracker/id6778286160?uo=4 |
 | FretPulse: Guitar Practice | https://apps.apple.com/us/app/fretpulse-guitar-practice/id6766649729?uo=4 |
-| Suede Agents: AI That Earns | https://apps.apple.com/us/app/suede-agents-ai-that-earns/id6778880737?uo=4 |
+| Suede Agent Studio | https://apps.apple.com/us/app/suede-agent-studio/id6778880737?uo=4 |
 | Suede Social | https://apps.apple.com/us/app/suede-social/id6770668793?uo=4 |
-| Suede Studio Guitar | https://apps.apple.com/us/app/suede-studio-guitar/id6767552764?uo=4 |
+| Suede Guitar Tuner & Studio | https://apps.apple.com/us/app/suede-guitar-tuner-studio/id6767552764?uo=4 |
 | Suede Studio Muse | https://apps.apple.com/us/app/suede-studio-muse/id6779134962?uo=4 |
 | Suede Studio Voice | https://apps.apple.com/us/app/suede-studio-voice/id6767763231?uo=4 |
 | Suede: AI Music Generator | https://apps.apple.com/us/app/suede-ai-music-generator/id6765461286?uo=4 |
