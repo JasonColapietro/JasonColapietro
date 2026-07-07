@@ -54,7 +54,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Repository | URL |
 |---|---|
 | Suede x402 Python SDK | https://github.com/Suede-AI/suede-sdk-python |
-| x402 / ACP endpoint reference | https://github.com/Suede-AI/suede-x402-acp |
+| x402 / ACP endpoint reference | https://app.suedeai.ai/.well-known/x402.json |
 | Token | https://github.com/Suede-AI/suede-token |
 | Brand assets | https://github.com/Suede-AI/suede-brand-assets |
 | Public docs | https://github.com/Suede-AI/suede-docs |

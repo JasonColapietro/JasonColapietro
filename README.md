@@ -79,7 +79,7 @@ Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/
 | [suedeai.org](https://suedeai.org) | SEO-first ownership, provenance, and Suede ecosystem site |
 | [app.suedeai.ai](https://app.suedeai.ai) | Suede application surface for creator tools and agent-accessible workflows |
 | [Suede-AI/suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) | Python SDK for the Suede x402 API and pay-per-call creative endpoints |
-| [Suede-AI/suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) | x402 and ACP-ready endpoint reference |
+| [Suede x402 endpoint catalog](https://app.suedeai.ai/.well-known/x402.json) | Live x402 and ACP-ready endpoint reference |
 | [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public docs for programmable IP, creator ownership, x402, ACP, and AI-native media |
 | [Suede-AI/suede-token](https://github.com/Suede-AI/suede-token) | Canonical SUEDE token, contract, supply, and ecosystem reference |
 | [Suede-AI/suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Official brand assets, colors, copy, links, media kit, and writing archive |
@@ -121,12 +121,12 @@ Full index: [Suede Labs AI universe websites, apps, and public surfaces](./docs/
 | [hermes-agent](https://github.com/JasonColapietro/hermes-agent) | Agent architecture research fork |
 | [eliza](https://github.com/JasonColapietro/eliza) | Open-source agentic operating system research fork |
 
-### Public Mirror and Reference Repositories
+### Public Mirror Repositories and References
 
 | Repository | Purpose |
 |---|---|
 | [JasonColapietro/suede-docs](https://github.com/JasonColapietro/suede-docs) | Founder-linked Suede docs mirror |
-| [JasonColapietro/suede-x402-acp](https://github.com/JasonColapietro/suede-x402-acp) | Founder-linked x402 and ACP endpoint reference |
+| [Suede x402 endpoint catalog](https://app.suedeai.ai/.well-known/x402.json) | Founder-linked x402 and ACP endpoint reference |
 | [JasonColapietro/suede-brand-assets](https://github.com/JasonColapietro/suede-brand-assets) | Founder-linked brand assets and writing archive |
 | [JasonColapietro/suede-token](https://github.com/JasonColapietro/suede-token) | Founder-linked token and ecosystem reference |
 | [JasonColapietro/assets](https://github.com/JasonColapietro/assets) | Token asset registry research fork |
