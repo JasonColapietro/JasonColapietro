@@ -196,9 +196,9 @@ https://app.suedeai.ai/.well-known/x402.json
 Current public paid endpoints:
 
 ```text
-POST https://app.suedeai.ai/agent/generate
 POST https://app.suedeai.ai/create-music
 POST https://app.suedeai.ai/agent/video
+POST https://app.suedeai.ai/agent/image
 ```
 
 Full current x402 resource list:
