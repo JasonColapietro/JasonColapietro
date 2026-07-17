@@ -1,4 +1,4 @@
-# Public Links
+# Public links
 
 Canonical public links for Jason Colapietro and Suede Labs AI.
 
@@ -6,83 +6,61 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 
 | Type | URL |
 |---|---|
-| Primary Jason entity | https://suedeai.ai/founder |
-| Supporting founder profile | https://suedeai.org/jason-colapietro/ |
-| GitHub | https://github.com/JasonColapietro |
-| X | https://x.com/johnnysuede |
-| LinkedIn | https://www.linkedin.com/in/jasoncolapietro |
-| Substack | https://jasoncolapietro.substack.com/ |
-| JC Investment Group LLC | https://jcinvestmentgroup.ventures |
-| JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
-| JCIG domains JSON | https://jcinvestmentgroup.ventures/domains.json |
-| Suede universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
-| Suede Labs AI | https://github.com/Suede-AI |
+| Personal site | [jasoncolapietro.com](https://jasoncolapietro.com) |
+| Founder record | [suedeai.ai/founder](https://suedeai.ai/founder) |
+| Supporting founder profile | [suedeai.org/jason-colapietro](https://suedeai.org/jason-colapietro/) |
+| GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
+| Writing | [jasoncolapietro.substack.com](https://jasoncolapietro.substack.com) |
+| LinkedIn | [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro) |
+| X | [@johnnysuede](https://x.com/johnnysuede) |
+| Email | [jason@suedeai.ai](mailto:jason@suedeai.ai) |
 
 ## Suede Labs AI
 
-| Type | URL |
+| Surface | URL | Purpose |
+|---|---|---|
+| Product | [suedeai.ai](https://suedeai.ai) | Creator ownership platform and primary public front door |
+| Company and thesis | [suedeai.org](https://suedeai.org) | Ownership, provenance, books, and company material |
+| Creator application | [app.suedeai.ai/create](https://app.suedeai.ai/create) | Creator workflow |
+| Developer portal | [app.suedeai.ai/developers](https://app.suedeai.ai/developers) | Developer workflow and API entry point |
+| Product hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live ecosystem directory |
+| Ecosystem map | [map.suedeai.ai](https://map.suedeai.ai) | Products, protocols, apps, and publications |
+| GitHub organization | [github.com/Suede-AI](https://github.com/Suede-AI) | Public code and documentation |
+
+## Machine-readable proof
+
+| Reference | URL |
 |---|---|
-| Suede Labs AI universe index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
-| Hub | https://hub.suedeai.ai |
-| Ecosystem map | https://hub2.suedeai.ai |
-| Muse | https://muse.suedeai.ai |
-| iOS app line | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#ios-apps |
-| GitHub | https://github.com/Suede-AI |
-| App | https://app.suedeai.ai |
-| Website | https://suedeai.org |
-| Company | https://suedeai.ai |
-| X | https://x.com/AISUEDE |
-| Telegram | https://t.me/SUEDEAI |
-| CoinGecko | https://www.coingecko.com/en/coins/johnny-suede |
+| Public IP registry | [ip.suedeai.ai](https://ip.suedeai.ai) |
+| x402 discovery | [/.well-known/x402](https://app.suedeai.ai/.well-known/x402) |
+| x402 JSON manifest | [/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
+| A2A agent card | [/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
+| Public docs | [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) |
 
-## Suede Labs AI Universe Directories
-
-| Type | URL |
-|---|---|
-| Suede Hub | https://hub.suedeai.ai |
-| Suede ecosystem map | https://hub2.suedeai.ai |
-| Suede Muse | https://muse.suedeai.ai |
-| Eight live App Store apps | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#ios-apps |
-| JC Investment Group holdings | https://jcinvestmentgroup.ventures/holdings |
-| JC Investment Group holdings JSON | https://jcinvestmentgroup.ventures/holdings.json |
-| JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains |
-| JCIG domain portfolio JSON | https://jcinvestmentgroup.ventures/domains.json |
-| GitHub profile index | https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md |
-
-## Official GitHub Docs
-
-| Repository | URL |
-|---|---|
-| Suede x402 Python SDK | https://github.com/Suede-AI/suede-sdk-python |
-| x402 / ACP endpoint reference | https://app.suedeai.ai/.well-known/x402.json |
-| Token | https://github.com/Suede-AI/suede-token |
-| Brand assets | https://github.com/Suede-AI/suede-brand-assets |
-| Public docs | https://github.com/Suede-AI/suede-docs |
-| SEO site | https://github.com/Suede-AI/suedeai-org |
-| Suede DNA | https://github.com/Suede-AI/dna |
-| Guitar tools | https://github.com/Suede-AI/guitar-chords |
-
-## Jason Research And Reference Repositories
-
-| Repository | URL |
-|---|---|
-| AI audio startups | https://github.com/JasonColapietro/ai-audio-startups |
-| iOS app dev skills | https://github.com/JasonColapietro/ios-app-dev-skills |
-
-## Public Endpoints
+The live x402 manifest currently lists these paid resources:
 
 ```text
-GET  https://app.suedeai.ai/.well-known/x402
-GET  https://app.suedeai.ai/.well-known/x402.json
-POST https://app.suedeai.ai/agent/generate
 POST https://app.suedeai.ai/create-music
 POST https://app.suedeai.ai/agent/video
+POST https://app.suedeai.ai/agent/image
 ```
 
-Full current x402 resource list:
-https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md#public-paid-api-resources
+## Selected repositories
 
-Public x402 and ACP-ready positioning is represented through the public SDK,
-the x402 / ACP endpoint reference, public discovery metadata, and app-hosted
-x402 flows. Internal origins, admin routes, and non-public commerce endpoints
-are intentionally not listed in this public link index.
+| Repository | Focus |
+|---|---|
+| [Suede-AI/suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) | Python client for Suede's x402 creative APIs |
+| [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public developer and creator-ownership documentation |
+| [JasonColapietro/agentix](https://github.com/JasonColapietro/agentix) | Public agent activity and earnings tracker |
+| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source agent skills and workflows |
+| [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Guitar history and signal-chain research |
+| [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
+
+## Portfolio feeds
+
+| Feed | URL |
+|---|---|
+| JC Investment Group holdings | [holdings.json](https://jcinvestmentgroup.ventures/holdings.json) |
+| JC Investment Group domains | [domains.json](https://jcinvestmentgroup.ventures/domains.json) |
+
+This link index was last reviewed on July 16, 2026. Public endpoints and product status can change; the live destination is authoritative.
