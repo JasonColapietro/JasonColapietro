@@ -35,7 +35,6 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | x402 discovery | [/.well-known/x402](https://app.suedeai.ai/.well-known/x402) |
 | x402 JSON manifest | [/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
 | A2A agent card | [/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
-| Public docs | [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) |
 
 The live x402 manifest currently lists these paid resources:
 
@@ -49,18 +48,9 @@ POST https://app.suedeai.ai/agent/image
 
 | Repository | Focus |
 |---|---|
-| [Suede-AI/suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) | Python client for Suede's x402 creative APIs |
-| [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) | Public developer and creator-ownership documentation |
 | [JasonColapietro/agentix](https://github.com/JasonColapietro/agentix) | Public agent activity and earnings tracker |
 | [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source agent skills and workflows |
 | [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Guitar history and signal-chain research |
 | [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
 
-## Portfolio feeds
-
-| Feed | URL |
-|---|---|
-| JC Investment Group holdings | [holdings.json](https://jcinvestmentgroup.ventures/holdings.json) |
-| JC Investment Group domains | [domains.json](https://jcinvestmentgroup.ventures/domains.json) |
-
-This link index was last reviewed on July 16, 2026. Public endpoints and product status can change; the live destination is authoritative.
+This link index was last reviewed on July 17, 2026. Public endpoints and product status can change; the live destination is authoritative.
