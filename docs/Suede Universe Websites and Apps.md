@@ -1,6 +1,8 @@
 # Suede Labs AI Universe Websites, Apps, and Public Surfaces
 
-Verified: June 20, 2026
+Original inventory verified: June 20, 2026
+
+Canonical directory and public x402 entries refreshed: July 16, 2026
 
 This is the public map of Suede Labs AI, Jason Colapietro / Johnny Suede,
 JC Investment Group LLC, and the related creator-rights ecosystem. It separates
@@ -21,7 +23,7 @@ Primary source surfaces checked for this list:
 | Surface | URL | Role |
 | --- | --- | --- |
 | Suede Hub | https://hub.suedeai.ai | Directory for the Suede ecosystem |
-| Suede ecosystem map | https://hub2.suedeai.ai | Interactive ecosystem map |
+| Suede ecosystem map | https://map.suedeai.ai | Interactive ecosystem map |
 | JC Investment Group LLC | https://jcinvestmentgroup.ventures | Founder-led holding company and holdings ledger |
 | JCIG domain portfolio | https://jcinvestmentgroup.ventures/domains | Owned domain portfolio and routing policy |
 | Suede Labs AI entity site | https://suedeai.org | Entity, investor, provenance, and ownership thesis site |
@@ -39,7 +41,7 @@ Primary source surfaces checked for this list:
 | Suede Social | https://suede.social | Creator magazine and community |
 | Social app surface | https://social.suedeai.ai | Suede social/app surface |
 | Suede Hub | https://hub.suedeai.ai | Ecosystem directory |
-| Suede ecosystem map | https://hub2.suedeai.ai | Interactive map of Suede platforms, protocols, apps, and surfaces |
+| Suede ecosystem map | https://map.suedeai.ai | Interactive map of Suede platforms, protocols, apps, and surfaces |
 | Suede Cosmos | https://cosmos.suedeai.ai | Music artist graph and Apple Music preview exploration |
 | Suede NFT Studio | https://nft.suedeai.ai | Collectibles, editions, and provenance certificates |
 | Suede Launchpad | https://launch.suedeai.ai | Token and IP-backed launch surface |
@@ -50,7 +52,7 @@ Primary source surfaces checked for this list:
 | VoicePrint | https://print.suedeai.ai | Vocal range and register classification |
 | Suede DNA | https://dna.suedeai.ai | Guitarist rig and signal-chain archive |
 | Guitar Hub | https://guitarhub.org | Guitar research, rights explainers, and artist directory |
-| guitar.solutions | https://guitar.solutions | Free public edition of The Signal Chain |
+| Strumly book | https://strumly.suedeai.ai/book | Public edition of The Signal Chain |
 | guitarchords.info | https://guitarchords.info | Chords, scales, tuner, and metronome |
 | guitar.services | https://guitar.services | Reserved guitar services and licensing surface |
 
@@ -96,33 +98,15 @@ Primary source surfaces checked for this list:
 
 ## Public Paid API Resources
 
-These resources are listed in the public x402 manifests on
-`app.suedeai.ai` and `api.suedeai.xyz`.
+These resources are listed in the live public x402 manifest at
+`app.suedeai.ai/.well-known/x402.json`. The manifest is authoritative for
+current paths, methods, prices, and availability.
 
 | Resource | URL |
 | --- | --- |
-| Agent music generation | https://app.suedeai.ai/agent/generate |
-| Agent video generation | https://app.suedeai.ai/agent/video |
 | Create music | https://app.suedeai.ai/create-music |
-| Acapella extraction | https://app.suedeai.ai/v1/acapella |
-| Audio analysis | https://app.suedeai.ai/v1/analyze |
-| Chain chat | https://app.suedeai.ai/v1/chain-chat |
-| Continue generation | https://app.suedeai.ai/v1/continue |
-| Cover generation | https://app.suedeai.ai/v1/cover |
-| Extend generation | https://app.suedeai.ai/v1/extend |
-| Lyric sync | https://app.suedeai.ai/v1/lyric-sync |
-| Lyrics | https://app.suedeai.ai/v1/lyrics |
-| Mastering | https://app.suedeai.ai/v1/mastering |
-| MIDI generation | https://app.suedeai.ai/v1/midi |
-| Prompt analysis | https://app.suedeai.ai/v1/prompt-analyze |
-| Rig analysis | https://app.suedeai.ai/v1/rig/analyze |
-| Rig oracle | https://app.suedeai.ai/v1/rig/oracle |
-| Rig roast | https://app.suedeai.ai/v1/rig/roast |
-| Rights lookup | https://app.suedeai.ai/v1/rights/{assetHash} |
-| Stem separation | https://app.suedeai.ai/v1/stems |
-| Stem separation pro | https://app.suedeai.ai/v1/stems-pro |
-| Style coach | https://app.suedeai.ai/v1/style-coach |
-| Vox generation | https://app.suedeai.ai/v1/vox |
+| Agent video generation | https://app.suedeai.ai/agent/video |
+| Agent image generation | https://app.suedeai.ai/agent/image |
 
 ## iOS Apps
 
@@ -196,7 +180,7 @@ These article URLs are listed in the public `suedeai.ai` sitemap.
 
 | Book | URL |
 | --- | --- |
-| The Signal Chain | https://guitar.solutions |
+| The Signal Chain | https://strumly.suedeai.ai/book |
 | Suede Labs: The Human Authenticity Layer | https://www.amazon.com/Suede-Labs-Authenticity-Ownership-Creative-ebook/dp/B0GD5FX6N6 |
 | Proof as Infrastructure | https://www.amazon.com/dp/B0GMB2VLXQ |
 | Stake Your Claim | https://www.amazon.com/dp/B0GRG8LGQQ |

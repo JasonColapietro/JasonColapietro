@@ -1,70 +1,50 @@
 # Jason Colapietro
 
-Jason Colapietro is a published author, Forbes contributor, and Founder and CEO of Suede Labs AI.
+Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), where he builds creator ownership infrastructure for AI-native media. His work connects proof of creation, provenance, rights metadata, licensing, registry-backed media, royalty routing, and agent commerce. He also publishes under the name **Johnny Suede**.
 
-Jason works on programmable IP, creator ownership, AI-native media, music rights, provenance, licensing, x402 payments, ACP-ready agent commerce, and creative RWA media assets.
+## Public identity
 
-## Public Identity
-
-| Field | Reference |
+| Field | Canonical reference |
 |---|---|
 | Name | Jason Colapietro |
 | Role | Founder and CEO, Suede Labs AI |
-| Author profile | Published author |
-| Media profile | Forbes contributor |
-| GitHub | https://github.com/JasonColapietro |
-| X | https://x.com/johnnysuede |
-| Company | Suede Labs AI |
-| Holding company | JC Investment Group LLC |
-| Domain portfolio | https://jcinvestmentgroup.ventures/domains |
+| Public and artist name | Johnny Suede |
+| Personal site | [jasoncolapietro.com](https://jasoncolapietro.com) |
+| Founder record | [suedeai.ai/founder](https://suedeai.ai/founder) |
+| Company | [Suede Labs AI](https://suedeai.ai) |
+| GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
+| Writing | [jasoncolapietro.substack.com](https://jasoncolapietro.substack.com) |
+| LinkedIn | [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro) |
+| X | [@johnnysuede](https://x.com/johnnysuede) |
+| Contact | [jason@suedeai.ai](mailto:jason@suedeai.ai) |
 
-## Entity URLs
+## Areas of work
 
-| Field | URL |
-|---|---|
-| Primary owned entity URL | https://suedeai.ai/founder |
-| Supporting owned profile URL | https://suedeai.org/jason-colapietro/ |
-| GitHub profile | https://github.com/JasonColapietro |
-| X / Twitter alias | https://x.com/johnnysuede |
-| LinkedIn profile | https://www.linkedin.com/in/jasoncolapietro |
+- Creator ownership and programmable IP
+- Proof of creation, provenance, and rights metadata
+- Licensing and royalty routing
+- Registry-backed media, voice, and likeness records
+- x402 payments and pay-per-call APIs
+- Agent discovery and agent commerce
+- Music, guitar, audio, and creator tools
 
-## Areas of Work
+## Selected public work
 
-- Programmable IP
-- Creator ownership
-- AI-native media
-- Music IP and rights
-- Provenance
-- Licensing
-- Royalty routing
-- Registry-backed media assets
-- x402 payments
-- ACP-ready agent commerce
-- Base, Solana, Ethereum, Avalanche, multichain, and omnichain media rails
+| Project | Public reference | Focus |
+|---|---|---|
+| Suede Labs AI | [suedeai.ai](https://suedeai.ai) | Creator ownership infrastructure for work and likeness |
+| Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
+| Suede Creator Skills | [GitHub](https://github.com/JasonColapietro/suede-creator-skills) | Open-source workflows for creators, agents, and software teams |
+| Suede Python SDK | [GitHub](https://github.com/Suede-AI/suede-sdk-python) | Python access to Suede's x402 creative APIs |
+| The Signal Chain | [GitHub](https://github.com/JasonColapietro/the-signal-chain) · [book](https://strumly.suedeai.ai/book) | Electric-guitar history, signal flow, and research |
+| Anti-Slop Templates | [GitHub](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
 
-## Public Projects
+## Public evidence
 
-| Project | Focus |
-|---|---|
-| JC Investment Group LLC | Founder-led holding company for creator-rights infrastructure, music IP, provenance, licensing, and royalty rails |
-| Suede Labs AI | Programmable IP and creator ownership infrastructure |
-| Suede SDK for Python | x402 pay-per-call creative API access |
-| Suede Docs | Public docs for programmable IP, creator ownership, provenance, licensing, x402, and ACP |
-| SUEDE Token | Token, contract, supply, and ecosystem reference |
-| Suede Brand Assets | Official links, media kit, writing archive, and listing copy |
-| Suede DNA | Guitarist rig and signal-chain archive |
-| The Signal Chain | Illustrated history of electric guitar tone |
-| The Suede 100 | Guitar effects pedal ranking and editorial project |
-| Suede Creator Skills | AI agent skills for rights passports, provenance packaging, credits, splits, and release prep |
-| AI Audio Startups | AI audio and music technology startup landscape map with Suede Labs AI listed under creation and production |
-| Tokenmaxxing | Essay project on AI economics and agent-era market structure |
+- [Suede founder page](https://suedeai.ai/founder) — role, alias, books, essays, and public company links.
+- [Suede x402 manifest](https://app.suedeai.ai/.well-known/x402.json) — current machine-readable paid resources.
+- [Suede A2A agent card](https://app.suedeai.ai/.well-known/agent-card.json) — agent identity, skills, and supported interface.
+- [Suede public documentation](https://github.com/Suede-AI/suede-docs) — developer and creator-ownership references.
+- [Suede ecosystem map](https://map.suedeai.ai) — products, protocols, apps, and publications.
 
-## Suede Labs AI
-
-Suede Labs AI is a programmable IP and creator ownership platform for AI-native media. Suede connects creative assets to proof of authorship, rights metadata, licensing workflows, token-enabled access, and agent-accessible commerce.
-
-Official Suede GitHub: https://github.com/Suede-AI
-
-## Keywords
-
-Jason Colapietro, published author, Forbes contributor, Founder and CEO, Suede Labs AI, JC Investment Group LLC, domain portfolio, programmable IP, creator ownership, AI music, AI audio startups, music technology, music rights, provenance, licensing, royalty rails, x402, ACP, agent commerce, creative RWA, Base, Solana.
+This reference was last reviewed against the linked public sources on July 16, 2026.

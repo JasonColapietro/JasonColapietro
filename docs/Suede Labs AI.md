@@ -1,56 +1,39 @@
 # Suede Labs AI
 
-Suede Labs AI is a programmable IP and creator ownership platform for AI-native media, founded by Jason Colapietro.
+[Suede Labs AI](https://suedeai.ai) is creator ownership infrastructure for AI-native media. It connects creative work and likeness to proof of creation, provenance, rights metadata, licensing, registry-backed records, royalty routing, and agent-readable commerce. Music is the first operating category, with image, video, voice, and other creative assets using the same ownership model.
 
-Suede focuses on ownership, provenance, rights registration, licensing, monetization, token-enabled access, and agent-accessible commerce for creator-owned assets.
+## What it does
 
-Public surface map: https://github.com/JasonColapietro/JasonColapietro/blob/main/docs/Suede%20Universe%20Websites%20and%20Apps.md
+1. **Record evidence:** create a dated fingerprint and authorship claim for a work or reference asset.
+2. **License:** publish rights and consent terms that people and software can read.
+3. **Route value:** connect licensed use to creator-defined splits, payments, and royalty workflows.
 
-## Founder Connection
+## Primary public surfaces
 
-Founder entity: https://suedeai.ai/founder
+| Surface | URL | Purpose |
+|---|---|---|
+| Product | [suedeai.ai](https://suedeai.ai) | Primary product and platform overview |
+| Creator app | [app.suedeai.ai/create](https://app.suedeai.ai/create) | Creator workflow |
+| Developer portal | [app.suedeai.ai/developers](https://app.suedeai.ai/developers) | Developer workflow and API entry point |
+| Registry | [ip.suedeai.ai](https://ip.suedeai.ai) | Public creator-claim, fingerprint, contributor, and timestamp lookup |
+| Company and thesis | [suedeai.org](https://suedeai.org) | Ownership, provenance, books, and company material |
+| Hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live product directory |
+| Map | [map.suedeai.ai](https://map.suedeai.ai) | Ecosystem map for products, protocols, apps, and publications |
 
-Supporting founder profile: https://suedeai.org/jason-colapietro/
+## Agent and developer interfaces
 
-Jason Colapietro is the canonical person entity behind Suede AI, Suede Labs AI, and Suede Labs. Johnny Suede is Jason's public and artist alias.
-
-## Public Repositories
-
-| Repository | Purpose |
+| Interface | Reference |
 |---|---|
-| https://github.com/Suede-AI/suede-sdk-python | Python SDK for the Suede x402 API and pay-per-call creative endpoints |
-| https://app.suedeai.ai/.well-known/x402.json | x402 payment and ACP-ready endpoint reference |
-| https://github.com/Suede-AI/suede-token | Official SUEDE token, contracts, supply, and ecosystem reference |
-| https://github.com/Suede-AI/suede-brand-assets | Official brand assets and listing packet |
-| https://github.com/Suede-AI/suede-docs | Official public docs |
-| https://github.com/Suede-AI/suedeai-org | SEO-first ownership and provenance website for suedeai.org |
-| https://github.com/Suede-AI/dna | Suede DNA guitarist rig and signal-chain archive |
-| https://github.com/Suede-AI/guitar-chords | Free guitar chord, scale, tuner, and metronome tools |
-| https://github.com/Suede-AI/guitar-solutions | Suede engineering reference for guitar signal-chain knowledge |
+| x402 resource manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
+| A2A agent card | [app.suedeai.ai/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
+| Public documentation | [Suede-AI/suede-docs](https://github.com/Suede-AI/suede-docs) |
+| Python SDK | [Suede-AI/suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) |
+| Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) |
 
-## Core Concepts
+The live x402 manifest currently advertises paid music, video, and image resources. The manifest itself is the source of truth for advertised paths, prices, and methods; runtime success requires a separate canary.
 
-- Programmable IP
-- Creator ownership
-- Creative RWA media assets
-- Provenance and rights metadata
-- Licensing and monetization workflows
-- x402 payments
-- ACP-ready agent commerce
-- AI music as an initial high-signal media category
-- Registry-backed media assets
-- Royalty routing
-- Agent-accessible creative APIs
+## Founder connection
 
-## Token
+Suede Labs AI was founded by [Jason Colapietro](https://suedeai.ai/founder), who also publishes as Johnny Suede. Jason's public profile is [github.com/JasonColapietro](https://github.com/JasonColapietro), and Suede's public organization is [github.com/Suede-AI](https://github.com/Suede-AI).
 
-`SUEDE` is the utility token connected to Suede Labs AI and the Johnny Suede ecosystem.
-
-| Chain | Contract / Mint |
-|---|---|
-| Solana | `2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump` |
-| Base | `0x40461291347e1eCbb09499F3371D3f17f10d7159` |
-
-## Keywords
-
-Suede Labs AI, Johnny Suede, SUEDE token, Jason Colapietro, programmable IP, creator ownership, creative RWA, AI-native media, AI music, music IP, provenance, licensing, x402, ACP, agent commerce.
+This reference was last reviewed against the linked public sources on July 16, 2026.
