@@ -7,6 +7,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Type | URL |
 |---|---|
 | Personal site | [jasoncolapietro.com](https://jasoncolapietro.com) |
+| Creative identity site | [johnnysuede.com](https://johnnysuede.com) |
 | Founder record | [suedeai.ai/founder](https://suedeai.ai/founder) |
 | Supporting founder profile | [suedeai.org/jason-colapietro](https://suedeai.org/jason-colapietro/) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |

@@ -6,9 +6,9 @@
 
 Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce, with music and likeness as early use cases.
 
-Jason also publishes as **Johnny Suede**.
+Jason is also known publicly as **Jay Colapietro** and publishes as **Johnny Suede**.
 
-[Personal site](https://jasoncolapietro.com) · [Suede Labs AI](https://suedeai.ai) · [Founder profile](https://suedeai.ai/founder) · [Writing](https://jasoncolapietro.substack.com) · [LinkedIn](https://www.linkedin.com/in/jasoncolapietro) · [X](https://x.com/johnnysuede)
+[Personal site](https://jasoncolapietro.com) · [Johnny Suede](https://johnnysuede.com) · [Suede Labs AI](https://suedeai.ai) · [Founder profile](https://suedeai.ai/founder) · [Writing](https://jasoncolapietro.substack.com) · [LinkedIn](https://www.linkedin.com/in/jasoncolapietro) · [X](https://x.com/johnnysuede)
 
 ## What I am building
 
