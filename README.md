@@ -2,7 +2,7 @@
 
 <img src="./assets/jason-colapietro-github-avatar.png" alt="Jason Colapietro, founder and CEO of Suede Labs AI" width="180" />
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · builder of creator ownership infrastructure · author**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · builder of creator ownership infrastructure · author · contributor to Jest, Kubernetes, Prometheus, Python, and Backstage**
 
 Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce, with music and likeness as early use cases.
 
@@ -32,6 +32,10 @@ Jason is also known publicly as **Jay Colapietro** and publishes as **Johnny Sue
 - [Public IP registry](https://ip.suedeai.ai) — wallet-signed creator claims, file fingerprints, contributor records, and public timestamps; evidence, not legal title.
 - [x402 manifest](https://app.suedeai.ai/.well-known/x402.json) — currently advertised paid API resources in a machine-readable catalog.
 - [A2A agent card](https://app.suedeai.ai/.well-known/agent-card.json) — public agent identity, capabilities, and discovery metadata.
+- PRs to jestjs/jest: [fix(jest-resolve): isolate virtual mock module IDs #16296](https://github.com/jestjs/jest/pull/16296) and [fix(jest-haste-map): preserve native paths in ignore matchers #16295](https://github.com/jestjs/jest/pull/16295)
+- PR to kubernetes/kubernetes: [client-go: support multiple leader election metrics providers #141172](https://github.com/kubernetes/kubernetes/pull/141172)
+- PR to python/cpython: [gh-123059: Document archive timestamp timezone handling #155195](https://github.com/python/cpython/pull/155195)
+- PR to backstage/backstage: [fix: apply catalog graph page configuration #35102](https://github.com/backstage/backstage/pull/35102)
 
 ## Contact
 
