@@ -2,9 +2,9 @@
 
 <img src="./assets/jason-colapietro-github-avatar.png" alt="Jason Colapietro, founder and CEO of Suede Labs AI" width="180" />
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · builder of creator ownership infrastructure · author · open-source contributor**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group · author of five books · USPTO patent pending 63/947,120**
 
-Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce, with music and likeness as early use cases.
+Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agentic commerce over x402 and ERC-8004, with music and likeness as early use cases.
 
 Jason is also known publicly as **Jay Colapietro** and publishes as **Johnny Suede**.
 
@@ -23,9 +23,13 @@ Jason is also known publicly as **Jay Colapietro** and publishes as **Johnny Sue
 |---|---|
 | [Suede Labs AI](https://suedeai.ai) | Creator ownership infrastructure for registering work and likeness, documenting provenance, licensing rights, and routing revenue. |
 | [Suede Agent Studio](https://agents.suedeai.ai) | Visual builder for publishing agents and pay-per-call workflows. |
-| [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source agent skills for rights, provenance, releases, evaluation, design, engineering, and go-to-market work. |
-| [The Signal Chain](https://github.com/JasonColapietro/the-signal-chain) · [book](https://strumly.suedeai.ai/book) | An illustrated history of electric-guitar tone, signal flow, and the people behind it. |
-| [Anti-Slop Templates](https://github.com/JasonColapietro/anti-slop-templates) | Two original, open-source HTML design systems for editorial and creator-ownership products. |
+| [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | 71 open-source agent skills for Claude Code and Codex, covering rights, provenance, releases, evaluation, design, engineering, and go-to-market work. |
+| [Suede IP Registry](https://ip.suedeai.ai) | Public registry for creation evidence: wallet-signed claims, file fingerprints, and dated records on Base and Avalanche. |
+| [Strumly](https://strumly.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) | Musician-facing products — a guitar coach and a companion for working artists. |
+
+## Books
+
+[The Signal Chain](https://guitar.solutions) · [The Guitar Without a Number](https://guitar.solutions/catalog.html) · [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)
 
 ## Verify the work
 
