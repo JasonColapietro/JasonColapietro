@@ -19,17 +19,26 @@ Jason is also known publicly as **Jay Colapietro** and publishes as **Johnny Sue
 
 ## Selected public work
 
+About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.suedeai.ai); the operating map, entity by entity, is at [map.suedeai.ai](https://map.suedeai.ai).
+
 | Project | What it does |
 |---|---|
-| [Suede Labs AI](https://suedeai.ai) | Creator ownership infrastructure for registering work and likeness, documenting provenance, licensing rights, and routing revenue. |
-| [Suede Agent Studio](https://agents.suedeai.ai) | Visual builder for publishing agents and pay-per-call workflows. |
-| [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | 71 open-source agent skills for Claude Code and Codex, covering rights, provenance, releases, evaluation, design, engineering, and go-to-market work. |
+| [Suede Labs AI](https://suedeai.ai) | The product front door. Creator ownership infrastructure for registering work and likeness, documenting provenance, licensing rights, and routing revenue. |
+| [Suede Studio](https://studio.suedeai.ai) · [Suede Distro](https://distro.suedeai.ai) | Make music with AI and keep the master; release finished work to 100+ streaming services. |
 | [Suede IP Registry](https://ip.suedeai.ai) | Public registry for creation evidence: wallet-signed claims, file fingerprints, and dated records on Base and Avalanche. |
-| [Strumly](https://strumly.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) | Musician-facing products — a guitar coach and a companion for working artists. |
+| [Suede Agent Studio](https://agents.suedeai.ai) · [Agentix](https://agentix.suedeai.ai) | Build agents visually and ship them as paid per-call services over x402; track what they earn. |
+| [Suede Scan](https://scan.suedeai.ai) | Shows what AI search engines say about a business, with screenshots, then repairs the site so machines can read it. |
+| [Strumly](https://strumly.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) · [FretPulse](https://fretpulse.suedeai.ai) | Musician tools — a 24/7 guitar coach, a creative training companion, and a guitar-care app. |
+| [Suede Social](https://social.suedeai.ai) · [Suede DNA](https://dna.suedeai.ai) | Creator community and gear magazine, plus an archive of 400+ guitarists' rigs and signal chains. |
+| [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | 71 open-source agent skills for Claude Code and Codex, covering rights, provenance, releases, evaluation, design, engineering, and go-to-market work. |
 
 ## Books
 
 [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) · [The Signal Chain](https://guitar.solutions)
+
+## Press
+
+[TechBullion](https://techbullion.com/jason-colapietros-suede-labs-ai-launches-ios-apps/), May 2026 — Suede Labs AI launches iOS apps for musicians.
 
 ## Verify the work
 
