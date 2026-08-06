@@ -2,7 +2,7 @@
 
 <img src="./assets/jason-colapietro-github-avatar.png" alt="Jason Colapietro, founder and CEO of Suede Labs AI" width="180" />
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · builder of creator ownership infrastructure · author · open-source contributor to [Backstage](https://github.com/backstage/backstage/pull/35102)**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · builder of creator ownership infrastructure · author · open-source contributor with [nine changes merged into eight projects](#merged-upstream), including [Backstage](https://github.com/backstage/backstage/pull/35102)**
 
 Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce, with music and likeness as early use cases.
 
