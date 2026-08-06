@@ -2,7 +2,7 @@
 
 <img src="./assets/jason-colapietro-github-avatar.png" alt="Jason Colapietro, founder and CEO of Suede Labs AI" width="180" />
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group · author of five books · USPTO patent pending 63/947,120**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group · author · USPTO patent pending 63/947,120**
 
 Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agentic commerce over x402 and ERC-8004, with music and likeness as early use cases.
 
@@ -29,7 +29,7 @@ Jason is also known publicly as **Jay Colapietro** and publishes as **Johnny Sue
 
 ## Books
 
-[The Signal Chain](https://guitar.solutions) · [The Guitar Without a Number](https://guitar.solutions/catalog.html) · [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)
+[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) · [The Signal Chain](https://guitar.solutions)
 
 ## Verify the work
 
