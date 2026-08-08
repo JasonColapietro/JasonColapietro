@@ -4,7 +4,7 @@ import test from "node:test";
 
 const read = (path) => readFile(new URL(`../${path}`, import.meta.url), "utf8");
 
-test("profile documents keep Jason canonical and publish both aliases", async () => {
+test("profile documents keep Jason canonical and publish the creative alias", async () => {
   const [readme, identity, links] = await Promise.all([
     read("README.md"),
     read("docs/Jason Colapietro.md"),
@@ -12,14 +12,23 @@ test("profile documents keep Jason canonical and publish both aliases", async ()
   ]);
 
   assert.match(readme, /^# Jason Colapietro/m);
-  assert.match(readme, /Jay Colapietro/);
   assert.match(readme, /Johnny Suede/);
   assert.match(readme, /https:\/\/jasoncolapietro\.com/);
   assert.match(readme, /https:\/\/johnnysuede\.com/);
 
   assert.match(identity, /\| Canonical name \| Jason Colapietro \|/);
-  assert.match(identity, /\| Public alias \| Jay Colapietro \|/);
   assert.match(identity, /\| Creative alias \| Johnny Suede \|/);
   assert.match(links, /https:\/\/jasoncolapietro\.com/);
   assert.match(links, /https:\/\/johnnysuede\.com/);
+});
+
+// "Jay Colapietro" is not an alias Jason uses. It was removed from the entity
+// surfaces across the estate on 2026-08-07; this guard keeps it from returning.
+test("profile documents do not reintroduce the Jay Colapietro alias", async () => {
+  const files = ["README.md", "docs/Jason Colapietro.md", "docs/Public Links.md"];
+  const contents = await Promise.all(files.map(read));
+
+  for (const [index, text] of contents.entries()) {
+    assert.doesNotMatch(text, /Jay Colapietro/, `${files[index]} reintroduces the Jay Colapietro alias`);
+  }
 });

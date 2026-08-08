@@ -1,13 +1,12 @@
 # Jason Colapietro
 
-Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), where he builds creator ownership infrastructure for AI-native media. His work connects proof of creation, provenance, rights metadata, licensing, registry-backed media, royalty routing, and agent commerce. He is also known publicly as **Jay Colapietro** and publishes under the name **Johnny Suede**.
+Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), where he builds creator ownership infrastructure for AI-native media. His work connects proof of creation, provenance, rights metadata, licensing, registry-backed media, royalty routing, and agent commerce. He publishes under the name **Johnny Suede**.
 
 ## Public identity
 
 | Field | Canonical reference |
 |---|---|
 | Canonical name | Jason Colapietro |
-| Public alias | Jay Colapietro |
 | Role | Founder and CEO, Suede Labs AI |
 | Creative alias | Johnny Suede |
 | Personal site | [jasoncolapietro.com](https://jasoncolapietro.com) |

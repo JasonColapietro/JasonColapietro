@@ -6,7 +6,7 @@
 
 Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agentic commerce over x402 and ERC-8004, with music and likeness as early use cases.
 
-Jason is also known publicly as **Jay Colapietro** and publishes as **Johnny Suede**.
+Jason publishes as **Johnny Suede**.
 
 [Personal site](https://jasoncolapietro.com) · [Johnny Suede](https://johnnysuede.com) · [Suede Labs AI](https://suedeai.ai) · [Founder profile](https://suedeai.ai/founder) · [Writing](https://jasoncolapietro.substack.com) · [LinkedIn](https://www.linkedin.com/in/jasoncolapietro) · [X](https://x.com/johnnysuede)
 
@@ -48,7 +48,22 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 ## Open source
 
-Nine changes merged into eight projects I do not maintain, including a catalog graph fix in [Backstage](https://github.com/backstage/backstage/pull/35102). [Full list](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
+**[Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills)** — 71 agent skills for Claude Code and Codex, installable as a plugin marketplace. 150 stars, 8 forks, MIT.
+
+Twelve code, test, and documentation changes merged into eleven projects I do not maintain:
+
+| Project | Change |
+|---|---|
+| [Backstage](https://github.com/backstage/backstage/pull/35102) | Apply catalog graph page configuration |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot/pull/2562) | Add the MCP release QA skill |
+| [neural-amp-modeler (nam-rs)](https://github.com/OpenSauce/nam-rs/pull/50) | Report unsupported model architectures instead of failing silently |
+| [Ledger_c](https://github.com/Din-es/Ledger_c/pull/11) · [·](https://github.com/Din-es/Ledger_c/pull/12) | Line ranges in `why`; `unbind` command |
+| [backcheck](https://github.com/VectorInstitute/backcheck/pull/12) | Shellcheck runner support |
+| [copilot-money-mcp](https://github.com/ignaciohermosillacornejo/copilot-money-mcp/pull/616) | Cover soft-deleted transaction reads |
+| [uptime-kuma-api2](https://github.com/pbarone/uptime-kuma-api2/pull/20) | Bound the container readiness poll |
+| [skillreaper](https://github.com/thousandflowers/skillreaper/pull/19) · [sam-doctor](https://github.com/jakegold1647/sam-doctor/pull/6) · [xupersplit](https://github.com/kanylbullen/xupersplit/pull/86) · [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing/pull/106) | Version flags, OIDC negative tests, escaping, repository guidance |
+
+Counts merged work only, and excludes five accepted catalog listings. [Full list](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
 
 ## Contact
 
