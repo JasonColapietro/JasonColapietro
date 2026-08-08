@@ -57,7 +57,7 @@ Twelve code, test, and documentation changes merged into eleven projects I do no
 | [Backstage](https://github.com/backstage/backstage/pull/35102) | Apply catalog graph page configuration |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot/pull/2562) | Add the MCP release QA skill |
 | [neural-amp-modeler (nam-rs)](https://github.com/OpenSauce/nam-rs/pull/50) | Report unsupported model architectures instead of failing silently |
-| [Ledger_c](https://github.com/Din-es/Ledger_c/pull/11) · [·](https://github.com/Din-es/Ledger_c/pull/12) | Line ranges in `why`; `unbind` command |
+| Ledger_c [#11](https://github.com/Din-es/Ledger_c/pull/11) · [#12](https://github.com/Din-es/Ledger_c/pull/12) | Line ranges in `why`; `unbind` command |
 | [backcheck](https://github.com/VectorInstitute/backcheck/pull/12) | Shellcheck runner support |
 | [copilot-money-mcp](https://github.com/ignaciohermosillacornejo/copilot-money-mcp/pull/616) | Cover soft-deleted transaction reads |
 | [uptime-kuma-api2](https://github.com/pbarone/uptime-kuma-api2/pull/20) | Bound the container readiness poll |
