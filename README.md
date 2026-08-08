@@ -48,22 +48,20 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 ## Open source
 
-**[Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills)** — 71 agent skills for Claude Code and Codex, installable as a plugin marketplace. 150 stars, 8 forks, MIT.
+Most of it is [Suede Creator Skills](https://skills.suedeai.ai) — agent skills for Claude Code and Codex, installable as a plugin marketplace. The [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker) is out there too: a self-hosted Solana market maker dashboard, free, courtesy of Suede Labs AI.
 
-Twelve code, test, and documentation changes merged into eleven projects I do not maintain:
+Beyond my own repos, I send fixes upstream when something bites me mid-build. A few that landed: a catalog graph fix in [Backstage](https://github.com/backstage/backstage/pull/35102), an MCP release QA skill in GitHub's [awesome-copilot](https://github.com/github/awesome-copilot/pull/2562), honest errors for unsupported model architectures in [nam-rs](https://github.com/OpenSauce/nam-rs/pull/50), a shellcheck runner in [backcheck](https://github.com/VectorInstitute/backcheck/pull/12), and a readiness poll that stops hanging forever in [uptime-kuma-api2](https://github.com/pbarone/uptime-kuma-api2/pull/20). [The rest](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
 
-| Project | Change |
-|---|---|
-| [Backstage](https://github.com/backstage/backstage/pull/35102) | Apply catalog graph page configuration |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot/pull/2562) | Add the MCP release QA skill |
-| [neural-amp-modeler (nam-rs)](https://github.com/OpenSauce/nam-rs/pull/50) | Report unsupported model architectures instead of failing silently |
-| Ledger_c [#11](https://github.com/Din-es/Ledger_c/pull/11) · [#12](https://github.com/Din-es/Ledger_c/pull/12) | Line ranges in `why`; `unbind` command |
-| [backcheck](https://github.com/VectorInstitute/backcheck/pull/12) | Shellcheck runner support |
-| [copilot-money-mcp](https://github.com/ignaciohermosillacornejo/copilot-money-mcp/pull/616) | Cover soft-deleted transaction reads |
-| [uptime-kuma-api2](https://github.com/pbarone/uptime-kuma-api2/pull/20) | Bound the container readiness poll |
-| [skillreaper](https://github.com/thousandflowers/skillreaper/pull/19) · [sam-doctor](https://github.com/jakegold1647/sam-doctor/pull/6) · [xupersplit](https://github.com/kanylbullen/xupersplit/pull/86) · [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing/pull/106) | Version flags, OIDC negative tests, escaping, repository guidance |
+## Changelog
 
-Counts merged work only, and excludes five accepted catalog listings. [Full list](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
+What shipped lately, newest first.
+
+- **Aug 8, 2026** — [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker): rebuilt the dashboard as a proper control desk, on documented tokens instead of ad-hoc styling. Still free, still courtesy of Suede Labs AI.
+- **Aug 7, 2026** — MCP release QA skill merged into GitHub's [awesome-copilot](https://github.com/github/awesome-copilot/pull/2562).
+- **Aug 6, 2026** — Suede Creator Skills moved to its own home at [skills.suedeai.ai](https://skills.suedeai.ai).
+- **Aug 5, 2026** — Catalog graph page configuration fix merged into [Backstage](https://github.com/backstage/backstage/pull/35102).
+- **Aug 4, 2026** — Suede Voice and the Suede Guitar Tuner prepped for Google Play, and the Android sign-in dead end in Suede Social fixed.
+- **Aug 3, 2026** — Strumly's `/path` became a leveled free course, and the complete edition of The Signal Chain went on sale.
 
 ## Contact
 
