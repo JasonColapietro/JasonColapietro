@@ -1,7 +1,5 @@
 # Jason Colapietro
 
-<img src="./assets/jason-colapietro-github-avatar.png" alt="Jason Colapietro, founder and CEO of Suede Labs AI" width="180" />
-
 **Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group · published author · Patent 63/947,120**
 
 Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agentic commerce over x402 and ERC-8004, with music and likeness as early use cases.
