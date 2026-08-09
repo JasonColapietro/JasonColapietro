@@ -48,12 +48,13 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 Most of it is [Suede Creator Skills](https://skills.suedeai.ai) — agent skills for Claude Code and Codex, installable as a plugin marketplace. The [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker) is out there too: a self-hosted Solana market maker dashboard, free, courtesy of Suede Labs AI.
 
-Beyond my own repos, I send fixes upstream when something bites me mid-build. A few that landed: a catalog graph fix in [Backstage](https://github.com/backstage/backstage/pull/35102), an MCP release QA skill in GitHub's [awesome-copilot](https://github.com/github/awesome-copilot/pull/2562), honest errors for unsupported model architectures in [nam-rs](https://github.com/OpenSauce/nam-rs/pull/50), a shellcheck runner in [backcheck](https://github.com/VectorInstitute/backcheck/pull/12), and a readiness poll that stops hanging forever in [uptime-kuma-api2](https://github.com/pbarone/uptime-kuma-api2/pull/20). [The rest](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
+Beyond my own repos, I send fixes upstream when something bites me mid-build. A few that landed: a watcher crash and a module-resolution bug in [Jest](https://github.com/jestjs/jest/pull/16295), a catalog graph fix in [Backstage](https://github.com/backstage/backstage/pull/35102), an MCP release QA skill in GitHub's [awesome-copilot](https://github.com/github/awesome-copilot/pull/2562), honest errors for unsupported model architectures in [nam-rs](https://github.com/OpenSauce/nam-rs/pull/50), and a readiness poll that stops hanging forever in [uptime-kuma-api2](https://github.com/pbarone/uptime-kuma-api2/pull/20). [The rest](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
 
 ## Changelog
 
 What shipped lately, newest first.
 
+- **Aug 8, 2026** — Two fixes merged into [Jest](https://github.com/jestjs/jest/pull/16296): a transient watcher crash on Windows, and virtual mock IDs leaking between module registries.
 - **Aug 8, 2026** — [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker): rebuilt the dashboard as a proper control desk, on documented tokens instead of ad-hoc styling. Still free, still courtesy of Suede Labs AI.
 - **Aug 7, 2026** — MCP release QA skill merged into GitHub's [awesome-copilot](https://github.com/github/awesome-copilot/pull/2562).
 - **Aug 6, 2026** — Suede Creator Skills moved to its own home at [skills.suedeai.ai](https://skills.suedeai.ai).
