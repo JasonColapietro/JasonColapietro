@@ -48,13 +48,14 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 Most of it is [Suede Creator Skills](https://skills.suedeai.ai) — agent skills for Claude Code and Codex, installable as a plugin marketplace. The [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker) is out there too: a self-hosted Solana market maker dashboard, free, courtesy of Suede Labs AI.
 
-Beyond my own repos, I send fixes upstream when something bites me mid-build. A few that landed: a watcher crash and a module-resolution bug in [Jest](https://github.com/jestjs/jest/pull/16295), a catalog graph fix in [Backstage](https://github.com/backstage/backstage/pull/35102), an MCP release QA skill in GitHub's [awesome-copilot](https://github.com/github/awesome-copilot/pull/2562), honest errors for unsupported model architectures in [nam-rs](https://github.com/OpenSauce/nam-rs/pull/50), and a readiness poll that stops hanging forever in [uptime-kuma-api2](https://github.com/pbarone/uptime-kuma-api2/pull/20). [The rest](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
+Beyond my own repos, I send fixes upstream when something bites me mid-build. Fifteen substantive pull requests have merged across 13 repositories I don't maintain: a [safe first-contribution guide](https://github.com/johnnymeunome/MyVault/pull/26), a [Windows watcher crash](https://github.com/jestjs/jest/pull/16295) and [virtual mock cache-isolation bug](https://github.com/jestjs/jest/pull/16296) in Jest, a [catalog graph fix](https://github.com/backstage/backstage/pull/35102) in Backstage, an [MCP release QA skill](https://github.com/github/awesome-copilot/pull/2562) in GitHub's awesome-copilot, and [honest errors for unsupported model architectures](https://github.com/OpenSauce/nam-rs/pull/50) in nam-rs. The [broader outside-namespace merge search](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests) also includes six accepted listings of Suede's own projects; I keep those out of the contribution count.
 
 ## Changelog
 
 What shipped lately, newest first.
 
-- **Aug 8, 2026** — Two fixes merged into [Jest](https://github.com/jestjs/jest/pull/16296): a transient watcher crash on Windows, and virtual mock IDs leaking between module registries.
+- **Aug 9, 2026** — A safe first-contribution guide with validation and security-reporting boundaries merged into [MyVault](https://github.com/johnnymeunome/MyVault/pull/26).
+- **Aug 8, 2026** — Two fixes merged into Jest: a [transient watcher crash on Windows](https://github.com/jestjs/jest/pull/16295), and [virtual mock IDs leaking between module registries](https://github.com/jestjs/jest/pull/16296).
 - **Aug 8, 2026** — [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker): rebuilt the dashboard as a proper control desk, on documented tokens instead of ad-hoc styling. Still free, still courtesy of Suede Labs AI.
 - **Aug 7, 2026** — MCP release QA skill merged into GitHub's [awesome-copilot](https://github.com/github/awesome-copilot/pull/2562).
 - **Aug 6, 2026** — Suede Creator Skills moved to its own home at [skills.suedeai.ai](https://skills.suedeai.ai).
