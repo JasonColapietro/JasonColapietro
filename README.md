@@ -28,7 +28,7 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 | [Suede Scan](https://scan.suedeai.ai) | Shows what AI search engines say about a business, with screenshots, then repairs the site so machines can read it. |
 | [Strumly](https://strumly.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) · [FretPulse](https://fretpulse.suedeai.ai) | Musician tools — a 24/7 guitar coach, a creative training companion, and a guitar-care app. |
 | [Suede Social](https://social.suedeai.ai) · [Suede DNA](https://dna.suedeai.ai) | Creator community and gear magazine, plus an archive of 400+ guitarists' rigs and signal chains. |
-| [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | 71 open-source agent skills for Claude Code and Codex, covering rights, provenance, releases, evaluation, design, engineering, and go-to-market work. |
+| [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | 73 open-source agent skills for Claude Code and Codex, covering rights, provenance, releases, evaluation, design, engineering, and go-to-market work. |
 
 ## Books
 
