@@ -6,7 +6,7 @@ Jason Colapietro builds systems that help creators record authorship, define rig
 
 Jason publishes as **Johnny Suede**.
 
-[Personal site](https://jasoncolapietro.com) · [Johnny Suede](https://johnnysuede.com) · [Suede Labs AI](https://suedeai.ai) · [Founder profile](https://suedeai.ai/founder) · [Writing](https://jasoncolapietro.substack.com) · [LinkedIn](https://www.linkedin.com/in/jasoncolapietro) · [X](https://x.com/johnnysuede)
+[Personal site](https://jasoncolapietro.com) · [Johnny Suede](https://johnnysuede.com) · [Suede Labs AI](https://suedeai.ai) · [Founder profile](https://suedeai.ai/founder) · [Writing](https://jasoncolapietro.substack.com) · [LinkedIn](https://www.linkedin.com/in/jasoncolapietro) · [X](https://x.com/johnnysuede) · [Wikidata](https://www.wikidata.org/wiki/Q140235755) · [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e)
 
 ## What I am building
 
