@@ -32,7 +32,9 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 ## Books
 
-[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) · [The Signal Chain](https://guitar.solutions)
+Five published, all on Amazon: [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) · [The Claude Code Bible](https://www.amazon.com/dp/B0HGG8M4HL) · [Codex in Production](https://www.amazon.com/dp/B0HGL425D2)
+
+Published independently: [The Signal Chain](https://guitar.solutions) · [The Screenshot](https://seo.suedeai.ai/book) · [The Guitar Without a Number](https://strumly.suedeai.ai/book/catalog)
 
 ## Press
 
