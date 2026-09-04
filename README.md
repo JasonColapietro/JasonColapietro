@@ -40,6 +40,7 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 ## Verify the work
 
+- [My apps on the App Store](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) — Apple-hosted and not written by me, which is the scarce kind of proof. Every iOS app shipped under my name, with its current version and release date.
 - [Public IP registry](https://ip.suedeai.ai) — wallet-signed creator claims, file fingerprints, contributor records, and public timestamps; evidence, not legal title.
 - [x402 manifest](https://app.suedeai.ai/.well-known/x402.json) — currently advertised paid API resources in a machine-readable catalog.
 - [A2A agent card](https://app.suedeai.ai/.well-known/agent-card.json) — public agent identity, capabilities, and discovery metadata.
