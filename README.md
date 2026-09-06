@@ -95,9 +95,9 @@ Third-party outlets that published, newest first.
 - **Jul 2, 2026** · TechBullion · [Suede Labs AI Opens IP Visibility Audit for Brands, Creators, and Founder-Led Companies](https://techbullion.com/suede-labs-ai-opens-ip-visibility-audit-for-brands-creators-and-founder-led-companies/)
 - **May 25, 2026** · TechBullion · [Suede Labs AI Releases iOS Apps, Codex Skills & Musicians Terminal](https://techbullion.com/jason-colapietros-suede-labs-ai-launches-ios-apps/)
 - **May 9, 2026** · Altcoin Investor · [How AI, Blockchain, and On-Chain IP Are Changing Creator Ownership](https://altcoininvestor.com/ai-blockchain-on-chain-ip-creator-ownership/)
-- **Feb 27, 2026** · TechBullion · [Suede Labs Advances in the Avalanche Build Games With Massive Infrastructure Play](https://techbullion.com/suede-labs-advances-in-the-avalanche-build-games-with-massive-infrastructure-play/), syndicated by [MEXC News](https://www.mexc.com/news/816091)
+- **Feb 27, 2026** · TechBullion · [Suede Labs Advances in the Avalanche Build Games With Massive Infrastructure Play](https://techbullion.com/suede-labs-advances-in-the-avalanche-build-games-with-massive-infrastructure-play/), syndicated by MEXC News
 - **Feb 9, 2026** · TechBullion · [Best Suno Alternatives in 2026: Suede Labs and Top Competitors](https://techbullion.com/best-suno-alternatives-in-2026-suede-labs-and-top-competitors/)
-- **Jan 7, 2026** · TechBullion · [Suede Labs Brings AI-Powered Creative Tools to Students: The Quiet Revolution in Africa's Classrooms](https://techbullion.com/suede-labs-brings-ai-powered-creative-tools-to-students-the-quiet-revolution-in-africas-classrooms/), syndicated by [MEXC News](https://www.mexc.com/news/428376)
+- **Jan 7, 2026** · TechBullion · [Suede Labs Brings AI-Powered Creative Tools to Students: The Quiet Revolution in Africa's Classrooms](https://techbullion.com/suede-labs-brings-ai-powered-creative-tools-to-students-the-quiet-revolution-in-africas-classrooms/), syndicated by MEXC News
 - **Dec 15, 2025** · TechBullion · [Suede Labs Launches a Comprehensive On-Chain IP Authentication System](https://techbullion.com/suede-labs-launches-a-comprehensive-on-chain-ip-authentication-system/)
 
 Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai.ai/press).
@@ -223,9 +223,9 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 
 ### Earlier
 
-- **Feb 27, 2026** · TechBullion: [Suede Labs Advances in the Avalanche Build Games With Massive Infrastructure Play](https://techbullion.com/suede-labs-advances-in-the-avalanche-build-games-with-massive-infrastructure-play/), syndicated by [MEXC News](https://www.mexc.com/news/816091).
+- **Feb 27, 2026** · TechBullion: [Suede Labs Advances in the Avalanche Build Games With Massive Infrastructure Play](https://techbullion.com/suede-labs-advances-in-the-avalanche-build-games-with-massive-infrastructure-play/), syndicated by MEXC News.
 - **Feb 9, 2026** · TechBullion: [Best Suno Alternatives in 2026: Suede Labs and Top Competitors](https://techbullion.com/best-suno-alternatives-in-2026-suede-labs-and-top-competitors/).
-- **Jan 7, 2026** · TechBullion: [Suede Labs Brings AI-Powered Creative Tools to Students: The Quiet Revolution in Africa's Classrooms](https://techbullion.com/suede-labs-brings-ai-powered-creative-tools-to-students-the-quiet-revolution-in-africas-classrooms/), syndicated by [MEXC News](https://www.mexc.com/news/428376).
+- **Jan 7, 2026** · TechBullion: [Suede Labs Brings AI-Powered Creative Tools to Students: The Quiet Revolution in Africa's Classrooms](https://techbullion.com/suede-labs-brings-ai-powered-creative-tools-to-students-the-quiet-revolution-in-africas-classrooms/), syndicated by MEXC News.
 - **Dec 15, 2025** · TechBullion: [Suede Labs Launches a Comprehensive On-Chain IP Authentication System](https://techbullion.com/suede-labs-launches-a-comprehensive-on-chain-ip-authentication-system/).
 
 ## Contact
