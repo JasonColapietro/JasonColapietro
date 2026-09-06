@@ -19,7 +19,17 @@ Jason Colapietro builds systems that help creators record authorship, define rig
 
 Jason publishes as **Johnny Suede**.
 
-[Personal site](https://jasoncolapietro.com) · [Johnny Suede](https://johnnysuede.com) · [Suede Labs AI](https://suedeai.ai) · [Founder profile](https://suedeai.ai/founder) · [Writing](https://jasoncolapietro.substack.com) · [LinkedIn](https://www.linkedin.com/in/jasoncolapietro) · [X](https://x.com/johnnysuede) · [Wikidata](https://www.wikidata.org/wiki/Q140235755) · [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e)
+<p>
+  <a href="https://jasoncolapietro.com"><img src="https://img.shields.io/badge/Personal_site-jasoncolapietro.com-c8a96e?labelColor=080808" alt="Personal site: jasoncolapietro.com"></a>
+  <a href="https://johnnysuede.com"><img src="https://img.shields.io/badge/Johnny_Suede-johnnysuede.com-8b5cf6?labelColor=080808" alt="Johnny Suede: johnnysuede.com"></a>
+  <a href="https://suedeai.ai"><img src="https://img.shields.io/badge/Suede_Labs_AI-suedeai.ai-0ea5e9?labelColor=080808" alt="Suede Labs AI"></a>
+  <a href="https://suedeai.ai/founder"><img src="https://img.shields.io/badge/Founder_profile-suedeai.ai%2Ffounder-10b981?labelColor=080808" alt="Founder profile on suedeai.ai"></a>
+  <a href="https://jasoncolapietro.substack.com"><img src="https://img.shields.io/badge/Writing-Substack-ff6719?labelColor=080808" alt="Writing on Substack"></a>
+  <a href="https://www.linkedin.com/in/jasoncolapietro"><img src="https://img.shields.io/badge/LinkedIn-jasoncolapietro-0a66c2?labelColor=080808" alt="LinkedIn"></a>
+  <a href="https://x.com/johnnysuede"><img src="https://img.shields.io/badge/X-%40johnnysuede-1d9bf0?labelColor=080808" alt="X: @johnnysuede"></a>
+  <a href="https://www.wikidata.org/wiki/Q140235755"><img src="https://img.shields.io/badge/Wikidata-Q140235755-339966?labelColor=080808" alt="Wikidata item Q140235755"></a>
+  <a href="https://www.crunchbase.com/person/jason-colapietro-d83e"><img src="https://img.shields.io/badge/Crunchbase-founder_profile-0288d1?labelColor=080808" alt="Crunchbase profile"></a>
+</p>
 
 ## Highlights
 
