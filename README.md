@@ -8,11 +8,11 @@
 
 <p>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-8-c8a96e?labelColor=080808" alt="8 iOS apps"></a>
-  <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-3-c8a96e?labelColor=080808" alt="3 Android apps"></a>
-  <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-41_PRs_%2F_38_repos-c8a96e?labelColor=080808" alt="41 upstream PRs across 38 repos"></a>
-  <a href="https://skills.suedeai.ai"><img src="https://img.shields.io/badge/open--source_skills-74-c8a96e?labelColor=080808" alt="74 open-source skills"></a>
-  <a href="https://github.com/JasonColapietro/suede-creator-skills"><img src="https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat&label=skill%20pack%20stars&color=c8a96e&labelColor=080808" alt="Suede Creator Skills stars"></a>
-  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon-c8a96e?labelColor=080808" alt="5 books on Amazon"></a>
+  <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-3-3ddc84?labelColor=080808" alt="3 Android apps"></a>
+  <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-41_PRs_%2F_38_repos-8250df?labelColor=080808" alt="41 upstream PRs across 38 repos"></a>
+  <a href="https://skills.suedeai.ai"><img src="https://img.shields.io/badge/open--source_skills-74-06b6d4?labelColor=080808" alt="74 open-source skills"></a>
+  <a href="https://github.com/JasonColapietro/suede-creator-skills"><img src="https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat&label=skill%20pack%20stars&color=e3b341&labelColor=080808" alt="Suede Creator Skills stars"></a>
+  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon-ff9900?labelColor=080808" alt="5 books on Amazon"></a>
 </p>
 
 Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agentic commerce over x402 and ERC-8004, with music and likeness as early use cases. He builds solo: every app, site, book, and pull request on this page is his own work.
