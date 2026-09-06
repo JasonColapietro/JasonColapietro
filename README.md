@@ -4,7 +4,7 @@
 
 # Jason Colapietro
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group · author of five books · USPTO patent pending 63/947,120**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group · author of five books · Patent 63/947,120**
 
 <p>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-8-c8a96e?labelColor=080808" alt="8 iOS apps"></a>
