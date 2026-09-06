@@ -109,7 +109,7 @@ Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai
 - **Florida Atlantic Entrepreneurship Institute**, FAU College of Business, accepted July 17, 2026. FAU's entrepreneurship research ranks [No. 8 globally](https://business.fau.edu/newsroom/press-releases/2025/tcu-entrepreneurship-rankings-college-business-research.php) in the TCU productivity rankings for 2020 to 2024.
 - **1909**, member of the [West Palm Beach entrepreneurship hub](https://weare1909.org) since July 2026.
 - **OpenAI WebMCP Challenge**, August 25 to September 3, 2026: entered with [Suede Agent Studio's browser-native storefront](https://github.com/JasonColapietro/suede-webmcp-challenge), four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. Source published under MIT.
-- **USPTO provisional patent application 63/947,120**, patent pending.
+- **Patent 63/947,120** on file with the USPTO.
 
 ## Verify the work
 
