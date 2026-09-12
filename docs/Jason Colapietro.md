@@ -35,9 +35,9 @@ Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), 
 |---|---|---|
 | Suede Labs AI | [suedeai.ai](https://suedeai.ai) | Creator ownership infrastructure for work and likeness |
 | Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
-| Suede Creator Skills | [GitHub](https://github.com/JasonColapietro/suede-creator-skills) | Open-source workflows for creators, agents, and software teams |
-| The Signal Chain | [GitHub](https://github.com/JasonColapietro/the-signal-chain) · [book](https://strumly.suedeai.ai/book) | Electric-guitar history, signal flow, and research |
-| Anti-Slop Templates | [GitHub](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
+| Suede Creator Skills | [skills.suedeai.ai](https://skills.suedeai.ai) · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source workflows for creators, agents, and software teams |
+| The Signal Chain | [guitar.solutions](https://guitar.solutions) · [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Electric-guitar history, signal flow, and research |
+| Anti-Slop Templates | [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
 
 ## Public evidence
 
@@ -45,5 +45,22 @@ Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), 
 - [Suede x402 manifest](https://app.suedeai.ai/.well-known/x402.json) — current machine-readable paid resources.
 - [Suede A2A agent card](https://app.suedeai.ai/.well-known/agent-card.json) — agent identity, skills, and supported interface.
 - [Suede ecosystem map](https://map.suedeai.ai) — products, protocols, apps, and publications.
+
+## Third-party records
+
+Independent records that resolve to the same person. Each is hosted by someone else.
+
+| Record | Reference |
+|---|---|
+| Wikidata | [Q140235755](https://www.wikidata.org/wiki/Q140235755) |
+| Crunchbase | [jason-colapietro-d83e](https://www.crunchbase.com/person/jason-colapietro-d83e) |
+| PitchBook | [company profile 937217-71](https://pitchbook.com/profiles/company/937217-71) |
+| Apple Developer | [developer/jason-colapietro](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) |
+
+## Related references
+
+- [Profile, apps, books, press, and changelog](../README.md)
+- [Canonical public links and feeds](./Public%20Links.md)
+- [Suede Labs AI platform reference](./Suede%20Labs%20AI.md)
 
 This reference was last reviewed against the linked public sources on July 17, 2026.

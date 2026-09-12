@@ -137,6 +137,15 @@ Most of it is [Suede Creator Skills](https://skills.suedeai.ai): 74 agent skills
 
 Beyond my own repos, I send fixes upstream when something bites me mid-build. Forty-four pull requests have merged across 40 repositories I don't maintain, as of September 11, 2026: [connection capacity released after a failed RPC registration](https://github.com/paritytech/polkadot-sdk/pull/12853) in Parity's Polkadot SDK, [MCP provider guidance](https://github.com/solana-foundation/pay/pull/451) and [Pay Kit protocol docs](https://github.com/solana-foundation/pay-kit/pull/299) in Solana Pay, a [bounded IPC frame length](https://github.com/elizaOS/eliza/pull/25122) in elizaOS's Discord plugin, [local socket ownership](https://github.com/zeroclaw-labs/zeroclaw/pull/9846) in the zeroclaw runtime, a [focus-indicator hook](https://github.com/adobe/react-spectrum/pull/10426) in Adobe's React Spectrum, a [Windows watcher crash](https://github.com/jestjs/jest/pull/16295) and [virtual mock cache-isolation bug](https://github.com/jestjs/jest/pull/16296) in Jest, a [catalog graph fix](https://github.com/backstage/backstage/pull/35102) in Backstage, a [dead Holesky chain descriptor](https://github.com/NomicFoundation/hardhat/pull/8522) removed from Hardhat, a [missing-requirements crash](https://github.com/x402-foundation/x402/pull/3180) in the x402 TypeScript client, the [TSDB storage comparison](https://github.com/prometheus/docs/pull/3053) in the Prometheus docs, an [MCP release QA skill](https://github.com/github/awesome-copilot/pull/2562) in GitHub's awesome-copilot, and [honest errors for unsupported model architectures](https://github.com/OpenSauce/nam-rs/pull/50) in nam-rs. Twenty-seven of the 44 are substantive fixes, features, tests, and docs; the other seventeen are accepted listings of Suede's own projects on third-party lists. [Check every one](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
 
+## Reference
+
+Structured reference pages kept in this repository, for people and for agents reading the raw files.
+
+- [Public identity, roles, and evidence](docs/Jason%20Colapietro.md) — canonical name, creative alias, roles, and third-party records.
+- [Suede Labs AI platform reference](docs/Suede%20Labs%20AI.md) — what the platform does, its public surfaces, and its agent interfaces.
+- [Canonical public links and feeds](docs/Public%20Links.md) — one link index for Jason Colapietro and Suede Labs AI.
+- [Canonical ecosystem directories](docs/Suede%20Universe%20Websites%20and%20Apps.md) — where to look for current products, paths, and prices.
+
 ## Changelog
 
 What shipped, newest first. Product entries link to the live surface; open-source entries link to the merged pull request or release.

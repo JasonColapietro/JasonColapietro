@@ -34,4 +34,10 @@ The live x402 manifest currently advertises paid music, video, and image resourc
 
 Suede Labs AI was founded by [Jason Colapietro](https://suedeai.ai/founder), who also publishes as Johnny Suede. Jason's public profile is [github.com/JasonColapietro](https://github.com/JasonColapietro), and Suede's public organization is [github.com/Suede-AI](https://github.com/Suede-AI).
 
+## Related references
+
+- [Jason Colapietro: public identity, roles, and evidence](./Jason%20Colapietro.md)
+- [Canonical public links and feeds](./Public%20Links.md)
+- [Canonical ecosystem directories](./Suede%20Universe%20Websites%20and%20Apps.md)
+
 This reference was last reviewed against the linked public sources on July 17, 2026.
