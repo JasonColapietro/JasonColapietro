@@ -6,13 +6,9 @@ Use the source that matches the question:
 
 | Need | Canonical source |
 |---|---|
-| Product and company overview | [suedeai.ai](https://suedeai.ai) |
+| Every Suede and Jason Colapietro link, manifest, and feed | [Public Links.md](./Public%20Links.md) |
 | Ecosystem map | [map.suedeai.ai](https://map.suedeai.ai) |
 | Live product directory | [hub.suedeai.ai](https://hub.suedeai.ai) |
-| Creator and developer application | [app.suedeai.ai](https://app.suedeai.ai) |
-| Jason Colapietro and Suede public links | [Public Links.md](./Public%20Links.md) |
-| Current paid resources | [x402 manifest](https://app.suedeai.ai/.well-known/x402.json) |
-| Public agent metadata | [A2A agent card](https://app.suedeai.ai/.well-known/agent-card.json) |
 
 The live destinations are authoritative for current products, paths, prices, and availability. A manifest entry documents what is advertised; runtime behavior requires separate verification.
 

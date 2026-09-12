@@ -1,19 +1,20 @@
-# Public links
+# Canonical public links and feeds
 
-Canonical public links for Jason Colapietro and Suede Labs AI.
+The canonical link index for Jason Colapietro, who publishes as Johnny Suede, and for Suede Labs AI: official sites, profiles, third-party records, and machine-readable endpoints. Use this page to resolve which URL is authoritative for an identity or a surface. For the current product inventory, paths, and prices, use the live directories at [hub.suedeai.ai](https://hub.suedeai.ai) and [map.suedeai.ai](https://map.suedeai.ai).
 
 ## Jason Colapietro
 
 | Type | URL |
 |---|---|
 | Personal site | [jasoncolapietro.com](https://jasoncolapietro.com) |
-| Creative identity site | [johnnysuede.com](https://johnnysuede.com) |
+| Creative identity site (Johnny Suede) | [johnnysuede.com](https://johnnysuede.com) |
 | Founder record | [suedeai.ai/founder](https://suedeai.ai/founder) |
 | Supporting founder profile | [suedeai.org/jason-colapietro](https://suedeai.org/jason-colapietro/) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | Writing | [jasoncolapietro.substack.com](https://jasoncolapietro.substack.com) |
 | LinkedIn | [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro) |
-| X | [@johnnysuede](https://x.com/johnnysuede) |
+| X (Johnny Suede) | [@johnnysuede](https://x.com/johnnysuede) |
+| Holding entity | [jcinvestmentgroup.ventures](https://jcinvestmentgroup.ventures) |
 | Email | [jason@suedeai.ai](mailto:jason@suedeai.ai) |
 
 ## Suede Labs AI
@@ -27,6 +28,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
 | Product hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live ecosystem directory |
 | Ecosystem map | [map.suedeai.ai](https://map.suedeai.ai) | Products, protocols, apps, and publications |
+| Vocal studio | [sing.suedeai.ai](https://sing.suedeai.ai) | Suede Sing in the browser; ships as Suede Voice on iOS and Android |
 | Open-source skills | [skills.suedeai.ai](https://skills.suedeai.ai) | Suede Creator Skills for Claude Code and Codex |
 | GitHub organization | [github.com/Suede-AI](https://github.com/Suede-AI) | Public code and documentation |
 
@@ -39,6 +41,16 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | A2A agent card | [app.suedeai.ai/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
 
 The live x402 manifest advertises paid music, video, and image resources. The manifest is the source of truth for advertised paths, prices, and methods; a manifest entry documents what is advertised, not that a call will succeed.
+
+## Independent publications
+
+Hosts only; the individual paths change as editions ship.
+
+| Title | Host |
+|---|---|
+| The Signal Chain | [guitar.solutions](https://guitar.solutions) |
+| The Screenshot | [seo.suedeai.ai](https://seo.suedeai.ai) |
+| The Guitar Without a Number | [strumly.suedeai.ai](https://strumly.suedeai.ai) |
 
 ## Selected repositories
 
