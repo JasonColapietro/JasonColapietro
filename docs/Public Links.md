@@ -27,6 +27,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Product hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live ecosystem directory |
 | Ecosystem map | [map.suedeai.ai](https://map.suedeai.ai) | Products, protocols, apps, and publications |
 | GitHub organization | [github.com/Suede-AI](https://github.com/Suede-AI) | Public code and documentation |
+| Instagram | [instagram.com/suedeai](https://www.instagram.com/suedeai) | Company account; asserted in the Organization `sameAs` of the owned surfaces |
 
 ## Machine-readable proof
 
@@ -54,4 +55,6 @@ POST https://app.suedeai.ai/agent/image
 | [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Guitar history and signal-chain research |
 | [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
 
-This link index was last reviewed on July 17, 2026. Public endpoints and product status can change; the live destination is authoritative.
+Meta surfaces, including the accounts that are not ours, are documented in [Instagram and Facebook.md](./Instagram%20and%20Facebook.md).
+
+This link index was last reviewed on September 12, 2026. Public endpoints and product status can change; the live destination is authoritative.
