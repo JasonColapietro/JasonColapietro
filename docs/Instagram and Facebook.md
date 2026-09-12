@@ -1,9 +1,11 @@
 # Instagram and Facebook
 
 The Meta surfaces for Jason Colapietro and Suede Labs AI, what each one is for, and the
-work that would make them findable. Every account below is asserted in the `sameAs` arrays
-already shipping on the owned surfaces; this page is the entry the profile repository was
-missing.
+work that would make them findable. The four accounts in the table below are asserted in the
+`sameAs` arrays already shipping on the owned surfaces; this page is the entry the profile
+repository was missing. Everything named after that table is recorded for the opposite
+reason: two accounts that exist but belong in no `sameAs`, and several that are not ours at
+all.
 
 The short version: Instagram and Facebook are a configuration job, not a channel. They can
 hold page-one slots for navigational queries, give the entity write access to two Google

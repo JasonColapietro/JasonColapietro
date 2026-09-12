@@ -91,7 +91,10 @@ test("the Instagram handle is canonical and identical on every surface that carr
 // username has been claimed. A numeric URL is the weakest surface Meta offers
 // and Wikidata's P2013 constraint excludes it outright, so the Page stays out
 // of the link index until the username exists. This guard keeps the numeric
-// form from being published as a shortcut.
+// form from being published as a shortcut, in any of its spellings: the
+// profile.php query, the /people/Name/id path, and the bare id, which looks
+// like a username until you notice it has no letter in it. A real Facebook
+// username is 5 to 50 characters and cannot be all digits.
 test("a published Facebook link uses a claimed username, not a numeric id", async (t) => {
   const contents = await Promise.all(LINK_SURFACES.map(read));
   const mentions = contents.map(
@@ -105,9 +108,10 @@ test("a published Facebook link uses a claimed username, not a numeric id", asyn
 
   for (const [index, found] of mentions.entries()) {
     for (const raw of found) {
+      const username = "(?=[a-z0-9.]*[a-z])[a-z0-9.]{5,50}";
       const pattern = /^https:\/\//.test(raw)
-        ? /^https:\/\/www\.facebook\.com\/([a-z0-9.]+)$/
-        : /^facebook\.com\/([a-z0-9.]+)$/;
+        ? new RegExp(`^https://www\\.facebook\\.com/(${username})$`)
+        : new RegExp(`^facebook\\.com/(${username})$`);
 
       assert.match(
         raw,
