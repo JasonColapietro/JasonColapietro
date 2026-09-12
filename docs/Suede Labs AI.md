@@ -26,7 +26,7 @@
 |---|---|
 | x402 resource manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
 | A2A agent card | [app.suedeai.ai/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
-| Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) |
+| Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) |
 
 The live x402 manifest currently advertises paid music, video, and image resources. The manifest itself is the source of truth for advertised paths, prices, and methods; runtime success requires a separate canary.
 
@@ -40,4 +40,4 @@ Suede Labs AI was founded by [Jason Colapietro](https://suedeai.ai/founder), who
 - [Canonical public links and feeds](./Public%20Links.md)
 - [Canonical ecosystem directories](./Suede%20Universe%20Websites%20and%20Apps.md)
 
-This reference was last reviewed against the linked public sources on July 17, 2026.
+Content last updated: September 12, 2026. Last reviewed against the linked public sources: July 17, 2026 — entries added or changed since that date have not been independently re-verified.

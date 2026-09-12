@@ -48,14 +48,14 @@ Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), 
 
 ## Third-party records
 
-Independent records that resolve to the same person. Each is hosted by someone else.
+Independent records for Jason Colapietro and for Suede Labs AI. Each is hosted by someone else.
 
 | Record | Reference |
 |---|---|
-| Wikidata | [Q140235755](https://www.wikidata.org/wiki/Q140235755) |
-| Crunchbase | [jason-colapietro-d83e](https://www.crunchbase.com/person/jason-colapietro-d83e) |
-| PitchBook | [company profile 937217-71](https://pitchbook.com/profiles/company/937217-71) |
-| Apple Developer | [developer/jason-colapietro](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) |
+| Wikidata (person) | [Wikidata Q140235755](https://www.wikidata.org/wiki/Q140235755) |
+| Crunchbase (person) | [Jason Colapietro on Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e) |
+| PitchBook (company) | [Suede Labs AI on PitchBook](https://pitchbook.com/profiles/company/937217-71) |
+| Apple Developer | [Jason Colapietro on the App Store](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) |
 
 ## Related references
 
@@ -63,4 +63,4 @@ Independent records that resolve to the same person. Each is hosted by someone e
 - [Canonical public links and feeds](./Public%20Links.md)
 - [Suede Labs AI platform reference](./Suede%20Labs%20AI.md)
 
-This reference was last reviewed against the linked public sources on July 17, 2026.
+Content last updated: September 12, 2026. Last reviewed against the linked public sources: July 17, 2026 — entries added or changed since that date have not been independently re-verified.

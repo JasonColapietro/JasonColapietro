@@ -32,3 +32,44 @@ test("profile documents do not reintroduce the Jay Colapietro alias", async () =
     assert.doesNotMatch(text, /Jay Colapietro/, `${files[index]} reintroduces the Jay Colapietro alias`);
   }
 });
+
+// Counts on the profile are asserted in several places at once — a badge, a
+// Highlights bullet, a section lead, and sometimes the prose of another section.
+// Reconciling them after they drift apart is the most common commit in this
+// repo's history, and at least one count (upstream merges) has shipped wrong.
+// These guards pin each count to something countable in the file itself.
+test("profile counts agree with the badges and with what the file lists", async () => {
+  const readme = await read("README.md");
+
+  const badge = (pattern) => {
+    const match = readme.match(pattern);
+    assert.ok(match, `badge not found: ${pattern}`);
+    return Number(match[1]);
+  };
+  const occurrences = (pattern) => (readme.match(pattern) ?? []).length;
+
+  // Store counts must match the rows the Apps table actually lists.
+  assert.equal(badge(/iOS_apps-(\d+)-/), occurrences(/\| iOS \|/g), "iOS badge vs Apps table rows");
+  assert.equal(badge(/Android_apps-(\d+)-/), occurrences(/\| Android \|/g), "Android badge vs Apps table rows");
+
+  // Books badge counts Amazon titles only; the independents are listed separately.
+  assert.equal(badge(/badge\/books-(\d+)_on_Amazon/), occurrences(/amazon\.com\/dp/g), "books badge vs Amazon links");
+
+  // The upstream record is one number in three renderings, plus a split that must sum.
+  const prs = badge(/upstream_merges-(\d+)_PRs/);
+  const repos = badge(/upstream_merges-\d+_PRs_%2F_(\d+)_repos/);
+  assert.match(readme, new RegExp(`${prs} pull requests merged into ${repos} open-source projects`));
+  assert.match(readme, new RegExp(`merged across ${repos} repositories`));
+  const split = readme.match(/(\d+) are fixes, features, tests, and docs; the other (\d+) are accepted listings/);
+  assert.ok(split, "numeric substantive/listing split not found");
+  assert.equal(Number(split[1]) + Number(split[2]), prs, "substantive + listings must equal the total");
+  assert.match(readme, new RegExp(`of the ${prs} are substantive`), "prose restatement of the split total");
+
+  // The skills count appears in the badge and three separate prose claims.
+  const skills = badge(/open--source_skills-(\d+)-/);
+  assert.equal(occurrences(new RegExp(`${skills} (open-source )?agent skills`, "g")), 3, "skills count occurrences");
+
+  // The star count is rendered live by a shields.io badge, so it must not also
+  // be hardcoded in prose, where it silently goes stale.
+  assert.doesNotMatch(readme, /\d+ stars/, "star counts belong to the live badge, not to prose");
+});

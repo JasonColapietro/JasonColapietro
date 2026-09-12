@@ -16,4 +16,10 @@ Use the source that matches the question:
 
 The live destinations are authoritative for current products, paths, prices, and availability. A manifest entry documents what is advertised; runtime behavior requires separate verification.
 
-Last reviewed: July 17, 2026.
+## Related references
+
+- [Profile, apps, books, press, and changelog](../README.md)
+- [Jason Colapietro: public identity, roles, and evidence](./Jason%20Colapietro.md)
+- [Suede Labs AI platform reference](./Suede%20Labs%20AI.md)
+
+Superseded on July 17, 2026. This page is a compatibility stub kept at its original path so previously published links keep resolving; it is not maintained as content, and its filename is deliberately frozen.

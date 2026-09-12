@@ -24,7 +24,7 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Company and thesis | [suedeai.org](https://suedeai.org) | Ownership, provenance, books, and company material |
 | Creator application | [app.suedeai.ai/create](https://app.suedeai.ai/create) | Creator workflow |
 | Developer portal | [app.suedeai.ai/developers](https://app.suedeai.ai/developers) | Developer workflow and API entry point |
-| Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
+| Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
 | Product hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live ecosystem directory |
 | Ecosystem map | [map.suedeai.ai](https://map.suedeai.ai) | Products, protocols, apps, and publications |
 | Open-source skills | [skills.suedeai.ai](https://skills.suedeai.ai) | Suede Creator Skills for Claude Code and Codex |
@@ -35,17 +35,10 @@ Canonical public links for Jason Colapietro and Suede Labs AI.
 | Reference | URL |
 |---|---|
 | Public IP registry | [ip.suedeai.ai](https://ip.suedeai.ai) |
-| x402 discovery | [/.well-known/x402](https://app.suedeai.ai/.well-known/x402) |
-| x402 JSON manifest | [/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
-| A2A agent card | [/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
+| x402 manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
+| A2A agent card | [app.suedeai.ai/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
 
-The live x402 manifest currently lists these paid resources:
-
-```text
-POST https://app.suedeai.ai/create-music
-POST https://app.suedeai.ai/agent/video
-POST https://app.suedeai.ai/agent/image
-```
+The live x402 manifest advertises paid music, video, and image resources. The manifest is the source of truth for advertised paths, prices, and methods; a manifest entry documents what is advertised, not that a call will succeed.
 
 ## Selected repositories
 
@@ -61,5 +54,6 @@ POST https://app.suedeai.ai/agent/image
 - [Profile, apps, books, press, and changelog](../README.md)
 - [Jason Colapietro: public identity, roles, and evidence](./Jason%20Colapietro.md)
 - [Suede Labs AI platform reference](./Suede%20Labs%20AI.md)
+- [Canonical ecosystem directories](./Suede%20Universe%20Websites%20and%20Apps.md)
 
-This link index was last reviewed on July 17, 2026. Public endpoints and product status can change; the live destination is authoritative.
+Content last updated: September 12, 2026. Last reviewed against the live destinations: July 17, 2026 — entries added or changed since that date have not been independently re-verified. Public endpoints and product status can change; the live destination is authoritative.
