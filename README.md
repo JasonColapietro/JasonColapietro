@@ -212,7 +212,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 - **Jul 7** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids/id6785347610) launched on the App Store, the eighth iOS app.
 - **Jul 6** · Programming Insider ran [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/), three days after [Indie Hackers](https://www.indiehackers.com/post/in-the-age-of-infinite-content-spam-is-instant-death-4ca5Qi4vTHZ8aB3muBVK).
 - **Jul 4** · The [founder page](https://suedeai.ai/founder) redesigned as an editorial registry-ledger profile. [distro.suedeai.ai](https://distro.suedeai.ai) rebuilt as a sales page. Muse takes began flowing into the Suede Social feed.
-- **Jul 3** · Suede Sing 1.2: App Store optimization, new screenshots, and the site rebrand completed. [suedeai.ai](https://suedeai.ai) shipped pillar pages for proof of creation and programmable IP with full schema. [Suede Muse](https://muse.suedeai.ai) launched The House Deck, a nightly card ritual.
+- **Jul 3** · New screenshots and store-listing optimization for the vocal studio, and the site rebrand completed. [suedeai.ai](https://suedeai.ai) shipped pillar pages for proof of creation and programmable IP with full schema. [Suede Muse](https://muse.suedeai.ai) launched The House Deck, a nightly card ritual.
 - **Jul 2** · TechBullion: [Suede Labs AI Opens IP Visibility Audit for Brands, Creators, and Founder-Led Companies](https://techbullion.com/suede-labs-ai-opens-ip-visibility-audit-for-brands-creators-and-founder-led-companies/).
 
 ### June 2026
