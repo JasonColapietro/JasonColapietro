@@ -307,11 +307,13 @@ test("the vocal studio is Suede Voice on mobile and Suede Sing on web and Chrome
     "the Chrome row must be listed as Suede Sing",
   );
 
-  // And the Selected work entry must keep stating the split, since that is the
-  // one place a reader learns the two names are one product.
+  // And the Selected work row must keep stating the split, since that is the one
+  // place a reader learns the two names are one product. Targeted at that row
+  // rather than the file: the sentence surviving in a changelog entry while the
+  // row lost it would satisfy a document-wide match and prove nothing.
   assert.match(
-    readme,
+    row("sing.suedeai.ai"),
     /Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing/,
-    "the Suede Sing entry must state which name each platform uses",
+    "the Suede Sing row in Selected public work must state which name each platform uses",
   );
 });
