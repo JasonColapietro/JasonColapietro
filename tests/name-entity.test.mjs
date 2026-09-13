@@ -169,9 +169,28 @@ test("profile counts agree with the badges and with what the file lists", async 
   };
   const occurrences = (pattern) => (readme.match(pattern) ?? []).length;
 
-  // Store counts must match the rows the Apps table actually lists.
-  assert.equal(badge(/iOS_apps-(\d+)-/), occurrences(/\| iOS \|/g), "iOS badge vs Apps table rows");
-  assert.equal(badge(/Android_apps-(\d+)-/), occurrences(/\| Android \|/g), "Android badge vs Apps table rows");
+  // Several of these counts are also spelled out in prose, where a badge and a
+  // table row can agree with each other while the sentence beside them goes
+  // stale. Comparing digits alone would miss that, so compare the word forms.
+  const ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
+    "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"];
+  const TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
+  const inWords = (n) => (n < 20 ? ONES[n] : `${TENS[Math.floor(n / 10)]}${n % 10 ? `-${ONES[n % 10]}` : ""}`);
+
+  // Store counts must match the rows the Apps table actually lists, and the two
+  // places the same totals are written out in words.
+  const ios = badge(/iOS_apps-(\d+)-/);
+  const android = badge(/Android_apps-(\d+)-/);
+  const chrome = occurrences(/\| Chrome \|/g);
+  assert.equal(ios, occurrences(/\| iOS \|/g), "iOS badge vs Apps table rows");
+  assert.equal(android, occurrences(/\| Android \|/g), "Android badge vs Apps table rows");
+  assert.match(readme, new RegExp(`${inWords(ios)} iOS apps and ${inWords(android)} Android apps`, "i"),
+    "Highlights prose vs the iOS and Android badges");
+  assert.match(
+    readme,
+    new RegExp(`${inWords(ios)} on the App Store, ${inWords(android)} on Google Play, ${inWords(chrome)} on the Chrome Web Store`, "i"),
+    "Apps section lead vs the badges and the Chrome row",
+  );
 
   // Books badge counts Amazon titles only; the independents are listed separately.
   assert.equal(badge(/badge\/books-(\d+)_on_Amazon/), occurrences(/amazon\.com\/dp/g), "books badge vs Amazon links");
@@ -183,8 +202,14 @@ test("profile counts agree with the badges and with what the file lists", async 
   assert.match(readme, new RegExp(`merged across ${repos} repositories`));
   const split = readme.match(/(\d+) are fixes, features, tests, and docs; the other (\d+) are accepted listings/);
   assert.ok(split, "numeric substantive/listing split not found");
-  assert.equal(Number(split[1]) + Number(split[2]), prs, "substantive + listings must equal the total");
-  assert.match(readme, new RegExp(`of the ${prs} are substantive`), "prose restatement of the split total");
+  const [substantive, listings] = [Number(split[1]), Number(split[2])];
+  assert.equal(substantive + listings, prs, "substantive + listings must equal the total");
+  // The split is written twice: digits in Highlights, words in Open source. A
+  // reclassification that keeps the sum (27/17 to 28/16) would otherwise pass.
+  assert.match(readme, new RegExp(`${inWords(substantive)} of the ${prs} are substantive`, "i"),
+    "spelled-out substantive count vs the numeric split");
+  assert.match(readme, new RegExp(`the other ${inWords(listings)} are accepted listings`, "i"),
+    "spelled-out listing count vs the numeric split");
 
   // The skills count appears in the badge and three separate prose claims.
   const skills = badge(/open--source_skills-(\d+)-/);
