@@ -279,3 +279,41 @@ test("patent claims are scoped to provisional applications and agree on the coun
     `the Programs entry states ${programs[1]} provisional applications but enumerates ${serials.size} serial numbers`,
   );
 });
+
+// The vocal studio carries two names, and that is deliberate rather than drift:
+// the App Store rename to "Suede Sing" was submitted on 2026-07-10 and
+// 2026-07-14, rejected both times, and every submission since 2026-08-11 has
+// gone in as "Suede Voice". So mobile is Suede Voice and web plus Chrome is
+// Suede Sing. Both names are live, which is exactly the condition under which a
+// surface quietly acquires the wrong one.
+test("the vocal studio is Suede Voice on mobile and Suede Sing on web and Chrome", async () => {
+  const readme = await read("README.md");
+
+  // Apps table rows only — the same store IDs also appear in Highlights prose
+  // and in the changelog, and matching those would prove nothing about the table.
+  const row = (needle) => {
+    const line = readme.split("\n").find((l) => l.startsWith("| [") && l.includes(needle));
+    assert.ok(line, `no Apps table row found containing ${needle}`);
+    return line;
+  };
+
+  // Store listings, identified by their store IDs rather than by their titles,
+  // so a renamed row cannot satisfy the guard by matching on the new name.
+  assert.match(row("id6767763231"), /\|\s*\[Suede Voice/, "the iOS row must be listed as Suede Voice");
+  assert.match(row("ai.suedeai.suedevoice"), /\|\s*\[Suede Voice/, "the Android row must be listed as Suede Voice");
+  assert.match(
+    row("dbimnmcokgmibdenmonoafhmdbjhpicd"),
+    /\|\s*\[Suede Sing/,
+    "the Chrome row must be listed as Suede Sing",
+  );
+
+  // And the Selected work row must keep stating the split, since that is the one
+  // place a reader learns the two names are one product. Targeted at that row
+  // rather than the file: the sentence surviving in a changelog entry while the
+  // row lost it would satisfy a document-wide match and prove nothing.
+  assert.match(
+    row("sing.suedeai.ai"),
+    /Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing/,
+    "the Suede Sing row in Selected public work must state which name each platform uses",
+  );
+});
