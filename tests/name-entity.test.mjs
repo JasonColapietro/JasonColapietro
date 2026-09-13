@@ -261,4 +261,18 @@ test("patent claims are scoped to provisional applications and agree on the coun
     programs[1].toLowerCase(),
     "the bio line and the Programs section must give the same provisional count",
   );
+
+  // The serials are enumerated, so the stated count has something countable to
+  // agree with. A count asserted without the numbers behind it is the weaker
+  // claim, and the one that drifts.
+  const WORDS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"];
+  const stated = WORDS.indexOf(programs[1].toLowerCase());
+  assert.notEqual(stated, -1, `unrecognised provisional count word: ${programs[1]}`);
+
+  const serials = new Set(readme.match(/\b63\/\d{3},\d{3}\b/g) ?? []);
+  assert.equal(
+    serials.size,
+    stated,
+    `the page states ${programs[1]} provisional applications but lists ${serials.size} serial numbers`,
+  );
 });

@@ -4,7 +4,7 @@
 
 # Jason Colapietro
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group LLC · author of eight books · six provisional patent applications**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group LLC · author of eight books · five provisional patent applications**
 
 <p>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-8-c8a96e?labelColor=080808" alt="8 iOS apps"></a>
@@ -118,7 +118,7 @@ Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai
 - **Florida Atlantic Entrepreneurship Institute**, FAU College of Business, accepted July 17, 2026. FAU's entrepreneurship research ranks [No. 8 globally](https://business.fau.edu/newsroom/press-releases/2025/tcu-entrepreneurship-rankings-college-business-research.php) in the TCU productivity rankings for 2020 to 2024.
 - **1909**, member of the [West Palm Beach entrepreneurship hub](https://weare1909.org) since July 2026.
 - **OpenAI WebMCP Challenge**, August 25 to September 3, 2026: entered with [Suede Agent Studio's browser-native storefront](https://github.com/JasonColapietro/suede-webmcp-challenge), four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. Source published under MIT.
-- **Six provisional patent applications** on file with the USPTO, including 63/947,120. Provisional applications are not themselves published, so these are filing records rather than granted patents.
+- **Five provisional patent applications** on file with the USPTO: 63/946,189, 63/946,192, 63/946,212, 63/946,217, and 63/947,120, all with filing receipts issued in January 2026. Provisional applications are not themselves published, so these are filing records rather than granted patents.
 
 ## Verify the work
 
