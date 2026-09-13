@@ -31,6 +31,7 @@ The canonical link index for Jason Colapietro, who publishes as Johnny Suede, an
 | Vocal studio | [sing.suedeai.ai](https://sing.suedeai.ai) | Suede Sing in the browser; ships as Suede Voice on iOS and Android |
 | Open-source skills | [skills.suedeai.ai](https://skills.suedeai.ai) | Suede Creator Skills for Claude Code and Codex |
 | GitHub organization | [github.com/Suede-AI](https://github.com/Suede-AI) | Public code and documentation |
+| Instagram | [instagram.com/suedeai](https://www.instagram.com/suedeai) | Company account; asserted in the Organization `sameAs` of the owned surfaces |
 
 ## Machine-readable proof
 
@@ -61,11 +62,14 @@ Hosts only; the individual paths change as editions ship.
 | [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Guitar history and signal-chain research |
 | [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
 
+Meta surfaces, including the accounts that are not ours, are documented in [Instagram and Facebook.md](./Instagram%20and%20Facebook.md).
+
 ## Related references
 
 - [Profile, apps, books, press, and changelog](../README.md)
 - [Jason Colapietro: public identity, roles, and evidence](./Jason%20Colapietro.md)
 - [Suede Labs AI platform reference](./Suede%20Labs%20AI.md)
 - [Canonical ecosystem directories](./Suede%20Universe%20Websites%20and%20Apps.md)
+- [Instagram and Facebook surfaces](./Instagram%20and%20Facebook.md)
 
 Content last updated: September 12, 2026. Last reviewed against the live destinations: July 17, 2026 — entries added or changed since that date have not been independently re-verified. Public endpoints and product status can change; the live destination is authoritative.

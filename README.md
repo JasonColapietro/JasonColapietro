@@ -25,6 +25,7 @@ Jason Colapietro builds systems that help creators record authorship, define rig
   <a href="https://jasoncolapietro.substack.com"><img src="https://img.shields.io/badge/Writing-Substack-c2410c?labelColor=080808" alt="Writing on Substack"></a>
   <a href="https://www.linkedin.com/in/jasoncolapietro"><img src="https://img.shields.io/badge/LinkedIn-jasoncolapietro-0a66c2?labelColor=080808" alt="LinkedIn: jasoncolapietro"></a>
   <a href="https://x.com/johnnysuede"><img src="https://img.shields.io/badge/X-%40johnnysuede-1a6fb5?labelColor=080808" alt="X: @johnnysuede"></a>
+  <a href="https://www.instagram.com/suedeai"><img src="https://img.shields.io/badge/Instagram-%40suedeai-c13584?labelColor=080808" alt="Instagram: @suedeai"></a>
   <a href="https://www.wikidata.org/wiki/Q140235755"><img src="https://img.shields.io/badge/Wikidata-Q140235755-1f6b46?labelColor=080808" alt="Wikidata item Q140235755"></a>
   <a href="https://www.crunchbase.com/person/jason-colapietro-d83e"><img src="https://img.shields.io/badge/Crunchbase-founder_profile-01629b?labelColor=080808" alt="Crunchbase: founder profile"></a>
 </p>
