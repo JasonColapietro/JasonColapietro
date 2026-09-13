@@ -172,10 +172,24 @@ test("profile counts agree with the badges and with what the file lists", async 
   // Several of these counts are also spelled out in prose, where a badge and a
   // table row can agree with each other while the sentence beside them goes
   // stale. Comparing digits alone would miss that, so compare the word forms.
+  //
+  // This returns a regex fragment rather than a fixed string, so that a count
+  // written "one hundred and twenty-seven" matches one written "one hundred
+  // twenty-seven": the assertion is about the number, not about house style.
+  // Anything past the supported range throws by name instead of interpolating
+  // "undefined" into the pattern, which would fail a correctly updated README.
   const ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
     "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"];
   const TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
-  const inWords = (n) => (n < 20 ? ONES[n] : `${TENS[Math.floor(n / 10)]}${n % 10 ? `-${ONES[n % 10]}` : ""}`);
+  const inWords = (n) => {
+    if (!Number.isInteger(n) || n < 0 || n > 999) {
+      throw new RangeError(`inWords covers 0 to 999 and was given ${n}; extend it before the counts reach that far`);
+    }
+    if (n < 20) return ONES[n];
+    if (n < 100) return `${TENS[Math.floor(n / 10)]}${n % 10 ? `[- ]${ONES[n % 10]}` : ""}`;
+    const rest = n % 100;
+    return `${ONES[Math.floor(n / 100)]} hundred${rest ? `(?: and)?[- ]${inWords(rest)}` : ""}`;
+  };
 
   // Store counts must match the rows the Apps table actually lists, and the two
   // places the same totals are written out in words.
