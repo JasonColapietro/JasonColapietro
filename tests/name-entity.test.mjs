@@ -233,3 +233,32 @@ test("profile counts agree with the badges and with what the file lists", async 
   // be hardcoded in prose, where it silently goes stale.
   assert.doesNotMatch(readme, /\d+ stars/, "star counts belong to the live badge, not to prose");
 });
+
+// The patent line is the weakest-evidenced claim on the page, and the only one
+// that structurally cannot carry a third-party link: the USPTO does not publish
+// provisional applications. That makes the wording load-bearing. A 63/-series
+// serial is a provisional application, not a granted patent, and two earlier
+// commits propagated "Patent 63/947,120" into the bio and the Programs section
+// before it was corrected — so this guard keeps that phrasing from returning
+// and keeps the two places that state the count from drifting apart.
+test("patent claims are scoped to provisional applications and agree on the count", async () => {
+  const readme = await read("README.md");
+
+  assert.doesNotMatch(
+    readme,
+    /\bPatent(?:s)? \d{2}\//,
+    'a 63/-series serial is a provisional application; write "provisional patent application", not "Patent"',
+  );
+
+  const programs = readme.match(/\*\*(\w+) provisional patent applications?\*\* on file with the USPTO/i);
+  assert.ok(programs, "the Programs section must state the provisional application count");
+
+  const bio = readme.match(/· (\w+) provisional patent applications?\*\*/i);
+  assert.ok(bio, "the bio line must state the provisional application count");
+
+  assert.equal(
+    bio[1].toLowerCase(),
+    programs[1].toLowerCase(),
+    "the bio line and the Programs section must give the same provisional count",
+  );
+});
