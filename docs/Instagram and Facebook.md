@@ -26,7 +26,7 @@ Jason's personal Facebook profile and a dormant "Johnny Suede" Facebook profile 
 Neither is linked from an owned surface, neither is in any `sameAs`, and neither should
 become a publishing surface. The personal profile's vanity string is `suedeai`, which
 collides with the Instagram organization handle — a reason to keep the two clearly separate
-rather than to unify them.
+rather than to unify them, and the reason that username is out of reach for the Page.
 
 ## Deliberately absent
 
@@ -60,10 +60,12 @@ Do not claim, link, or list these. Several are name matches that surface in the 
 ## What to fix, in order
 
 1. **Claim a Facebook vanity username.** The Page is reachable only by numeric ID, which is
-   the weakest ranking surface Meta offers and cannot be recorded in Wikidata at all —
-   property P2013 carries a constraint excluding `*.php` paths. Usernames are 5–50
-   characters, letters, numbers, and periods only, with a change cooldown that makes this
-   effectively one-shot. `suedelabsai` first, `suedeai` as fallback. Resolve whether the
+   the weakest ranking surface Meta offers and is unusable in P2013, Wikidata's Facebook
+   username property, whose constraint rejects both the `people` path this Page sits on and
+   the `profile.php` form. Usernames are 5–50 characters, letters, numbers, and periods only,
+   with a change cooldown that makes this effectively one-shot. `suedelabsai` first,
+   `suedelabsofficial` as fallback; `suedeai` is not available, because Jason's personal
+   profile holds it and a period does not make a separate username. Resolve whether the
    entity is a Page or a new-style profile before claiming, because the username follows the
    entity.
 2. **Confirm both Instagram accounts are Professional with search-engine indexing on.**
@@ -94,9 +96,14 @@ Do not claim, link, or list these. Several are name matches that surface in the 
    back-links are `nofollow`, so their whole value is as reciprocal identity assertion —
    one-way claims are weak and hijackable in reverse.
 7. **Record the identifiers on Wikidata, organization item first.** P2003 takes the Instagram
-   username, handle only, no `@`; P12546 takes the numeric ID as a rename-proof qualifier;
-   P2013 takes the Facebook username and is blocked until step 1. These belong on the
-   organization item, not on Q140235755, since no personal accounts exist. Self-assigned
+   username, handle only, no `@`; P12546 takes the Instagram numeric ID as a rename-proof
+   qualifier; P11705 takes the Facebook numeric ID, `61584534847516`, which survives the
+   rename step 1 will cause; P2013 takes the Facebook username and is blocked until step 1.
+   These belong on the organization item, not on Q140235755 — an org identifier on a person
+   item is a modelling error reviewers strip. The person item stays empty of both by choice:
+   no personal Instagram exists, and the two personal Facebook profiles above are
+   deliberately not entity surfaces, including the `suedeai` vanity P2013 would otherwise
+   accept. Self-assigned
    identifiers do not count toward notability, and an item dominated by them invites
    deletion — reference each to the owned site rather than to the profile itself.
 8. **Audit Open Graph tags on the owned domains.** This is one fix that improves link
