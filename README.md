@@ -27,6 +27,7 @@ Jason publishes as **Johnny Suede**.
   <a href="https://jasoncolapietro.substack.com"><img src="https://img.shields.io/badge/Writing-Substack-ff6719?labelColor=080808" alt="Writing on Substack"></a>
   <a href="https://www.linkedin.com/in/jasoncolapietro"><img src="https://img.shields.io/badge/LinkedIn-jasoncolapietro-0a66c2?labelColor=080808" alt="LinkedIn"></a>
   <a href="https://x.com/johnnysuede"><img src="https://img.shields.io/badge/X-%40johnnysuede-1d9bf0?labelColor=080808" alt="X: @johnnysuede"></a>
+  <a href="https://www.instagram.com/suedeai"><img src="https://img.shields.io/badge/Instagram-%40suedeai-e4405f?labelColor=080808" alt="Instagram: @suedeai"></a>
   <a href="https://www.wikidata.org/wiki/Q140235755"><img src="https://img.shields.io/badge/Wikidata-Q140235755-339966?labelColor=080808" alt="Wikidata item Q140235755"></a>
   <a href="https://www.crunchbase.com/person/jason-colapietro-d83e"><img src="https://img.shields.io/badge/Crunchbase-founder_profile-0288d1?labelColor=080808" alt="Crunchbase profile"></a>
 </p>
