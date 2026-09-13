@@ -250,7 +250,7 @@ test("patent claims are scoped to provisional applications and agree on the coun
     'a 63/-series serial is a provisional application; write "provisional patent application", not "Patent"',
   );
 
-  const programs = readme.match(/\*\*(\w+) provisional patent applications?\*\* on file with the USPTO/i);
+  const programs = readme.match(/\*\*(\w+) provisional patent applications?\*\* on file with the USPTO[^\n]*/i);
   assert.ok(programs, "the Programs section must state the provisional application count");
 
   const bio = readme.match(/· (\w+) provisional patent applications?\*\*/i);
@@ -269,10 +269,13 @@ test("patent claims are scoped to provisional applications and agree on the coun
   const stated = WORDS.indexOf(programs[1].toLowerCase());
   assert.notEqual(stated, -1, `unrecognised provisional count word: ${programs[1]}`);
 
-  const serials = new Set(readme.match(/\b63\/\d{3},\d{3}\b/g) ?? []);
+  // Counted within the Programs entry itself, not across the whole file: a
+  // serial mentioned in the changelog but missing from this list would
+  // otherwise satisfy the count while the enumeration stayed incomplete.
+  const serials = new Set(programs[0].match(/\b63\/\d{3},\d{3}\b/g) ?? []);
   assert.equal(
     serials.size,
     stated,
-    `the page states ${programs[1]} provisional applications but lists ${serials.size} serial numbers`,
+    `the Programs entry states ${programs[1]} provisional applications but enumerates ${serials.size} serial numbers`,
   );
 });
