@@ -39,7 +39,7 @@ Counts are as of September 11, 2026. Most lines link to a record somebody else h
 - **[Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills): 76 open-source agent skills for Claude Code and Codex**, installable as a plugin marketplace, and accepted into 13 independent skills directories.
 - **Five books on Amazon and three published direct**, among them *The Signal Chain*, an illustrated history of guitar tone, and *The Screenshot*, an SEO and GEO field guide with its [source edition on GitHub](https://github.com/JasonColapietro/suede-geo-book).
 - **In partnership with Google Cloud since September 2025:** a dedicated Google Cloud account team, a Google Premier Partner assigned to the account, and the Suede stack on the Vertex AI suite. The dated correspondence, from Google Cloud's first outreach on August 5, 2025 onward, is published as captures at [seo.suedeai.ai/evidence](https://seo.suedeai.ai/evidence#google-cloud). **Google Cloud Partner Advantage member** since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. **Stripe Startups**, accepted July 31, 2026. **Florida Atlantic Entrepreneurship Institute** at FAU's College of Business, accepted July 17, 2026. Member of **1909**, the West Palm Beach entrepreneurship hub.
-- **Covered by TechBullion six times since December 2025**, plus Altcoin Investor, Indie Hackers, and Programming Insider. The full list is under [Press](#press).
+- **Covered by TechBullion seven times since December 2025**, plus Altcoin Investor, Indie Hackers, and Programming Insider. The full list is under [Press](#press).
 - **3,092 pull requests merged across the Suede repositories in 2026** through September 5, most of them private, behind about 30 live websites on 18 brand domains and 200 public repositories across the [JasonColapietro](https://github.com/JasonColapietro) and [Suede-AI](https://github.com/Suede-AI) accounts.
 - **Third-party records:** [Wikidata Q140235755](https://www.wikidata.org/wiki/Q140235755), [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e), [PitchBook](https://pitchbook.com/profiles/company/937217-71), and [Apple Developer](https://apps.apple.com/us/developer/jason-colapietro/id1895958699).
 
@@ -99,6 +99,7 @@ Owned corpus: [Substack](https://jasoncolapietro.substack.com), including *Fende
 
 Third-party outlets that have covered Jason Colapietro and Suede Labs AI, newest first.
 
+- **September 13, 2026** · TechBullion · [Suede Opens Its Widely Anticipated SEO and AI Cohort](https://techbullion.com/suede-opens-its-widely-anticipated-seo-and-ai-cohort/)
 - **July 6, 2026** · Programming Insider · [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/)
 - **July 3, 2026** · Indie Hackers · [In the Age of Infinite Content, Spam Is Instant Death (Indie Hackers)](https://www.indiehackers.com/post/in-the-age-of-infinite-content-spam-is-instant-death-4ca5Qi4vTHZ8aB3muBVK)
 - **July 2, 2026** · TechBullion · [Suede Labs AI Opens IP Visibility Audit for Brands, Creators, and Founder-Led Companies](https://techbullion.com/suede-labs-ai-opens-ip-visibility-audit-for-brands-creators-and-founder-led-companies/)
