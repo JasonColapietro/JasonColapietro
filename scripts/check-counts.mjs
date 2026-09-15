@@ -9,6 +9,7 @@
 // longer be found at all — which means the page structure changed under the
 // guards.
 
+import { pathToFileURL } from "node:url";
 import { readFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { Report } from "./lib/report.mjs";
@@ -122,4 +123,11 @@ const main = async () => {
   process.exit(structural ? 1 : 0);
 };
 
-await main();
+// Only run when invoked directly. These modules export rules the test suite
+// imports, and a top-level `await main()` would run a full network audit —
+// and then call process.exit — the moment a test imported one. That is not a
+// hypothetical: it silently killed the runner mid-suite, and the test that
+// triggered it disappeared from the results rather than failing.
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+  await main();
+}

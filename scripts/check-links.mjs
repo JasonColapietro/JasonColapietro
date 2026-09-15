@@ -13,6 +13,7 @@
 // stamp. Before this script, that date was maintained by hand and had drifted
 // roughly two months behind the content date.
 
+import { pathToFileURL } from "node:url";
 import { readdir, readFile, stat } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
@@ -27,6 +28,58 @@ const offline = process.argv.includes("--offline");
 // session-specific one. The Instagram guard in tests/ already blocks ?igsh= on
 // that one host; these are the same failure on any other.
 const TRACKING = /[?&](utm_[a-z]+|igsh|igshid|fbclid|gclid|si|ref_src|ref_url)=/i;
+
+// Hosts that answer a datacenter IP with a challenge instead of content.
+//
+// The first live run reported eleven failures, and nine were these: LinkedIn's
+// 999, Instagram's 429, and 403s from X, Substack, Crunchbase, PitchBook and
+// npm. Every one of those links works in a browser. Reporting them as broken
+// is the failure this audit exists to prevent — a check that flags nine good
+// links to find one bad one gets ignored, and then the real 404 rides along
+// unnoticed. These are recorded as unverifiable, which is what they are: this
+// runner cannot see them, and that is not evidence about the link.
+const CHALLENGES_BOTS = [
+  "linkedin.com",
+  "instagram.com",
+  "x.com",
+  "twitter.com",
+  "facebook.com",
+  "substack.com",
+  "crunchbase.com",
+  "pitchbook.com",
+  "npmjs.com",
+  "programminginsider.com",
+  "medium.com",
+  "reddit.com",
+  "quora.com",
+];
+
+const challengesBots = (url) => {
+  let host;
+  try {
+    host = new URL(url).hostname.toLowerCase();
+  } catch {
+    return false;
+  }
+  return CHALLENGES_BOTS.some((domain) => host === domain || host.endsWith(`.${domain}`));
+};
+
+/**
+ * Decide what a status code means for a published link.
+ *
+ * The distinction that matters is "this link is gone" versus "this runner was
+ * not allowed to look". Only the first is the page's problem.
+ */
+export const verdictFor = (status, url) => {
+  // Rate limiting is never evidence that a link is dead, on any host.
+  if (status === 429) return { severity: "warn", reason: "rate-limited (HTTP 429); not checkable from CI" };
+  // LinkedIn's non-standard anti-automation code.
+  if (status === 999) return { severity: "warn", reason: "anti-automation challenge (HTTP 999); not checkable from CI" };
+  if ((status === 403 || status === 401) && challengesBots(url)) {
+    return { severity: "warn", reason: `challenges automated clients (HTTP ${status}); not checkable from CI` };
+  }
+  return { severity: "fail", reason: `HTTP ${status}` };
+};
 
 const markdownFiles = async () => {
   const found = [];
@@ -150,7 +203,8 @@ const main = async () => {
       } else if (result.status === 0) {
         report.fail(url, `no response (${result.error?.message ?? "unknown error"}) — cited at ${sites}`);
       } else if (!result.ok) {
-        report.fail(url, `HTTP ${result.status} — cited at ${sites}`);
+        const { severity, reason } = verdictFor(result.status, url);
+        report.add(severity, url, `${reason} — cited at ${sites}`);
       } else if (result.redirected && result.finalUrl !== url) {
         // Not a failure: a redirect that resolves still works. It is a warning
         // because the published URL is no longer the canonical one.
@@ -168,4 +222,11 @@ const main = async () => {
   process.exit(report.emit());
 };
 
-await main();
+// Only run when invoked directly. These modules export rules the test suite
+// imports, and a top-level `await main()` would run a full network audit —
+// and then call process.exit — the moment a test imported one. That is not a
+// hypothetical: it silently killed the runner mid-suite, and the test that
+// triggered it disappeared from the results rather than failing.
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+  await main();
+}

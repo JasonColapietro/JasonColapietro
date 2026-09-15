@@ -74,15 +74,22 @@ jobs:
         if: inputs.suite == '' || contains(fromJSON('["all","links"]'), inputs.suite)
         run: npm run check:links
 
+      # Each audit is independent, so one failing must not hide the others.
+      # On the first live run check-links failed and both steps below were
+      # skipped, which is how a single dead link buys silence from two checks.
       - name: Audit the entity and agent surfaces
-        if: inputs.suite == '' || contains(fromJSON('["all","entity"]'), inputs.suite)
+        if: >-
+          !cancelled() &&
+          (inputs.suite == '' || contains(fromJSON('["all","entity"]'), inputs.suite))
         run: npm run check:entity
 
       # Count drift is reported, not enforced: upstream merges land on other
       # people's schedules, so this step surfaces the delta in the job summary
       # and only fails if a claim can no longer be found in the README at all.
       - name: Reconcile the numeric claims against GitHub
-        if: inputs.suite == '' || contains(fromJSON('["all","counts"]'), inputs.suite)
+        if: >-
+          !cancelled() &&
+          (inputs.suite == '' || contains(fromJSON('["all","counts"]'), inputs.suite))
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run check:counts

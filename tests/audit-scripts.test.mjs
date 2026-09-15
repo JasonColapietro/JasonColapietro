@@ -373,3 +373,40 @@ test("a probe reports transport outcomes without throwing", async () => {
     await once(server, "close");
   }
 });
+
+test("a host that blocks robots is unverifiable, not broken", async () => {
+  // The first live run reported 11 failures; 9 were hosts that serve a
+  // challenge to a datacenter IP and serve the page fine to a person. A check
+  // that flags nine good links to catch one dead one gets muted, and then the
+  // real 404 rides along with them.
+  const { verdictFor } = await import("../scripts/check-links.mjs");
+
+  for (const url of [
+    "https://www.linkedin.com/in/jasoncolapietro",
+    "https://x.com/johnnysuede",
+    "https://www.crunchbase.com/person/jason-colapietro-d83e",
+    "https://jasoncolapietro.substack.com",
+    "https://pitchbook.com/profiles/company/937217-71",
+    "https://www.npmjs.com/package/@suedeai/plugin-suede",
+  ]) {
+    assert.equal(verdictFor(403, url).severity, "warn", `${url} 403 must not read as broken`);
+  }
+
+  // Rate limiting and LinkedIn's 999 are never evidence about the link itself,
+  // whatever the host.
+  assert.equal(verdictFor(429, "https://example.com/a").severity, "warn");
+  assert.equal(verdictFor(999, "https://example.com/a").severity, "warn");
+
+  // A genuine removal still fails, on any host — this is the one real finding
+  // the first live run surfaced, and it must not be softened along with them.
+  assert.equal(verdictFor(404, "https://www.indiehackers.com/post/some-removed-post").severity, "fail");
+  assert.equal(verdictFor(410, "https://www.linkedin.com/in/whoever").severity, "fail");
+  assert.equal(verdictFor(500, "https://example.com/a").severity, "fail");
+
+  // A 403 from a host with no such reputation is still a real failure.
+  assert.equal(verdictFor(403, "https://suedeai.ai/founder").severity, "fail");
+
+  // Subdomains count; lookalike suffixes do not.
+  assert.equal(verdictFor(403, "https://www.instagram.com/suedeai").severity, "warn");
+  assert.equal(verdictFor(403, "https://notinstagram.com/x").severity, "fail");
+});

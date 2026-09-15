@@ -17,6 +17,7 @@
 // Step 4 is the one nothing else covers. A price changed at the edge while the
 // manifest kept the old number reads as correct from either side alone.
 
+import { pathToFileURL } from "node:url";
 import { Report } from "./lib/report.mjs";
 import { probe, probeJson, toleratesBlocking } from "./lib/http.mjs";
 import {
@@ -74,9 +75,14 @@ const main = async () => {
   record(report, problems);
 
   // --- Each advertised resource, at runtime ---------------------------------
+  // Counted and reported: "0 failures" over an unstated number of resources
+  // cannot be told apart from "0 failures because nothing was probed".
+  let probed = 0;
+
   for (const resource of resources) {
     const url = resourceUrl(resource);
     if (!url || !/^https?:\/\//.test(url)) continue;
+    probed += 1;
 
     const advertised = acceptsOf(resource)[0];
     // Deliberately unpaid: the correct answer for a gated resource is 402 with
@@ -119,7 +125,20 @@ const main = async () => {
     }
   }
 
+  if (probed === 0) {
+    report.fail("manifest", `${resources.length} resources advertised, none with a usable URL to probe`);
+  } else {
+    console.log(`\nProbed ${probed} of ${resources.length} advertised resources at runtime.`);
+  }
+
   process.exit(report.emit());
 };
 
-await main();
+// Only run when invoked directly. These modules export rules the test suite
+// imports, and a top-level `await main()` would run a full network audit —
+// and then call process.exit — the moment a test imported one. That is not a
+// hypothetical: it silently killed the runner mid-suite, and the test that
+// triggered it disappeared from the results rather than failing.
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+  await main();
+}
