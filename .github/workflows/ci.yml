@@ -1,0 +1,38 @@
+# The guards in tests/ only ever ran when someone remembered to type
+# `node --test tests/`. Five separate commits in this repository's history are
+# after-the-fact reconciliations of counts and links the guards already knew how
+# to catch. Running them on every push and pull request turns those into a red
+# check before merge instead of a follow-up commit after it.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Entity guards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # No dependencies and no lockfile: the guards are plain node:test against
+      # the Markdown in this repository, so there is nothing to install and
+      # nothing to cache.
+      - name: Run the entity guards
+        run: npm test
+
+      # The offline half of the link audit: relative paths, in-page anchors and
+      # URL hygiene. No network, so it belongs on every pull request rather than
+      # in the scheduled job with the checks that need the public internet.
+      - name: Audit links that resolve without the network
+        run: npm run check:links -- --offline
