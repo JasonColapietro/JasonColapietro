@@ -60,7 +60,7 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 | [Suede Studio](https://studio.suedeai.ai) · [Suede Distro](https://distro.suedeai.ai) | AI music generation with the master retained by the creator; release finished work to 100+ streaming services. |
 | [Suede IP Registry](https://ip.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, file fingerprints, and dated records on Base and Avalanche. It shows that a file existed in a given form, claimed by a given wallet, on a given date — evidence, not legal title. |
 | [Suede Agent Studio](https://agents.suedeai.ai) · [Agentix](https://agentix.suedeai.ai) | Build agents visually and ship them as paid per-call services over x402; track what they earn. The [WebMCP storefront](https://webmcp.suedeai.ai/agents) sells the same services to agents running inside the browser. |
-| [Suede Scan](https://seo.suedeai.ai) · [Suede Lens](https://suedeai.ai/lens) | Scan shows what AI search engines say about a business, with screenshots, then repairs the site. Lens is the Chrome extension that audits rights, provenance, JSON-LD, SEO, and AEO signals on any page. |
+| [Suede Scan](https://scan.suedeai.ai) · [Suede Lens](https://suedeai.ai/lens) | Scan shows what AI search engines say about a business, with screenshots, then repairs the site. Lens is the Chrome extension that audits rights, provenance, JSON-LD, SEO, and AEO signals on any page. |
 | [Strumly](https://strumly.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) · [FretPulse](https://fretpulse.suedeai.ai) | Musician tools: a 24/7 guitar coach, a creative training companion, and a guitar-care app. |
 | [Suede Sing](https://sing.suedeai.ai) | The vocal studio in your browser: range test, register detection, pitch training, and measured warm-ups. Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing. |
 | [Suede Social](https://social.suedeai.ai) · [Suede DNA](https://dna.suedeai.ai) | Creator community and gear magazine, plus an archive of 400+ guitarists' rigs and signal chains. |
@@ -208,7 +208,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 - **Jul 19** · Agent Studio, Suede Voice, and Suede Studio Guitar prepared for Google Play production. The skills pack added android-app-factory and suede-recommend-next-action, and shipped a blog.
 - **Jul 18** · Agent Studio shipped autonomous company v1.
 - **Jul 17** · Accepted into the Florida Atlantic Entrepreneurship Institute at FAU's College of Business. Joined 1909 the following week.
-- **Jul 16** · [Suede Scan](https://seo.suedeai.ai) began producing evidence-first audit reports: screenshots of what AI search engines say, then the fixes.
+- **Jul 16** · [Suede Scan](https://scan.suedeai.ai) began producing evidence-first audit reports: screenshots of what AI search engines say, then the fixes.
 - **Jul 14** · Strumly wired a real $5.99 a week Stripe price for the tools paywall, two days after making the practice tools free to match every public promise.
 - **Jul 12** · [Suede Sing](https://sing.suedeai.ai), the vocal studio in the browser, shipped. [Suede Guitar Tuner & Studio 1.1.8](https://apps.apple.com/us/app/suede-guitar-tuner-studio/id6767552764) on the App Store.
 - **Jul 9** · [Suede Python SDK v0.3.1](https://github.com/Suede-AI/suede-sdk-python/releases/tag/v0.3.1): full 20-endpoint docs and a per-request payment header fix.
