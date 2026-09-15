@@ -49,6 +49,9 @@ const CHALLENGES_BOTS = [
   "pitchbook.com",
   "npmjs.com",
   "programminginsider.com",
+  // Serves 404 to datacenter IPs for posts that load normally in a browser.
+  // Confirmed by hand after this audit reported one as dead.
+  "indiehackers.com",
   "medium.com",
   "reddit.com",
   "quora.com",
@@ -69,15 +72,34 @@ const challengesBots = (url) => {
  *
  * The distinction that matters is "this link is gone" versus "this runner was
  * not allowed to look". Only the first is the page's problem.
+ *
+ * The rule for a host on the list above is that *no* client-error status from
+ * it is evidence, not merely 403. Bot protection picks whichever code it is
+ * configured to pick, and Indie Hackers picks 404: this audit reported one of
+ * its posts as dead, and the post opens normally in a browser. Treating 404 as
+ * proof of removal there produced exactly the false positive the rest of this
+ * list exists to prevent, on the one status operators trust most.
+ *
+ * The cost is real and worth naming: a link that genuinely dies on one of
+ * these hosts will now be reported as unverifiable rather than broken. That is
+ * the honest answer — CI cannot see these pages — and a warning still puts it
+ * in front of a person. 410 Gone is the exception, because it is an explicit,
+ * deliberate "this was removed" that no protection layer emits on the way to
+ * serving a challenge.
  */
 export const verdictFor = (status, url) => {
   // Rate limiting is never evidence that a link is dead, on any host.
   if (status === 429) return { severity: "warn", reason: "rate-limited (HTTP 429); not checkable from CI" };
   // LinkedIn's non-standard anti-automation code.
   if (status === 999) return { severity: "warn", reason: "anti-automation challenge (HTTP 999); not checkable from CI" };
-  if ((status === 403 || status === 401) && challengesBots(url)) {
-    return { severity: "warn", reason: `challenges automated clients (HTTP ${status}); not checkable from CI` };
+
+  if (challengesBots(url) && status >= 400 && status < 500 && status !== 410) {
+    return {
+      severity: "warn",
+      reason: `HTTP ${status}; this host challenges automated clients, so the status is not evidence about the link`,
+    };
   }
+
   return { severity: "fail", reason: `HTTP ${status}` };
 };
 

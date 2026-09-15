@@ -399,11 +399,26 @@ test("a host that blocks robots is unverifiable, not broken", async () => {
   assert.equal(verdictFor(429, "https://example.com/a").severity, "warn");
   assert.equal(verdictFor(999, "https://example.com/a").severity, "warn");
 
-  // A genuine removal still fails, on any host — this is the one real finding
-  // the first live run surfaced, and it must not be softened along with them.
-  assert.equal(verdictFor(404, "https://www.indiehackers.com/post/some-removed-post").severity, "fail");
+  // This assertion used to require the opposite, on the strength of the live
+  // run reporting an Indie Hackers post as a 404. The post opens fine in a
+  // browser — the host serves 404 to datacenter IPs. So the premise was wrong,
+  // not the link, and a 404 from a host that challenges robots proves nothing.
+  assert.equal(
+    verdictFor(404, "https://www.indiehackers.com/post/in-the-age-of-infinite-content-spam-is-instant-death-4ca5Qi4vTHZ8aB3muBVK").severity,
+    "warn",
+    "a host that lies to robots is not made truthful by picking 404",
+  );
+
+  // 410 Gone survives as a failure even on those hosts: it is an explicit,
+  // deliberate removal, not a status a protection layer serves on its way to a
+  // challenge. That keeps some real detection on hosts we otherwise cannot see.
   assert.equal(verdictFor(410, "https://www.linkedin.com/in/whoever").severity, "fail");
+
+  // And a 404 anywhere else is still a dead link.
+  assert.equal(verdictFor(404, "https://suedeai.ai/gone").severity, "fail");
   assert.equal(verdictFor(500, "https://example.com/a").severity, "fail");
+  // A server error on a bot-hostile host is not a client challenge.
+  assert.equal(verdictFor(500, "https://x.com/johnnysuede").severity, "fail");
 
   // A 403 from a host with no such reputation is still a real failure.
   assert.equal(verdictFor(403, "https://suedeai.ai/founder").severity, "fail");
