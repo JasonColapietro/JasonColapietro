@@ -21,6 +21,7 @@ import { drift, skillsClaim, upstreamClaim } from "../scripts/lib/claims.mjs";
 import {
   canonicalIdentityUrls,
   canonicalLink,
+  documentedIdentifiers,
   extractJsonLd,
   flattenNodes,
   nodesOfType,
@@ -466,4 +467,55 @@ test("the canary probes the verb the manifest advertises", () => {
   assert.equal(methodOf({ resource: "https://a/1", httpMethod: "PUT" }), "PUT");
   assert.equal(methodOf({ accepts: [{ method: "post", resource: "https://a/1" }] }), "POST");
   assert.equal(methodOf({ resource: "https://a/1", method: "   " }), "GET", "blank is not a method");
+});
+
+test("the documented set spans every file that documents identity", async () => {
+  // The identity is split across two documents on purpose: the Meta accounts,
+  // and the reasoning for each, live in Instagram and Facebook.md. Reading only
+  // Public Links.md reported those accounts as undocumented when they were
+  // documented one file over — a checker bug that reads exactly like a content
+  // gap, and the kind that gets "fixed" by editing the wrong file.
+  const { readFile } = await import("node:fs/promises");
+  const docs = await Promise.all([
+    readFile(new URL("../docs/Public Links.md", import.meta.url), "utf8"),
+    readFile(new URL("../docs/Instagram and Facebook.md", import.meta.url), "utf8"),
+  ]);
+
+  const fromOne = canonicalIdentityUrls(docs[0]);
+  const fromBoth = canonicalIdentityUrls(docs);
+
+  assert.ok(fromBoth.size > fromOne.size, "the second document must contribute URLs");
+  assert.ok(fromBoth.has("https://www.instagram.com/suedesingapp"), "the Suede Sing account is documented");
+  assert.ok(fromBoth.has("https://www.instagram.com/storybeampodcast"), "the StoryBeam account is documented");
+
+  // Both entities' records, which the live surfaces assert and the index now carries.
+  for (const url of [
+    "https://x.com/AISUEDE",
+    "https://www.wikidata.org/wiki/Q141169484",
+    "https://www.linkedin.com/company/suede-labs",
+    "https://www.f6s.com/suede-ai",
+    "https://www.amazon.com/stores/author/B0H3DPP75K",
+  ]) {
+    assert.ok(fromBoth.has(url), `${url} must be documented`);
+  }
+});
+
+test("a surface documented without being linked is still documented", async () => {
+  // The Facebook Page is reachable only by numeric ID. A guard in
+  // name-entity.test.mjs rejects that form in the link index until a vanity
+  // username exists, so the repository deliberately does not publish the URL —
+  // while the live sameAs sets do assert it. Matching the identifier lets the
+  // audit see it without publishing a URL the repository chose to withhold.
+  const { readFile } = await import("node:fs/promises");
+  const meta = await readFile(new URL("../docs/Instagram and Facebook.md", import.meta.url), "utf8");
+  const ids = documentedIdentifiers(meta);
+
+  assert.ok(ids.has("61584534847516"), "the Facebook Page ID is recorded in the Meta document");
+
+  const asserted = "https://www.facebook.com/people/Suede-Labs-AI/61584534847516";
+  assert.ok([...ids].some((id) => asserted.includes(id)), "the asserted Page URL resolves to a documented ID");
+
+  // Ten digits is the floor so a year, a version or a count cannot qualify.
+  const loose = documentedIdentifiers("Released in 2026, version 1.2.3, 44 merges, 3092 PRs.");
+  assert.equal(loose.size, 0, "short numbers are not identifiers");
 });

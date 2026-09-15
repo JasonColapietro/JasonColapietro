@@ -23,6 +23,7 @@ import { Report } from "./lib/report.mjs";
 import { probe, toleratesBlocking } from "./lib/http.mjs";
 import {
   canonicalIdentityUrls,
+  documentedIdentifiers,
   extractJsonLd,
   flattenNodes,
   nodesOfType,
@@ -46,11 +47,20 @@ const SURFACES = [
 
 const main = async () => {
   const report = new Report("Entity and agent-readability audit");
-  const publicLinks = await readFile(new URL("docs/Public Links.md", `file://${ROOT}`), "utf8");
-  const canonical = canonicalIdentityUrls(publicLinks);
+  // The identity is documented across both files on purpose; see
+  // canonicalIdentityUrls for why reading only the first is a bug.
+  const CANONICAL_DOCS = ["docs/Public Links.md", "docs/Instagram and Facebook.md"];
+  const docs = await Promise.all(
+    CANONICAL_DOCS.map((name) => readFile(new URL(name, `file://${ROOT}`), "utf8")),
+  );
+  const canonical = canonicalIdentityUrls(docs);
+  const identifiers = documentedIdentifiers(docs);
   const blockedSeverity = toleratesBlocking() ? "warn" : "fail";
 
-  report.pass("canonical identity set", `${canonical.size} URLs read from docs/Public Links.md`);
+  report.pass(
+    "canonical identity set",
+    `${canonical.size} URLs and ${identifiers.size} identifiers read from ${CANONICAL_DOCS.join(" and ")}`,
+  );
 
   for (const surface of SURFACES) {
     const result = await probe(surface.url, { method: "GET", retries: 1 });
@@ -102,9 +112,11 @@ const main = async () => {
     // A sameAs pointing somewhere this repository does not recognise is either
     // a surface we forgot to document or an identity claim we did not make.
     const asserted = sameAsUrls(nodes);
-    const unknown = [...asserted].filter((url) => !canonical.has(url));
+    const unknown = [...asserted].filter(
+      (url) => !canonical.has(url) && ![...identifiers].some((id) => url.includes(id)),
+    );
     if (unknown.length > 0) {
-      report.warn(surface.url, `asserts sameAs URLs absent from docs/Public Links.md: ${unknown.join(", ")}`);
+      report.warn(surface.url, `asserts sameAs URLs absent from ${CANONICAL_DOCS.join(" and ")}: ${unknown.join(", ")}`);
     } else if (asserted.size > 0) {
       report.pass(surface.url, `${asserted.size} sameAs URLs, all documented`);
     }

@@ -62,24 +62,60 @@ export const sameAsUrls = (nodes) => {
 };
 
 /**
- * The identity URLs this repository considers canonical, read out of
- * Public Links.md so the documents remain the single source of truth and the
- * checker cannot drift from them independently.
+ * The URLs this repository documents, read out of the canonical documents so
+ * they remain the single source of truth and the checker cannot drift from
+ * them independently.
+ *
+ * Takes several documents because the identity is deliberately split across
+ * them: the Meta accounts live in Instagram and Facebook.md, which records why
+ * each exists and which look-alikes are not ours. Reading only Public Links.md
+ * reported those accounts as undocumented when they were documented all along,
+ * one file over — a checker bug that reads exactly like a content gap.
  */
-export const canonicalIdentityUrls = (publicLinksMarkdown) => {
+export const canonicalIdentityUrls = (...markdownDocs) => {
   const urls = new Set();
-  // Only the two identity tables; the machine-readable and publications
-  // sections list endpoints and hosts, which are not identity assertions.
-  const section = publicLinksMarkdown.split("## Machine-readable proof")[0];
 
-  for (const match of section.matchAll(/\]\((https:\/\/[^)\s]+)\)/g)) {
-    const url = match[1].replace(/\/$/, "");
-    // Badge images and intra-repo anchors are not identity claims.
-    if (url.includes("img.shields.io")) continue;
-    urls.add(url);
+  for (const doc of markdownDocs.flat()) {
+    if (typeof doc !== "string") continue;
+
+    // Stop at the machine-readable section. The endpoints below it — the IP
+    // registry, the x402 manifest, the agent card — are evidence about the
+    // entity, not claims to *be* the entity, and a surface listing one under
+    // sameAs is making a modelling error this audit should still catch.
+    // Documents without that heading are read whole.
+    const identitySection = doc.split("## Machine-readable proof")[0];
+
+    for (const match of identitySection.matchAll(/\]\((https:\/\/[^)\s]+)\)/g)) {
+      const url = match[1].replace(/\/$/, "");
+      // Badge images are decoration, never identity claims.
+      if (url.includes("img.shields.io")) continue;
+      urls.add(url);
+    }
   }
 
   return urls;
+};
+
+/**
+ * Long numeric identifiers the documents mention as bare text rather than as
+ * links.
+ *
+ * Some surfaces are documented on purpose without being linked. The Facebook
+ * Page is the live case: it is reachable only by numeric ID, a guard in tests/
+ * rejects that form in the link index until a vanity username exists, and the
+ * Meta document records the ID and the reasoning. The `sameAs` sets still
+ * assert the Page, so matching on the identifier lets the audit see it as
+ * documented without publishing a URL the repository has decided to withhold.
+ *
+ * Ten digits is the floor so this cannot match a year, a version, or a count.
+ */
+export const documentedIdentifiers = (...markdownDocs) => {
+  const ids = new Set();
+  for (const doc of markdownDocs.flat()) {
+    if (typeof doc !== "string") continue;
+    for (const match of doc.matchAll(/\b\d{10,}\b/g)) ids.add(match[0]);
+  }
+  return ids;
 };
 
 /** Pull <link rel="canonical"> if the page declares one. */
