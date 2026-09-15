@@ -1,0 +1,19 @@
+{
+  "name": "jasoncolapietro-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Profile and entity record for Jason Colapietro (Johnny Suede) and Suede Labs AI, with guards that keep the published claims honest.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check:links": "node scripts/check-links.mjs",
+    "check:x402": "node scripts/x402-canary.mjs",
+    "check:counts": "node scripts/check-counts.mjs",
+    "check:entity": "node scripts/check-entity.mjs",
+    "check:live": "npm run check:links && npm run check:x402 && npm run check:entity"
+  },
+  "license": "UNLICENSED"
+}
