@@ -25,7 +25,9 @@ This index is reconciled against the `sameAs` sets the owned surfaces actually p
 
 The person entity routes to X, LinkedIn, YouTube, Substack, Amazon, and GitHub. It carries no Instagram account by choice; see [Instagram and Facebook](./Instagram%20and%20Facebook.md).
 
-**Unresolved:** two different Amazon author stores are asserted for the same person. The personal sites publish [B0H3DPP75K](https://www.amazon.com/stores/author/B0H3DPP75K), above; suedeai.ai publishes [B0H3F13X6H](https://www.amazon.com/stores/author/B0H3F13X6H). One of them should win and the other should be dropped from its `sameAs`, because two author stores for one author is the split this index exists to prevent.
+**Open defect on suedeai.ai:** two different Amazon author stores are asserted for the same author. The personal sites publish [B0H3DPP75K](https://www.amazon.com/stores/author/B0H3DPP75K), above, which resolves. suedeai.ai publishes `https://www.amazon.com/stores/author/B0H3F13X6H`, which returns 404 — confirmed by the link audit on September 15, 2026, in the same run where every other Amazon URL on this page resolved, so the store is gone rather than the request refused.
+
+That URL is deliberately recorded here as text and not as a link: this index publishes canonical URLs, and a dead one is not canonical. It should be dropped from the `sameAs` set on suedeai.ai. Until it is, `npm run check:entity` will report suedeai.ai asserting one URL this index does not carry — which is the correct result, not a gap to paper over, and it will clear itself when the assertion goes.
 
 ## Suede Labs AI
 
