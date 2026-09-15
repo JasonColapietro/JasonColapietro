@@ -34,7 +34,7 @@ Jason Colapietro builds systems that help creators record authorship, define rig
 
 Counts are as of September 11, 2026. Most lines link to a record somebody else hosts.
 
-- **Eight iOS apps and three Android apps, live under my own developer name.** Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) lists all eight with current versions and release dates. The first shipped on May 7, 2026; the eighth on July 7, 2026. Three of them also run on Google Play, listed under [Apps](#apps), and the vocal studio ships as a [Chrome extension](https://chromewebstore.google.com/detail/dbimnmcokgmibdenmonoafhmdbjhpicd).
+- **Eight iOS apps and three Android apps, live under my own developer name.** Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) lists all eight with current versions and release dates. The first shipped on May 7, 2026; the eighth on July 7, 2026. Three of them also run on Google Play, listed under [Apps](#apps), and the vocal studio ships as a [Chrome extension](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd).
 - **44 pull requests merged into 40 open-source projects I don't maintain.** Jest, Adobe React Spectrum, Backstage, Hardhat, Polkadot SDK, Solana Pay, elizaOS, x402, zeroclaw, the Prometheus docs, and Cosmos SDK are among them. 27 are fixes, features, tests, and docs; the other 17 are accepted listings of Suede projects on third-party lists. [Check all 44 merged pull requests on GitHub](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
 - **[Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills): 76 open-source agent skills for Claude Code and Codex**, installable as a plugin marketplace, and accepted into 13 independent skills directories.
 - **Five books on Amazon and three published direct**, among them *The Signal Chain*, an illustrated history of guitar tone, and *The Screenshot*, an SEO and GEO field guide with its [source edition on GitHub](https://github.com/JasonColapietro/suede-geo-book).
@@ -65,7 +65,7 @@ About 30 websites and 8 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 | [Suede Sing](https://sing.suedeai.ai) | The vocal studio in your browser: range test, register detection, pitch training, and measured warm-ups. Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing. |
 | [Suede Social](https://social.suedeai.ai) · [Suede DNA](https://dna.suedeai.ai) | Creator community and gear magazine, plus an archive of 400+ guitarists' rigs and signal chains. |
 | [guitar.solutions](https://guitar.solutions) · [guitarchords.info](https://guitarchords.info) | An engineering-grade signal-chain reference from pickup to speaker, and free chord, scale, tuner, and metronome tools. |
-| [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids/id6785347610) | A children's reading app with original storybooks, printable study guides, and a grown-up gate on every purchase. |
+| [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) | A children's reading app with original storybooks, printable study guides, and a grown-up gate on every purchase. |
 | [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | 76 open-source agent skills for Claude Code and Codex, covering rights, provenance, releases, evaluation, design, engineering, and go-to-market work. |
 
 ## Apps
@@ -74,18 +74,18 @@ Eight on the App Store, three on Google Play, one on the Chrome Web Store. Apple
 
 | App | Platform | First released |
 |---|---|---|
-| [AI Music & Video Generator](https://apps.apple.com/us/app/ai-music-video-generator/id6765461286) | iOS | May 7, 2026 |
+| [AI Music & Video Generator](https://apps.apple.com/us/app/suede-ai-generator/id6765461286) | iOS | May 7, 2026 |
 | [Suede Guitar Tuner & Studio](https://apps.apple.com/us/app/suede-guitar-tuner-studio/id6767552764) | iOS | May 11, 2026 |
 | [Suede Voice: Vocal Range Test](https://apps.apple.com/us/app/suede-voice-vocal-range-test/id6767763231) | iOS | May 15, 2026 |
 | [Suede Social: Guitar Forum](https://apps.apple.com/us/app/suede-social-guitar-forum/id6770668793) | iOS | June 12, 2026 |
 | [Suede Studio Muse](https://apps.apple.com/us/app/suede-studio-muse/id6779134962) | iOS | June 16, 2026 |
 | [Agentix: AI Agent Tracker](https://apps.apple.com/us/app/agentix-ai-agent-tracker/id6778286160) | iOS | June 17, 2026 |
 | [Suede Agent Studio](https://apps.apple.com/us/app/suede-agent-studio/id6778880737) | iOS | June 17, 2026 |
-| [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids/id6785347610) | iOS | July 7, 2026 |
+| [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) | iOS | July 7, 2026 |
 | [Suede Voice: Vocal Range Test](https://play.google.com/store/apps/details?id=ai.suedeai.suedevoice) | Android | 2026 |
 | [Suede: AI Music Generator](https://play.google.com/store/apps/details?id=xyz.suedeai.app) | Android | 2026 |
 | [Suede AI Agents: Directory](https://play.google.com/store/apps/details?id=ai.suede.agents) | Android | 2026 |
-| [Suede Sing: Vocal Coach, Pitch Trainer & Vocal Range Test](https://chromewebstore.google.com/detail/dbimnmcokgmibdenmonoafhmdbjhpicd) | Chrome | 2026 |
+| [Suede Sing: Vocal Coach, Pitch Trainer & Vocal Range Test](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd) | Chrome | 2026 |
 
 ## Books
 
@@ -115,17 +115,17 @@ Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai
 ## Programs and recognition
 
 - **Google Cloud partnership**, since September 2025. Google Cloud's account team first reached out on August 5, 2025, opened the account relationship on a call on September 25, 2025, assigned a dedicated account manager and a Google Premier Partner, ran a technical call with a Google Cloud customer engineer on October 16, 2025, and on October 10, 2025 put a co-marketing plan for Vertex AI, Gemini, and Veo in writing. Eleven dated captures of that correspondence are published at [seo.suedeai.ai/evidence#google-cloud](https://seo.suedeai.ai/evidence#google-cloud).
-- **Google Cloud Partner Advantage**, member since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. Declared on the [JC Investment Group press page](https://jcinvestmentgroup.ventures/press.html); the acceptance and account-verification emails are captured at [seo.suedeai.ai/evidence#google-cloud](https://seo.suedeai.ai/evidence#google-cloud).
+- **Google Cloud Partner Advantage**, member since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. Declared on the [JC Investment Group press page](https://jcinvestmentgroup.ventures/press); the acceptance and account-verification emails are captured at [seo.suedeai.ai/evidence#google-cloud](https://seo.suedeai.ai/evidence#google-cloud).
 - **Stripe Startups**, accepted July 31, 2026.
 - **Florida Atlantic Entrepreneurship Institute**, FAU College of Business, accepted July 17, 2026. FAU's entrepreneurship research ranks [No. 8 globally](https://business.fau.edu/newsroom/press-releases/2025/tcu-entrepreneurship-rankings-college-business-research.php) in the TCU productivity rankings for 2020 to 2024.
-- **1909**, member of the [West Palm Beach entrepreneurship hub](https://weare1909.org) since July 2026.
+- **1909**, member of the [West Palm Beach entrepreneurship hub](https://www.weare1909.org) since July 2026.
 - **OpenAI WebMCP Challenge**, August 25 to September 3, 2026: entered with [Suede Agent Studio's browser-native storefront](https://github.com/JasonColapietro/suede-webmcp-challenge), four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. Source published under MIT.
 - **Five provisional patent applications** on file with the USPTO: 63/946,189, 63/946,192, 63/946,212, 63/946,217, and 63/947,120, all with filing receipts issued in January 2026. Provisional applications are not themselves published, so these are filing records rather than granted patents.
 
 ## Verify the work
 
 - [My apps on the App Store](https://apps.apple.com/us/developer/jason-colapietro/id1895958699): Apple-hosted and not written by me, which is the scarce kind of proof. Every iOS app shipped under my name, with its current version and release date.
-- [Google Play](https://play.google.com/store/apps/details?id=ai.suedeai.suedevoice) and the [Chrome Web Store](https://chromewebstore.google.com/detail/dbimnmcokgmibdenmonoafhmdbjhpicd): the same apps on Google's records.
+- [Google Play](https://play.google.com/store/apps/details?id=ai.suedeai.suedevoice) and the [Chrome Web Store](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd): the same apps on Google's records.
 - [Merged upstream pull requests](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests): GitHub's own search, scoped to repositories I don't own.
 - [suedeai.org](https://suedeai.org): the company and thesis site — ownership, provenance, books, and company material.
 - [Press kit and verified facts](https://suedeai.ai/press): the journalist-facing record.
@@ -157,14 +157,14 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 
 - **Sep 13** · The Google Cloud partnership record went onto the public receipts page at [seo.suedeai.ai/evidence](https://seo.suedeai.ai/evidence#google-cloud): eleven dated captures of the account-team correspondence, from Google Cloud's first outreach on August 5, 2025 to the Partner Advantage acceptance on September 4, 2026.
 - **Sep 5** · [Agent Studio](https://agents.suedeai.ai) relaunched its homepage around a 13-seat company org chart: pick a role, see its workflow, inspect a real template before the builder hands off. The managed-agent service links straight to the [managed-agent service](https://seo.suedeai.ai/managed-ai-agents).
-- **Sep 5** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids/id6785347610) finished printable study guides for all 43 books on its shelf and published its first two Spanish-language originals, *La olla que no se deja sola* and *La ficha que viaja*. Seven original storybooks joined the Reading Nook between Aug 29 and Sep 5.
+- **Sep 5** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) finished printable study guides for all 43 books on its shelf and published its first two Spanish-language originals, *La olla que no se deja sola* and *La ficha que viaja*. Seven original storybooks joined the Reading Nook between Aug 29 and Sep 5.
 - **Sep 4** · [Suede Voice 1.6](https://apps.apple.com/us/app/suede-voice-vocal-range-test/id6767763231) for iOS: a measured warm-up catalogue, fixed routines, and a daily free allowance. The same day, the ink-and-gold icon shipped across iOS, Android, [sing.suedeai.ai](https://sing.suedeai.ai), and the Chrome extension.
 - **Sep 4** · [Suede Lens](https://suedeai.ai/lens) launched on suedeai.ai: a Chrome extension that audits creator rights, provenance, JSON-LD, SEO, and AEO signals on any page and exports a private, portable Page Passport.
-- **Sep 4** · Google Cloud Partner Advantage accepted JC Investment Group LLC as a member, with suedeai.ai as the verified domain. Declared as structured data on the [JC Investment Group press page](https://jcinvestmentgroup.ventures/press.html).
+- **Sep 4** · Google Cloud Partner Advantage accepted JC Investment Group LLC as a member, with suedeai.ai as the verified domain. Declared as structured data on the [JC Investment Group press page](https://jcinvestmentgroup.ventures/press).
 - **Sep 4** · [Polkadot SDK](https://github.com/paritytech/polkadot-sdk/pull/12853) merged a fix to its RPC server: connection capacity is released when a registration fails, instead of leaking until restart.
 - **Sep 4** · [Suede Social](https://social.suedeai.ai) built the notification emails its settings page had been promising, with RFC 8058 one-click unsubscribe on every one, and fixed the participation funnel on mobile: sign-in, first run, and a feed that is never empty. The [Suede Map press kit](https://map.suedeai.ai) went live the same day.
 - **Sep 3** · [Suede Voice 1.1.1](https://play.google.com/store/apps/details?id=ai.suedeai.suedevoice) for Android on Google Play: ambient noise no longer registers as singing, and the low-passaggio diagnostic has a baseline it can fire on.
-- **Sep 3** · [AI Music & Video Generator 1.1.3](https://apps.apple.com/us/app/ai-music-video-generator/id6765461286) for iOS: the warm editorial redesign of the music and video experience, on an asynchronous generation contract end to end, polling a vendor-neutral video-jobs path.
+- **Sep 3** · [AI Music & Video Generator 1.1.3](https://apps.apple.com/us/app/suede-ai-generator/id6765461286) for iOS: the warm editorial redesign of the music and video experience, on an asynchronous generation contract end to end, polling a vendor-neutral video-jobs path.
 - **Sep 3** · [Agent Studio](https://agents.suedeai.ai) owns its own login. [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) was accepted into [buildwithclaude](https://github.com/davepoon/buildwithclaude/pull/305).
 - **Sep 1** · [Solana Pay](https://github.com/solana-foundation/pay/pull/451) aligned its MCP provider guidance with the catalog format, and [Pay Kit](https://github.com/solana-foundation/pay-kit/pull/299) modernized its skill's protocol references. Both merged the same day.
 - **Sep 1** · The verified open-source contribution record went onto the footer of every Suede surface, from [sing.suedeai.ai](https://sing.suedeai.ai) to [strumly.suedeai.ai](https://strumly.suedeai.ai), with the same count and the same proof link everywhere.
@@ -174,7 +174,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 
 - **Aug 31** · [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) accepted into [awesome-codex](https://github.com/ichangyou/awesome-codex/pull/2), a day after [awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh/pull/14).
 - **Aug 30** · [claimcheck](https://github.com/JasonColapietro/claimcheck) released: turn the promises on your privacy page into tests that fail the build. Zero dependencies.
-- **Aug 30** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids/id6785347610) gave every storybook its own page, shipped iPad screenshots, and put the in-app rating prompt behind the grown-up check.
+- **Aug 30** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) gave every storybook its own page, shipped iPad screenshots, and put the in-app rating prompt behind the grown-up check.
 - **Aug 29** · [Suede Python SDK v0.4.0](https://github.com/Suede-AI/suede-sdk-python/releases/tag/v0.4.0): the x402 v2 client.
 - **Aug 29** · [Agent Studio's integrations page](https://agents.suedeai.ai/integrations) recorded AP2 as live once the merchant rail began advertising it, and added AgentCash to the provider card. Two days earlier it shipped a protocol provider registry with an `/integrations` page and an `/api/providers` feed.
 - **Aug 29** · Session media generation went on sale to in-browser agents over WebMCP, the core of the [WebMCP Challenge entry](https://github.com/JasonColapietro/suede-webmcp-challenge) at the [WebMCP storefront](https://webmcp.suedeai.ai/agents): find a service, read its price and contract, dry-run it for free, then buy it with prepaid credit.
@@ -196,7 +196,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 - **Aug 5** · Catalog graph page configuration fix merged into [Backstage](https://github.com/backstage/backstage/pull/35102). [nam-rs](https://github.com/OpenSauce/nam-rs/pull/50) reports unsupported model architectures instead of failing silently, [Ledger_c](https://github.com/Din-es/Ledger_c/pull/12) gained an `unbind` command, and [copilot-money-mcp](https://github.com/ignaciohermosillacornejo/copilot-money-mcp/pull/616) covers soft-deleted transaction reads. Accepted into [awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills/pull/180).
 - **Aug 4** · [Suede Creator Skills v0.10.0](https://github.com/JasonColapietro/suede-creator-skills/releases/tag/v0.10.0) released with 69 skills. Suede Voice and the Suede Guitar Tuner prepped for Google Play, and the Android sign-in dead end in Suede Social fixed. Five upstream merges the same day: a [bounded readiness poll](https://github.com/pbarone/uptime-kuma-api2/pull/20) in uptime-kuma-api2, a [version flag](https://github.com/thousandflowers/skillreaper/pull/19) in skillreaper, [line-range output](https://github.com/Din-es/Ledger_c/pull/11) in Ledger_c's `why` command, [OIDC near-match tests](https://github.com/jakegold1647/sam-doctor/pull/6) in sam-doctor, and [refreshed the AI-writing guidance](https://github.com/conorbronsdon/avoid-ai-writing/pull/106) in avoid-ai-writing. Accepted into [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills/pull/49).
 - **Aug 3** · [Suede Creator Skills v0.9.2](https://github.com/JasonColapietro/suede-creator-skills/releases/tag/v0.9.2) with 67 skills. Strumly's `/path` became a leveled free course, and the complete edition of [The Signal Chain](https://guitar.solutions) went on sale.
-- **Aug 1** · [StoryBeam Kids 1.2](https://apps.apple.com/us/app/storybeam-kids/id6785347610) on the App Store.
+- **Aug 1** · [StoryBeam Kids 1.2](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) on the App Store.
 
 ### July 2026
 
@@ -212,7 +212,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 - **Jul 14** · Strumly wired a real $5.99 a week Stripe price for the tools paywall, two days after making the practice tools free to match every public promise.
 - **Jul 12** · [Suede Sing](https://sing.suedeai.ai), the vocal studio in the browser, shipped. [Suede Guitar Tuner & Studio 1.1.8](https://apps.apple.com/us/app/suede-guitar-tuner-studio/id6767552764) on the App Store.
 - **Jul 9** · [Suede Python SDK v0.3.1](https://github.com/Suede-AI/suede-sdk-python/releases/tag/v0.3.1): full 20-endpoint docs and a per-request payment header fix.
-- **Jul 7** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids/id6785347610) launched on the App Store, the eighth iOS app.
+- **Jul 7** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) launched on the App Store, the eighth iOS app.
 - **Jul 6** · Programming Insider ran [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/), three days after [Indie Hackers](https://www.indiehackers.com/post/in-the-age-of-infinite-content-spam-is-instant-death-4ca5Qi4vTHZ8aB3muBVK).
 - **Jul 4** · The [founder page](https://suedeai.ai/founder) redesigned as an editorial registry-ledger profile. [distro.suedeai.ai](https://distro.suedeai.ai) rebuilt as a sales page. Muse takes began flowing into the Suede Social feed.
 - **Jul 3** · New screenshots and store-listing optimization for the vocal studio, and the site rebrand completed. [suedeai.ai](https://suedeai.ai) shipped pillar pages for proof of creation and programmable IP with full schema. [Suede Muse](https://muse.suedeai.ai) launched The House Deck, a nightly card ritual.
@@ -242,7 +242,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 - **May 15** · [Suede Voice: Vocal Range Test](https://apps.apple.com/us/app/suede-voice-vocal-range-test/id6767763231) launched on the App Store.
 - **May 11** · [Suede Guitar Tuner & Studio](https://apps.apple.com/us/app/suede-guitar-tuner-studio/id6767552764) launched on the App Store.
 - **May 9** · Altcoin Investor: [How AI, Blockchain, and On-Chain IP Are Changing Creator Ownership](https://altcoininvestor.com/ai-blockchain-on-chain-ip-creator-ownership/). The [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker) began the same day.
-- **May 7** · [AI Music & Video Generator](https://apps.apple.com/us/app/ai-music-video-generator/id6765461286) launched on the App Store, the first of eight iOS apps.
+- **May 7** · [AI Music & Video Generator](https://apps.apple.com/us/app/suede-ai-generator/id6765461286) launched on the App Store, the first of eight iOS apps.
 
 ### Earlier
 
