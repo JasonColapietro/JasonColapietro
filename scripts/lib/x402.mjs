@@ -37,8 +37,35 @@ export const resourceUrl = (resource) => {
 };
 
 // Fields an x402 payment requirement needs before a client can act on it. A
-// requirement missing any of these advertises a price nobody can pay.
-const REQUIRED_ACCEPT_FIELDS = ["scheme", "network", "maxAmountRequired", "payTo", "asset"];
+// requirement missing any of these advertises a price nobody can pay. The
+// amount is checked separately because it is spelled differently across
+// protocol versions.
+const REQUIRED_ACCEPT_FIELDS = ["scheme", "network", "payTo", "asset"];
+
+/**
+ * The atomic-unit price, under either spelling.
+ *
+ * v1 calls this `maxAmountRequired`; v2 carries `amount`. Reading only the v1
+ * name would mark every valid v2 requirement as having no price, and — worse,
+ * because it fails open rather than loud — would leave compareTerms unable to
+ * see v2 price drift at all, which is the single thing this canary exists to
+ * catch. Suede's own SDK shipped a v2 client in August 2026, so this is a live
+ * concern rather than a hypothetical one.
+ */
+export const amountOf = (accept) => {
+  for (const key of ["maxAmountRequired", "amount"]) {
+    const value = accept?.[key];
+    if (value !== undefined && value !== null && value !== "") return { value, key };
+  }
+  return { value: undefined, key: "maxAmountRequired" };
+};
+
+/** The HTTP method a resource advertises, defaulting to GET. */
+export const methodOf = (resource) => {
+  const candidates = [resource?.method, resource?.httpMethod, ...acceptsOf(resource).map((a) => a?.method)];
+  const found = candidates.find((m) => typeof m === "string" && m.trim() !== "");
+  return found ? found.trim().toUpperCase() : "GET";
+};
 
 /** Findings for one payment-requirement entry. */
 export const validateAccept = (accept, label) => {
@@ -55,11 +82,13 @@ export const validateAccept = (accept, label) => {
 
   // Amounts are atomic-unit strings in x402. A number here is a precision bug
   // waiting to happen, and a non-numeric string cannot be charged at all.
-  const amount = accept.maxAmountRequired;
-  if (typeof amount === "number") {
-    problems.push({ severity: "warn", message: `${label}: maxAmountRequired is a number; x402 expects an atomic-unit string` });
+  const { value: amount, key: amountKey } = amountOf(accept);
+  if (amount === undefined) {
+    problems.push({ severity: "fail", message: `${label}: missing maxAmountRequired (or its v2 spelling, amount)` });
+  } else if (typeof amount === "number") {
+    problems.push({ severity: "warn", message: `${label}: ${amountKey} is a number; x402 expects an atomic-unit string` });
   } else if (typeof amount === "string" && !/^\d+$/.test(amount)) {
-    problems.push({ severity: "fail", message: `${label}: maxAmountRequired is not an atomic-unit integer string: ${amount}` });
+    problems.push({ severity: "fail", message: `${label}: ${amountKey} is not an atomic-unit integer string: ${amount}` });
   }
 
   for (const field of ["payTo", "asset"]) {
@@ -169,7 +198,7 @@ export const compareTerms = (advertised, live, label) => {
     scheme: entry?.scheme,
     network: entry?.network,
     asset: entry?.asset,
-    amount: String(entry?.maxAmountRequired ?? ""),
+    amount: String(amountOf(entry).value ?? ""),
   });
 
   const want = pick(advertised);

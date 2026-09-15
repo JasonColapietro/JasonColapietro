@@ -23,6 +23,7 @@ import { probe, probeJson, toleratesBlocking } from "./lib/http.mjs";
 import {
   acceptsOf,
   compareTerms,
+  methodOf,
   resourceUrl,
   validateAgentCard,
   validateManifest,
@@ -85,9 +86,14 @@ const main = async () => {
     probed += 1;
 
     const advertised = acceptsOf(resource)[0];
+    // Use the verb the manifest advertises. The docs call the manifest the
+    // source of truth for paths, prices *and methods*, so probing a POST route
+    // with GET exercises a different endpoint and reports 404 or 405 where the
+    // resource is in fact correctly gated.
+    const method = methodOf(resource);
     // Deliberately unpaid: the correct answer for a gated resource is 402 with
     // the terms attached, and that response is what we compare against.
-    const result = await probe(url, { method: "GET", retries: 1 });
+    const result = await probe(url, { method, retries: 1 });
 
     if (result.blocked) {
       report.add(blockedSeverity, url, "not reachable from this environment (egress policy)");
@@ -95,7 +101,7 @@ const main = async () => {
     }
 
     if (result.status === 402) {
-      report.pass(url, "gated, answers 402 as advertised");
+      report.pass(url, `gated, answers 402 to ${method} as advertised`);
 
       let live;
       try {
@@ -115,13 +121,15 @@ const main = async () => {
     }
 
     if (result.status === 200) {
-      report.fail(url, "advertised as paid but returns 200 without payment — the resource is not gated");
+      report.fail(url, `advertised as paid but returns 200 to ${method} without payment — the resource is not gated`);
     } else if (result.status === 404) {
-      report.fail(url, "advertised in the manifest but not deployed (404)");
+      report.fail(url, `advertised in the manifest but not deployed (404 to ${method})`);
+    } else if (result.status === 405) {
+      report.fail(url, `the manifest advertises ${method}, which the route rejects (405)`);
     } else if (result.status === 0) {
       report.fail(url, `no response (${result.error?.message ?? "unknown error"})`);
     } else {
-      report.fail(url, `expected 402, got HTTP ${result.status}`);
+      report.fail(url, `expected 402 to ${method}, got HTTP ${result.status}`);
     }
   }
 

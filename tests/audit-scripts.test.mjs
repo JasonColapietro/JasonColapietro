@@ -8,7 +8,9 @@ import { Report } from "../scripts/lib/report.mjs";
 import { probe } from "../scripts/lib/http.mjs";
 import {
   acceptsOf,
+  amountOf,
   compareTerms,
+  methodOf,
   resourceUrl,
   resourcesOf,
   validateAccept,
@@ -409,4 +411,44 @@ test("a host that blocks robots is unverifiable, not broken", async () => {
   // Subdomains count; lookalike suffixes do not.
   assert.equal(verdictFor(403, "https://www.instagram.com/suedeai").severity, "warn");
   assert.equal(verdictFor(403, "https://notinstagram.com/x").severity, "fail");
+});
+
+test("the price is read under both protocol spellings", () => {
+  // x402 v1 calls this maxAmountRequired; v2 carries `amount`. Reading only the
+  // v1 name marks every valid v2 requirement as priceless — and, worse, leaves
+  // compareTerms blind to v2 price drift, which is the one thing the canary is
+  // for. Suede's own SDK shipped a v2 client in August 2026.
+  assert.equal(amountOf({ maxAmountRequired: "10000" }).value, "10000");
+  assert.equal(amountOf({ amount: "10000" }).value, "10000");
+  assert.equal(amountOf({ amount: "10000" }).key, "amount");
+  assert.equal(amountOf({}).value, undefined);
+
+  // v1 wins when both are present, and the key is reported for the message.
+  assert.equal(amountOf({ maxAmountRequired: "1", amount: "2" }).key, "maxAmountRequired");
+
+  const v2 = { scheme: "exact", network: "base", amount: "10000", payTo: "solana:abc", asset: "usdc" };
+  assert.deepEqual(validateAccept(v2, "r"), [], "a valid v2 requirement produces no findings");
+
+  const priceless = { scheme: "exact", network: "base", payTo: "solana:abc", asset: "usdc" };
+  assert.ok(validateAccept(priceless, "r").some((p) => p.severity === "fail" && /missing maxAmountRequired/.test(p.message)));
+
+  // And drift must be visible between two v2 entries.
+  const drifted = compareTerms(v2, { ...v2, amount: "50000" }, "r");
+  assert.deepEqual(drifted.map((p) => p.severity), ["fail"]);
+  assert.match(drifted[0].message, /advertises amount 10000 but the live 402 returns 50000/);
+
+  // Mixed spellings across manifest and live response still compare.
+  const mixed = compareTerms({ ...v2 }, { scheme: "exact", network: "base", asset: "usdc", maxAmountRequired: "10000" }, "r");
+  assert.deepEqual(mixed, [], "the same price written either way is not drift");
+});
+
+test("the canary probes the verb the manifest advertises", () => {
+  // Public Links.md calls the manifest the source of truth for paths, prices
+  // and methods. A POST-only generation route probed with GET answers 404 or
+  // 405, which would be reported as a broken resource that is in fact fine.
+  assert.equal(methodOf({ resource: "https://a/1" }), "GET", "GET is the default, not an assumption about the route");
+  assert.equal(methodOf({ resource: "https://a/1", method: "post" }), "POST");
+  assert.equal(methodOf({ resource: "https://a/1", httpMethod: "PUT" }), "PUT");
+  assert.equal(methodOf({ accepts: [{ method: "post", resource: "https://a/1" }] }), "POST");
+  assert.equal(methodOf({ resource: "https://a/1", method: "   " }), "GET", "blank is not a method");
 });

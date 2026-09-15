@@ -67,6 +67,18 @@ const main = async () => {
     const html = await result.response.text();
     report.pass(surface.url, `HTTP ${result.status}`);
 
+    // Probed before the JSON-LD analysis, not after it. These are independent
+    // machine-readable surfaces, and checking llms.txt only on pages that
+    // already serve JSON-LD means the case where a surface loses both reports
+    // one of them and stays silent about the other.
+    if (surface.llms) {
+      const origin = new URL(surface.url).origin;
+      const llms = await probe(`${origin}/llms.txt`, { method: "GET", retries: 0 });
+      if (llms.blocked) report.add(blockedSeverity, `${origin}/llms.txt`, "not reachable from this environment");
+      else if (llms.ok) report.pass(`${origin}/llms.txt`, `HTTP ${llms.status}`);
+      else report.warn(`${origin}/llms.txt`, `absent (HTTP ${llms.status}) on a surface that advertises itself to agents`);
+    }
+
     const blocks = extractJsonLd(html);
     if (blocks.length === 0) {
       report.warn(surface.url, "serves no JSON-LD, so the entity is not machine-resolvable from this page");
@@ -97,13 +109,6 @@ const main = async () => {
       report.pass(surface.url, `${asserted.size} sameAs URLs, all documented`);
     }
 
-    if (surface.llms) {
-      const origin = new URL(surface.url).origin;
-      const llms = await probe(`${origin}/llms.txt`, { method: "GET", retries: 0 });
-      if (llms.blocked) report.add(blockedSeverity, `${origin}/llms.txt`, "not reachable from this environment");
-      else if (llms.ok) report.pass(`${origin}/llms.txt`, `HTTP ${llms.status}`);
-      else report.warn(`${origin}/llms.txt`, `absent (HTTP ${llms.status}) on a surface that advertises itself to agents`);
-    }
   }
 
   const code = report.emit();
