@@ -7,6 +7,16 @@
 name: Live checks
 
 on:
+  # Also on pull requests that change the audits themselves. GitHub only offers
+  # workflow_dispatch for workflows already on the default branch, so without
+  # this a new or edited check cannot be exercised until after it merges —
+  # exactly backwards. Scoped to the audit code, and non-blocking below, so a
+  # live surface being down never reds an unrelated PR.
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'package.json'
+      - '.github/workflows/live-checks.yml'
   schedule:
     # The canary runs often because a resource that stops being gated, or a
     # price that drifts from the manifest, is a commerce bug and should not sit
@@ -33,6 +43,9 @@ jobs:
       github.event_name != 'workflow_dispatch' ||
       contains(fromJSON('["all","canary"]'), inputs.suite)
     runs-on: ubuntu-latest
+    # On a pull request these report, they do not gate: the hosts they probe
+    # belong to someone else's deploy schedule.
+    continue-on-error: ${{ github.event_name == 'pull_request' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -45,10 +58,12 @@ jobs:
     name: Links, entity and counts
     # The six-hourly cron runs the canary alone; the weekly one runs everything.
     if: >-
+      github.event_name == 'pull_request' ||
       github.event.schedule == '0 13 * * 1' ||
       (github.event_name == 'workflow_dispatch' &&
        contains(fromJSON('["all","links","entity","counts"]'), inputs.suite))
     runs-on: ubuntu-latest
+    continue-on-error: ${{ github.event_name == 'pull_request' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
