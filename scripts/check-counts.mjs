@@ -23,7 +23,7 @@ const AUTH = TOKEN ? { authorization: `Bearer ${TOKEN}` } : {};
 // The same query the README's badge links to, so the page and the check are
 // counting the same population by construction.
 const UPSTREAM_QUERY =
-  "is:pr author:JasonColapietro is:merged -user:JasonColapietro -user:Suede-AI";
+  "is:pr author:JasonColapietro author:Suede-AI is:merged -user:JasonColapietro -user:Suede-AI";
 
 /** Every search hit, paged out, so distinct repositories can be counted. */
 const searchAll = async (query) => {
