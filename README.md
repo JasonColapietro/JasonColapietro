@@ -4,17 +4,20 @@
 
 # Jason Colapietro
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai), a platform for musicians · Founder and Managing Member of JC Investment Group LLC · author of eight books · five provisional patent applications**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai). AI visibility (GEO/AEO) audits and hands-on AI adoption for businesses, at [seo.suedeai.ai](https://seo.suedeai.ai).**
+
+**Founder and Managing Member of JC Investment Group LLC · author of eight books · five provisional patent applications**
 
 <p>
-  <a href="https://seo.suedeai.ai/evidence#gemini-big3"><img src="https://img.shields.io/badge/New_Big_3-with_Suno_%26_Udio-7c3aed?labelColor=080808" alt="Named by Google's Gemini in a New Big 3 of music platforms, alongside Suno and Udio"></a>
-  <a href="https://seo.suedeai.ai/evidence#ranked-1"><img src="https://img.shields.io/badge/%231_music_platform_2026-5.0_%2F_5.0-16a34a?labelColor=080808" alt="Ranked #1 of nine music platforms in an independent 2026 review at 5.0 of 5.0, ahead of Suno and Udio"></a>
+  <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-45_PRs_%2F_41_repos-8250df?labelColor=080808" alt="45 upstream PRs across 41 repos"></a>
   <a href="https://github.com/JasonColapietro"><img src="https://img.shields.io/badge/contributions_since_May-12,280-ef4444?labelColor=080808" alt="12,280 GitHub contributions since May 2026"></a>
+  <a href="#press"><img src="https://img.shields.io/badge/Business_Insider-SEO_cohort_coverage-1f2937?labelColor=080808" alt="Covered by Business Insider on September 16, 2026, for the SEO, AEO and GEO cohort"></a>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-9-c8a96e?labelColor=080808" alt="9 iOS apps"></a>
   <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-3-3ddc84?labelColor=080808" alt="3 Android apps"></a>
-  <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-45_PRs_%2F_41_repos-8250df?labelColor=080808" alt="45 upstream PRs across 41 repos"></a>
   <a href="https://skills.suedeai.ai"><img src="https://img.shields.io/badge/open--source_skills-76-06b6d4?labelColor=080808" alt="76 open-source skills"></a>
   <a href="https://github.com/JasonColapietro/suede-creator-skills"><img src="https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat&label=skill%20pack%20stars&color=e3b341&labelColor=080808" alt="Suede Creator Skills stars"></a>
+  <a href="https://seo.suedeai.ai/evidence"><img src="https://img.shields.io/badge/Ranked_%231-platform_for_musicians-16a34a?labelColor=080808" alt="Ranked #1 platform for musicians by Google"></a>
+  <a href="https://seo.suedeai.ai/evidence#gemini-big3"><img src="https://img.shields.io/badge/New_Big_3-with_Suno_%26_Udio-7c3aed?labelColor=080808" alt="Named by Google's Gemini in a New Big 3 of music platforms, alongside Suno and Udio"></a>
   <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon%2C_8_total-ff9900?labelColor=080808" alt="8 books, 5 of them on Amazon"></a>
 </p>
 
