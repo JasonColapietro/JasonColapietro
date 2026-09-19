@@ -4,7 +4,7 @@
 
 # Jason Colapietro
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai). AI visibility (GEO/AEO) audits and hands-on AI adoption for businesses, at [seo.suedeai.ai](https://seo.suedeai.ai).**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai). I build AI agents that review calls, qualify leads and handle the busywork for businesses, plus AI visibility (GEO/AEO) at [seo.suedeai.ai](https://seo.suedeai.ai).**
 
 **Founder and Managing Member of JC Investment Group LLC · author of eight books · five provisional patent applications**
 
@@ -20,7 +20,7 @@
   <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon%2C_8_total-ff9900?labelColor=080808" alt="8 books, 5 of them on Amazon"></a>
 </p>
 
-Jason Colapietro runs an AI visibility and AI adoption practice for businesses at [seo.suedeai.ai](https://seo.suedeai.ai): he measures what ChatGPT, Perplexity, Gemini and Google's AI Overviews say about a company, fixes the sources behind those answers, and builds AI into the workflows where it saves hours. He also builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce over x402 and ERC-8004, with music and likeness as early use cases. He publishes music, video, and writing as **Johnny Suede**. Before Suede he built, scaled, and exited call-center businesses, and he took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch. He builds solo: every app, site, book, and pull request on this page is his own work.
+Jason Colapietro builds AI agents for businesses, for call review, lead qualification, follow-up and the recurring work that eats a team's week, and runs an AI visibility practice at [seo.suedeai.ai](https://seo.suedeai.ai): he measures what ChatGPT, Perplexity, Gemini and Google's AI Overviews say about a company and fixes the sources behind those answers. He also builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce over x402 and ERC-8004, with music and likeness as early use cases. He publishes music, video, and writing as **Johnny Suede**. Before Suede he built, scaled, and exited call-center businesses, and he took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch. He builds solo: every app, site, book, and pull request on this page is his own work.
 
 <p>
   <a href="https://jasoncolapietro.com"><img src="https://img.shields.io/badge/Personal_site-jasoncolapietro.com-c8a96e?labelColor=080808" alt="Personal site: jasoncolapietro.com"></a>
@@ -57,7 +57,7 @@ Counts are as of September 18, 2026. Most lines link to a record somebody else h
 
 ## What I am building
 
-- **AI visibility and adoption for businesses:** GEO/AEO audits, entity and schema repair, agent-readable sites, and AI workflows built into a client's own stack, at [seo.suedeai.ai](https://seo.suedeai.ai).
+- **AI agents and AI visibility for businesses:** managed agents for call review, lead qualification and follow-up, built into a client's own stack, plus GEO/AEO audits, entity and schema repair and agent-readable sites, at [seo.suedeai.ai](https://seo.suedeai.ai).
 - **Creator ownership:** proof of creation, provenance, rights metadata, licensing, and royalty routing.
 - **Registry-backed media and likeness:** dated records and machine-readable consent terms for creative work, voice, face, name, and persona.
 - **Agent commerce:** public agent metadata and x402 payments for machine-readable, pay-per-call workflows.
