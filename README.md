@@ -4,18 +4,18 @@
 
 # Jason Colapietro
 
-**Founder and CEO of [Suede Labs AI](https://suedeai.ai) · Founder and Managing Member of JC Investment Group LLC · author of eight books · five provisional patent applications**
+**Founder and CEO of [Suede Labs AI](https://suedeai.ai), a platform for musicians · Founder and Managing Member of JC Investment Group LLC · author of eight books · five provisional patent applications**
 
 <p>
-  <a href="https://seo.suedeai.ai/evidence#gemini-big3"><img src="https://img.shields.io/badge/AI_music-the_third_pillar-7c3aed?labelColor=080808" alt="Named one of a New Big 3 of AI music platforms, alongside Suno and Udio"></a>
-  <a href="https://seo.suedeai.ai/evidence#ranked-1"><img src="https://img.shields.io/badge/%231_AI_music_generator_2026-5.0_%2F_5.0-16a34a?labelColor=080808" alt="Ranked #1 Best AI Music Generator of 2026 at 5.0 of 5.0"></a>
+  <a href="https://seo.suedeai.ai/evidence#gemini-big3"><img src="https://img.shields.io/badge/New_Big_3-with_Suno_%26_Udio-7c3aed?labelColor=080808" alt="Named by Google's Gemini in a New Big 3 of music platforms, alongside Suno and Udio"></a>
+  <a href="https://seo.suedeai.ai/evidence#ranked-1"><img src="https://img.shields.io/badge/%231_music_platform_2026-5.0_%2F_5.0-16a34a?labelColor=080808" alt="Ranked #1 of nine music platforms in an independent 2026 review at 5.0 of 5.0, ahead of Suno and Udio"></a>
   <a href="https://github.com/JasonColapietro"><img src="https://img.shields.io/badge/contributions_since_May-12,280-ef4444?labelColor=080808" alt="12,280 GitHub contributions since May 2026"></a>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-9-c8a96e?labelColor=080808" alt="9 iOS apps"></a>
   <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-3-3ddc84?labelColor=080808" alt="3 Android apps"></a>
   <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-45_PRs_%2F_41_repos-8250df?labelColor=080808" alt="45 upstream PRs across 41 repos"></a>
   <a href="https://skills.suedeai.ai"><img src="https://img.shields.io/badge/open--source_skills-76-06b6d4?labelColor=080808" alt="76 open-source skills"></a>
   <a href="https://github.com/JasonColapietro/suede-creator-skills"><img src="https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat&label=skill%20pack%20stars&color=e3b341&labelColor=080808" alt="Suede Creator Skills stars"></a>
-  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon-ff9900?labelColor=080808" alt="5 books on Amazon"></a>
+  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon%2C_8_total-ff9900?labelColor=080808" alt="8 books, 5 of them on Amazon"></a>
 </p>
 
 Jason Colapietro builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce over x402 and ERC-8004, with music and likeness as early use cases. He publishes music, video, and writing as **Johnny Suede**. Before Suede he built, scaled, and exited call-center businesses, and he took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch. He builds solo: every app, site, book, and pull request on this page is his own work.
