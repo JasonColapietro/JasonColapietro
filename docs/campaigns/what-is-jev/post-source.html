@@ -1,0 +1,66 @@
+<html><head><meta charset="utf-8"><style>
+/*FONTS*/
+:root{
+  --navy-0:#0B1330; --navy-1:#141F52; --navy-2:#2A3A86;
+  --gold:#D9B97A; --gold-lt:#EBD3A0; --gold-dk:#C7A160;
+  --white:#FFFFFF; --body:#B9C1DE; --muted:#8E98C0;
+  --line:rgba(255,255,255,.10); --panel:rgba(255,255,255,.035);
+  --display:"Fraunces",Georgia,serif; --text:"Inter",system-ui,sans-serif; --mono:"JetBrains Mono",ui-monospace,monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{width:1080px;height:1350px;overflow:hidden;font-family:var(--text);color:var(--white);position:relative;
+  background:
+    radial-gradient(820px 560px at 96% 2%, rgba(66,88,190,.55), transparent 64%),
+    radial-gradient(700px 520px at -4% 100%, rgba(40,60,150,.45), transparent 62%),
+    linear-gradient(170deg,var(--navy-1) 0%,var(--navy-0) 70%);}
+.topline{position:absolute;top:0;left:0;right:0;height:5px;background:linear-gradient(90deg,var(--gold-dk),var(--gold-lt) 50%,var(--gold-dk));}
+.stage{position:relative;height:100%;display:flex;flex-direction:column;padding:88px 84px 76px;}
+.bar{display:flex;align-items:center;gap:18px;}
+.mark{width:44px;height:44px;border-radius:50%;border:2px solid var(--white);display:grid;place-items:center;
+  font-family:var(--display);font-weight:700;font-size:24px;line-height:1;}
+.bar b{font-size:30px;font-weight:700;letter-spacing:-.01em;}
+.kicker{margin-top:74px;font-family:var(--mono);font-weight:500;font-size:24px;letter-spacing:.24em;color:var(--gold);text-transform:uppercase;}
+h1{margin-top:26px;font-family:var(--display);font-weight:700;font-size:86px;line-height:1.0;letter-spacing:-.035em;}
+h1 em{font-style:italic;color:var(--gold-lt);font-weight:700;}
+.sub{margin-top:30px;font-size:29px;line-height:1.42;color:var(--body);max-width:900px;}
+.panel{margin-top:44px;border:1px solid var(--line);border-radius:8px;background:var(--panel);}
+.phead{display:flex;justify-content:space-between;padding:22px 30px;border-bottom:1px solid var(--line);
+  font-family:var(--mono);font-size:20px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);}
+.phead span:last-child{color:var(--white);}
+.row{display:flex;gap:40px;padding:22px 30px;border-bottom:1px solid var(--line);}
+.row:last-child{border-bottom:0;}
+.row .n{font-family:var(--mono);font-size:22px;color:var(--gold);padding-top:5px;}
+.row b{display:block;font-size:29px;font-weight:600;letter-spacing:-.01em;}
+.row i{display:block;font-style:normal;font-size:23px;color:var(--body);margin-top:6px;}
+.who{margin-top:30px;font-size:22px;color:var(--muted);}
+.who strong{color:var(--white);font-weight:600;}
+.foot{margin-top:auto;padding-top:28px;display:flex;align-items:center;justify-content:space-between;}
+.cta{font-size:32px;font-weight:600;color:#10183D;padding:22px 34px;border-radius:6px;
+  background:linear-gradient(180deg,var(--gold-lt),var(--gold-dk));box-shadow:0 10px 30px rgba(0,0,0,.35);}
+.links{text-align:right;font-family:var(--mono);font-size:23px;line-height:1.5;}
+.links div:first-child{color:var(--gold);}
+</style></head><body>
+<div class="topline"></div>
+<div class="stage">
+  <div class="bar"><div class="mark">S</div><b>Suede AI</b></div>
+
+  <div class="kicker">New model &middot; TypeSafe AI</div>
+  <h1>What is Jev? AI that <em>decides, not chats.</em></h1>
+  <div class="sub">The first &ldquo;System One&rdquo; model. Instead of writing text, Jev returns a typed answer with a confidence score your code can act on.</div>
+
+  <div class="panel">
+    <div class="phead"><span>How it&rsquo;s different</span><span>04 points</span></div>
+    <div class="row"><span class="n">01</span><div><b>Typed answers, not prose</b><i>Choices, scores and extracted values, ready for code</i></div></div>
+    <div class="row"><span class="n">02</span><div><b>Confidence on every call</b><i>A 0&ndash;1 score, so software knows when to trust it</i></div></div>
+    <div class="row"><span class="n">03</span><div><b>Fast by design</b><i>70&ndash;500 ms end to end, per TypeSafe</i></div></div>
+    <div class="row"><span class="n">04</span><div><b>Made for decisions</b><i>Classification, routing, scoring, extraction</i></div></div>
+  </div>
+
+  <div class="who"><strong>TypeSafe AI</strong> &middot; led by ex-OpenAI researcher Diogo Almeida &middot; $40M seed</div>
+
+  <div class="foot">
+    <div class="cta">Link in bio &rarr;</div>
+    <div class="links"><div>typesafe.ai</div><div>@suedeai</div></div>
+  </div>
+</div>
+</body></html>
