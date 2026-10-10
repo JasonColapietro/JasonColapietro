@@ -202,6 +202,11 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 
 ### September 2026
 
+- **Sep 30** · [html-to-docx](https://github.com/TurboDocx/html-to-docx/pull/229) stopped silently dropping a `<table>` nested inside a list item; it now renders the same as a top-level table.
+- **Sep 24** · The [XRPL JavaScript library](https://github.com/XRPLF/xrpl.js/pull/3430) stopped autofilling VaultCreate with the two-XRP special fee; it now uses the network base fee.
+- **Sep 23** · [CoreOS Ignition](https://github.com/coreos/ignition/pull/2301) now drops the caller's supplementary groups when it switches to a target user, so a directory reachable only through one of root's groups stays out of reach.
+- **Sep 22** · [CoreOS Ignition](https://github.com/coreos/ignition/pull/2302) added file append and overwrite examples to the Butane docs.
+- **Sep 21** · [CoreOS Ignition](https://github.com/coreos/ignition/pull/2326) dropped the old shell-loop Butane docs check that the Sep 16 validator made redundant, so the docs checks no longer need a built binary.
 - **Sep 16** · Business Insider ran [Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662), the eleventh feature placement and the first outside the trade press. The same day, [CoreOS Ignition](https://github.com/coreos/ignition/pull/2303) merged Butane config validation for its docs.
 - **Sep 14** · [GuitarHub: Guitar Lessons](https://apps.apple.com/us/app/guitarhub-guitar-lessons/id6806770875) launched on the App Store, the ninth iOS app, as the native companion to [guitarhub.org](https://guitarhub.org).
 - **Sep 13** · TechBullion: [Suede Opens Its Widely Anticipated SEO and AI Cohort](https://techbullion.com/suede-opens-its-widely-anticipated-seo-and-ai-cohort/).
