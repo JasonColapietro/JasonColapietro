@@ -12,7 +12,7 @@
   <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-54_PRs_%2F_46_repos-8250df?labelColor=080808" alt="54 upstream PRs across 46 repos"></a>
   <a href="#press"><img src="https://img.shields.io/badge/Business_Insider-SEO_cohort_coverage-1f2937?labelColor=080808" alt="Covered by Business Insider on September 16, 2026, for the SEO, AEO and GEO cohort"></a>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-9-c8a96e?labelColor=080808" alt="9 iOS apps"></a>
-  <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-3-3ddc84?labelColor=080808" alt="3 Android apps"></a>
+  <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-6-3ddc84?labelColor=080808" alt="6 Android apps"></a>
   <a href="https://skills.suedeai.ai"><img src="https://img.shields.io/badge/open--source_skills-76-06b6d4?labelColor=080808" alt="76 open-source skills"></a>
   <a href="https://github.com/JasonColapietro/suede-creator-skills"><img src="https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat&label=skill%20pack%20stars&color=e3b341&labelColor=080808" alt="Suede Creator Skills stars"></a>
   <a href="https://seo.suedeai.ai/evidence"><img src="https://img.shields.io/badge/Ranked_%231-platform_for_musicians-16a34a?labelColor=080808" alt="Ranked #1 platform for musicians by Google"></a>
@@ -39,7 +39,7 @@ Jason Colapietro is a fractional forward-deployed engineer. He integrates AI age
 
 Counts are as of September 18, 2026. Most lines link to a record somebody else hosts.
 
-- **Nine iOS apps and three Android apps, live under my own developer name.** Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) lists all nine with current versions and release dates. The first shipped on May 7, 2026; the ninth, [GuitarHub: Guitar Lessons](https://apps.apple.com/us/app/guitarhub-guitar-lessons/id6806770875), on September 14, 2026. Three of them also run on Google Play, listed under [Apps](#apps), and the vocal studio ships as a [Chrome extension](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd).
+- **Nine iOS apps and six Android apps, live on the App Store and Google Play.** Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) lists all nine with current versions and release dates. The first shipped on May 7, 2026; the ninth, [GuitarHub: Guitar Lessons](https://apps.apple.com/us/app/guitarhub-guitar-lessons/id6806770875), on September 14, 2026. Six Android editions run on Google Play, listed under [Apps](#apps), and two Chrome extensions ship on the Chrome Web Store: the vocal studio as a [Chrome extension](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd), and [Suede AI Visibility](https://chromewebstore.google.com/detail/hekigfiohpacglhcaiidnbphejpihaki), an SEO and AEO audit.
 - **54 pull requests merged into 46 open-source projects I don't maintain**, across my two GitHub accounts, JasonColapietro and Suede-AI. Jest, Adobe React Spectrum, Backstage, Hardhat, Polkadot SDK, Cosmos SDK, CoreOS Ignition, Solana Pay, elizaOS, x402, zeroclaw, and the Prometheus docs are among them. 33 are fixes, features, tests, and docs; the other 21 are accepted listings of Suede projects on third-party lists. Outside GitHub, a Linux kernel USB/IP patch series is public upstream at v7 on the kernel's own lists, recorded separately under [Open source](#open-source). [Check all 54 merged pull requests on GitHub](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
 - **A USB/IP patch series submitted to the Linux kernel**, revised in public from v2 through v7 on the kernel's own mailing lists at [lore.kernel.org/linux-usb](https://lore.kernel.org/linux-usb/). Every revision is in the open, on the least forgiving list in open source. It sits outside the pull-request count above; the record is at [seo.suedeai.ai/evidence#open-source](https://seo.suedeai.ai/evidence#open-source).
 - **[Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills): 76 open-source agent skills for Claude Code and Codex**, installable as a plugin marketplace, and accepted into [15 independent skills directories](#skills-directories-the-pack-was-accepted-into) — GitHub's own awesome-copilot among them. Every acceptance links to its merged pull request.
@@ -83,7 +83,7 @@ About 30 websites and 9 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 ## Apps
 
-Nine on the App Store, three on Google Play, one on the Chrome Web Store. Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) is the canonical list.
+Nine on the App Store, six on Google Play, two on the Chrome Web Store. Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) is the canonical list.
 
 | App | Platform | First released |
 |---|---|---|
@@ -99,7 +99,11 @@ Nine on the App Store, three on Google Play, one on the Chrome Web Store. Apple'
 | [Suede Voice: Vocal Range Test](https://play.google.com/store/apps/details?id=ai.suedeai.suedevoice) | Android | 2026 |
 | [Suede: AI Music Generator](https://play.google.com/store/apps/details?id=xyz.suedeai.app) | Android | 2026 |
 | [Suede AI Agents: Directory](https://play.google.com/store/apps/details?id=ai.suede.agents) | Android | 2026 |
+| [Suede: Guitar Forum & Gear](https://play.google.com/store/apps/details?id=ai.suede.social) | Android | 2026 |
+| [Suede Guitar Tuner & Studio](https://play.google.com/store/apps/details?id=ai.suede.fretpulse) | Android | 2026 |
+| [StoryBeam Kids: Bedtime Books](https://play.google.com/store/apps/details?id=com.storybeamkids.app) | Android | 2026 |
 | [Suede Sing: Vocal Coach, Pitch Trainer & Vocal Range Test](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd) | Chrome | 2026 |
+| [Suede AI Visibility — SEO & AEO Audit](https://chromewebstore.google.com/detail/hekigfiohpacglhcaiidnbphejpihaki) | Chrome | 2026 |
 
 ## Books
 
