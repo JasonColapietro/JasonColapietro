@@ -6,7 +6,7 @@
 
 **Founder and CEO of [Suede AI](https://suedeai.ai). Fractional forward-deployed engineer: I integrate AI agents into how a company works, then run its SEO, AI search visibility and PR, at [seo.suedeai.ai](https://seo.suedeai.ai).**
 
-**Founder and Managing Member of JC Investment Group LLC · author of eight books · five provisional patent applications**
+**Founder and Managing Member of JC Investment Group LLC · author of seven books · five provisional patent applications**
 
 <p>
   <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-54_PRs_%2F_46_repos-8250df?labelColor=080808" alt="54 upstream PRs across 46 repos"></a>
@@ -17,7 +17,7 @@
   <a href="https://github.com/JasonColapietro/suede-creator-skills"><img src="https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat&label=skill%20pack%20stars&color=e3b341&labelColor=080808" alt="Suede Creator Skills stars"></a>
   <a href="https://seo.suedeai.ai/evidence"><img src="https://img.shields.io/badge/Ranked_%231-platform_for_musicians-16a34a?labelColor=080808" alt="Ranked #1 platform for musicians by Google"></a>
   <a href="https://seo.suedeai.ai/evidence#gemini-big3"><img src="https://img.shields.io/badge/New_Big_3-with_Suno_%26_Udio-7c3aed?labelColor=080808" alt="Named by Google's Gemini in a New Big 3 of music platforms, alongside Suno and Udio"></a>
-  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon%2C_8_total-ff9900?labelColor=080808" alt="8 books, 5 of them on Amazon"></a>
+  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon%2C_7_total-ff9900?labelColor=080808" alt="7 books, 5 of them on Amazon"></a>
 </p>
 
 Jason Colapietro is a fractional forward-deployed engineer. He integrates AI agents into how a company works, for call review, lead qualification, follow-up and operations, then runs its SEO, AI search visibility and PR at [seo.suedeai.ai](https://seo.suedeai.ai). He also builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede AI, also known as Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce over x402 and ERC-8004, with music and likeness as early use cases. He publishes music, video, and writing as **Johnny Suede**. Before Suede he built, scaled, and exited call-center businesses, and he took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch. He builds solo: every app, site, book, and pull request on this page is his own work.
@@ -44,7 +44,7 @@ Counts are as of September 18, 2026. Most lines link to a record somebody else h
 - **A USB/IP patch series submitted to the Linux kernel**, revised in public from v2 through v7 on the kernel's own mailing lists at [lore.kernel.org/linux-usb](https://lore.kernel.org/linux-usb/). Every revision is in the open, on the least forgiving list in open source. It sits outside the pull-request count above; the record is at [seo.suedeai.ai/evidence#open-source](https://seo.suedeai.ai/evidence#open-source).
 - **[Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills): 76 open-source agent skills for Claude Code and Codex**, installable as a plugin marketplace, and accepted into [15 independent skills directories](#skills-directories-the-pack-was-accepted-into) — GitHub's own awesome-copilot among them. Every acceptance links to its merged pull request.
 - **Entered OpenAI's WebMCP Challenge** in September 2026 with a browser-native storefront: four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. [Source published under MIT](https://github.com/JasonColapietro/suede-webmcp-challenge), running at the [WebMCP storefront](https://webmcp.suedeai.ai/agents).
-- **Five books on Amazon and three published direct**, among them *The Signal Chain*, an illustrated history of guitar tone, and *The Screenshot*, an SEO and GEO field guide with its [source edition on GitHub](https://github.com/JasonColapietro/suede-geo-book).
+- **Five books on Amazon and two published direct**, among them *The Signal Chain*, an illustrated history of guitar tone, and *The Screenshot*, an SEO and GEO field guide with its [source edition on GitHub](https://github.com/JasonColapietro/suede-geo-book).
 - **Before Suede, I built, scaled, and exited businesses.** Multiple multimillion-dollar businesses over two decades, including call centers in my niche that I exited for millions; the sales scripts I wrote are still in use across that industry. That operating history now shapes Suede's [managed agents](https://seo.suedeai.ai/managed-ai-agents) for call review and lead qualification. The record is on the [founder page](https://suedeai.ai/founder).
 - **Took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch.** Stated on the [founder page](https://suedeai.ai/founder).
 - **In partnership with Google Cloud since September 2025:** a dedicated Google Cloud account team, a Google Premier Partner assigned to the account, and the Suede stack on the Vertex AI suite. The dated correspondence, from Google Cloud's first outreach on August 5, 2025 onward, is published as captures at [seo.suedeai.ai/evidence](https://seo.suedeai.ai/evidence#google-cloud). **Google Cloud Partner Advantage member** since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. **Stripe Startups**, accepted July 31, 2026. **Florida Atlantic Entrepreneurship Institute** at FAU's College of Business, accepted July 17, 2026. Member of **1909**, the West Palm Beach entrepreneurship hub.
@@ -109,7 +109,7 @@ Nine on the App Store, six on Google Play, two on the Chrome Web Store. Apple's 
 
 Five on Amazon: [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) · [The Claude Code Bible](https://www.amazon.com/dp/B0HHTMJWB4) · [Codex in Production](https://www.amazon.com/dp/B0HHTF3LG1)
 
-Published independently: [The Signal Chain](https://guitar.solutions) · [The Screenshot](https://seo.suedeai.ai/book) · [The Guitar Without a Number](https://strumly.suedeai.ai/book/catalog)
+Published independently: [The Signal Chain](https://guitar.solutions) · [The Screenshot](https://seo.suedeai.ai/book). The earlier [The Guitar Without a Number](https://strumly.suedeai.ai/book/catalog) is now incorporated into The Signal Chain.
 
 Owned corpus: [Substack](https://jasoncolapietro.substack.com), including *Fender Is Trying to Kill John Mayer's Guitar. AI Companies Are Next.* · YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede) · [@aisuede](https://www.youtube.com/@aisuede)
 
