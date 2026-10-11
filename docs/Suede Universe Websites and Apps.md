@@ -1,4 +1,4 @@
-# Suede Labs AI ecosystem directories
+# Suede AI ecosystem directories
 
 This compatibility page replaces a duplicated inventory of Suede websites, app routes, products, and endpoints. That inventory drifted as the live system changed and should not compete with the canonical directories.
 
@@ -16,6 +16,6 @@ The live destinations are authoritative for current products, paths, prices, and
 
 - [Profile, apps, books, press, and changelog](../README.md)
 - [Jason Colapietro: public identity, roles, and evidence](./Jason%20Colapietro.md)
-- [Suede Labs AI platform reference](./Suede%20Labs%20AI.md)
+- [Suede AI platform reference](./Suede%20Labs%20AI.md)
 
 Superseded on July 17, 2026. This page is a compatibility stub kept at its original path so previously published links keep resolving; it is not maintained as content, and its filename is deliberately frozen.

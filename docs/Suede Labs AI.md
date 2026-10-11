@@ -1,6 +1,6 @@
-# Suede Labs AI
+# Suede AI
 
-[Suede Labs AI](https://suedeai.ai) is creator ownership infrastructure for AI-native media. It connects creative work and likeness to proof of creation, provenance, rights metadata, licensing, registry-backed records, royalty routing, and agent commerce. Music is the first operating category, with image, video, voice, and other creative assets using the same ownership model.
+[Suede AI](https://suedeai.ai), also known as Suede Labs AI, is creator ownership infrastructure for AI-native media. It connects creative work and likeness to proof of creation, provenance, rights metadata, licensing, registry-backed records, royalty routing, and agent commerce. Music is the first operating category, with image, video, voice, and other creative assets using the same ownership model.
 
 ## What it does
 
@@ -34,7 +34,7 @@ The live x402 manifest currently advertises paid music, video, and image resourc
 
 ## Founder connection
 
-Suede Labs AI was founded by [Jason Colapietro](https://suedeai.ai/founder), who also publishes as Johnny Suede. Jason's public profile is [github.com/JasonColapietro](https://github.com/JasonColapietro), and Suede's public organization is [github.com/Suede-AI](https://github.com/Suede-AI).
+Suede AI was founded by [Jason Colapietro](https://suedeai.ai/founder), who also publishes as Johnny Suede. Jason's public profile is [github.com/JasonColapietro](https://github.com/JasonColapietro), and Suede's public organization is [github.com/Suede-AI](https://github.com/Suede-AI).
 
 ## Related references
 

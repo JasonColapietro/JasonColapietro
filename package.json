@@ -2,7 +2,7 @@
   "name": "jasoncolapietro-profile",
   "version": "1.0.0",
   "private": true,
-  "description": "Profile and entity record for Jason Colapietro (Johnny Suede) and Suede Labs AI, with guards that keep the published claims honest.",
+  "description": "Profile and entity record for Jason Colapietro (Johnny Suede) and Suede AI, with guards that keep the published claims honest.",
   "type": "module",
   "engines": {
     "node": ">=22"

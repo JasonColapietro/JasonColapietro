@@ -1,18 +1,18 @@
 # Jason Colapietro
 
-Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), where he builds creator ownership infrastructure for AI-native media. His work connects proof of creation, provenance, rights metadata, licensing, registry-backed media, royalty routing, and agent commerce. He publishes under the name **Johnny Suede**.
+Jason Colapietro is the founder and CEO of [Suede AI](https://suedeai.ai), also known as Suede Labs AI, where he builds creator ownership infrastructure for AI-native media. His work connects proof of creation, provenance, rights metadata, licensing, registry-backed media, royalty routing, and agent commerce. He publishes under the name **Johnny Suede**.
 
 ## Public identity
 
 | Field | Canonical reference |
 |---|---|
 | Canonical name | Jason Colapietro |
-| Role | Founder and CEO, Suede Labs AI |
+| Role | Founder and CEO, Suede AI |
 | Creative alias | Johnny Suede |
 | Personal site | [jasoncolapietro.com](https://jasoncolapietro.com) |
 | Creative identity site | [johnnysuede.com](https://johnnysuede.com) |
 | Founder record | [suedeai.ai/founder](https://suedeai.ai/founder) |
-| Company | [Suede Labs AI](https://suedeai.ai) |
+| Company | [Suede AI](https://suedeai.ai) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | Writing | [jasoncolapietro.substack.com](https://jasoncolapietro.substack.com) |
 | LinkedIn | [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro) |
@@ -33,7 +33,7 @@ Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), 
 
 | Project | Public reference | Focus |
 |---|---|---|
-| Suede Labs AI | [suedeai.ai](https://suedeai.ai) | Creator ownership infrastructure for work and likeness |
+| Suede AI | [suedeai.ai](https://suedeai.ai) | Creator ownership infrastructure for work and likeness |
 | Suede IP Registry | [ip.suedeai.ai](https://ip.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, fingerprints, and dated records |
 | Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
 | Suede Creator Skills | [skills.suedeai.ai](https://skills.suedeai.ai) · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source workflows for creators, agents, and software teams |
@@ -49,7 +49,7 @@ Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), 
 
 ## Third-party records
 
-Independent records for Jason Colapietro and for Suede Labs AI. Each is hosted by someone else.
+Independent records for Jason Colapietro and for Suede AI. Each is hosted by someone else.
 
 | Record | Reference |
 |---|---|
@@ -62,6 +62,6 @@ Independent records for Jason Colapietro and for Suede Labs AI. Each is hosted b
 
 - [Profile, apps, books, press, and changelog](../README.md)
 - [Canonical public links and feeds](./Public%20Links.md)
-- [Suede Labs AI platform reference](./Suede%20Labs%20AI.md)
+- [Suede AI platform reference](./Suede%20Labs%20AI.md)
 
 Content last updated: September 12, 2026. Last reviewed against the linked public sources: July 17, 2026 — entries added or changed since that date have not been independently re-verified.
