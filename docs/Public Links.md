@@ -40,7 +40,7 @@ That URL is deliberately recorded here as text and not as a link: this index pub
 | Application | [app.suedeai.ai](https://app.suedeai.ai) | Application root |
 | Creator application | [app.suedeai.ai/create](https://app.suedeai.ai/create) | Creator workflow |
 | Developer portal | [app.suedeai.ai/developers](https://app.suedeai.ai/developers) | Developer workflow and API entry point |
-| Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
+| Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
 | Product hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live ecosystem directory |
 | Ecosystem map | [map.suedeai.ai](https://map.suedeai.ai) | Products, protocols, apps, and publications |
 | Vocal studio | [sing.suedeai.ai](https://sing.suedeai.ai) | Suede Sing in the browser; ships as Suede Voice on iOS and Android |

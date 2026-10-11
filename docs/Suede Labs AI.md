@@ -28,7 +28,7 @@ This table lists canonical entry points only. The full link index is [Public Lin
 |---|---|
 | x402 resource manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
 | A2A agent card | [app.suedeai.ai/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
-| Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) |
+| Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) |
 
 The live x402 manifest currently advertises paid music, video, and image resources. The manifest itself is the source of truth for advertised paths, prices, and methods; runtime success requires a separate canary.
 

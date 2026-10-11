@@ -35,7 +35,7 @@ Jason Colapietro is the founder and CEO of [Suede Labs AI](https://suedeai.ai), 
 |---|---|---|
 | Suede Labs AI | [suedeai.ai](https://suedeai.ai) | Creator ownership infrastructure for work and likeness |
 | Suede IP Registry | [ip.suedeai.ai](https://ip.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, fingerprints, and dated records |
-| Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
+| Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
 | Suede Creator Skills | [skills.suedeai.ai](https://skills.suedeai.ai) · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source workflows for creators, agents, and software teams |
 | The Signal Chain | [guitar.solutions](https://guitar.solutions) · [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Electric-guitar history, signal flow, and research |
 | Anti-Slop Templates | [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
