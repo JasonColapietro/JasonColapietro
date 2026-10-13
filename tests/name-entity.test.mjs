@@ -246,7 +246,7 @@ test("patent claims are scoped to provisional applications and agree on the coun
 
   assert.doesNotMatch(
     readme,
-    /\bPatent(?:s)? \d{2}\//,
+    /\bPatent(?:s)? \d{2}\//i,
     'a 63/-series serial is a provisional application; write "provisional patent application", not "Patent"',
   );
 
