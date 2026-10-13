@@ -6,7 +6,7 @@
 
 **Founder and CEO of [Suede AI](https://suedeai.ai). Fractional forward-deployed engineer: I integrate AI agents into how a company works, then run its SEO, AI search visibility and PR, at [seo.suedeai.ai](https://seo.suedeai.ai).**
 
-**Founder and Managing Member of JC Investment Group LLC · author of seven books**
+**Founder and Managing Member of JC Investment Group LLC · author of seven books · five provisional patent applications**
 
 <p>
   <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-54_PRs_%2F_46_repos-8250df?labelColor=080808" alt="54 upstream PRs across 46 repos"></a>
@@ -146,6 +146,7 @@ Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai
 - **Gemini**, captured February 17, 2026: asked for the top AI music generation platforms of 2026, Google's own model returns a "New Big 3" and puts Suede in it, beside Suno and Udio, calling it "The Creator's IP Fortress." [The capture](https://seo.suedeai.ai/evidence#gemini-big3).
 - **Ranked #1 Best AI Music Generator of 2026**, captured November 26, 2025: an independent top-nine review places Suede first at 5.0 of 5.0, ahead of Suno, Udio, SOUNDRAW, Beatoven and AIVA, scored on music quality, creative control and ease of use. [The receipt](https://seo.suedeai.ai/evidence#ranked-1).
 - **AI Agents Directory:** the archived music-category page names Suede AI Best Overall and Best API Option among 47 tools, with a 5.0-star listing. [Archived record](https://seo.suedeai.ai/evidence#directory) · [live category](https://aiagentsdirectory.com/category/music).
+- **Five provisional patent applications** on file with the USPTO: 63/946,189, 63/946,192, 63/946,212, 63/946,217, and 63/947,120, all with filing receipts issued in January 2026. Provisional applications are not themselves published, so these are filing records rather than granted patents.
 
 ## Verify the work
 
