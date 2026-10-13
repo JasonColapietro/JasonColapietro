@@ -102,7 +102,8 @@ Book and reading-edition URLs asserted in the `sameAs` set of [suedeai.ai/founde
 
 | Reference | URL |
 |---|---|
-| Public IP registry | [ip.suedeai.ai](https://ip.suedeai.ai) |
+| Public IP registry | [registry.suedeai.ai](https://registry.suedeai.ai) |
+| Artist Coordination | [ip.suedeai.ai](https://ip.suedeai.ai) |
 | x402 manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
 | A2A agent card | [app.suedeai.ai/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
 

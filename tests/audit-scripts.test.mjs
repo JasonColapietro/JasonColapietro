@@ -303,7 +303,8 @@ test("the canonical identity set comes from Public Links, not from the checker",
 
   // The machine-readable endpoints are evidence, not identity assertions, and a
   // surface listing them under sameAs would be making a different claim.
-  assert.ok(!urls.has("https://ip.suedeai.ai"), "registry endpoints are not identity URLs");
+  assert.ok(!urls.has("https://registry.suedeai.ai"), "registry endpoints are not identity URLs");
+  assert.ok(!urls.has("https://ip.suedeai.ai"), "product sites are not identity URLs");
   assert.ok(![...urls].some((u) => u.includes("img.shields.io")), "badge images are never identity URLs");
 });
 

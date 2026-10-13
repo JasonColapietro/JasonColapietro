@@ -1,6 +1,6 @@
 # Jason Colapietro
 
-Jason Colapietro is the founder and CEO of [Suede AI](https://suedeai.ai), also known as Suede Labs AI, where he builds creator ownership infrastructure for AI-native media. His work connects proof of creation, provenance, rights metadata, licensing, registry-backed media, royalty routing, and agent commerce. He publishes under the name **Johnny Suede**.
+Jason Colapietro is the founder and CEO of [Suede AI](https://suedeai.ai), also known as Suede Labs AI, where he builds creator ownership infrastructure for AI-native media. His work connects proof of creation, provenance, rights metadata, registry-backed media, artist coordination, and agent commerce. He publishes under the name **Johnny Suede**.
 
 ## Public identity
 
@@ -23,7 +23,7 @@ Jason Colapietro is the founder and CEO of [Suede AI](https://suedeai.ai), also 
 
 - Creator ownership and programmable IP
 - Proof of creation, provenance, and rights metadata
-- Licensing and royalty routing
+- Artist coordination and release records
 - Registry-backed media, voice, and likeness records
 - x402 payments and pay-per-call APIs
 - Agent discovery and agent commerce
@@ -34,7 +34,8 @@ Jason Colapietro is the founder and CEO of [Suede AI](https://suedeai.ai), also 
 | Project | Public reference | Focus |
 |---|---|---|
 | Suede AI | [suedeai.ai](https://suedeai.ai) | Creator ownership infrastructure for work and likeness |
-| Suede IP Registry | [ip.suedeai.ai](https://ip.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, fingerprints, and dated records |
+| Suede IP Registry | [registry.suedeai.ai](https://registry.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, fingerprints, and dated records |
+| Artist Coordination | [ip.suedeai.ai](https://ip.suedeai.ai) | Suede's music IP site: artist profiles, release destinations, approvals, and correction cases in one auditable record |
 | Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
 | Suede Creator Skills | [skills.suedeai.ai](https://skills.suedeai.ai) · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source workflows for creators, agents, and software teams |
 | The Signal Chain | [guitar.solutions](https://guitar.solutions) · [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Electric-guitar history, signal flow, and research |
