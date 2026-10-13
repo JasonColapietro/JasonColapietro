@@ -121,7 +121,7 @@ domains, are blocked by the network egress proxy. To run it:
 
 ```sh
 for u in jasoncolapietro.com johnnysuede.com suedeai.ai suedeai.org sing.suedeai.ai \
-         strumly.suedeai.ai guitar.solutions ip.suedeai.ai agents.suedeai.ai; do
+         strumly.suedeai.ai guitar.solutions registry.suedeai.ai ip.suedeai.ai agents.suedeai.ai; do
   curl -sSL -A 'facebookexternalhit/1.1' "https://$u" \
     | grep -Eio '<meta[^>]+(og:|twitter:|fb:)[^>]*>|<link[^>]+canonical[^>]*>'
 done

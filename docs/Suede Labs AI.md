@@ -1,12 +1,12 @@
 # Suede AI
 
-[Suede AI](https://suedeai.ai), also known as Suede Labs AI, is creator ownership infrastructure for AI-native media. It connects creative work and likeness to proof of creation, provenance, rights metadata, licensing, registry-backed records, royalty routing, and agent commerce. Music is the first operating category, with image, video, voice, and other creative assets using the same ownership model.
+[Suede AI](https://suedeai.ai), also known as Suede Labs AI, is creator ownership infrastructure for AI-native media. It connects creative work and likeness to proof of creation, provenance, rights metadata, registry-backed records, artist coordination, and agent commerce. Music is the first operating category, with image, video, voice, and other creative assets using the same ownership model.
 
 ## What it does
 
 1. **Record evidence:** create a dated fingerprint and authorship claim for a work or reference asset.
-2. **License:** publish rights and consent terms that people and software can read.
-3. **Route value:** programmable IP — connect licensed use to creator-defined splits, payments, and royalty routing.
+2. **Declare rights:** publish rights metadata and consent terms that people and software can read.
+3. **Coordinate and transact:** keep artist profiles, release destinations, and approvals in one auditable record on the music IP site, and sell creative generation to AI agents through x402 pay-per-call endpoints.
 
 ## Primary public surfaces
 
@@ -15,7 +15,8 @@
 | Product | [suedeai.ai](https://suedeai.ai) | Primary product and platform overview |
 | Creator app | [app.suedeai.ai/create](https://app.suedeai.ai/create) | Creator workflow |
 | Developer portal | [app.suedeai.ai/developers](https://app.suedeai.ai/developers) | Developer workflow and API entry point |
-| IP Registry | [ip.suedeai.ai](https://ip.suedeai.ai) | Public creator-claim, fingerprint, contributor, and timestamp lookup |
+| IP Registry | [registry.suedeai.ai](https://registry.suedeai.ai) | Public creator-claim, fingerprint, contributor, and timestamp lookup |
+| Artist Coordination | [ip.suedeai.ai](https://ip.suedeai.ai) | Suede's music IP site: artist profiles, release destinations, approvals, and correction cases in one auditable record |
 | Company and thesis | [suedeai.org](https://suedeai.org) | Ownership, provenance, books, and company material |
 | Hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live product directory |
 | Map | [map.suedeai.ai](https://map.suedeai.ai) | Ecosystem map for products, protocols, apps, and publications |

@@ -58,7 +58,7 @@ Counts are as of October 11, 2026, except where a line gives its own date. Most 
 ## What I am building
 
 - **AI integration, SEO, AI search visibility and PR for businesses:** AI agents for call review, lead qualification and follow-up built into a client's own stack, then GEO/AEO audits, entity and schema repair and press work, delivered as a fractional forward-deployed engineer at [seo.suedeai.ai](https://seo.suedeai.ai).
-- **Creator ownership:** proof of creation, provenance, rights metadata, licensing, and royalty routing.
+- **Creator ownership:** proof of creation, provenance, rights metadata, and artist coordination.
 - **Registry-backed media and likeness:** dated records and machine-readable consent terms for creative work, voice, face, name, and persona.
 - **Agent commerce:** public agent metadata and x402 payments for machine-readable, pay-per-call workflows.
 - **Music-first creator tools:** creation, distribution, guitar, voice, and catalog experiences connected to an ownership layer.
@@ -69,9 +69,10 @@ About 30 websites and 9 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 | Project | What it does |
 |---|---|
-| [Suede AI](https://suedeai.ai) | The product front door. Creator ownership infrastructure for registering work and likeness, documenting provenance, licensing rights, and routing royalties. |
+| [Suede AI](https://suedeai.ai) | The product front door. Creator ownership infrastructure for registering work and likeness, documenting provenance, and coordinating artist records. |
 | [Suede Studio](https://studio.suedeai.ai) · [Suede Distro](https://distro.suedeai.ai) | AI music generation with the master retained by the creator; release finished work to 100+ streaming services. |
-| [Suede IP Registry](https://ip.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, file fingerprints, and dated records on Base and Avalanche. It shows that a file existed in a given form, claimed by a given wallet, on a given date — evidence, not legal title. |
+| [Suede IP Registry](https://registry.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, file fingerprints, and dated records on Base and Avalanche. It shows that a file existed in a given form, claimed by a given wallet, on a given date — evidence, not legal title. |
+| [Artist Coordination](https://ip.suedeai.ai) | Suede's music IP site: artist profiles, release destinations, approvals, and correction cases in one auditable record, with an [interactive demo](https://ip.suedeai.ai/artist-coordination/demo). |
 | [Suede AI Agent Studio](https://agents.suedeai.ai) · [Agentix](https://agentix.suedeai.ai) | Build agents visually and ship them as paid per-call services over x402; track what they earn. The [WebMCP storefront](https://webmcp.suedeai.ai/agents) sells the same services to agents running inside the browser. |
 | [Suede Scan](https://scan.suedeai.ai) · [Suede Lens](https://suedeai.ai/lens) | Scan shows what AI search engines say about a business, with screenshots, then repairs the site. Lens is the Chrome extension that audits rights, provenance, JSON-LD, SEO, and AEO signals on any page. |
 | [Strumly](https://strumly.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) · [FretPulse](https://fretpulse.suedeai.ai) | Musician tools: a 24/7 guitar coach, a creative training companion, and a guitar-care app. |
@@ -154,7 +155,8 @@ Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai
 - [suedeai.org](https://suedeai.org): the company and thesis site — ownership, provenance, books, and company material.
 - [Press kit and verified facts](https://suedeai.ai/press): the journalist-facing record.
 - [The receipts page](https://seo.suedeai.ai/evidence): dated captures behind the Google Cloud partnership, the press placements, the open-source record, and the AI search surfaces quoted above.
-- [Public IP registry](https://ip.suedeai.ai): wallet-signed creator claims, file fingerprints, contributor records, and public timestamps; evidence, not legal title.
+- [Public IP registry](https://registry.suedeai.ai): wallet-signed creator claims, file fingerprints, contributor records, and public timestamps; evidence, not legal title.
+- [Artist Coordination](https://ip.suedeai.ai): the music IP site, with artist profiles, release destinations, approvals, and correction cases in one auditable record.
 - [x402 manifest](https://app.suedeai.ai/.well-known/x402.json): currently advertised paid API resources in a machine-readable catalog.
 - [A2A (agent-to-agent) agent card](https://app.suedeai.ai/.well-known/agent-card.json): public agent identity, capabilities, and discovery metadata.
 - [Wikidata Q140235755](https://www.wikidata.org/wiki/Q140235755) · [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e) · [PitchBook](https://pitchbook.com/profiles/company/937217-71): third-party identity records.
@@ -290,7 +292,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 - **Jun 15** · [Wikidata item Q140235755](https://www.wikidata.org/wiki/Q140235755) created for Jason Colapietro.
 - **Jun 12** · [Suede Social: Guitar Forum](https://apps.apple.com/us/app/suede-social-guitar-forum/id6770668793) launched on the App Store.
 - **Jun 11** · The [x402 manifest](https://app.suedeai.ai/.well-known/x402.json) became crawlable, with agent-origin CORS preflight and an `agent.json` alias.
-- **Jun 10** · The [IP Registry](https://ip.suedeai.ai) consolidated into a single multi-network master registry. Crunchbase profiles joined the entity graph.
+- **Jun 10** · The [IP Registry](https://registry.suedeai.ai) consolidated into a single multi-network master registry. Crunchbase profiles joined the entity graph.
 - **Jun 7** · First commit of [Suede AI Agent Studio](https://agents.suedeai.ai).
 
 ### May 2026
