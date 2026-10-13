@@ -1,6 +1,6 @@
-# Suede Labs AI
+# Suede AI
 
-[Suede Labs AI](https://suedeai.ai) is creator ownership infrastructure for AI-native media. It connects creative work and likeness to proof of creation, provenance, rights metadata, licensing, registry-backed records, royalty routing, and agent commerce. Music is the first operating category, with image, video, voice, and other creative assets using the same ownership model.
+[Suede AI](https://suedeai.ai), also known as Suede Labs AI, is creator ownership infrastructure for AI-native media. It connects creative work and likeness to proof of creation, provenance, rights metadata, licensing, registry-backed records, royalty routing, and agent commerce. Music is the first operating category, with image, video, voice, and other creative assets using the same ownership model.
 
 ## What it does
 
@@ -28,13 +28,13 @@ This table lists canonical entry points only. The full link index is [Public Lin
 |---|---|
 | x402 resource manifest | [app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json) |
 | A2A agent card | [app.suedeai.ai/.well-known/agent-card.json](https://app.suedeai.ai/.well-known/agent-card.json) |
-| Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) |
+| Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) |
 
 The live x402 manifest currently advertises paid music, video, and image resources. The manifest itself is the source of truth for advertised paths, prices, and methods; runtime success requires a separate canary.
 
 ## Founder connection
 
-Suede Labs AI was founded by [Jason Colapietro](https://suedeai.ai/founder), who also publishes as Johnny Suede. Jason's public profile is [github.com/JasonColapietro](https://github.com/JasonColapietro), and Suede's public organization is [github.com/Suede-AI](https://github.com/Suede-AI).
+Suede AI was founded by [Jason Colapietro](https://suedeai.ai/founder), who also publishes as Johnny Suede. Jason's public profile is [github.com/JasonColapietro](https://github.com/JasonColapietro), and Suede's public organization is [github.com/Suede-AI](https://github.com/Suede-AI).
 
 ## Related references
 

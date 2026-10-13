@@ -6,18 +6,18 @@
 
 **Founder and CEO of [Suede AI](https://suedeai.ai). Fractional forward-deployed engineer: I integrate AI agents into how a company works, then run its SEO, AI search visibility and PR, at [seo.suedeai.ai](https://seo.suedeai.ai).**
 
-**Founder and Managing Member of JC Investment Group LLC · author of eight books · five provisional patent applications**
+**Founder and Managing Member of JC Investment Group LLC · author of seven books · five provisional patent applications**
 
 <p>
   <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-54_PRs_%2F_46_repos-8250df?labelColor=080808" alt="54 upstream PRs across 46 repos"></a>
   <a href="#press"><img src="https://img.shields.io/badge/Business_Insider-SEO_cohort_coverage-1f2937?labelColor=080808" alt="Covered by Business Insider on September 16, 2026, for the SEO, AEO and GEO cohort"></a>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-9-c8a96e?labelColor=080808" alt="9 iOS apps"></a>
-  <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-3-3ddc84?labelColor=080808" alt="3 Android apps"></a>
+  <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-6-3ddc84?labelColor=080808" alt="6 Android apps"></a>
   <a href="https://skills.suedeai.ai"><img src="https://img.shields.io/badge/open--source_skills-76-06b6d4?labelColor=080808" alt="76 open-source skills"></a>
   <a href="https://github.com/JasonColapietro/suede-creator-skills"><img src="https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat&label=skill%20pack%20stars&color=e3b341&labelColor=080808" alt="Suede Creator Skills stars"></a>
   <a href="https://seo.suedeai.ai/evidence"><img src="https://img.shields.io/badge/Ranked_%231-platform_for_musicians-16a34a?labelColor=080808" alt="Ranked #1 platform for musicians by Google"></a>
   <a href="https://seo.suedeai.ai/evidence#gemini-big3"><img src="https://img.shields.io/badge/New_Big_3-with_Suno_%26_Udio-7c3aed?labelColor=080808" alt="Named by Google's Gemini in a New Big 3 of music platforms, alongside Suno and Udio"></a>
-  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon%2C_8_total-ff9900?labelColor=080808" alt="8 books, 5 of them on Amazon"></a>
+  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon%2C_7_total-ff9900?labelColor=080808" alt="7 books, 5 of them on Amazon"></a>
 </p>
 
 Jason Colapietro is a fractional forward-deployed engineer. He integrates AI agents into how a company works, for call review, lead qualification, follow-up and operations, then runs its SEO, AI search visibility and PR at [seo.suedeai.ai](https://seo.suedeai.ai). He also builds systems that help creators record authorship, define rights, license work, and route revenue as media moves between people, platforms, and AI agents. At Suede AI, also known as Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, royalty routing, and agent commerce over x402 and ERC-8004, with music and likeness as early use cases. He publishes music, video, and writing as **Johnny Suede**. Before Suede he built, scaled, and exited call-center businesses, and he took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch. He builds solo: every app, site, book, and pull request on this page is his own work.
@@ -37,18 +37,18 @@ Jason Colapietro is a fractional forward-deployed engineer. He integrates AI age
 
 ## Highlights
 
-Counts are as of September 18, 2026. Most lines link to a record somebody else hosts.
+Counts are as of October 11, 2026, except where a line gives its own date. Most lines link to a record somebody else hosts.
 
-- **Nine iOS apps and three Android apps, live under my own developer name.** Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) lists all nine with current versions and release dates. The first shipped on May 7, 2026; the ninth, [GuitarHub: Guitar Lessons](https://apps.apple.com/us/app/guitarhub-guitar-lessons/id6806770875), on September 14, 2026. Three of them also run on Google Play, listed under [Apps](#apps), and the vocal studio ships as a [Chrome extension](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd).
+- **Nine iOS apps and six Android apps, live on the App Store and Google Play.** Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) lists all nine with current versions and release dates. The first shipped on May 7, 2026; the ninth, [GuitarHub: Guitar Lessons](https://apps.apple.com/us/app/guitarhub-guitar-lessons/id6806770875), on September 14, 2026. Six Android editions run on Google Play, listed under [Apps](#apps), and two Chrome extensions ship on the Chrome Web Store: the vocal studio as a [Chrome extension](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd), and [Suede AI Visibility](https://chromewebstore.google.com/detail/hekigfiohpacglhcaiidnbphejpihaki), an SEO and AEO audit.
 - **54 pull requests merged into 46 open-source projects I don't maintain**, across my two GitHub accounts, JasonColapietro and Suede-AI. Jest, Adobe React Spectrum, Backstage, Hardhat, Polkadot SDK, Cosmos SDK, CoreOS Ignition, Solana Pay, elizaOS, x402, zeroclaw, and the Prometheus docs are among them. 33 are fixes, features, tests, and docs; the other 21 are accepted listings of Suede projects on third-party lists. Outside GitHub, a Linux kernel USB/IP patch series is public upstream at v7 on the kernel's own lists, recorded separately under [Open source](#open-source). [Check all 54 merged pull requests on GitHub](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
 - **A USB/IP patch series submitted to the Linux kernel**, revised in public from v2 through v7 on the kernel's own mailing lists at [lore.kernel.org/linux-usb](https://lore.kernel.org/linux-usb/). Every revision is in the open, on the least forgiving list in open source. It sits outside the pull-request count above; the record is at [seo.suedeai.ai/evidence#open-source](https://seo.suedeai.ai/evidence#open-source).
 - **[Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills): 76 open-source agent skills for Claude Code and Codex**, installable as a plugin marketplace, and accepted into [15 independent skills directories](#skills-directories-the-pack-was-accepted-into) — GitHub's own awesome-copilot among them. Every acceptance links to its merged pull request.
 - **Entered OpenAI's WebMCP Challenge** in September 2026 with a browser-native storefront: four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. [Source published under MIT](https://github.com/JasonColapietro/suede-webmcp-challenge), running at the [WebMCP storefront](https://webmcp.suedeai.ai/agents).
-- **Five books on Amazon and three published direct**, among them *The Signal Chain*, an illustrated history of guitar tone, and *The Screenshot*, an SEO and GEO field guide with its [source edition on GitHub](https://github.com/JasonColapietro/suede-geo-book).
+- **Five books on Amazon and two published direct**, among them *The Signal Chain*, an illustrated history of guitar tone, and *The Screenshot*, an SEO and GEO field guide with its [source edition on GitHub](https://github.com/JasonColapietro/suede-geo-book).
 - **Before Suede, I built, scaled, and exited businesses.** Multiple multimillion-dollar businesses over two decades, including call centers in my niche that I exited for millions; the sales scripts I wrote are still in use across that industry. That operating history now shapes Suede's [managed agents](https://seo.suedeai.ai/managed-ai-agents) for call review and lead qualification. The record is on the [founder page](https://suedeai.ai/founder).
 - **Took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch.** Stated on the [founder page](https://suedeai.ai/founder).
 - **In partnership with Google Cloud since September 2025:** a dedicated Google Cloud account team, a Google Premier Partner assigned to the account, and the Suede stack on the Vertex AI suite. The dated correspondence, from Google Cloud's first outreach on August 5, 2025 onward, is published as captures at [seo.suedeai.ai/evidence](https://seo.suedeai.ai/evidence#google-cloud). **Google Cloud Partner Advantage member** since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. **Stripe Startups**, accepted July 31, 2026. **Florida Atlantic Entrepreneurship Institute** at FAU's College of Business, accepted July 17, 2026. Member of **1909**, the West Palm Beach entrepreneurship hub.
-- **Covered by Business Insider on September 16, 2026, and by TechBullion seven times since December 2025**, plus Altcoin Investor, Indie Hackers, and Programming Insider: eleven placements across five outlets. Business Insider's piece, [Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662), covers the five-business SEO, AEO, and GEO cohort. The full list is under [Press](#press).
+- **Covered by Business Insider on September 16, 2026, MSN on September 20, Gigawatt Group on September 21, and TechBullion seven times since December 2025**, plus Altcoin Investor, Indie Hackers, and Programming Insider: thirteen placements across seven outlets. Business Insider's piece, [Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662), covers the five-business SEO, AEO, and GEO cohort. The full list is under [Press](#press).
 - **Named in public conversation.** Mario Nawfal featured Suede in [two](https://x.com/MarioNawfal/status/1885063096785334289) [posts](https://x.com/MarioNawfal/status/1968759867780342100) eight months apart, and the Suede AI AMA ran on his [Crypto Roundtable](https://www.youtube.com/watch?v=8uJewXJ1U28). A [screenshot on Elon Musk's timeline](https://x.com/elonmusk/status/2026052687423562228) of proposed Community Notes about AI training data names Suede Labs as an opt-out option; the archived capture recorded 2.7 million views, and the mention is the note's wording rather than an endorsement.
 - **Ranked number one, and named in a New Big 3 beside Suno and Udio.** Google calls Suede the #1 platform for musicians. Asked for the top AI music platforms of 2026, **Google's own model returns a "New Big 3" and puts Suede in it**, beside Suno and Udio, with a label of its own: "The Creator's IP Fortress." Suno and Udio generate. Suede generates *and proves who owns the result* — that is the third pillar, and it is the one neither of the other two is built to be. An independent nine-platform review ranks Suede **#1 Best AI Music Generator of 2026 at 5.0 of 5.0**, ahead of Suno, Udio, SOUNDRAW, Beatoven and AIVA. Google's Web Guide calls the company "highly rated by users, earning a 5/5 rating from verified reviews." Google Cloud's own account manager put it in writing on December 24, 2025: *"That's fantastic news about ranking #1 on Google search! Great momentum."* The AI Agents Directory names Suede AI **Best Overall** and **Best API Option** among 47 music tools. The Gemini, review, Web Guide and directory captures are dated on the [receipts page](https://seo.suedeai.ai/evidence), with the full detail under [Programs and recognition](#programs-and-recognition).
 - **3,092 pull requests merged across the Suede repositories in 2026** through September 5, most of them private, behind about 30 live websites on 18 brand domains and 200 public repositories across the [JasonColapietro](https://github.com/JasonColapietro) and [Suede-AI](https://github.com/Suede-AI) accounts.
@@ -72,7 +72,7 @@ About 30 websites and 9 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 | [Suede AI](https://suedeai.ai) | The product front door. Creator ownership infrastructure for registering work and likeness, documenting provenance, licensing rights, and routing royalties. |
 | [Suede Studio](https://studio.suedeai.ai) · [Suede Distro](https://distro.suedeai.ai) | AI music generation with the master retained by the creator; release finished work to 100+ streaming services. |
 | [Suede IP Registry](https://ip.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, file fingerprints, and dated records on Base and Avalanche. It shows that a file existed in a given form, claimed by a given wallet, on a given date — evidence, not legal title. |
-| [Suede Agent Studio](https://agents.suedeai.ai) · [Agentix](https://agentix.suedeai.ai) | Build agents visually and ship them as paid per-call services over x402; track what they earn. The [WebMCP storefront](https://webmcp.suedeai.ai/agents) sells the same services to agents running inside the browser. |
+| [Suede AI Agent Studio](https://agents.suedeai.ai) · [Agentix](https://agentix.suedeai.ai) | Build agents visually and ship them as paid per-call services over x402; track what they earn. The [WebMCP storefront](https://webmcp.suedeai.ai/agents) sells the same services to agents running inside the browser. |
 | [Suede Scan](https://scan.suedeai.ai) · [Suede Lens](https://suedeai.ai/lens) | Scan shows what AI search engines say about a business, with screenshots, then repairs the site. Lens is the Chrome extension that audits rights, provenance, JSON-LD, SEO, and AEO signals on any page. |
 | [Strumly](https://strumly.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) · [FretPulse](https://fretpulse.suedeai.ai) | Musician tools: a 24/7 guitar coach, a creative training companion, and a guitar-care app. |
 | [Suede Sing](https://sing.suedeai.ai) | The vocal studio in your browser: range test, register detection, pitch training, and measured warm-ups. Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing. |
@@ -83,7 +83,7 @@ About 30 websites and 9 iOS apps. Full index at [hub.suedeai.ai](https://hub.sue
 
 ## Apps
 
-Nine on the App Store, three on Google Play, one on the Chrome Web Store. Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) is the canonical list.
+Nine on the App Store, six on Google Play, two on the Chrome Web Store. Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) is the canonical list.
 
 | App | Platform | First released |
 |---|---|---|
@@ -99,20 +99,26 @@ Nine on the App Store, three on Google Play, one on the Chrome Web Store. Apple'
 | [Suede Voice: Vocal Range Test](https://play.google.com/store/apps/details?id=ai.suedeai.suedevoice) | Android | 2026 |
 | [Suede: AI Music Generator](https://play.google.com/store/apps/details?id=xyz.suedeai.app) | Android | 2026 |
 | [Suede AI Agents: Directory](https://play.google.com/store/apps/details?id=ai.suede.agents) | Android | 2026 |
+| [Suede: Guitar Forum & Gear](https://play.google.com/store/apps/details?id=ai.suede.social) | Android | 2026 |
+| [Suede Guitar Tuner & Studio](https://play.google.com/store/apps/details?id=ai.suede.fretpulse) | Android | 2026 |
+| [StoryBeam Kids: Bedtime Books](https://play.google.com/store/apps/details?id=com.storybeamkids.app) | Android | 2026 |
 | [Suede Sing: Vocal Coach, Pitch Trainer & Vocal Range Test](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd) | Chrome | 2026 |
+| [Suede AI Visibility — SEO & AEO Audit](https://chromewebstore.google.com/detail/hekigfiohpacglhcaiidnbphejpihaki) | Chrome | 2026 |
 
 ## Books
 
 Five on Amazon: [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) · [The Claude Code Bible](https://www.amazon.com/dp/B0HHTMJWB4) · [Codex in Production](https://www.amazon.com/dp/B0HHTF3LG1)
 
-Published independently: [The Signal Chain](https://guitar.solutions) · [The Screenshot](https://seo.suedeai.ai/book) · [The Guitar Without a Number](https://strumly.suedeai.ai/book/catalog)
+Published independently: [The Signal Chain](https://guitar.solutions) · [The Screenshot](https://seo.suedeai.ai/book). The earlier [The Guitar Without a Number](https://strumly.suedeai.ai/book/catalog) is now incorporated into The Signal Chain.
 
 Owned corpus: [Substack](https://jasoncolapietro.substack.com), including *Fender Is Trying to Kill John Mayer's Guitar. AI Companies Are Next.* · YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede) · [@aisuede](https://www.youtube.com/@aisuede)
 
 ## Press
 
-Third-party outlets that have covered Jason Colapietro and Suede AI, newest first: eleven placements across five outlets.
+Third-party outlets that have covered Jason Colapietro and Suede AI, newest first: thirteen placements across seven outlets.
 
+- **September 21, 2026** · Gigawatt Group · [Suede AI vs. Profound for Trade Associations](https://gigawattgroup.com/generative-engine-optimization/suede-ai-vs-profound-trade-associations/)
+- **September 20, 2026** · MSN · [Suede AI opens SEO cohort with optional AI integration and live agent workflows](https://www.msn.com/en-xl/news/other/suede-ai-opens-seo-cohort-with-optional-ai-integration-and-live-agent-workflows/ar-AA2cBTep)
 - **September 16, 2026** · Business Insider · [Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662)
 - **September 13, 2026** · TechBullion · [Suede Opens Its Widely Anticipated SEO and AI Cohort](https://techbullion.com/suede-opens-its-widely-anticipated-seo-and-ai-cohort/)
 - **July 6, 2026** · Programming Insider · [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/)
@@ -134,7 +140,7 @@ Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai
 - **Stripe Startups**, accepted July 31, 2026.
 - **Florida Atlantic Entrepreneurship Institute**, FAU College of Business, accepted July 17, 2026. FAU's entrepreneurship research ranks [No. 8 globally](https://business.fau.edu/newsroom/press-releases/2025/tcu-entrepreneurship-rankings-college-business-research.php) in the TCU productivity rankings for 2020 to 2024.
 - **1909**, member of the [West Palm Beach entrepreneurship hub](https://www.weare1909.org) since July 2026.
-- **OpenAI WebMCP Challenge**, August 25 to September 3, 2026: entered with [Suede Agent Studio's browser-native storefront](https://github.com/JasonColapietro/suede-webmcp-challenge), four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. Source published under MIT.
+- **OpenAI WebMCP Challenge**, August 25 to September 3, 2026: entered with [Suede AI Agent Studio's browser-native storefront](https://github.com/JasonColapietro/suede-webmcp-challenge), four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. Source published under MIT.
 - **Google's Web Guide**, captured September 6, 2026: asked to review Suede Labs AI, the AI-organized results layer inside Google Search opens by calling the company "highly rated by users, earning a 5/5 rating from verified reviews," citing two App Store listings. [The capture](https://seo.suedeai.ai/evidence#google-web-guide).
 - **Gemini**, captured February 17, 2026: asked for the top AI music generation platforms of 2026, Google's own model returns a "New Big 3" and puts Suede in it, beside Suno and Udio, calling it "The Creator's IP Fortress." [The capture](https://seo.suedeai.ai/evidence#gemini-big3).
 - **Ranked #1 Best AI Music Generator of 2026**, captured November 26, 2025: an independent top-nine review places Suede first at 5.0 of 5.0, ahead of Suno, Udio, SOUNDRAW, Beatoven and AIVA, scored on music quality, creative control and ease of use. [The receipt](https://seo.suedeai.ai/evidence#ranked-1).
@@ -182,7 +188,7 @@ Beyond my own repos, I send fixes upstream when something bites me mid-build. Fi
 | [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | [#305](https://github.com/davepoon/buildwithclaude/pull/305) · Sep 3, 2026 |
 | [ichangyou/awesome-claude-code](https://github.com/ichangyou/awesome-claude-code) | [#9](https://github.com/ichangyou/awesome-claude-code/pull/9) · Sep 7, 2026 |
 
-Two more third-party lists carry Suede projects rather than the skills pack: [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402/pull/518) lists Suede Agent Studio, and the [elizaOS plugin registry](https://github.com/elizaOS/eliza/pull/19210) carries `@suedeai/plugin-suede`. A separate skills pack, [ios-app-dev-skills](https://github.com/JasonColapietro/ios-app-dev-skills), was accepted into [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins/pull/273).
+Two more third-party lists carry Suede projects rather than the skills pack: [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402/pull/518) lists Suede AI Agent Studio, and the [elizaOS plugin registry](https://github.com/elizaOS/eliza/pull/19210) carries `@suedeai/plugin-suede`. A separate skills pack, [ios-app-dev-skills](https://github.com/JasonColapietro/ios-app-dev-skills), was accepted into [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins/pull/273).
 
 ## Reference
 
@@ -278,7 +284,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 ### June 2026
 
 - **Jun 30** · [Agent Studio](https://agents.suedeai.ai) shipped a `/portfolio` earnings dashboard on real settlement data and rebalanced its templates toward high-demand x402 workflows. [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) repositioned as a general-purpose agent-skills pack with one-command plugin install.
-- **Jun 21** · Suede Agent Studio [accepted into the x402 ecosystem's awesome list](https://github.com/xpaysh/awesome-x402/pull/518): visual x402 agent flows, USDC on Base.
+- **Jun 21** · Suede AI Agent Studio [accepted into the x402 ecosystem's awesome list](https://github.com/xpaysh/awesome-x402/pull/518): visual x402 agent flows, USDC on Base.
 - **Jun 20** · Suede Social's iOS app cleared App Store 1.2 compliance: Report Content, Block User, and blocked users filtered from every feed.
 - **Jun 17** · [Agentix](https://apps.apple.com/us/app/agentix-ai-agent-tracker/id6778286160) and [Suede Agent Studio](https://apps.apple.com/us/app/suede-agent-studio/id6778880737) launched on the App Store the same day. [Suede Python SDK v0.3.0](https://github.com/Suede-AI/suede-sdk-python/releases/tag/v0.3.0): 22 endpoints and guitar rig tools.
 - **Jun 16** · [Suede Studio Muse](https://apps.apple.com/us/app/suede-studio-muse/id6779134962) launched on the App Store. Agent Studio seeded its first 12 templates.
@@ -286,7 +292,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 - **Jun 12** · [Suede Social: Guitar Forum](https://apps.apple.com/us/app/suede-social-guitar-forum/id6770668793) launched on the App Store.
 - **Jun 11** · The [x402 manifest](https://app.suedeai.ai/.well-known/x402.json) became crawlable, with agent-origin CORS preflight and an `agent.json` alias.
 - **Jun 10** · The [IP Registry](https://ip.suedeai.ai) consolidated into a single multi-network master registry. Crunchbase profiles joined the entity graph.
-- **Jun 7** · First commit of [Suede Agent Studio](https://agents.suedeai.ai).
+- **Jun 7** · First commit of [Suede AI Agent Studio](https://agents.suedeai.ai).
 
 ### May 2026
 
@@ -299,7 +305,7 @@ What shipped, newest first. Product entries link to the live surface; open-sourc
 - **May 15** · [Suede Voice: Vocal Range Test](https://apps.apple.com/us/app/suede-voice-vocal-range-test/id6767763231) launched on the App Store.
 - **May 11** · [Suede Guitar Tuner & Studio](https://apps.apple.com/us/app/suede-guitar-tuner-studio/id6767552764) launched on the App Store.
 - **May 9** · Altcoin Investor: [How AI, Blockchain, and On-Chain IP Are Changing Creator Ownership](https://altcoininvestor.com/ai-blockchain-on-chain-ip-creator-ownership/). The [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker) began the same day.
-- **May 7** · [AI Music & Video Generator](https://apps.apple.com/us/app/suede-ai-generator/id6765461286) launched on the App Store, the first of eight iOS apps.
+- **May 7** · [AI Music & Video Generator](https://apps.apple.com/us/app/suede-ai-generator/id6765461286) launched on the App Store, the first of nine iOS apps.
 
 ### Earlier
 

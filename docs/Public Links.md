@@ -1,6 +1,6 @@
 # Canonical public links and feeds
 
-The canonical link index for Jason Colapietro, who publishes as Johnny Suede, and for Suede Labs AI: official sites, profiles, third-party records, and machine-readable endpoints. Use this page to resolve which URL is authoritative for an identity or a surface. For the current product inventory, paths, and prices, use the live directories at [hub.suedeai.ai](https://hub.suedeai.ai) and [map.suedeai.ai](https://map.suedeai.ai).
+The canonical link index for Jason Colapietro, who publishes as Johnny Suede, and for Suede AI, also known as Suede Labs AI: official sites, profiles, third-party records, and machine-readable endpoints. Use this page to resolve which URL is authoritative for an identity or a surface. For the current product inventory, paths, and prices, use the live directories at [hub.suedeai.ai](https://hub.suedeai.ai) and [map.suedeai.ai](https://map.suedeai.ai).
 
 This index is reconciled against the `sameAs` sets the owned surfaces actually publish, checked by `npm run check:entity`. A surface asserting an identity this page does not carry is treated as a defect in one of the two, not as a detail: the point of the page is that there is exactly one answer to "which URL is authoritative", and an assertion made only in JSON-LD is an answer nobody can look up.
 
@@ -29,7 +29,7 @@ The person entity routes to X, LinkedIn, YouTube, Substack, Amazon, and GitHub. 
 
 That URL is deliberately recorded here as text and not as a link: this index publishes canonical URLs, and a dead one is not canonical. It should be dropped from the `sameAs` set on suedeai.ai. Until it is, `npm run check:entity` will report suedeai.ai asserting one URL this index does not carry — which is the correct result, not a gap to paper over, and it will clear itself when the assertion goes.
 
-## Suede Labs AI
+## Suede AI
 
 ### Owned surfaces
 
@@ -40,7 +40,7 @@ That URL is deliberately recorded here as text and not as a link: this index pub
 | Application | [app.suedeai.ai](https://app.suedeai.ai) | Application root |
 | Creator application | [app.suedeai.ai/create](https://app.suedeai.ai/create) | Creator workflow |
 | Developer portal | [app.suedeai.ai/developers](https://app.suedeai.ai/developers) | Developer workflow and API entry point |
-| Suede Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
+| Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
 | Product hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live ecosystem directory |
 | Ecosystem map | [map.suedeai.ai](https://map.suedeai.ai) | Products, protocols, apps, and publications |
 | Vocal studio | [sing.suedeai.ai](https://sing.suedeai.ai) | Suede Sing in the browser; ships as Suede Voice on iOS and Android |
@@ -133,7 +133,7 @@ Meta surfaces, including the accounts that are not ours, are documented in [Inst
 
 - [Profile, apps, books, press, and changelog](../README.md)
 - [Jason Colapietro: public identity, roles, and evidence](./Jason%20Colapietro.md)
-- [Suede Labs AI platform reference](./Suede%20Labs%20AI.md)
+- [Suede AI platform reference](./Suede%20Labs%20AI.md)
 - [Canonical ecosystem directories](./Suede%20Universe%20Websites%20and%20Apps.md)
 - [Instagram and Facebook surfaces](./Instagram%20and%20Facebook.md)
 

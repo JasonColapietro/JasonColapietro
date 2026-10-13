@@ -1,6 +1,6 @@
 # Instagram and Facebook
 
-The Meta surfaces for Jason Colapietro and Suede Labs AI, what each one is for, and the
+The Meta surfaces for Jason Colapietro and Suede AI, what each one is for, and the
 work that would make them findable. The four accounts in the table below are asserted in the
 `sameAs` arrays already shipping on the owned surfaces; this page is the entry the profile
 repository was missing. Everything named after that table is recorded for the opposite
@@ -9,18 +9,18 @@ all.
 
 The short version: Instagram and Facebook are a configuration job, not a channel. They can
 hold page-one slots for navigational queries, give the entity write access to two Google
-title tags, and corroborate the link between Jason Colapietro, Johnny Suede, and Suede Labs
-AI. They cannot outrank an owned domain for the name, cannot rank for topical queries, and
+title tags, and corroborate the link between Jason Colapietro, Johnny Suede, and Suede AI
+(also known as Suede Labs AI). They cannot outrank an owned domain for the name, cannot rank for topical queries, and
 cannot disambiguate "Johnny Suede" from the 1991 film.
 
 ## Canonical accounts
 
 | Surface | Account | URL | Status |
 |---|---|---|---|
-| Suede Labs AI | Instagram `@suedeai` | [instagram.com/suedeai](https://www.instagram.com/suedeai) | Live. In the Organization `sameAs` of ~18 owned hosts. |
+| Suede AI | Instagram `@suedeai` | [instagram.com/suedeai](https://www.instagram.com/suedeai) | Live. In the Organization `sameAs` of ~18 owned hosts. |
 | Suede Sing | Instagram `@suedesingapp` | [instagram.com/suedesingapp](https://www.instagram.com/suedesingapp) | Live, verified August 27, 2026. The only Suede Sing account. |
 | StoryBeam Kids | Instagram `@storybeampodcast` | [instagram.com/storybeampodcast](https://www.instagram.com/storybeampodcast) | Live. App and podcast, not Suede-branded. |
-| Suede Labs AI | Facebook Page "Suede Labs AI" | Numeric ID `61584534847516` | Live, **no vanity username claimed**. Used only for commenting; no original Page posts with reach. |
+| Suede AI | Facebook Page "Suede Labs AI" | Numeric ID `61584534847516` | Live, **no vanity username claimed**. Used only for commenting; no original Page posts with reach. |
 
 Jason's personal Facebook profile and a dormant "Johnny Suede" Facebook profile also exist.
 Neither is linked from an owned surface, neither is in any `sameAs`, and neither should
@@ -78,10 +78,12 @@ Do not claim, link, or list these. Several are name matches that surface in the 
 3. **Write the name fields.** These are the highest-leverage text in the whole footprint,
    because Instagram's profile title template renders the display name verbatim into
    Google's title link. Instagram allows 30 characters and two changes per 14 days:
-   `Suede Labs | AI Music Tools` (27) fits. Keep the Facebook Page name conservative at
-   `Suede Labs AI` — Meta rejects keyword-stuffed and generic Page names, every past name
-   stays public in Page Transparency, and keywords are free in the category and About fields
-   instead.
+   `Suede AI | SEO & AI Systems` (27) fits, and is the name in the social kit at
+   [JasonColapietro/.github `social/PROFILES.md`](https://github.com/JasonColapietro/.github/blob/main/social/PROFILES.md).
+   Keep the Facebook Page name conservative at `Suede AI`, the primary name every other
+   surface uses, with Suede Labs AI kept as the alias — Meta rejects keyword-stuffed and
+   generic Page names, every past name stays public in Page Transparency, and keywords are
+   free in the category and About fields instead.
 4. **Fill the Facebook About section.** The 255-character bio becomes the Google meta
    description. The long description takes up to 50,000 characters and is indexed, as are
    mission, products, awards, and story.

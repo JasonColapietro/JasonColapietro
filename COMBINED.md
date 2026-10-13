@@ -1,6 +1,6 @@
 # Jason Colapietro / Suede profile reference
 
-Jason Colapietro, who publishes as Johnny Suede, is the founder and CEO of Suede Labs AI, creator ownership infrastructure for AI-native media: proof of creation, provenance, rights metadata, licensing, royalty routing, and agent commerce.
+Jason Colapietro, who publishes as Johnny Suede, is the founder and CEO of Suede AI, also known as Suede Labs AI, creator ownership infrastructure for AI-native media: proof of creation, provenance, rights metadata, licensing, royalty routing, and agent commerce.
 
 This file is retained as a stable entry point for links that previously targeted a concatenated copy of the profile repository. The former combined document duplicated the profile and supporting pages, which made updates drift and left stale claims in circulation.
 
@@ -10,7 +10,7 @@ Use the focused source that matches the question:
 |---|---|
 | Jason Colapietro profile and selected work | [README.md](./README.md) |
 | Public identity, roles, and evidence | [docs/Jason Colapietro.md](./docs/Jason%20Colapietro.md) |
-| Suede Labs AI platform reference | [docs/Suede Labs AI.md](./docs/Suede%20Labs%20AI.md) |
+| Suede AI platform reference | [docs/Suede Labs AI.md](./docs/Suede%20Labs%20AI.md) |
 | Canonical public links and feeds | [docs/Public Links.md](./docs/Public%20Links.md) |
 | Canonical ecosystem directories | [docs/Suede Universe Websites and Apps.md](./docs/Suede%20Universe%20Websites%20and%20Apps.md) |
 | Instagram and Facebook surfaces | [docs/Instagram and Facebook.md](./docs/Instagram%20and%20Facebook.md) |
