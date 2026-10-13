@@ -234,50 +234,16 @@ test("profile counts agree with the badges and with what the file lists", async 
   assert.doesNotMatch(readme, /\d+ stars/, "star counts belong to the live badge, not to prose");
 });
 
-// The patent line is the weakest-evidenced claim on the page, and the only one
-// that structurally cannot carry a third-party link: the USPTO does not publish
-// provisional applications. That makes the wording load-bearing. A 63/-series
-// serial is a provisional application, not a granted patent, and two earlier
-// commits propagated "Patent 63/947,120" into the bio and the Programs section
-// before it was corrected — so this guard keeps that phrasing from returning
-// and keeps the two places that state the count from drifting apart.
-test("patent claims are scoped to provisional applications and agree on the count", async () => {
-  const readme = await read("README.md");
-
-  assert.doesNotMatch(
-    readme,
-    /\bPatent(?:s)? \d{2}\//,
-    'a 63/-series serial is a provisional application; write "provisional patent application", not "Patent"',
-  );
-
-  const programs = readme.match(/\*\*(\w+) provisional patent applications?\*\* on file with the USPTO[^\n]*/i);
-  assert.ok(programs, "the Programs section must state the provisional application count");
-
-  const bio = readme.match(/· (\w+) provisional patent applications?\*\*/i);
-  assert.ok(bio, "the bio line must state the provisional application count");
-
-  assert.equal(
-    bio[1].toLowerCase(),
-    programs[1].toLowerCase(),
-    "the bio line and the Programs section must give the same provisional count",
-  );
-
-  // The serials are enumerated, so the stated count has something countable to
-  // agree with. A count asserted without the numbers behind it is the weaker
-  // claim, and the one that drifts.
-  const WORDS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"];
-  const stated = WORDS.indexOf(programs[1].toLowerCase());
-  assert.notEqual(stated, -1, `unrecognised provisional count word: ${programs[1]}`);
-
-  // Counted within the Programs entry itself, not across the whole file: a
-  // serial mentioned in the changelog but missing from this list would
-  // otherwise satisfy the count while the enumeration stayed incomplete.
-  const serials = new Set(programs[0].match(/\b63\/\d{3},\d{3}\b/g) ?? []);
-  assert.equal(
-    serials.size,
-    stated,
-    `the Programs entry states ${programs[1]} provisional applications but enumerates ${serials.size} serial numbers`,
-  );
+// Ruled 2026-10-13: the profile leaves patents off entirely. The provisional
+// applications were the weakest-evidenced claim on the page (the USPTO does not
+// publish provisionals, so no line about them could carry a third-party link),
+// and this guard used to hold their wording and count in agreement. It now holds
+// the ruling instead, so a patent line cannot drift back in unnoticed.
+test("the profile does not mention patents", async () => {
+  for (const file of ["README.md", "COMBINED.md", "docs/Jason Colapietro.md", "docs/Public Links.md", "docs/Suede Labs AI.md"]) {
+    const text = await read(file);
+    assert.doesNotMatch(text, /\bpatent|\bUSPTO\b|\b63\/9\d{2},\d{3}\b/i, `${file} mentions a patent; patents are left off the profile`);
+  }
 });
 
 // The vocal studio carries two names, and that is deliberate rather than drift:
