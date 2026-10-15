@@ -4,6 +4,19 @@ import test from "node:test";
 
 const read = (path) => readFile(new URL(`../${path}`, import.meta.url), "utf8");
 
+// Every published file that can carry a claim about Jason or Suede AI. The
+// claim guards below read all of them: a wording retired from the README and
+// left standing in a reference page is still published.
+const CLAIM_SURFACES = [
+  "README.md",
+  "COMBINED.md",
+  "docs/Jason Colapietro.md",
+  "docs/Public Links.md",
+  "docs/Suede Labs AI.md",
+  "docs/Suede Universe Websites and Apps.md",
+  "docs/Instagram and Facebook.md",
+];
+
 test("profile documents keep Jason canonical and publish the creative alias", async () => {
   const [readme, identity, links] = await Promise.all([
     read("README.md"),
@@ -206,8 +219,8 @@ test("profile counts agree with the badges and with what the file lists", async 
     "Apps section lead vs the badges and the Chrome row",
   );
 
-  // Books badge counts Amazon titles only; the independents are listed separately.
-  assert.equal(badge(/badge\/books-(\d+)_on_Amazon/), occurrences(/amazon\.com\/dp/g), "books badge vs Amazon links");
+  // Books badge counts Amazon Kindle titles only; the independents are listed separately.
+  assert.equal(badge(/badge\/books-(\d+)_on_Amazon_Kindle-/), occurrences(/amazon\.com\/dp/g), "books badge vs Amazon links");
 
   // The upstream record is one number in three renderings, plus a split that must sum.
   const prs = badge(/upstream_merges-(\d+)_PRs/);
@@ -241,20 +254,34 @@ test("profile counts agree with the badges and with what the file lists", async 
 // commits propagated "Patent 63/947,120" into the bio and the Programs section
 // before it was corrected — so this guard keeps that phrasing from returning
 // and keeps the two places that state the count from drifting apart.
+//
+// The GitHub account bio, which this repository cannot edit, said "Patent
+// 63/947,120" as late as 2026-10-15. Every file here is held to the same rule,
+// with the filing status clear from "provisional patent applications".
 test("patent claims are scoped to provisional applications and agree on the count", async () => {
   const readme = await read("README.md");
+  const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
 
-  assert.doesNotMatch(
-    readme,
-    /\bPatent(?:s)? \d{2}\//i,
-    'a 63/-series serial is a provisional application; write "provisional patent application", not "Patent"',
+  for (const [index, text] of surfaces.entries()) {
+    assert.doesNotMatch(
+      text,
+      /\bPatent(?:s)? \d{2}\//i,
+      `${CLAIM_SURFACES[index]}: a 63/-series serial is a provisional application; write "provisional patent application", not "Patent"`,
+    );
+    assert.doesNotMatch(
+      text,
+      /\bpatented\b|\bpatent[- ]holder\b|\bPatent No\b/i,
+      `${CLAIM_SURFACES[index]} describes a granted patent; the record is provisional applications (patent pending)`,
+    );
+  }
+
+  const programs = readme.match(
+    /\*\*(\w+) provisional patent applications?(?: \(patent pending\))?\*\* on file with the USPTO[^\n]*/i,
   );
-
-  const programs = readme.match(/\*\*(\w+) provisional patent applications?\*\* on file with the USPTO[^\n]*/i);
   assert.ok(programs, "the Programs section must state the provisional application count");
 
-  const bio = readme.match(/· (\w+) provisional patent applications?\*\*/i);
-  assert.ok(bio, "the bio line must state the provisional application count");
+  const bio = readme.match(/· (\w+) provisional patent applications?(?: \(patent pending\))?\*\*/i);
+  assert.ok(bio, 'the bio line must state the provisional application count');
 
   assert.equal(
     bio[1].toLowerCase(),
@@ -278,6 +305,146 @@ test("patent claims are scoped to provisional applications and agree on the coun
     stated,
     `the Programs entry states ${programs[1]} provisional applications but enumerates ${serials.size} serial numbers`,
   );
+});
+
+// Jason's ruling of 2026-09-04: the titles on Amazon Kindle are the book count
+// of record. The two independent titles stay listed in Highlights and under
+// Books, but the header and the badge carry the Amazon count alone. Before
+// this guard the header said "seven books" beside a badge reading "5 on Amazon,
+// 7 total", while other surfaces said three, four, five or eight.
+test("the header and the badge give one book count: the titles on Amazon Kindle", async () => {
+  const readme = await read("README.md");
+  const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
+  const WORDS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"];
+
+  const badge = readme.match(/badge\/books-(\d+)_on_Amazon_Kindle-/);
+  assert.ok(badge, "the books badge must read books-<n>_on_Amazon_Kindle");
+
+  const header = readme.split("\n").find((line) => /^\*\*.*· author of .*\*\*$/.test(line));
+  assert.ok(header, "the header line must carry the author credit");
+  const stated = header.match(/· author of (\w+) books on Amazon Kindle ·/i);
+  assert.ok(stated, 'the header must read "author of <n> books on Amazon Kindle"');
+  assert.equal(stated[1].toLowerCase(), WORDS[Number(badge[1])], "header book count vs the books badge");
+
+  for (const [index, text] of surfaces.entries()) {
+    assert.doesNotMatch(
+      text,
+      /\b(?:seven|eight|7|8) books\b/i,
+      `${CLAIM_SURFACES[index]} gives a book count other than the Amazon Kindle count of record`,
+    );
+    assert.doesNotMatch(text, /\bbest-?selling\b/i, `${CLAIM_SURFACES[index]} calls a book bestselling, which no list supports`);
+  }
+});
+
+// The September 16, 2026 item on markets.businessinsider.com is a paid press
+// release: FinanceWire distributed it, Markets Insider syndicated it, and the
+// originals on finanzwire.com and webdisclosure.com say "This is a paid press
+// release." For a month this page presented it as Business Insider coverage —
+// a badge, a Highlights claim, the outlet of a Press entry, and "the eleventh
+// feature placement" in the changelog. The release stays listed; it is named
+// for what it is everywhere it is linked.
+test("the Markets Insider release keeps its publisher and release label on every claim surface", async () => {
+  const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
+  const retired = [
+    [/badge\/Business_Insider/i, "a Business Insider badge"],
+    [/covered by Business Insider/i, '"covered by Business Insider"'],
+    [/Business Insider(?:['’]s)? (?:coverage|feature|piece|ran|covered)/i, "Business Insider presented as the publisher"],
+    [/(?:featured|as seen) (?:in|on|by) Business Insider/i, '"featured in" / "as seen in" Business Insider'],
+    [/· Business Insider ·/, "Business Insider as the outlet of a Press entry"],
+    [/feature placement/i, 'a "feature placement" count'],
+  ];
+
+  for (const [index, text] of surfaces.entries()) {
+    for (const [pattern, what] of retired) {
+      assert.doesNotMatch(text, pattern, `${CLAIM_SURFACES[index]} reintroduces ${what}; the item is a FinanceWire press release syndicated on Markets Insider`);
+    }
+  }
+
+  const RELEASE = "markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro";
+  for (const [index, text] of surfaces.entries()) {
+    const file = CLAIM_SURFACES[index];
+    const lines = text.split("\n");
+    const linking = lines.filter((line) => line.includes(RELEASE));
+    for (const line of linking) {
+      assert.match(line, /FinanceWire/i, `${file}: release link must name FinanceWire`);
+      assert.match(line, /press release/i, `${file}: release link must identify the press release`);
+    }
+    for (const line of lines.filter((l) => /img\.shields\.io\/badge\/[^"]*Markets_Insider/.test(l))) {
+      assert.match(line, /alt="[^"]*press release[^"]*"/i, `${file}: Markets Insider badge must describe the press release`);
+    }
+    if (file === "README.md") {
+      const entry = linking.find((line) => line.startsWith("- **September 16, 2026** · "));
+      assert.ok(entry, "the Press list keeps its September 16, 2026 entry");
+      assert.match(entry, /· Markets Insider \(FinanceWire press release\) ·/);
+    }
+  }
+
+});
+
+// "Award-Winning Developer" is the headline Suede's own release ran under, and
+// no award is named anywhere: not in the release, not on any of Jason's
+// surfaces. The headline may be quoted as the release headline it is, labelled
+// as such. It may not become a description of him anywhere else, including
+// elsewhere on the same line.
+test('"award-winning" appears only inside the quoted, labelled release headline', async () => {
+  const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
+
+  for (const [index, text] of surfaces.entries()) {
+    for (const line of text.split("\n")) {
+      // URLs and slugs are addresses, not claims.
+      const prose = line.replace(/\]\([^)\s]*\)/g, "]").replace(/https?:\/\/[^\s"'<>)]+/g, "");
+      const rest = prose.replace(/(?:Press release headlined |Markets Insider \(FinanceWire press release\) · )\[“[^”]*”\]/g, "");
+      assert.doesNotMatch(
+        rest,
+        /award[- ]winning/i,
+        `${CLAIM_SURFACES[index]} uses "award-winning" outside the quoted release headline: ${line.slice(0, 120)}`,
+      );
+    }
+  }
+});
+
+// Retired on the 2026-10-15 fact sheet, because none of them has a source. No
+// Forbes byline or Councils profile exists, and the claim was already removed
+// once, on 2026-07-16. The call-center history is real; the exits "for
+// millions" and the industry-wide superlatives are uncorroborated. Ordinary
+// call-center exits are supported by the approved founder history. A
+// token's fully diluted valuation is a token metric, not a company valuation —
+// the "$30M" figure was not supported either; the recorded peak is ~$23.9M.
+test("unsupported credentials, call-center superlatives and company valuations stay out", async () => {
+  const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
+  const retired = [
+    [/\bForbes (?:contributor|columnist|Councils? member)\b/i, "an unsupported Forbes credential"],
+    [/for millions|multimillion|most successful|changed the industry|in use across that industry/i, "a call-center superlative"],
+    [/\$30 ?M\b|\$30 million/i, "the unsupported $30M token figure"],
+    [/\b(?:company|Suede(?: Labs)?(?: AI)?['’]s) valuation\b/i, "the token value framed as a company valuation"],
+  ];
+
+  for (const [index, text] of surfaces.entries()) {
+    for (const [pattern, what] of retired) {
+      assert.doesNotMatch(text, pattern, `${CLAIM_SURFACES[index]} reintroduces ${what}`);
+    }
+  }
+});
+
+// "Suede AI" is the primary name (estate canon of 2026-09-19). "Suede Labs AI"
+// survives as at most one "also known as" per page, so the two names stay
+// joined for readers and for models. Third-party headlines and book titles
+// that use the older name are link text, and stay exactly as published.
+test("Suede AI is the primary name, with Suede Labs AI as at most one 'also known as'", async () => {
+  for (const file of ["README.md", "COMBINED.md"]) {
+    const text = await read(file);
+    assert.match(text, /Suede AI/, `${file} must name Suede AI`);
+
+    const prose = text.replace(/\[[^\]]*\]\([^)]*\)/g, "");
+    const mentions = prose.match(/[^.\n]*Suede Labs AI/g) ?? [];
+    assert.ok(
+      mentions.length <= 1,
+      `${file} names Suede Labs AI ${mentions.length} times outside link text; use Suede AI, with one "also known as Suede Labs AI" at most`,
+    );
+    for (const mention of mentions) {
+      assert.match(mention, /also known as Suede Labs AI$/, `${file} uses Suede Labs AI as a name rather than an alias: ${mention.trim()}`);
+    }
+  }
 });
 
 // The vocal studio carries two names, and that is deliberate rather than drift:
