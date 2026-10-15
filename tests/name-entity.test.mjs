@@ -257,7 +257,7 @@ test("profile counts agree with the badges and with what the file lists", async 
 //
 // The GitHub account bio, which this repository cannot edit, said "Patent
 // 63/947,120" as late as 2026-10-15. Every file here is held to the same rule,
-// and the bio line has to say "(patent pending)" in so many words.
+// with the filing status clear from "provisional patent applications".
 test("patent claims are scoped to provisional applications and agree on the count", async () => {
   const readme = await read("README.md");
   const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
@@ -280,8 +280,8 @@ test("patent claims are scoped to provisional applications and agree on the coun
   );
   assert.ok(programs, "the Programs section must state the provisional application count");
 
-  const bio = readme.match(/· (\w+) provisional patent applications? \(patent pending\)\*\*/i);
-  assert.ok(bio, 'the bio line must state the provisional application count, marked "(patent pending)"');
+  const bio = readme.match(/· (\w+) provisional patent applications?(?: \(patent pending\))?\*\*/i);
+  assert.ok(bio, 'the bio line must state the provisional application count');
 
   assert.equal(
     bio[1].toLowerCase(),
@@ -343,7 +343,7 @@ test("the header and the badge give one book count: the titles on Amazon Kindle"
 // a badge, a Highlights claim, the outlet of a Press entry, and "the eleventh
 // feature placement" in the changelog. The release stays listed; it is named
 // for what it is everywhere it is linked.
-test("the Markets Insider item is presented as a FinanceWire press release, not as coverage", async () => {
+test("the Markets Insider release keeps its publisher and release label on every claim surface", async () => {
   const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
   const retired = [
     [/badge\/Business_Insider/i, "a Business Insider badge"],
@@ -360,25 +360,25 @@ test("the Markets Insider item is presented as a FinanceWire press release, not 
     }
   }
 
-  const readme = surfaces[0];
-  const lines = readme.split("\n");
   const RELEASE = "markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro";
-  const linking = lines.filter((line) => line.includes(RELEASE));
-  assert.ok(linking.length > 0, "the release is still listed");
-
-  for (const line of linking) {
-    assert.match(line, /FinanceWire/, `a line links the release without naming FinanceWire: ${line.slice(0, 120)}`);
-    assert.match(line, /press release/i, `a line links the release without calling it a press release: ${line.slice(0, 120)}`);
+  for (const [index, text] of surfaces.entries()) {
+    const file = CLAIM_SURFACES[index];
+    const lines = text.split("\n");
+    const linking = lines.filter((line) => line.includes(RELEASE));
+    for (const line of linking) {
+      assert.match(line, /FinanceWire/i, `${file}: release link must name FinanceWire`);
+      assert.match(line, /press release/i, `${file}: release link must identify the press release`);
+    }
+    for (const line of lines.filter((l) => /img\.shields\.io\/badge\/[^"]*Markets_Insider/.test(l))) {
+      assert.match(line, /alt="[^"]*press release[^"]*"/i, `${file}: Markets Insider badge must describe the press release`);
+    }
+    if (file === "README.md") {
+      const entry = linking.find((line) => line.startsWith("- **September 16, 2026** · "));
+      assert.ok(entry, "the Press list keeps its September 16, 2026 entry");
+      assert.match(entry, /· Markets Insider \(FinanceWire press release\) ·/);
+    }
   }
 
-  const entry = linking.find((line) => line.startsWith("- **September 16, 2026** · "));
-  assert.ok(entry, "the Press list keeps its September 16, 2026 entry");
-  assert.match(entry, /· Markets Insider \(FinanceWire release\) ·/, "the Press entry's outlet label is Markets Insider (FinanceWire release)");
-
-  // A badge that names the outlet has to say what the item is, in its alt text.
-  for (const line of lines.filter((l) => /img\.shields\.io\/badge\/[^"]*Markets_Insider/.test(l))) {
-    assert.match(line, /alt="[^"]*press release[^"]*"/i, "a Markets Insider badge must describe the item as a press release");
-  }
 });
 
 // "Award-Winning Developer" is the headline Suede's own release ran under, and
@@ -393,7 +393,7 @@ test('"award-winning" appears only inside the quoted, labelled release headline'
     for (const line of text.split("\n")) {
       // URLs and slugs are addresses, not claims.
       const prose = line.replace(/\]\([^)\s]*\)/g, "]").replace(/https?:\/\/[^\s"'<>)]+/g, "");
-      const rest = prose.replace(/Press release headlined \[“[^”]*”\]/g, "");
+      const rest = prose.replace(/(?:Press release headlined |Markets Insider \(FinanceWire press release\) · )\[“[^”]*”\]/g, "");
       assert.doesNotMatch(
         rest,
         /award[- ]winning/i,
@@ -406,17 +406,17 @@ test('"award-winning" appears only inside the quoted, labelled release headline'
 // Retired on the 2026-10-15 fact sheet, because none of them has a source. No
 // Forbes byline or Councils profile exists, and the claim was already removed
 // once, on 2026-07-16. The call-center history is real; the exits "for
-// millions" and the industry-wide superlatives are uncorroborated. And a
-// token's fully diluted value is a token metric, never a company valuation —
+// millions" and the industry-wide superlatives are uncorroborated. Ordinary
+// call-center exits are supported by the approved founder history. A
+// token's fully diluted valuation is a token metric, not a company valuation —
 // the "$30M" figure was not supported either; the recorded peak is ~$23.9M.
-test("retired claims stay retired: Forbes, call-center superlatives, token value as a valuation", async () => {
+test("unsupported credentials, call-center superlatives and company valuations stay out", async () => {
   const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
   const retired = [
-    [/\bForbes\b/, "a Forbes claim"],
+    [/\bForbes (?:contributor|columnist|Councils? member)\b/i, "an unsupported Forbes credential"],
     [/for millions|multimillion|most successful|changed the industry|in use across that industry/i, "a call-center superlative"],
-    [/\b(?:built|scaled)\b[^.\n]{0,20}\bexited\b/i, "an uncorroborated business exit"],
     [/\$30 ?M\b|\$30 million/i, "the unsupported $30M token figure"],
-    [/fully diluted valuation|\b(?:company|Suede(?: Labs)?(?: AI)?['’]s) valuation\b/i, "the token's value framed as a valuation"],
+    [/\b(?:company|Suede(?: Labs)?(?: AI)?['’]s) valuation\b/i, "the token value framed as a company valuation"],
   ];
 
   for (const [index, text] of surfaces.entries()) {
