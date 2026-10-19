@@ -95,7 +95,9 @@ const main = async () => {
   // --- Skill pack -----------------------------------------------------------
   const skills = skillsClaim(readme);
   if (skills === null) {
-    report.fail("README", "could not find the open-source skills badge");
+    // Since the identity spec v2 (2026-10-19) the page publishes no skills
+    // count, so there is nothing to reconcile. Not a structural failure.
+    report.pass("skill pack", "the page publishes no skills count; nothing to reconcile");
   } else {
     // Counted from the pack's own contents rather than from a release note, so
     // the number reflects what someone installing it actually gets.

@@ -135,33 +135,28 @@ test("a published Facebook link uses a claimed username, not a numeric id", asyn
   }
 });
 
-// Several same-name accounts sit in the same search results as ours: a stray
-// "johnnysuede1", a clothing brand, an unrelated page that took the suedesing
-// name. docs/Instagram and Facebook.md names them so they stay identifiable,
-// but naming one is not linking to one, and no surface may link to any.
-test("no surface links to a Meta account that is not ours", async (t) => {
-  const files = [
-    "README.md",
-    "COMBINED.md",
-    "docs/Public Links.md",
-    "docs/Jason Colapietro.md",
-    "docs/Suede Labs AI.md",
-    "docs/Instagram and Facebook.md",
-  ];
-  const contents = await Promise.all(files.map(read));
-  const notOurs = [
-    "instagram.com/johnnysuede1",
-    "instagram.com/getsuede.ai",
-    "instagram.com/fretpulse.io",
-    "facebook.com/johnnysuedeclothing",
-    "facebook.com/suedesing",
-  ];
+// Several same-name accounts sit in the same search results as ours. This
+// guard is an allowlist rather than a list of theirs, so it never has to name
+// another account: every Meta link on a claim surface must be one of the
+// accounts docs/Instagram and Facebook.md records as ours. The Facebook Page
+// has no vanity username yet, so no Facebook link is ours to publish; add its
+// username here when one is claimed.
+test("no surface links to a Meta account that is not ours", async () => {
+  const contents = await Promise.all(CLAIM_SURFACES.map(read));
+  const OUR_INSTAGRAM = new Set(["suedeai", "suedesingapp", "storybeampodcast"]);
+  const OUR_FACEBOOK = new Set();
 
   for (const [index, text] of contents.entries()) {
-    for (const account of notOurs) {
+    for (const [, handle] of text.matchAll(/https?:\/\/(?:www\.)?(?:instagram\.com|instagr\.am)\/([A-Za-z0-9._]+)/g)) {
       assert.ok(
-        !text.includes(`https://www.${account}`) && !text.includes(`https://${account}`),
-        `${files[index]} links to ${account}, which is not ours`,
+        OUR_INSTAGRAM.has(handle.toLowerCase()),
+        `${CLAIM_SURFACES[index]} links to instagram.com/${handle}, which is not one of our documented accounts`,
+      );
+    }
+    for (const [, handle] of text.matchAll(/https?:\/\/(?:www\.)?(?:facebook\.com|fb\.com|fb\.me)\/([A-Za-z0-9._]+)/g)) {
+      assert.ok(
+        OUR_FACEBOOK.has(handle.toLowerCase()),
+        `${CLAIM_SURFACES[index]} links to facebook.com/${handle}, which is not one of our documented accounts`,
       );
     }
   }
@@ -211,8 +206,11 @@ test("profile counts agree with the badges and with what the file lists", async 
   const chrome = occurrences(/\| Chrome \|/g);
   assert.equal(ios, occurrences(/\| iOS \|/g), "iOS badge vs Apps table rows");
   assert.equal(android, occurrences(/\| Android \|/g), "Android badge vs Apps table rows");
-  assert.match(readme, new RegExp(`${inWords(ios)} iOS apps and ${inWords(android)} Android apps`, "i"),
-    "Highlights prose vs the iOS and Android badges");
+  // The apps line is the identity spec's consistency value (v2, 2026-10-19),
+  // written the same way on every surface: "9 iOS apps, 6 Android apps and 2
+  // Chrome extensions".
+  assert.match(readme, new RegExp(`${ios} iOS apps, ${android} Android apps and ${chrome} Chrome extensions`),
+    "the canonical apps line vs the iOS and Android badges and the Chrome rows");
   assert.match(
     readme,
     new RegExp(`${inWords(ios)} on the App Store, ${inWords(android)} on Google Play, ${inWords(chrome)} on the Chrome Web Store`, "i"),
@@ -238,9 +236,11 @@ test("profile counts agree with the badges and with what the file lists", async 
   assert.match(readme, new RegExp(`the other ${inWords(listings)} are accepted listings`, "i"),
     "spelled-out listing count vs the numeric split");
 
-  // The skills count appears in the badge and three separate prose claims.
-  const skills = badge(/open--source_skills-(\d+)-/);
-  assert.equal(occurrences(new RegExp(`${skills} (open-source )?agent skills`, "g")), 3, "skills count occurrences");
+  // The identity spec (v2, 2026-10-19) limits published counts to its
+  // verified-facts table. The size of the skills pack is not in it, so the
+  // pack is described without a number: no skills badge, no count in prose.
+  assert.doesNotMatch(readme, /open--source_skills-\d+-/, "the skills pack carries no count badge");
+  assert.doesNotMatch(readme, /\b\d+ (?:open-source )?(?:agent )?skills\b/i, "the skills pack is described without a count");
 
   // The star count is rendered live by a shields.io badge, so it must not also
   // be hardcoded in prose, where it silently goes stale.
@@ -483,4 +483,50 @@ test("the vocal studio is Suede Voice on mobile and Suede Sing on web and Chrome
     /Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing/,
     "the Suede Sing row in Selected public work must state which name each platform uses",
   );
+});
+
+// Identity spec v2 (2026-10-19). Suede AI is an agentic platform company, the
+// founder's engineering record leads, and these claims stay off every claim
+// surface: token valuations (founder bios carry no token claims), AI-answer
+// captures and model output presented as endorsements or rankings, review
+// scores in Suede's own voice, program memberships upgraded to partnerships,
+// and organisations that do not exist.
+test("identity spec v2: retired claims stay off every claim surface", async () => {
+  const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
+  const retired = [
+    [/\$\s?2[38](?:\.\d)?\s?(?:M\b|million)|fully diluted/i, "a token valuation figure"],
+    [/Elon Musk/i, "the Elon Musk timeline mention"],
+    [/New Big 3|#1 platform for musicians|Ranked_%231|Ranked #1|Ranked number one/i, "an AI-answer capture presented as a ranking"],
+    [/5\/5|5\.0 of 5\.0/, "a review score in Suede's own voice"],
+    [/\b(?:Anthropic|Claude) partner\b/i, '"Anthropic partner" / "Claude partner" (the record is Claude for Startups membership)'],
+    [/\bGoogle partner\b/i, 'a bare "Google partner" (the record is Google Cloud Partner Advantage membership)'],
+    [/Suede Foundation/i, '"Suede Foundation", which is not a registered entity'],
+    [/\btop 15\b/i, '"top 15", which no list supports'],
+  ];
+
+  for (const [index, text] of surfaces.entries()) {
+    for (const [pattern, what] of retired) {
+      assert.doesNotMatch(text, pattern, `${CLAIM_SURFACES[index]} reintroduces ${what}`);
+    }
+  }
+});
+
+test("identity spec v2: the profile leads with the founder line and describes Suede AI canonically", async () => {
+  const readme = await read("README.md");
+  const FOUNDER_ONE_LINER =
+    "Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.";
+  const COMPANY_ONE_LINER =
+    "Suede AI is an agentic platform company founded in 2024 by engineer Jason Colapietro in West Palm Beach, Florida. It builds and runs AI agent platforms that businesses use to manage their work, and white-labels them for agencies and their clients.";
+
+  assert.ok(readme.includes(FOUNDER_ONE_LINER), "the README carries the founder one-liner verbatim");
+  assert.ok(readme.includes(COMPANY_ONE_LINER), "the README carries the company one-liner verbatim");
+
+  // The founder line comes before any section, and music comes last.
+  const firstSection = readme.indexOf("\n## ");
+  assert.ok(readme.indexOf(FOUNDER_ONE_LINER) < firstSection, "the founder one-liner opens the page");
+  const sections = [...readme.matchAll(/^## (.+)$/gm)].map((m) => m[1]);
+  const order = ["Open-source record", "Books", "Apps", "Programs", "Suede AI"];
+  assert.deepEqual(sections.filter((s) => order.includes(s)), order, "the proof sections run in spec order");
+  const music = sections.indexOf("Music and creator software");
+  assert.ok(music > sections.indexOf("Suede AI"), "music and creator software follows Suede AI");
 });

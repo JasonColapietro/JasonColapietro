@@ -15,7 +15,7 @@ This index is reconciled against the `sameAs` sets the owned surfaces actually p
 | Founder profile on Agent Studio | [agents.suedeai.ai/founder](https://agents.suedeai.ai/founder) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | Writing | [jasoncolapietro.substack.com](https://jasoncolapietro.substack.com) |
-| LinkedIn | [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro) |
+| Jason's LinkedIn | [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro) |
 | X (Johnny Suede) | [@johnnysuede](https://x.com/johnnysuede) |
 | YouTube | [@johnnysuede](https://www.youtube.com/@johnnysuede) |
 | Apple developer page | [apps.apple.com/us/developer/jason-colapietro](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) |
@@ -35,8 +35,8 @@ That URL is deliberately recorded here as text and not as a link: this index pub
 
 | Surface | URL | Purpose |
 |---|---|---|
-| Product | [suedeai.ai](https://suedeai.ai) | Creator ownership platform and primary public front door |
-| Company and thesis | [suedeai.org](https://suedeai.org) | Ownership, provenance, books, and company material |
+| Company | [suedeai.ai](https://suedeai.ai) | Agentic platform company and primary public front door |
+| Research and investors | [suedeai.org](https://suedeai.org) | Suede AI's research and investor site |
 | Application | [app.suedeai.ai](https://app.suedeai.ai) | Application root |
 | Creator application | [app.suedeai.ai/create](https://app.suedeai.ai/create) | Creator workflow |
 | Developer portal | [app.suedeai.ai/developers](https://app.suedeai.ai/developers) | Developer workflow and API entry point |
@@ -55,7 +55,7 @@ That URL is deliberately recorded here as text and not as a link: this index pub
 | Surface | URL | Notes |
 |---|---|---|
 | X | [@AISUEDE](https://x.com/AISUEDE) | Company account. Distinct from [@johnnysuede](https://x.com/johnnysuede), which is Jason's. |
-| YouTube | [@aisuede](https://www.youtube.com/@aisuede) | Company channel |
+| YouTube | [@aisuede](https://www.youtube.com/@aisuede) | Company channel, displayed as "Suede AI" |
 | Telegram | [t.me/SUEDEAI](https://t.me/SUEDEAI) | Community |
 | Instagram | [instagram.com/suedeai](https://www.instagram.com/suedeai) | Company account; asserted in the Organization `sameAs` of the owned surfaces |
 | LinkedIn | [linkedin.com/company/suede-labs](https://www.linkedin.com/company/suede-labs) | Company page |

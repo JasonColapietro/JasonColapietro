@@ -54,7 +54,6 @@ Do not claim, link, or list these. Several are name matches that surface in the 
 | `instagram.com/suedesing` | Probed non-existent, August 27, 2026. |
 | `facebook.com/johnnysuedeclothing` | Unrelated clothing brand. |
 | Johnny Suede band and 1991 film pages | Unrelated. |
-| `instagram.com/getsuede.ai` | Unrelated AI product. Argues against any `suede.ai`-style handle. |
 | `instagram.com/fretpulse.io` | Unrelated. Suede's FretPulse is fretpulse.suedeai.ai. |
 
 ## What to fix, in order
