@@ -239,7 +239,10 @@ test("the README's numeric claims are read back out of the page", async () => {
   assert.equal(typeof claim.prs, "number");
   assert.equal(typeof claim.repos, "number");
   assert.equal(claim.substantive + claim.listings, claim.prs, "the split must sum to the total");
-  assert.equal(typeof skillsClaim(readme), "number");
+  // The skills count is no longer published (identity spec v2), so the claim
+  // reads back as null; a count, if one returns, must still parse as a number.
+  const skills = skillsClaim(readme);
+  assert.ok(skills === null || typeof skills === "number");
 });
 
 test("overstating a count is louder than understating one", () => {

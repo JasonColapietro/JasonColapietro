@@ -1,6 +1,6 @@
 # Jason Colapietro / Suede profile reference
 
-Jason Colapietro, who publishes as Johnny Suede, is the founder and CEO of Suede AI, also known as Suede Labs AI, creator ownership infrastructure for AI-native media: proof of creation, provenance, rights metadata, licensing, royalty routing, and agent commerce.
+Jason Colapietro, an engineer and author who publishes as Johnny Suede, is the founder and CEO of Suede AI, also known as Suede Labs AI. Suede AI is an agentic platform company founded in 2024 by engineer Jason Colapietro in West Palm Beach, Florida. It builds and runs AI agent platforms that businesses use to manage their work, and white-labels them for agencies and their clients.
 
 This file is retained as a stable entry point for links that previously targeted a concatenated copy of the profile repository. The former combined document duplicated the profile and supporting pages, which made updates drift and left stale claims in circulation.
 

@@ -1,23 +1,30 @@
 # Suede AI
 
-[Suede AI](https://suedeai.ai), also known as Suede Labs AI, is creator ownership infrastructure for AI-native media. It connects creative work and likeness to proof of creation, provenance, rights metadata, registry-backed records, artist coordination, and agent commerce. Music is the first operating category, with image, video, voice, and other creative assets using the same ownership model.
+[Suede AI](https://suedeai.ai), also known as Suede Labs AI, is an agentic platform company founded in 2024 by engineer Jason Colapietro in West Palm Beach, Florida. It builds and runs AI agent platforms that businesses use to manage their work, and white-labels them for agencies and their clients.
 
 ## What it does
 
-1. **Record evidence:** create a dated fingerprint and authorship claim for a work or reference asset.
-2. **Declare rights:** publish rights metadata and consent terms that people and software can read.
-3. **Coordinate and transact:** keep artist profiles, release destinations, and approvals in one auditable record on the music IP site, and sell creative generation to AI agents through x402 pay-per-call endpoints.
+In this order:
+
+1. **Agent platforms for your business.** [Suede AI Agent Studio](https://agents.suedeai.ai): build agents for the work that repeats, watch every run, and publish an agent as a paid endpoint.
+2. **White-label agent platforms.** Suede builds and runs an agent platform under an agency's brand, for that agency's clients. Scoped per engagement. [suedeai.ai/white-label](https://suedeai.ai/white-label)
+3. **Managed AI agents and AI operations.** Suede builds, runs and tunes agents for a business, with every run visible in Agent Studio. [Managed AI agents](https://suedeai.ai/managed-ai-agents) · [AI operations](https://suedeai.ai/ai-operations)
+4. **Forward-deployed engineering and fractional Chief AI Officer**, founder-led. [Forward-deployed engineer](https://suedeai.ai/forward-deployed-engineer) · [Fractional Chief AI Officer](https://suedeai.ai/fractional-chief-ai-officer)
+5. **AI search visibility.** Suede AI SEO, the GEO, AEO and SEO practice, at [seo.suedeai.ai](https://seo.suedeai.ai).
+6. **Music and creator software**, a separate product line: proof of creation, provenance and rights records, artist coordination, and music tools. [suedeai.ai/music](https://suedeai.ai/music)
 
 ## Primary public surfaces
 
 | Surface | URL | Purpose |
 |---|---|---|
-| Product | [suedeai.ai](https://suedeai.ai) | Primary product and platform overview |
+| Company | [suedeai.ai](https://suedeai.ai) | Primary company site |
 | Creator app | [app.suedeai.ai/create](https://app.suedeai.ai/create) | Creator workflow |
 | Developer portal | [app.suedeai.ai/developers](https://app.suedeai.ai/developers) | Developer workflow and API entry point |
 | IP Registry | [registry.suedeai.ai](https://registry.suedeai.ai) | Public creator-claim, fingerprint, contributor, and timestamp lookup |
 | Artist Coordination | [ip.suedeai.ai](https://ip.suedeai.ai) | Suede's music IP site: artist profiles, release destinations, approvals, and correction cases in one auditable record |
-| Company and thesis | [suedeai.org](https://suedeai.org) | Ownership, provenance, books, and company material |
+| Research and investors | [suedeai.org](https://suedeai.org) | Suede AI's research and investor site |
+| Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Build, run, and publish AI agents |
+| Suede AI SEO | [seo.suedeai.ai](https://seo.suedeai.ai) | AI search visibility: GEO, AEO, and SEO |
 | Hub | [hub.suedeai.ai](https://hub.suedeai.ai) | Live product directory |
 | Map | [map.suedeai.ai](https://map.suedeai.ai) | Ecosystem map for products, protocols, apps, and publications |
 
@@ -35,7 +42,9 @@ The live x402 manifest currently advertises paid music, video, and image resourc
 
 ## Founder connection
 
-Suede AI was founded by [Jason Colapietro](https://suedeai.ai/founder), who also publishes as Johnny Suede. Jason's public profile is [github.com/JasonColapietro](https://github.com/JasonColapietro), and Suede's public organization is [github.com/Suede-AI](https://github.com/Suede-AI).
+Suede AI was founded in 2024 by [Jason Colapietro](https://suedeai.ai/founder), an engineer and author who also publishes as Johnny Suede. Jason's public profile is [github.com/JasonColapietro](https://github.com/JasonColapietro), and Suede's public organization is [github.com/Suede-AI](https://github.com/Suede-AI).
+
+Suede AI's official sites are suedeai.ai, suedeai.org and their subdomains. It was founded in 2024 by Jason Colapietro.
 
 ## Related references
 

@@ -4,87 +4,154 @@
 
 # Jason Colapietro
 
-**Founder and CEO of [Suede AI](https://suedeai.ai). Fractional forward-deployed engineer: I integrate AI agents into how a company works, then run its SEO, AI search visibility and PR, at [seo.suedeai.ai](https://seo.suedeai.ai).**
+**Engineer · Founder and CEO of [Suede AI](https://suedeai.ai) · author of five books on Amazon Kindle · five provisional patent applications (patent pending)**
 
-**Founder and Managing Member of JC Investment Group LLC · author of five books on Amazon Kindle · five provisional patent applications (patent pending)**
+Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.
 
 <p>
-  <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-54_PRs_%2F_46_repos-8250df?labelColor=080808" alt="54 upstream PRs across 46 repos"></a>
-  <a href="#press"><img src="https://img.shields.io/badge/Announcement-FinanceWire_release_on_Markets_Insider-1f2937?labelColor=080808" alt="SEO, AEO and GEO cohort announcement: a FinanceWire press release syndicated on Markets Insider, September 16, 2026"></a>
+  <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-54_PRs_%2F_46_repos-8250df?labelColor=080808" alt="54 merged upstream pull requests across 46 external repositories"></a>
+  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon_Kindle-ff9900?labelColor=080808" alt="5 books on Amazon Kindle"></a>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-9-c8a96e?labelColor=080808" alt="9 iOS apps"></a>
   <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-6-3ddc84?labelColor=080808" alt="6 Android apps"></a>
-  <a href="https://skills.suedeai.ai"><img src="https://img.shields.io/badge/open--source_skills-76-06b6d4?labelColor=080808" alt="76 open-source skills"></a>
-  <a href="https://github.com/JasonColapietro/suede-creator-skills"><img src="https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat&label=skill%20pack%20stars&color=e3b341&labelColor=080808" alt="Suede Creator Skills stars"></a>
-  <a href="https://seo.suedeai.ai/evidence"><img src="https://img.shields.io/badge/Ranked_%231-platform_for_musicians-16a34a?labelColor=080808" alt="Ranked #1 platform for musicians by Google"></a>
-  <a href="https://seo.suedeai.ai/evidence#gemini-big3"><img src="https://img.shields.io/badge/New_Big_3-with_Suno_%26_Udio-7c3aed?labelColor=080808" alt="Named by Google's Gemini in a New Big 3 of music platforms, alongside Suno and Udio"></a>
-  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon_Kindle-ff9900?labelColor=080808" alt="5 books on Amazon Kindle"></a>
+  <a href="#programs"><img src="https://img.shields.io/badge/Claude_for_Startups-member-d97757?labelColor=080808" alt="Member of Claude for Startups, Anthropic's startup program"></a>
+  <a href="#programs"><img src="https://img.shields.io/badge/Google_Cloud_Partner_Advantage-member-4285f4?labelColor=080808" alt="Member of Google Cloud Partner Advantage"></a>
 </p>
-
-Jason Colapietro is a fractional forward-deployed engineer. He integrates AI agents into how a company works, for call review, lead qualification, follow-up and operations, then runs its SEO, AI search visibility and PR at [seo.suedeai.ai](https://seo.suedeai.ai). He also builds systems that help creators record authorship, declare rights, and coordinate artist records as media moves between people, platforms, and AI agents. At Suede AI, also known as Suede Labs AI, his work spans programmable IP, provenance, registry-backed media, artist coordination, and agent commerce over x402 and ERC-8004, with music and likeness as early use cases. He publishes music, video, and writing as **Johnny Suede**. Before Suede, he built, ran, and sold call centers, and he took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch. He builds solo: every app, site, book, and pull request on this page is his own work.
 
 <p>
   <a href="https://jasoncolapietro.com"><img src="https://img.shields.io/badge/Personal_site-jasoncolapietro.com-c8a96e?labelColor=080808" alt="Personal site: jasoncolapietro.com"></a>
-  <a href="https://johnnysuede.com"><img src="https://img.shields.io/badge/Johnny_Suede-johnnysuede.com-6d28d9?labelColor=080808" alt="Johnny Suede: johnnysuede.com"></a>
-  <a href="https://suedeai.ai"><img src="https://img.shields.io/badge/Suede_AI-suedeai.ai-0369a1?labelColor=080808" alt="Suede AI: suedeai.ai"></a>
   <a href="https://suedeai.ai/founder"><img src="https://img.shields.io/badge/Founder_profile-suedeai.ai%2Ffounder-047857?labelColor=080808" alt="Founder profile on suedeai.ai"></a>
+  <a href="https://suedeai.ai"><img src="https://img.shields.io/badge/Suede_AI-suedeai.ai-0369a1?labelColor=080808" alt="Suede AI: suedeai.ai"></a>
+  <a href="https://johnnysuede.com"><img src="https://img.shields.io/badge/Johnny_Suede-johnnysuede.com-6d28d9?labelColor=080808" alt="Johnny Suede: johnnysuede.com"></a>
   <a href="https://jasoncolapietro.substack.com"><img src="https://img.shields.io/badge/Writing-Substack-c2410c?labelColor=080808" alt="Writing on Substack"></a>
-  <a href="https://www.linkedin.com/in/jasoncolapietro"><img src="https://img.shields.io/badge/LinkedIn-jasoncolapietro-0a66c2?labelColor=080808" alt="LinkedIn: jasoncolapietro"></a>
+  <a href="https://www.linkedin.com/in/jasoncolapietro"><img src="https://img.shields.io/badge/Jason's_LinkedIn-jasoncolapietro-0a66c2?labelColor=080808" alt="Jason's LinkedIn"></a>
   <a href="https://x.com/johnnysuede"><img src="https://img.shields.io/badge/X-%40johnnysuede-1a6fb5?labelColor=080808" alt="X: @johnnysuede"></a>
-  <a href="https://www.instagram.com/suedeai"><img src="https://img.shields.io/badge/Instagram-%40suedeai-c13584?labelColor=080808" alt="Instagram: @suedeai"></a>
   <a href="https://www.wikidata.org/wiki/Q140235755"><img src="https://img.shields.io/badge/Wikidata-Q140235755-1f6b46?labelColor=080808" alt="Wikidata item Q140235755"></a>
   <a href="https://www.crunchbase.com/person/jason-colapietro-d83e"><img src="https://img.shields.io/badge/Crunchbase-founder_profile-01629b?labelColor=080808" alt="Crunchbase: founder profile"></a>
 </p>
 
-## Highlights
+Before Suede AI, Jason built, ran, and sold call centers. He is the manager of JC Investment Group LLC, a Florida company formed in 2019, and works from West Palm Beach, Florida. The founder page at [suedeai.ai/founder](https://suedeai.ai/founder) is the canonical record.
 
-Counts are as of October 11, 2026, except where a line gives its own date. Most lines link to a record somebody else hosts.
+## Open-source record
 
-- **Nine iOS apps and six Android apps, live on the App Store and Google Play.** Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) lists all nine with current versions and release dates. The first shipped on May 7, 2026; the ninth, [GuitarHub: Guitar Lessons](https://apps.apple.com/us/app/guitarhub-guitar-lessons/id6806770875), on September 14, 2026. Six Android editions run on Google Play, listed under [Apps](#apps), and two Chrome extensions ship on the Chrome Web Store: the vocal studio as a [Chrome extension](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd), and [Suede AI Visibility](https://chromewebstore.google.com/detail/hekigfiohpacglhcaiidnbphejpihaki), an SEO and AEO audit.
-- **54 pull requests merged into 46 open-source projects I don't maintain**, across my two GitHub accounts, JasonColapietro and Suede-AI. Jest, Adobe React Spectrum, Backstage, Hardhat, Polkadot SDK, Cosmos SDK, CoreOS Ignition, Solana Pay, elizaOS, x402, zeroclaw, and the Prometheus docs are among them. 33 are fixes, features, tests, and docs; the other 21 are accepted listings of Suede projects on third-party lists. Outside GitHub, a Linux kernel USB/IP patch series is public upstream at v7 on the kernel's own lists, recorded separately under [Open source](#open-source). [Check all 54 merged pull requests on GitHub](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
-- **A USB/IP patch series submitted to the Linux kernel**, revised in public from v2 through v7 on the kernel's own mailing lists at [lore.kernel.org/linux-usb](https://lore.kernel.org/linux-usb/). Every revision is in the open, on the least forgiving list in open source. It sits outside the pull-request count above; the record is at [seo.suedeai.ai/evidence#open-source](https://seo.suedeai.ai/evidence#open-source).
-- **[Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills): 76 open-source agent skills for Claude Code and Codex**, installable as a plugin marketplace, and accepted into [15 independent skills directories](#skills-directories-the-pack-was-accepted-into) — GitHub's own awesome-copilot among them. Every acceptance links to its merged pull request.
-- **Entered OpenAI's WebMCP Challenge** in September 2026 with a browser-native storefront: four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. [Source published under MIT](https://github.com/JasonColapietro/suede-webmcp-challenge), running at the [WebMCP storefront](https://webmcp.suedeai.ai/agents).
-- **Five books on Amazon and two published direct**, among them *The Signal Chain*, an illustrated history of guitar tone, and *The Screenshot*, an SEO and GEO field guide with its [source edition on GitHub](https://github.com/JasonColapietro/suede-geo-book).
-- **Before Suede, I built, ran, and sold call centers.** That operating history now shapes Suede's [managed agents](https://seo.suedeai.ai/managed-ai-agents) for call review and lead qualification. More on the [founder page](https://suedeai.ai/founder).
-- **Took the $SUEDE token to a roughly $23.9 million peak fully diluted valuation in under 90 days from launch.** Stated on the [founder page](https://suedeai.ai/founder).
-- **In partnership with Google Cloud since September 2025:** a dedicated Google Cloud account team, a Google Premier Partner assigned to the account, and the Suede stack on the Vertex AI suite. The dated correspondence, from Google Cloud's first outreach on August 5, 2025 onward, is published as captures at [seo.suedeai.ai/evidence](https://seo.suedeai.ai/evidence#google-cloud). **Google Cloud Partner Advantage member** since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. **Stripe Startups**, accepted July 31, 2026. **Florida Atlantic Entrepreneurship Institute** at FAU's College of Business, accepted July 17, 2026. Member of **1909**, the West Palm Beach entrepreneurship hub.
-- **Announcements, contributed articles and mentions: thirteen items across seven outlets since December 2025.** The five-business SEO, AEO and GEO cohort was announced on September 16, 2026 in a [FinanceWire press release syndicated on Markets Insider](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662), then in a company-supplied story syndicated on MSN on September 20. Gigawatt Group compared Suede AI with Profound for trade associations on September 21. TechBullion has run seven Suede pieces since December 2025, my essay on content spam ran in Programming Insider and on Indie Hackers, and Altcoin Investor carried a piece on on-chain IP and creator ownership. The full list is under [Press](#press).
-- **Named in public conversation.** Mario Nawfal featured Suede in [two](https://x.com/MarioNawfal/status/1885063096785334289) [posts](https://x.com/MarioNawfal/status/1968759867780342100) eight months apart, and the Suede AI AMA ran on his [Crypto Roundtable](https://www.youtube.com/watch?v=8uJewXJ1U28). A [screenshot on Elon Musk's timeline](https://x.com/elonmusk/status/2026052687423562228) of proposed Community Notes about AI training data names Suede Labs as an opt-out option; the archived capture recorded 2.7 million views, and the mention is the note's wording rather than an endorsement.
-- **Ranked number one, and named in a New Big 3 beside Suno and Udio.** Google calls Suede the #1 platform for musicians. Asked for the top AI music platforms of 2026, **Google's own model returns a "New Big 3" and puts Suede in it**, beside Suno and Udio, with a label of its own: "The Creator's IP Fortress." Suno and Udio generate. Suede generates *and proves who owns the result* — that is the third pillar, and it is the one neither of the other two is built to be. An independent nine-platform review ranks Suede **#1 Best AI Music Generator of 2026 at 5.0 of 5.0**, ahead of Suno, Udio, SOUNDRAW, Beatoven and AIVA. Google's Web Guide calls the company "highly rated by users, earning a 5/5 rating from verified reviews." Google Cloud's own account manager put it in writing on December 24, 2025: *"That's fantastic news about ranking #1 on Google search! Great momentum."* The AI Agents Directory names Suede AI **Best Overall** and **Best API Option** among 47 music tools. The Gemini, review, Web Guide and directory captures are dated on the [receipts page](https://seo.suedeai.ai/evidence), with the full detail under [Programs and recognition](#programs-and-recognition).
-- **3,092 pull requests merged across the Suede repositories in 2026** through September 5, most of them private, behind about 30 live websites on 18 brand domains and 200 public repositories across the [JasonColapietro](https://github.com/JasonColapietro) and [Suede-AI](https://github.com/Suede-AI) accounts.
-- **12,280 contributions on this account, effectively all of them since May 2026.** GitHub's counter on [my profile](https://github.com/JasonColapietro) reads 12,280 for the trailing year as of September 18, 2026, but the graph is blank before May: that volume is about four months of work, on the order of 90 a day. Several thousand more sit on the [Suede-AI](https://github.com/Suede-AI) organization and an earlier personal account and are not in the figure. Commits specifically: GitHub's commit search indexes [8,175 on default branches](https://github.com/search?q=author%3AJasonColapietro&type=commits), the rest sitting on feature and release branches it does not reach. All of it solo: no team, no co-authors.
-- **Third-party records:** [Wikidata Q140235755](https://www.wikidata.org/wiki/Q140235755) for the person and [Q141169484](https://www.wikidata.org/wiki/Q141169484) for Suede AI, [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e), [PitchBook](https://pitchbook.com/profiles/company/937217-71), and [Apple Developer](https://apps.apple.com/us/developer/jason-colapietro/id1895958699).
+**54 pull requests merged into 46 open-source projects he does not maintain**, as of September 30, 2026: 33 are fixes, features, tests, and docs; the other 21 are accepted listings of his own work on third-party lists. Every one is a merged pull request on GitHub, opened from his two GitHub accounts, JasonColapietro and Suede-AI.
 
-## What I am building
+- [Check all 54 merged pull requests on GitHub](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests), GitHub's own search, scoped to repositories he does not own.
+- [The machine-readable record](https://suedeai.ai/open-source-contributions.json): every pull request with its repository, merge date, merge commit and classification.
 
-- **AI integration, SEO, AI search visibility and PR for businesses:** AI agents for call review, lead qualification and follow-up built into a client's own stack, then GEO/AEO audits, entity and schema repair and press work, delivered as a fractional forward-deployed engineer at [seo.suedeai.ai](https://seo.suedeai.ai).
-- **Creator ownership:** proof of creation, provenance, rights metadata, and artist coordination.
-- **Registry-backed media and likeness:** dated records and machine-readable consent terms for creative work, voice, face, name, and persona.
-- **Agent commerce:** public agent metadata and x402 payments for machine-readable, pay-per-call workflows.
-- **Music-first creator tools:** creation, distribution, guitar, voice, and catalog experiences connected to an ownership layer.
+### Headline projects
 
-## Selected public work
+| Project | Pull request | What it changed |
+|---|---|---|
+| [Jest](https://github.com/jestjs/jest) | [#16296](https://github.com/jestjs/jest/pull/16296) · [#16295](https://github.com/jestjs/jest/pull/16295) | Isolated virtual mock module IDs between module registries, and made the file watcher tolerate a transient Windows EPERM instead of crashing. |
+| [Adobe React Spectrum](https://github.com/adobe/react-spectrum) | [#10426](https://github.com/adobe/react-spectrum/pull/10426) | Added the public `useShowFocusIndicator` hook, so React Aria consumers can show the focus ring after a pointer interaction. Merged, then later replaced upstream by [#10491](https://github.com/adobe/react-spectrum/pull/10491); it stands as a historical contribution. |
+| [Backstage](https://github.com/backstage/backstage) | [#35102](https://github.com/backstage/backstage/pull/35102) | Connected the Catalog Graph page configuration to its initial filters and graph settings. |
+| [Polkadot SDK](https://github.com/paritytech/polkadot-sdk) | [#12853](https://github.com/paritytech/polkadot-sdk/pull/12853) | The RPC server now releases reserved connection capacity when a registration fails, instead of leaking it until restart. |
+| [Hardhat](https://github.com/NomicFoundation/hardhat) | [#8522](https://github.com/NomicFoundation/hardhat/pull/8522) | Removed the shipped chain descriptor for the retired Holesky testnet. |
+| [x402 Foundation](https://github.com/x402-foundation/x402) | [#3180](https://github.com/x402-foundation/x402/pull/3180) | The TypeScript client no longer throws a runtime `TypeError` when a 402 response arrives with no accepted payment requirements. |
+| [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | [#9846](https://github.com/zeroclaw-labs/zeroclaw/pull/9846) | A second daemon on the same config can no longer unlink and replace the first one's Unix socket, and bind failures now fail startup instead of retrying forever. |
 
-About 30 websites and 9 iOS apps. Full index at [hub.suedeai.ai](https://hub.suedeai.ai); the operating map, entity by entity, is at [map.suedeai.ai](https://map.suedeai.ai).
+Beyond the headline projects, his pull requests have merged across 46 repositories, among them the Cosmos SDK, CoreOS Ignition, Solana Pay and Pay Kit, elizaOS, the Prometheus docs, XRPL.js, html-to-docx, Nautobot, nam-rs and GitHub's awesome-copilot. Thirty-three of the 54 are substantive fixes, features, tests, and docs; the other twenty-one are accepted listings of his own projects, mostly the Suede Creator Skills pack, on third-party directories. Both lists are below in full.
 
-| Project | What it does |
+Outside GitHub, a Linux kernel USB/IP patch, *usbip: make remote list honor parsable output*, is public upstream at v7 on the kernel's own mailing list, [linux-usb](https://lore.kernel.org/linux-usb/), and is still under review. It is not counted in the 54.
+
+<details>
+<summary>All 33 merged fixes, features, tests, and docs</summary>
+
+| Merged | Repository | Pull request | What it changed |
+|---|---|---|---|
+| Sep 30, 2026 | TurboDocx/html-to-docx | [#229](https://github.com/TurboDocx/html-to-docx/pull/229) | Fixed tables nested inside list items being silently dropped from the generated DOCX by routing them through the table builder, with regression coverage. |
+| Sep 24, 2026 | XRPLF/xrpl.js | [#3430](https://github.com/XRPLF/xrpl.js/pull/3430) | Corrected VaultCreate autofill to use the network base fee, with regression coverage. |
+| Sep 23, 2026 | coreos/ignition | [#2301](https://github.com/coreos/ignition/pull/2301) | Drops the caller's supplementary groups when switching to a target user. |
+| Sep 22, 2026 | coreos/ignition | [#2302](https://github.com/coreos/ignition/pull/2302) | Added append and overwrite examples to the Butane docs. |
+| Sep 21, 2026 | coreos/ignition | [#2326](https://github.com/coreos/ignition/pull/2326) | Dropped the old shell-loop Butane docs check that #2303 made redundant. |
+| Sep 16, 2026 | coreos/ignition | [#2303](https://github.com/coreos/ignition/pull/2303) | Restored Butane config coverage in the docs checker after Butane moved into the repository. |
+| Sep 9, 2026 | cosmos/cosmos-sdk | [#26735](https://github.com/cosmos/cosmos-sdk/pull/26735) | Normalized LegacyDec-annotated fields in AutoCLI positional JSON so decimals encode as protojson expects. |
+| Sep 4, 2026 | paritytech/polkadot-sdk | [#12853](https://github.com/paritytech/polkadot-sdk/pull/12853) | Released reserved RPC capacity when duplicate identifier registration fails, with regression coverage. |
+| Sep 1, 2026 | solana-foundation/pay | [#451](https://github.com/solana-foundation/pay/pull/451) | Aligned MCP skill generation and bundled monetization guidance with the current provider layout, catalog commands, and validation. |
+| Sep 1, 2026 | solana-foundation/pay-kit | [#299](https://github.com/solana-foundation/pay-kit/pull/299) | Replaced obsolete implementation paths and protocol guidance with current in-repo sources. |
+| Aug 26, 2026 | prometheus/docs | [#3053](https://github.com/prometheus/docs/pull/3053) | Corrected TSDB comparison docs to distinguish the in-memory head and WAL from persisted block directories. |
+| Aug 23, 2026 | elizaOS/eliza | [#25122](https://github.com/elizaOS/eliza/pull/25122) | Bound Discord local IPC frame payload length to prevent unbounded buffering and quadratic copying from malformed frames. |
+| Aug 17, 2026 | NomicFoundation/hardhat | [#8522](https://github.com/NomicFoundation/hardhat/pull/8522) | Removed the retired Holešky chain descriptor and migrated configuration-merge coverage to OP Sepolia. |
+| Aug 17, 2026 | x402-foundation/x402 | [#3180](https://github.com/x402-foundation/x402/pull/3180) | Handled omitted or null accepted requirements without runtime TypeErrors, with v1 and v2 end-to-end regression coverage. |
+| Aug 14, 2026 | nautobot/nautobot | [#9359](https://github.com/nautobot/nautobot/pull/9359) | Corrected the Celery worker documentation to use the supported queues flag. |
+| Aug 13, 2026 | zeroclaw-labs/zeroclaw | [#9846](https://github.com/zeroclaw-labs/zeroclaw/pull/9846) | Serialized Unix local-socket ownership with validated persistent locks and failed daemon startup cleanly on initial address conflicts. |
+| Aug 12, 2026 | adobe/react-spectrum | [#10426](https://github.com/adobe/react-spectrum/pull/10426) | Added a public useShowFocusIndicator hook, with regression coverage. Merged; later replaced upstream by #10491. |
+| Aug 11, 2026 | AgentsKit-io/doc-bridge | [#73](https://github.com/AgentsKit-io/doc-bridge/pull/73) | Updated GitHub Action examples and status copy to v1.3.0 and refreshed README integrity hashes. |
+| Aug 9, 2026 | johnnymeunome/MyVault | [#26](https://github.com/johnnymeunome/MyVault/pull/26) | Added a safe first-contribution guide with validation and security-reporting boundaries. |
+| Aug 8, 2026 | jestjs/jest | [#16296](https://github.com/jestjs/jest/pull/16296) | Isolated virtual mock module IDs in resolver cache keys, with unit and end-to-end regression coverage. |
+| Aug 8, 2026 | jestjs/jest | [#16295](https://github.com/jestjs/jest/pull/16295) | Made file watchers tolerate transient Windows EPERM lstat failures, with cross-platform regression coverage. |
+| Aug 7, 2026 | kanylbullen/xupersplit | [#86](https://github.com/kanylbullen/xupersplit/pull/86) | Fixed legal-page apostrophes and removed obsolete lint suppressions. |
+| Aug 7, 2026 | github/awesome-copilot | [#2562](https://github.com/github/awesome-copilot/pull/2562) | Contributed an MCP release QA skill covering protocol, contract, negative-path, and install-smoke validation. |
+| Aug 6, 2026 | VectorInstitute/backcheck | [#12](https://github.com/VectorInstitute/backcheck/pull/12) | Added ShellCheck runner support to the validation framework. |
+| Aug 5, 2026 | Din-es/Ledger_c | [#12](https://github.com/Din-es/Ledger_c/pull/12) | Added a ledger unbind command. |
+| Aug 5, 2026 | backstage/backstage | [#35102](https://github.com/backstage/backstage/pull/35102) | Connected Catalog Graph page configuration to its initial filters and graph settings, with regression coverage. |
+| Aug 5, 2026 | OpenSauce/nam-rs | [#50](https://github.com/OpenSauce/nam-rs/pull/50) | Reported unsupported neural-model architectures instead of silently misclassifying them. |
+| Aug 5, 2026 | ignaciohermosillacornejo/copilot-money-mcp | [#616](https://github.com/ignaciohermosillacornejo/copilot-money-mcp/pull/616) | Added regression coverage for reading soft-deleted transactions. |
+| Aug 4, 2026 | pbarone/uptime-kuma-api2 | [#20](https://github.com/pbarone/uptime-kuma-api2/pull/20) | Bounded the container readiness poll so startup failures cannot hang indefinitely. |
+| Aug 4, 2026 | thousandflowers/skillreaper | [#19](https://github.com/thousandflowers/skillreaper/pull/19) | Added support for common version flags. |
+| Aug 4, 2026 | conorbronsdon/avoid-ai-writing | [#106](https://github.com/conorbronsdon/avoid-ai-writing/pull/106) | Refreshed the repository contribution guidance to match its current workflow. |
+| Aug 4, 2026 | Din-es/Ledger_c | [#11](https://github.com/Din-es/Ledger_c/pull/11) | Added source line-range support to the why command. |
+| Aug 4, 2026 | jakegold1647/sam-doctor | [#6](https://github.com/jakegold1647/sam-doctor/pull/6) | Added regression coverage for OIDC near-match negative cases. |
+
+</details>
+
+<details>
+<summary>All 21 accepted listings of his own work</summary>
+
+| Merged | List | Pull request | What was listed |
+|---|---|---|---|
+| Sep 7, 2026 | ichangyou/awesome-claude-code | [#9](https://github.com/ichangyou/awesome-claude-code/pull/9) | Added Suede Creator Skills to the Skills and Slash Commands directory in both language editions. |
+| Sep 6, 2026 | VoltAgent/awesome-agent-skills | [#997](https://github.com/VoltAgent/awesome-agent-skills/pull/997) | Updated the existing Suede Creator Skills listing to lead with design and UI-polish capabilities. |
+| Sep 3, 2026 | davepoon/buildwithclaude | [#305](https://github.com/davepoon/buildwithclaude/pull/305) | Added the suede-skills plugin to the marketplace catalog through its external GitHub source. |
+| Aug 31, 2026 | ichangyou/awesome-codex | [#2](https://github.com/ichangyou/awesome-codex/pull/2) | Added Suede Creator Skills to the Codex skills directory in both language editions. |
+| Aug 30, 2026 | yzfly/awesome-skills-zh | [#14](https://github.com/yzfly/awesome-skills-zh/pull/14) | Added Suede Creator Skills to the Chinese-language large skills collections directory. |
+| Aug 26, 2026 | hashgraph-online/awesome-ai-plugins | [#148](https://github.com/hashgraph-online/awesome-ai-plugins/pull/148) | Added Suede Creator Skills to the Community Plugins development and workflow directory. |
+| Aug 18, 2026 | JackyST0/awesome-agent-skills | [#71](https://github.com/JackyST0/awesome-agent-skills/pull/71) | Added Suede Creator Skills to the bilingual skills-collection directory without a volatile skill count. |
+| Aug 15, 2026 | 0xNyk/awesome-agent-cortex | [#57](https://github.com/0xNyk/awesome-agent-cortex/pull/57) | Added Suede Creator Skills to the skill-engineering and playbooks directory. |
+| Aug 13, 2026 | elizaOS/eliza | [#19210](https://github.com/elizaOS/eliza/pull/19210) | Registered the Suede community plugin in the Eliza third-party plugin registry. |
+| Aug 13, 2026 | zients/awesome-agent-harness | [#7](https://github.com/zients/awesome-agent-harness/pull/7) | Added Suede Creator Skills to the agent-harness collections directory. |
+| Aug 12, 2026 | ccplugins/awesome-claude-code-plugins | [#273](https://github.com/ccplugins/awesome-claude-code-plugins/pull/273) | Added the public iOS App Dev Skills pack to the development-engineering directory. |
+| Aug 9, 2026 | junminhong/awesome-agent-skills | [#29](https://github.com/junminhong/awesome-agent-skills/pull/29) | Added Suede Creator Skills to the agent-skills directory. |
+| Aug 7, 2026 | VoltAgent/awesome-agent-skills | [#833](https://github.com/VoltAgent/awesome-agent-skills/pull/833) | Listed Suede Creator Skills in the agent-skills directory. |
+| Aug 6, 2026 | GetBindu/awesome-claude-code-and-skills | [#138](https://github.com/GetBindu/awesome-claude-code-and-skills/pull/138) | Added Suede Creator Skills to the Claude Code skills collection. |
+| Aug 5, 2026 | karanb192/awesome-claude-skills | [#180](https://github.com/karanb192/awesome-claude-skills/pull/180) | Added Suede Creator Skills to the Claude skills directory. |
+| Aug 4, 2026 | gmh5225/awesome-skills | [#49](https://github.com/gmh5225/awesome-skills/pull/49) | Added Suede Creator Skills to the skills-collection directory. |
+| Jun 21, 2026 | xpaysh/awesome-x402 | [#518](https://github.com/xpaysh/awesome-x402/pull/518) | Added Suede Agent Studio to the x402 ecosystem directory. |
+| May 8, 2026 | xpaysh/awesome-x402 | [#323](https://github.com/xpaysh/awesome-x402/pull/323) | Added Suede's x402-paid AI generation API to the ecosystem directory. |
+| May 6, 2026 | eudk/awesome-ai-tools | [#210](https://github.com/eudk/awesome-ai-tools/pull/210) | Added Suede to the AI music-generation tools directory. |
+| May 4, 2026 | aliammari1/awesome-ai-tools | [#60](https://github.com/aliammari1/awesome-ai-tools/pull/60) | Added Suede to the AI music and song-generators directory. |
+| Apr 29, 2026 | pingan8787/awesome-ai-tools | [#103](https://github.com/pingan8787/awesome-ai-tools/pull/103) | Added Suede to the music and lyrics tools directory. |
+
+</details>
+
+### His own open-source projects
+
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) ([skills.suedeai.ai](https://skills.suedeai.ai)): open-source agent skills for Claude Code and Codex, installable as a plugin marketplace. Most of the accepted listings above are this pack.
+- [claimcheck](https://github.com/JasonColapietro/claimcheck): turns the promises on a privacy page into tests that fail the build. Zero dependencies.
+- [Suede Python SDK](https://github.com/Suede-AI/suede-sdk-python): a client for Suede's x402 pay-per-call endpoints.
+- [elizaOS plugin](https://github.com/JasonColapietro/elizaos-plugin-suede): lets elizaOS agents pay for media generation over x402, published to npm as [@suedeai/plugin-suede](https://www.npmjs.com/package/@suedeai/plugin-suede).
+- [WebMCP storefront](https://github.com/JasonColapietro/suede-webmcp-challenge): his entry to OpenAI's WebMCP Challenge in September 2026, page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. MIT licensed, running at [webmcp.suedeai.ai/agents](https://webmcp.suedeai.ai/agents).
+- [The Screenshot, source edition](https://github.com/JasonColapietro/suede-geo-book): the SEO and GEO field guide as chapters, PDF and EPUB.
+
+## Books
+
+Five on Amazon Kindle, the two engineering books first. All five are on his [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
+
+| Book | What it covers |
 |---|---|
-| [Suede AI](https://suedeai.ai) | The product front door. Creator ownership infrastructure for registering work and likeness, documenting provenance, and coordinating artist records. |
-| [Suede Studio](https://studio.suedeai.ai) · [Suede Distro](https://distro.suedeai.ai) | AI music generation with the master retained by the creator; release finished work to 100+ streaming services. |
-| [Suede IP Registry](https://registry.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, file fingerprints, and dated records on Base and Avalanche. It shows that a file existed in a given form, claimed by a given wallet, on a given date — evidence, not legal title. |
-| [Artist Coordination](https://ip.suedeai.ai) | Suede's music IP site: artist profiles, release destinations, approvals, and correction cases in one auditable record, with an [interactive demo](https://ip.suedeai.ai/artist-coordination/demo). |
-| [Suede AI Agent Studio](https://agents.suedeai.ai) · [Agentix](https://agentix.suedeai.ai) | Build agents visually and ship them as paid per-call services over x402; track what they earn. The [WebMCP storefront](https://webmcp.suedeai.ai/agents) sells the same services to agents running inside the browser. |
-| [Suede Scan](https://scan.suedeai.ai) · [Suede Lens](https://suedeai.ai/lens) | Scan shows what AI search engines say about a business, with screenshots, then repairs the site. Lens is the Chrome extension that audits rights, provenance, JSON-LD, SEO, and AEO signals on any page. |
-| [Strumly](https://strumly.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) · [FretPulse](https://fretpulse.suedeai.ai) | Musician tools: a 24/7 guitar coach, a creative training companion, and a guitar-care app. |
-| [Suede Sing](https://sing.suedeai.ai) | The vocal studio in your browser: range test, register detection, pitch training, and measured warm-ups. Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing. |
-| [Suede Social](https://social.suedeai.ai) · [Suede DNA](https://dna.suedeai.ai) | Creator community and gear magazine, plus an archive of 400+ guitarists' rigs and signal chains. |
-| [GuitarHub](https://guitarhub.org) · [guitar.solutions](https://guitar.solutions) · [guitarchords.info](https://guitarchords.info) | Free guitar lessons on the web and on iOS, an engineering-grade signal-chain reference from pickup to speaker, and free chord, scale, tuner, and metronome tools. |
-| [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) | A children's reading app with original storybooks, printable study guides, and a grown-up gate on every purchase. |
-| [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | 76 open-source agent skills for Claude Code and Codex, covering rights, provenance, releases, evaluation, design, engineering, and go-to-market work. |
+| [The Claude Code Bible](https://www.amazon.com/dp/B0HHTMJWB4) | The complete operator's guide to Claude Code and AI coding agents. |
+| [Codex in Production](https://www.amazon.com/dp/B0HHTF3LG1) | A practical operator's guide to OpenAI Codex, AGENTS.md, worktrees, skills, security, and long-running agent work. |
+| [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) | Designing durable systems without trust assumptions. |
+| [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) | Turning the AI onslaught into a real asset. |
+| [The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) | How ownership, origin, and AI redraw the creative map. |
+
+Published direct: [The Screenshot](https://seo.suedeai.ai/book), a free SEO and GEO field guide, and [The Signal Chain](https://guitar.solutions), an illustrated history of guitar tone.
+
+Writing: [Substack](https://jasoncolapietro.substack.com), including *Fender Is Trying to Kill John Mayer's Guitar. AI Companies Are Next.*
 
 ## Apps
 
-Nine on the App Store, six on Google Play, two on the Chrome Web Store. Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) is the canonical list.
+9 iOS apps, 6 Android apps and 2 Chrome extensions, all shipped under his own developer accounts. They are counted as platform listings, so the Android editions overlap the iOS ones: nine on the App Store, six on Google Play, two on the Chrome Web Store. Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) is the canonical list.
 
 | App | Platform | First released |
 |---|---|---|
@@ -106,17 +173,35 @@ Nine on the App Store, six on Google Play, two on the Chrome Web Store. Apple's 
 | [Suede Sing: Vocal Coach, Pitch Trainer & Vocal Range Test](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd) | Chrome | 2026 |
 | [Suede AI Visibility — SEO & AEO Audit](https://chromewebstore.google.com/detail/hekigfiohpacglhcaiidnbphejpihaki) | Chrome | 2026 |
 
-## Books
+## Programs
 
-Five on Amazon: [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) · [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) · [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) · [The Claude Code Bible](https://www.amazon.com/dp/B0HHTMJWB4) · [Codex in Production](https://www.amazon.com/dp/B0HHTF3LG1)
+- **Claude for Startups**, Anthropic's startup program: Suede AI has been a member since October 8, 2026. [Receipt](https://seo.suedeai.ai/evidence#claude-for-startups).
+- **Google Cloud Partner Advantage**: member since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. The partnership with Google Cloud dates from September 2025. [Receipts](https://seo.suedeai.ai/evidence#google-cloud).
+- **Stripe Startups**: admitted in July 2026.
+- **Florida Atlantic Entrepreneurship Institute**, FAU College of Business: accepted in July 2026.
+- **1909**, the West Palm Beach entrepreneurship hub: member.
+- **Five provisional patent applications** on file with the USPTO, patent pending (provisional): 63/946,189, 63/946,192, 63/946,212, 63/946,217, and 63/947,120. [Record](https://seo.suedeai.ai/evidence#credentials).
 
-Published independently: [The Signal Chain](https://guitar.solutions) · [The Screenshot](https://seo.suedeai.ai/book). The earlier [The Guitar Without a Number](https://strumly.suedeai.ai/book/catalog) is now incorporated into The Signal Chain.
+## Suede AI
 
-Owned corpus: [Substack](https://jasoncolapietro.substack.com), including *Fender Is Trying to Kill John Mayer's Guitar. AI Companies Are Next.* · YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede) · [@aisuede](https://www.youtube.com/@aisuede)
+Suede AI is an agentic platform company founded in 2024 by engineer Jason Colapietro in West Palm Beach, Florida. It builds and runs AI agent platforms that businesses use to manage their work, and white-labels them for agencies and their clients.
+
+What Suede AI does, in order:
+
+1. **Agent platforms for your business.** [Suede AI Agent Studio](https://agents.suedeai.ai): build agents for the work that repeats, watch every run, and publish an agent as a paid endpoint.
+2. **White-label agent platforms.** Suede builds and runs an agent platform under an agency's brand, for that agency's clients. Scoped per engagement. [suedeai.ai/white-label](https://suedeai.ai/white-label)
+3. **Managed AI agents and AI operations.** Suede builds, runs and tunes agents for a business, with every run visible in Agent Studio. [Managed AI agents](https://suedeai.ai/managed-ai-agents) · [AI operations](https://suedeai.ai/ai-operations)
+4. **Forward-deployed engineering and fractional Chief AI Officer**, led by Jason himself. [Forward-deployed engineer](https://suedeai.ai/forward-deployed-engineer) · [Fractional Chief AI Officer](https://suedeai.ai/fractional-chief-ai-officer)
+5. **AI search visibility.** Suede AI SEO, the GEO, AEO and SEO practice, at [seo.suedeai.ai](https://seo.suedeai.ai).
+6. **Music and creator software**, a separate product line. [suedeai.ai/music](https://suedeai.ai/music), and [below](#music-and-creator-software).
+
+Suede AI is also known as Suede Labs AI. Company links: [suedeai.ai](https://suedeai.ai) · [suedeai.org](https://suedeai.org), Suede AI's research and investor site · [GitHub](https://github.com/Suede-AI) · [X @AISUEDE](https://x.com/AISUEDE) · [LinkedIn company page](https://www.linkedin.com/company/suede-labs) · [YouTube: Suede AI](https://www.youtube.com/@aisuede) · [Instagram @suedeai](https://www.instagram.com/suedeai) · [Crunchbase](https://www.crunchbase.com/organization/suede-labs-ai) · [press kit](https://suedeai.ai/press)
+
+Suede AI's official sites are suedeai.ai, suedeai.org and their subdomains. It was founded in 2024 by Jason Colapietro.
 
 ## Press
 
-Announcements, contributed articles and mentions of Jason Colapietro and Suede AI, newest first: thirteen items across seven outlets. The Markets Insider item is a FinanceWire press release, MSN carries a company-supplied story, and the Programming Insider and Indie Hackers items are Jason's own essay.
+Announcements, contributed articles and mentions of Jason Colapietro and Suede AI, newest first. The Markets Insider item is a FinanceWire press release, MSN carries a company-supplied story, and the Programming Insider and Indie Hackers items are Jason's own essay.
 
 - **September 21, 2026** · Gigawatt Group · [Suede AI vs. Profound for Trade Associations](https://gigawattgroup.com/generative-engine-optimization/suede-ai-vs-profound-trade-associations/)
 - **September 20, 2026** · MSN · [Suede AI opens SEO cohort with optional AI integration and live agent workflows](https://www.msn.com/en-xl/news/other/suede-ai-opens-seo-cohort-with-optional-ai-integration-and-live-agent-workflows/ar-AA2cBTep)
@@ -132,192 +217,41 @@ Announcements, contributed articles and mentions of Jason Colapietro and Suede A
 - **Jan 7, 2026** · TechBullion · [Suede Labs Brings AI-Powered Creative Tools to Students: The Quiet Revolution in Africa's Classrooms](https://techbullion.com/suede-labs-brings-ai-powered-creative-tools-to-students-the-quiet-revolution-in-africas-classrooms/), syndicated by MEXC News
 - **Dec 15, 2025** · TechBullion · [Suede Labs Launches a Comprehensive On-Chain IP Authentication System](https://techbullion.com/suede-labs-launches-a-comprehensive-on-chain-ip-authentication-system/)
 
-Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai.ai/press).
+Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai.ai/press). Press contact: [press@suedeai.ai](mailto:press@suedeai.ai).
 
-## Programs and recognition
+## Records
 
-- **Google Cloud partnership**, since September 2025. Google Cloud's account team first reached out on August 5, 2025, opened the account relationship on a call on September 25, 2025, assigned a dedicated account manager and a Google Premier Partner, ran a technical call with a Google Cloud customer engineer on October 16, 2025, and on October 10, 2025 put a co-marketing plan for Vertex AI, Gemini, and Veo in writing. Eleven dated captures of that correspondence are published at [seo.suedeai.ai/evidence#google-cloud](https://seo.suedeai.ai/evidence#google-cloud).
-- **Google Cloud Partner Advantage**, member since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. Declared on the [JC Investment Group press page](https://jcinvestmentgroup.ventures/press); the acceptance and account-verification emails are captured at [seo.suedeai.ai/evidence#google-cloud](https://seo.suedeai.ai/evidence#google-cloud).
-- **Stripe Startups**, accepted July 31, 2026.
-- **Florida Atlantic Entrepreneurship Institute**, FAU College of Business, accepted July 17, 2026. FAU's entrepreneurship research ranks [No. 8 globally](https://business.fau.edu/newsroom/press-releases/2025/tcu-entrepreneurship-rankings-college-business-research.php) in the TCU productivity rankings for 2020 to 2024.
-- **1909**, member of the [West Palm Beach entrepreneurship hub](https://www.weare1909.org) since July 2026.
-- **OpenAI WebMCP Challenge**, August 25 to September 3, 2026: entered with [Suede AI Agent Studio's browser-native storefront](https://github.com/JasonColapietro/suede-webmcp-challenge), four page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. Source published under MIT.
-- **Google's Web Guide**, captured September 6, 2026: asked to review Suede AI, the AI-organized results layer inside Google Search opens by calling the company "highly rated by users, earning a 5/5 rating from verified reviews," citing two App Store listings. [The capture](https://seo.suedeai.ai/evidence#google-web-guide).
-- **Gemini**, captured February 17, 2026: asked for the top AI music generation platforms of 2026, Google's own model returns a "New Big 3" and puts Suede in it, beside Suno and Udio, calling it "The Creator's IP Fortress." [The capture](https://seo.suedeai.ai/evidence#gemini-big3).
-- **Ranked #1 Best AI Music Generator of 2026**, captured November 26, 2025: an independent top-nine review places Suede first at 5.0 of 5.0, ahead of Suno, Udio, SOUNDRAW, Beatoven and AIVA, scored on music quality, creative control and ease of use. [The receipt](https://seo.suedeai.ai/evidence#ranked-1).
-- **AI Agents Directory:** the archived music-category page names Suede AI Best Overall and Best API Option among 47 tools, with a 5.0-star listing. [Archived record](https://seo.suedeai.ai/evidence#directory) · [live category](https://aiagentsdirectory.com/category/music).
-- **Five provisional patent applications (patent pending)** on file with the USPTO: 63/946,189, 63/946,192, 63/946,212, 63/946,217, and 63/947,120, all with filing receipts issued in January 2026.
+Records someone else hosts:
 
-## Verify the work
+- [Wikidata Q140235755](https://www.wikidata.org/wiki/Q140235755), the person item.
+- [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e), the person profile.
+- [Apple developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699), every iOS app shipped under his name, with current versions and release dates.
+- [Merged upstream pull requests](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests), GitHub's own search.
 
-- [My apps on the App Store](https://apps.apple.com/us/developer/jason-colapietro/id1895958699): Apple-hosted and not written by me, which is the scarce kind of proof. Every iOS app shipped under my name, with its current version and release date.
-- [Google Play](https://play.google.com/store/apps/details?id=ai.suedeai.suedevoice) and the [Chrome Web Store](https://chromewebstore.google.com/detail/suede-sing-vocal-coach-pi/dbimnmcokgmibdenmonoafhmdbjhpicd): the same apps on Google's records.
-- [Merged upstream pull requests](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests): GitHub's own search, scoped to repositories I don't own.
-- [suedeai.org](https://suedeai.org): the company and thesis site — ownership, provenance, books, and company material.
-- [Press kit and verified facts](https://suedeai.ai/press): the journalist-facing record.
-- [The receipts page](https://seo.suedeai.ai/evidence): dated captures behind the Google Cloud partnership, the press placements, the open-source record, and the AI search surfaces quoted above.
-- [Public IP registry](https://registry.suedeai.ai): wallet-signed creator claims, file fingerprints, contributor records, and public timestamps; evidence, not legal title.
-- [Artist Coordination](https://ip.suedeai.ai): the music IP site, with artist profiles, release destinations, approvals, and correction cases in one auditable record.
-- [x402 manifest](https://app.suedeai.ai/.well-known/x402.json): currently advertised paid API resources in a machine-readable catalog.
-- [A2A (agent-to-agent) agent card](https://app.suedeai.ai/.well-known/agent-card.json): public agent identity, capabilities, and discovery metadata.
-- [Wikidata Q140235755](https://www.wikidata.org/wiki/Q140235755) · [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e) · [PitchBook](https://pitchbook.com/profiles/company/937217-71): third-party identity records.
-
-## Open source
-
-Most of it is [Suede Creator Skills](https://skills.suedeai.ai): 76 agent skills for Claude Code and Codex, installable as a plugin marketplace. Alongside it: the [Suede Python SDK](https://github.com/Suede-AI/suede-sdk-python) for the x402 media endpoints, the [elizaOS plugin](https://github.com/JasonColapietro/elizaos-plugin-suede) that lets agents pay for music, video, and image generation over x402, [claimcheck](https://github.com/JasonColapietro/claimcheck), which turns the promises on a privacy page into tests that fail the build, the [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker), a self-hosted Solana market maker dashboard, and the [WebMCP storefront](https://github.com/JasonColapietro/suede-webmcp-challenge) source.
-
-Beyond my own repos, I send fixes upstream when something bites me mid-build. Fifty-four pull requests have merged across 46 repositories I don't maintain, as of October 9, 2026: [connection capacity released after a failed RPC registration](https://github.com/paritytech/polkadot-sdk/pull/12853) in Parity's Polkadot SDK, [MCP provider guidance](https://github.com/solana-foundation/pay/pull/451) and [Pay Kit protocol docs](https://github.com/solana-foundation/pay-kit/pull/299) in Solana Pay, a [bounded IPC frame length](https://github.com/elizaOS/eliza/pull/25122) in elizaOS's Discord plugin, [local socket ownership](https://github.com/zeroclaw-labs/zeroclaw/pull/9846) in the zeroclaw runtime, a [focus-indicator hook](https://github.com/adobe/react-spectrum/pull/10426) in Adobe's React Spectrum, a [Windows watcher crash](https://github.com/jestjs/jest/pull/16295) and [virtual mock cache-isolation bug](https://github.com/jestjs/jest/pull/16296) in Jest, a [catalog graph fix](https://github.com/backstage/backstage/pull/35102) in Backstage, a [dead Holesky chain descriptor](https://github.com/NomicFoundation/hardhat/pull/8522) removed from Hardhat, a [missing-requirements crash](https://github.com/x402-foundation/x402/pull/3180) in the x402 TypeScript client, the [TSDB storage comparison](https://github.com/prometheus/docs/pull/3053) in the Prometheus docs, an [MCP release QA skill](https://github.com/github/awesome-copilot/pull/2562) in GitHub's awesome-copilot, [honest errors for unsupported model architectures](https://github.com/OpenSauce/nam-rs/pull/50) in nam-rs, a [LegacyDec JSON argument encoding fix](https://github.com/cosmos/cosmos-sdk/pull/26735) in the Cosmos SDK, and [Butane config validation for the docs](https://github.com/coreos/ignition/pull/2303) in CoreOS Ignition. Thirty-three of the 54 are substantive fixes, features, tests, and docs; the other twenty-one are accepted listings of Suede's own projects on third-party lists. Outside GitHub, a Linux kernel USB/IP patch series is public upstream at v7 on the kernel's mailing lists; it is recorded separately at [seo.suedeai.ai/evidence#open-source](https://seo.suedeai.ai/evidence#open-source) and is not in the count above. [Check all 54 merged pull requests on GitHub](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests).
-
-### Skills directories the pack was accepted into
-
-[Suede Creator Skills](https://skills.suedeai.ai) has been reviewed and merged into fifteen independent skill and plugin catalogs that I do not maintain. Every row links to the merged pull request.
-
-| Directory | Merged |
-|---|---|
-| [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills) | [#49](https://github.com/gmh5225/awesome-skills/pull/49) · Aug 4, 2026 |
-| [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | [#180](https://github.com/karanb192/awesome-claude-skills/pull/180) · Aug 5, 2026 |
-| [GetBindu/awesome-claude-code-and-skills](https://github.com/GetBindu/awesome-claude-code-and-skills) | [#138](https://github.com/GetBindu/awesome-claude-code-and-skills/pull/138) · Aug 6, 2026 |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | [#833](https://github.com/VoltAgent/awesome-agent-skills/pull/833) · Aug 7, 2026 |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) *(GitHub's own list)* | [#2562](https://github.com/github/awesome-copilot/pull/2562) · Aug 7, 2026 |
-| [junminhong/awesome-agent-skills](https://github.com/junminhong/awesome-agent-skills) | [#29](https://github.com/junminhong/awesome-agent-skills/pull/29) · Aug 9, 2026 |
-| [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | [#273](https://github.com/ccplugins/awesome-claude-code-plugins/pull/273) · Aug 12, 2026 |
-| [zients/awesome-agent-harness](https://github.com/zients/awesome-agent-harness) | [#7](https://github.com/zients/awesome-agent-harness/pull/7) · Aug 13, 2026 |
-| [0xNyk/awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | [#57](https://github.com/0xNyk/awesome-agent-cortex/pull/57) · Aug 15, 2026 |
-| [JackyST0/awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills) | [#71](https://github.com/JackyST0/awesome-agent-skills/pull/71) · Aug 18, 2026 |
-| [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) | [#148](https://github.com/hashgraph-online/awesome-ai-plugins/pull/148) · Aug 26, 2026 |
-| [yzfly/awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh) | [#14](https://github.com/yzfly/awesome-skills-zh/pull/14) · Aug 30, 2026 |
-| [ichangyou/awesome-codex](https://github.com/ichangyou/awesome-codex) | [#2](https://github.com/ichangyou/awesome-codex/pull/2) · Aug 31, 2026 |
-| [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | [#305](https://github.com/davepoon/buildwithclaude/pull/305) · Sep 3, 2026 |
-| [ichangyou/awesome-claude-code](https://github.com/ichangyou/awesome-claude-code) | [#9](https://github.com/ichangyou/awesome-claude-code/pull/9) · Sep 7, 2026 |
-
-Two more third-party lists carry Suede projects rather than the skills pack: [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402/pull/518) lists Suede AI Agent Studio, and the [elizaOS plugin registry](https://github.com/elizaOS/eliza/pull/19210) carries `@suedeai/plugin-suede`. A separate skills pack, [ios-app-dev-skills](https://github.com/JasonColapietro/ios-app-dev-skills), was accepted into [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins/pull/273).
+Dated receipts for the programs and the open-source record are at [seo.suedeai.ai/evidence](https://seo.suedeai.ai/evidence).
 
 ## Reference
 
 Structured reference pages kept in this repository, for people and for agents reading the raw files.
 
 - [Public identity, roles, and evidence](docs/Jason%20Colapietro.md) — canonical name, creative alias, roles, and third-party records.
-- [Suede AI platform reference](docs/Suede%20Labs%20AI.md) — what the platform does, its public surfaces, and its agent interfaces.
+- [Suede AI reference](docs/Suede%20Labs%20AI.md) — what the company does, its public surfaces, and its agent interfaces.
 - [Canonical public links and feeds](docs/Public%20Links.md) — one link index for Jason Colapietro and Suede AI.
 - [Ecosystem directory pointers](docs/Suede%20Universe%20Websites%20and%20Apps.md) — a compatibility page routing to the live directories that hold current products, paths, and prices.
 
-## Changelog
-
-What shipped, newest first. Product entries link to the live surface; open-source entries link to the merged pull request or release.
-
-<details>
-<summary>Show the full changelog</summary>
-
-### September 2026
-
-- **Sep 30** · [html-to-docx](https://github.com/TurboDocx/html-to-docx/pull/229) stopped silently dropping a `<table>` nested inside a list item; it now renders the same as a top-level table.
-- **Sep 24** · The [XRPL JavaScript library](https://github.com/XRPLF/xrpl.js/pull/3430) stopped autofilling VaultCreate with the two-XRP special fee; it now uses the network base fee.
-- **Sep 23** · [CoreOS Ignition](https://github.com/coreos/ignition/pull/2301) now drops the caller's supplementary groups when it switches to a target user, so a directory reachable only through one of root's groups stays out of reach.
-- **Sep 22** · [CoreOS Ignition](https://github.com/coreos/ignition/pull/2302) added file append and overwrite examples to the Butane docs.
-- **Sep 21** · [CoreOS Ignition](https://github.com/coreos/ignition/pull/2326) dropped the old shell-loop Butane docs check that the Sep 16 validator made redundant, so the docs checks no longer need a built binary.
-- **Sep 16** · The SEO, AEO and GEO cohort was announced in a [FinanceWire press release syndicated on Markets Insider](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662). The same day, [CoreOS Ignition](https://github.com/coreos/ignition/pull/2303) merged Butane config validation for its docs.
-- **Sep 14** · [GuitarHub: Guitar Lessons](https://apps.apple.com/us/app/guitarhub-guitar-lessons/id6806770875) launched on the App Store, the ninth iOS app, as the native companion to [guitarhub.org](https://guitarhub.org).
-- **Sep 13** · TechBullion: [Suede Opens Its Widely Anticipated SEO and AI Cohort](https://techbullion.com/suede-opens-its-widely-anticipated-seo-and-ai-cohort/).
-- **Sep 13** · The Google Cloud partnership record went onto the public receipts page at [seo.suedeai.ai/evidence](https://seo.suedeai.ai/evidence#google-cloud): eleven dated captures of the account-team correspondence, from Google Cloud's first outreach on August 5, 2025 to the Partner Advantage acceptance on September 4, 2026.
-- **Sep 9** · [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/pull/26735) merged a LegacyDec JSON argument encoding fix in its client/v2 package.
-- **Sep 7** · [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) accepted into [awesome-claude-code](https://github.com/ichangyou/awesome-claude-code/pull/9), the fifteenth skills directory.
-- **Sep 5** · [Agent Studio](https://agents.suedeai.ai) relaunched its homepage around a 13-seat company org chart: pick a role, see its workflow, inspect a real template before the builder hands off. The managed-agent service links straight to the [managed-agent service](https://seo.suedeai.ai/managed-ai-agents).
-- **Sep 5** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) finished printable study guides for all 43 books on its shelf and published its first two Spanish-language originals, *La olla que no se deja sola* and *La ficha que viaja*. Seven original storybooks joined the Reading Nook between Aug 29 and Sep 5.
-- **Sep 4** · [Suede Voice 1.6](https://apps.apple.com/us/app/suede-voice-vocal-range-test/id6767763231) for iOS: a measured warm-up catalogue, fixed routines, and a daily free allowance. The same day, the ink-and-gold icon shipped across iOS, Android, [sing.suedeai.ai](https://sing.suedeai.ai), and the Chrome extension.
-- **Sep 4** · [Suede Lens](https://suedeai.ai/lens) launched on suedeai.ai: a Chrome extension that audits creator rights, provenance, JSON-LD, SEO, and AEO signals on any page and exports a private, portable Page Passport.
-- **Sep 4** · Google Cloud Partner Advantage accepted JC Investment Group LLC as a member, with suedeai.ai as the verified domain. Declared as structured data on the [JC Investment Group press page](https://jcinvestmentgroup.ventures/press).
-- **Sep 4** · [Polkadot SDK](https://github.com/paritytech/polkadot-sdk/pull/12853) merged a fix to its RPC server: connection capacity is released when a registration fails, instead of leaking until restart.
-- **Sep 4** · [Suede Social](https://social.suedeai.ai) built the notification emails its settings page had been promising, with RFC 8058 one-click unsubscribe on every one, and fixed the participation funnel on mobile: sign-in, first run, and a feed that is never empty. The [Suede Map press kit](https://map.suedeai.ai) went live the same day.
-- **Sep 3** · [Suede Voice 1.1.1](https://play.google.com/store/apps/details?id=ai.suedeai.suedevoice) for Android on Google Play: ambient noise no longer registers as singing, and the low-passaggio diagnostic has a baseline it can fire on.
-- **Sep 3** · [AI Music & Video Generator 1.1.3](https://apps.apple.com/us/app/suede-ai-generator/id6765461286) for iOS: the warm editorial redesign of the music and video experience, on an asynchronous generation contract end to end, polling a vendor-neutral video-jobs path.
-- **Sep 3** · [Agent Studio](https://agents.suedeai.ai) owns its own login. [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) was accepted into [buildwithclaude](https://github.com/davepoon/buildwithclaude/pull/305).
-- **Sep 1** · [Solana Pay](https://github.com/solana-foundation/pay/pull/451) aligned its MCP provider guidance with the catalog format, and [Pay Kit](https://github.com/solana-foundation/pay-kit/pull/299) modernized its skill's protocol references. Both merged the same day.
-- **Sep 1** · The verified open-source contribution record went onto the footer of every Suede surface, from [sing.suedeai.ai](https://sing.suedeai.ai) to [strumly.suedeai.ai](https://strumly.suedeai.ai), with the same count and the same proof link everywhere.
-- **Sep 1** · [GuitarHub](https://github.com/JasonColapietro/suede-guitar-hub) published the *Print the Quiet* guitar tone field guides, a day after its NAM A2 open-tone editorial, on a site built out to 20 indexable routes with tools, guides, and share cards.
-
-### August 2026
-
-- **Aug 31** · [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) accepted into [awesome-codex](https://github.com/ichangyou/awesome-codex/pull/2), a day after [awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh/pull/14).
-- **Aug 30** · [claimcheck](https://github.com/JasonColapietro/claimcheck) released: turn the promises on your privacy page into tests that fail the build. Zero dependencies.
-- **Aug 30** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) gave every storybook its own page, shipped iPad screenshots, and put the in-app rating prompt behind the grown-up check.
-- **Aug 29** · [Suede Python SDK v0.4.0](https://github.com/Suede-AI/suede-sdk-python/releases/tag/v0.4.0): the x402 v2 client.
-- **Aug 29** · [Agent Studio's integrations page](https://agents.suedeai.ai/integrations) recorded AP2 as live once the merchant rail began advertising it, and added AgentCash to the provider card. Two days earlier it shipped a protocol provider registry with an `/integrations` page and an `/api/providers` feed.
-- **Aug 29** · Session media generation went on sale to in-browser agents over WebMCP, the core of the [WebMCP Challenge entry](https://github.com/JasonColapietro/suede-webmcp-challenge) at the [WebMCP storefront](https://webmcp.suedeai.ai/agents): find a service, read its price and contract, dry-run it for free, then buy it with prepaid credit.
-- **Aug 28** · [The Screenshot](https://github.com/JasonColapietro/suede-geo-book/releases/tag/v1.0.0) published as a public source edition: the SEO and GEO field guide as chapters, PDF, EPUB, and a designed reading edition, with the [reading edition on seo.suedeai.ai](https://seo.suedeai.ai/book).
-- **Aug 26** · The [Prometheus docs](https://github.com/prometheus/docs/pull/3053) updated their TSDB storage comparison. [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) accepted into [awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins/pull/148).
-- **Aug 23** · [elizaOS](https://github.com/elizaOS/eliza/pull/25122) merged a bound on the Discord plugin's local IPC frame payload length.
-- **Aug 18** · [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) accepted into [awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills/pull/71).
-- **Aug 17** · Two merges the same day: Hardhat dropped its [shipped Holesky chain descriptor](https://github.com/NomicFoundation/hardhat/pull/8522), dead config pointing at explorers that stopped resolving when the Ethereum Foundation shut the testnet down; and the [x402 TypeScript client](https://github.com/x402-foundation/x402/pull/3180) stopped throwing a runtime `TypeError` when a 402 response arrives with no accepted payment requirements.
-- **Aug 15** · [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) accepted into [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex/pull/57).
-- **Aug 14** · Nautobot's Celery worker guide [corrected to the supported `--queues` flag](https://github.com/nautobot/nautobot/pull/9359).
-- **Aug 13** · A [socket-ownership fix](https://github.com/zeroclaw-labs/zeroclaw/pull/9846) merged into the zeroclaw runtime: a second daemon started on the same config could unlink and replace the first one's Unix socket, and bind failures were retried forever instead of failing startup. Same day, [@suedeai/plugin-suede landed in the elizaOS plugin registry](https://github.com/elizaOS/eliza/pull/19210), and the skills pack was accepted into [awesome-agent-harness](https://github.com/zients/awesome-agent-harness/pull/7).
-- **Aug 12** · [useShowFocusIndicator](https://github.com/adobe/react-spectrum/pull/10426) merged into Adobe's React Spectrum, giving React Aria consumers a supported way to switch interaction modality to keyboard and show the focus indicator after a pointer interaction. The [iOS app dev skills](https://github.com/JasonColapietro/ios-app-dev-skills) were accepted into [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins/pull/273).
-- **Aug 11** · [doc-bridge](https://github.com/AgentsKit-io/doc-bridge/pull/73) GitHub Action examples corrected to v1.3.0 across its docs.
-- **Aug 9** · A safe first-contribution guide with validation and security-reporting boundaries merged into [MyVault](https://github.com/johnnymeunome/MyVault/pull/26). [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) accepted into [junminhong/awesome-agent-skills](https://github.com/junminhong/awesome-agent-skills/pull/29).
-- **Aug 8** · Two fixes merged into Jest: a [transient watcher crash on Windows](https://github.com/jestjs/jest/pull/16295), and [virtual mock IDs leaking between module registries](https://github.com/jestjs/jest/pull/16296).
-- **Aug 8** · [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker): rebuilt the dashboard as a proper control desk, on documented tokens instead of ad-hoc styling. Still free, still courtesy of Suede AI.
-- **Aug 7** · MCP release QA skill merged into GitHub's [awesome-copilot](https://github.com/github/awesome-copilot/pull/2562). [xupersplit](https://github.com/kanylbullen/xupersplit/pull/86) stopped breaking on apostrophes in its legal pages. The skills pack was accepted into [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills/pull/833).
-- **Aug 6** · Suede Creator Skills moved to its own home at [skills.suedeai.ai](https://skills.suedeai.ai). [backcheck](https://github.com/VectorInstitute/backcheck/pull/12) gained a shellcheck runner. Accepted into [awesome-claude-code-and-skills](https://github.com/GetBindu/awesome-claude-code-and-skills/pull/138).
-- **Aug 5** · Catalog graph page configuration fix merged into [Backstage](https://github.com/backstage/backstage/pull/35102). [nam-rs](https://github.com/OpenSauce/nam-rs/pull/50) reports unsupported model architectures instead of failing silently, [Ledger_c](https://github.com/Din-es/Ledger_c/pull/12) gained an `unbind` command, and [copilot-money-mcp](https://github.com/ignaciohermosillacornejo/copilot-money-mcp/pull/616) covers soft-deleted transaction reads. Accepted into [awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills/pull/180).
-- **Aug 4** · [Suede Creator Skills v0.10.0](https://github.com/JasonColapietro/suede-creator-skills/releases/tag/v0.10.0) released with 69 skills. Suede Voice and the Suede Guitar Tuner prepped for Google Play, and the Android sign-in dead end in Suede Social fixed. Five upstream merges the same day: a [bounded readiness poll](https://github.com/pbarone/uptime-kuma-api2/pull/20) in uptime-kuma-api2, a [version flag](https://github.com/thousandflowers/skillreaper/pull/19) in skillreaper, [line-range output](https://github.com/Din-es/Ledger_c/pull/11) in Ledger_c's `why` command, [OIDC near-match tests](https://github.com/jakegold1647/sam-doctor/pull/6) in sam-doctor, and [refreshed the AI-writing guidance](https://github.com/conorbronsdon/avoid-ai-writing/pull/106) in avoid-ai-writing. Accepted into [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills/pull/49).
-- **Aug 3** · [Suede Creator Skills v0.9.2](https://github.com/JasonColapietro/suede-creator-skills/releases/tag/v0.9.2) with 67 skills. Strumly's `/path` became a leveled free course, and the complete edition of [The Signal Chain](https://guitar.solutions) went on sale.
-- **Aug 1** · [StoryBeam Kids 1.2](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) on the App Store.
-
-### July 2026
-
-- **Jul 31** · Accepted into the Stripe Startups program.
-- **Jul 26** · [Agent Studio](https://agents.suedeai.ai) can turn any website into a launchable, priced agent, and the landing page now opens with it.
-- **Jul 25** · Suede Full Send 0.7.0 shipped in [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills).
-- **Jul 24** · Org-chart-first onboarding for new Agent Studio users on `/company`, with plain-English schedules and price validation at publish time.
-- **Jul 21** · [Suede Social 1.1.0](https://apps.apple.com/us/app/suede-social-guitar-forum/id6770668793) on the App Store.
-- **Jul 19** · Agent Studio, Suede Voice, and Suede Studio Guitar prepared for Google Play production. The skills pack added android-app-factory and suede-recommend-next-action, and shipped a blog.
-- **Jul 18** · Agent Studio shipped autonomous company v1.
-- **Jul 17** · Accepted into the Florida Atlantic Entrepreneurship Institute at FAU's College of Business. Joined 1909 the following week.
-- **Jul 16** · [Suede Scan](https://scan.suedeai.ai) began producing evidence-first audit reports: screenshots of what AI search engines say, then the fixes.
-- **Jul 14** · Strumly wired a real $5.99 a week Stripe price for the tools paywall, two days after making the practice tools free to match every public promise.
-- **Jul 12** · [Suede Sing](https://sing.suedeai.ai), the vocal studio in the browser, shipped. [Suede Guitar Tuner & Studio 1.1.8](https://apps.apple.com/us/app/suede-guitar-tuner-studio/id6767552764) on the App Store.
-- **Jul 9** · [Suede Python SDK v0.3.1](https://github.com/Suede-AI/suede-sdk-python/releases/tag/v0.3.1): full 20-endpoint docs and a per-request payment header fix.
-- **Jul 7** · [StoryBeam Kids](https://apps.apple.com/us/app/storybeam-kids-bedtime-books/id6785347610) launched on the App Store, the eighth iOS app.
-- **Jul 6** · Programming Insider ran [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/), three days after [Indie Hackers](https://www.indiehackers.com/post/in-the-age-of-infinite-content-spam-is-instant-death-4ca5Qi4vTHZ8aB3muBVK).
-- **Jul 4** · The [founder page](https://suedeai.ai/founder) redesigned as an editorial registry-ledger profile. [distro.suedeai.ai](https://distro.suedeai.ai) rebuilt as a sales page. Muse takes began flowing into the Suede Social feed.
-- **Jul 3** · New screenshots and store-listing optimization for the vocal studio, and the site rebrand completed. [suedeai.ai](https://suedeai.ai) shipped pillar pages for proof of creation and programmable IP with full schema. [Suede Muse](https://muse.suedeai.ai) launched The House Deck, a nightly card ritual.
-- **Jul 2** · TechBullion: [Suede Labs AI Opens IP Visibility Audit for Brands, Creators, and Founder-Led Companies](https://techbullion.com/suede-labs-ai-opens-ip-visibility-audit-for-brands-creators-and-founder-led-companies/).
-
-### June 2026
-
-- **Jun 30** · [Agent Studio](https://agents.suedeai.ai) shipped a `/portfolio` earnings dashboard on real settlement data and rebalanced its templates toward high-demand x402 workflows. [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) repositioned as a general-purpose agent-skills pack with one-command plugin install.
-- **Jun 21** · Suede AI Agent Studio [accepted into the x402 ecosystem's awesome list](https://github.com/xpaysh/awesome-x402/pull/518): visual x402 agent flows, USDC on Base.
-- **Jun 20** · Suede Social's iOS app cleared App Store 1.2 compliance: Report Content, Block User, and blocked users filtered from every feed.
-- **Jun 17** · [Agentix](https://apps.apple.com/us/app/agentix-ai-agent-tracker/id6778286160) and [Suede Agent Studio](https://apps.apple.com/us/app/suede-agent-studio/id6778880737) launched on the App Store the same day. [Suede Python SDK v0.3.0](https://github.com/Suede-AI/suede-sdk-python/releases/tag/v0.3.0): 22 endpoints and guitar rig tools.
-- **Jun 16** · [Suede Studio Muse](https://apps.apple.com/us/app/suede-studio-muse/id6779134962) launched on the App Store. Agent Studio seeded its first 12 templates.
-- **Jun 15** · [Wikidata item Q140235755](https://www.wikidata.org/wiki/Q140235755) created for Jason Colapietro.
-- **Jun 12** · [Suede Social: Guitar Forum](https://apps.apple.com/us/app/suede-social-guitar-forum/id6770668793) launched on the App Store.
-- **Jun 11** · The [x402 manifest](https://app.suedeai.ai/.well-known/x402.json) became crawlable, with agent-origin CORS preflight and an `agent.json` alias.
-- **Jun 10** · The [IP Registry](https://registry.suedeai.ai) consolidated into a single multi-network master registry. Crunchbase profiles joined the entity graph.
-- **Jun 7** · First commit of [Suede AI Agent Studio](https://agents.suedeai.ai).
-
-### May 2026
-
-- **May 30** · The Signal Chain published as the [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) repository: the illustrated history, the 50-lesson workbook, and the deluxe edition.
-- **May 27** · [guitar.solutions](https://guitar.solutions), [guitarchords.info](https://guitarchords.info), and the [Suede Python SDK](https://github.com/Suede-AI/suede-sdk-python) began.
-- **May 25** · TechBullion: [Suede Labs AI Releases iOS Apps, Codex Skills & Musicians Terminal](https://techbullion.com/jason-colapietros-suede-labs-ai-launches-ios-apps/).
-- **May 24** · First public commit of [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills).
-- **May 22** · [@suedeai/plugin-suede 1.0.0](https://www.npmjs.com/package/@suedeai/plugin-suede) published to npm.
-- **May 19** · [Suede DNA](https://dna.suedeai.ai) began: the tonal genealogy archive of guitarists' rigs and signal chains.
-- **May 15** · [Suede Voice: Vocal Range Test](https://apps.apple.com/us/app/suede-voice-vocal-range-test/id6767763231) launched on the App Store.
-- **May 11** · [Suede Guitar Tuner & Studio](https://apps.apple.com/us/app/suede-guitar-tuner-studio/id6767552764) launched on the App Store.
-- **May 9** · Altcoin Investor: [How AI, Blockchain, and On-Chain IP Are Changing Creator Ownership](https://altcoininvestor.com/ai-blockchain-on-chain-ip-creator-ownership/). The [Suede Market Maker](https://github.com/Suede-AI/suede-market-maker) began the same day.
-- **May 7** · [AI Music & Video Generator](https://apps.apple.com/us/app/suede-ai-generator/id6765461286) launched on the App Store, the first of nine iOS apps.
-
-### Earlier
-
-- **Feb 27, 2026** · TechBullion: [Suede Labs Advances in the Avalanche Build Games With Massive Infrastructure Play](https://techbullion.com/suede-labs-advances-in-the-avalanche-build-games-with-massive-infrastructure-play/), syndicated by MEXC News.
-- **Feb 9, 2026** · TechBullion: [Best Suno Alternatives in 2026: Suede Labs and Top Competitors](https://techbullion.com/best-suno-alternatives-in-2026-suede-labs-and-top-competitors/).
-- **Jan 7, 2026** · TechBullion: [Suede Labs Brings AI-Powered Creative Tools to Students: The Quiet Revolution in Africa's Classrooms](https://techbullion.com/suede-labs-brings-ai-powered-creative-tools-to-students-the-quiet-revolution-in-africas-classrooms/), syndicated by MEXC News.
-- **Dec 15, 2025** · TechBullion: [Suede Labs Launches a Comprehensive On-Chain IP Authentication System](https://techbullion.com/suede-labs-launches-a-comprehensive-on-chain-ip-authentication-system/).
-
-</details>
-
 ## Contact
 
-[jason@suedeai.ai](mailto:jason@suedeai.ai)
+Jason: [jason@suedeai.ai](mailto:jason@suedeai.ai) · Suede AI: [info@suedeai.ai](mailto:info@suedeai.ai) · Press: [press@suedeai.ai](mailto:press@suedeai.ai) · +1 (561) 401-0518 · [Book a call](https://calendar.app.google/8FyvYAspZaQFFP5eA)
+
+## Music and creator software
+
+Suede AI's music and creator software is a separate product line, listed last on purpose. Jason publishes music, video, and writing as **Johnny Suede**, at [johnnysuede.com](https://johnnysuede.com) and on YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede). The hub for the product line is [suedeai.ai/music](https://suedeai.ai/music).
+
+| Product | What it does |
+|---|---|
+| [Suede Sing](https://sing.suedeai.ai) | The vocal studio in your browser: range test, register detection, pitch training, and measured warm-ups. Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing. |
+| [Strumly](https://strumly.suedeai.ai) · [guitar.solutions](https://guitar.solutions) | A guitar coach, and the engineering-grade signal-chain reference behind The Signal Chain. |
+| [GuitarHub](https://guitarhub.org) · [guitarchords.info](https://guitarchords.info) | Free guitar lessons on the web and on iOS, and free chord, scale, tuner, and metronome tools. |
+| [Suede Studio](https://studio.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) | AI music generation with the master kept by the creator, and a creative training companion. |
+| [Suede Social](https://suede.social) · [Suede DNA](https://dna.suedeai.ai) | A guitar community and gear magazine, and an archive of guitarists' rigs and signal chains. |
+| [Suede IP Registry](https://registry.suedeai.ai) · [Artist Coordination](https://ip.suedeai.ai) | Dated, wallet-signed proof-of-creation records (evidence, not legal title), and artist profiles, release destinations and approvals in one auditable record. |

@@ -1,6 +1,6 @@
 # Jason Colapietro
 
-Jason Colapietro is the founder and CEO of [Suede AI](https://suedeai.ai), also known as Suede Labs AI, where he builds creator ownership infrastructure for AI-native media. His work connects proof of creation, provenance, rights metadata, registry-backed media, artist coordination, and agent commerce. He publishes under the name **Johnny Suede**.
+Jason Colapietro is an engineer, author, and the founder and CEO of [Suede AI](https://suedeai.ai), also known as Suede Labs AI. Suede AI is an agentic platform company founded in 2024 by engineer Jason Colapietro in West Palm Beach, Florida. It builds and runs AI agent platforms that businesses use to manage their work, and white-labels them for agencies and their clients. He publishes under the pen name **Johnny Suede**.
 
 ## Public identity
 
@@ -15,25 +15,25 @@ Jason Colapietro is the founder and CEO of [Suede AI](https://suedeai.ai), also 
 | Company | [Suede AI](https://suedeai.ai) |
 | GitHub | [github.com/JasonColapietro](https://github.com/JasonColapietro) |
 | Writing | [jasoncolapietro.substack.com](https://jasoncolapietro.substack.com) |
-| LinkedIn | [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro) |
+| Jason's LinkedIn | [linkedin.com/in/jasoncolapietro](https://www.linkedin.com/in/jasoncolapietro) |
 | X | [@johnnysuede](https://x.com/johnnysuede) |
 | Contact | [jason@suedeai.ai](mailto:jason@suedeai.ai) |
 
 ## Areas of work
 
-- Creator ownership and programmable IP
-- Proof of creation, provenance, and rights metadata
-- Artist coordination and release records
-- Registry-backed media, voice, and likeness records
-- x402 payments and pay-per-call APIs
-- Agent discovery and agent commerce
-- Music, guitar, audio, and creator tools
+- AI agents and agentic platforms
+- White-label agent platforms for agencies and their clients
+- Managed AI agents, AI operations, and workflow automation
+- Forward-deployed engineering
+- AI search visibility: GEO, AEO, and SEO
+- x402 payments and pay-per-call agent endpoints
+- Music, guitar, audio, and creator tools, as a separate product line
 
 ## Selected public work
 
 | Project | Public reference | Focus |
 |---|---|---|
-| Suede AI | [suedeai.ai](https://suedeai.ai) | Creator ownership infrastructure for work and likeness |
+| Suede AI | [suedeai.ai](https://suedeai.ai) | Agentic platform company: AI agent platforms for businesses, white-labelled for agencies and their clients |
 | Suede IP Registry | [registry.suedeai.ai](https://registry.suedeai.ai) | Public registry for proof of creation: wallet-signed claims, fingerprints, and dated records |
 | Artist Coordination | [ip.suedeai.ai](https://ip.suedeai.ai) | Suede's music IP site: artist profiles, release destinations, approvals, and correction cases in one auditable record |
 | Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
