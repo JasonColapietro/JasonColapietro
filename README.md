@@ -31,6 +31,18 @@ Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He
 
 Before Suede AI, Jason built, ran, and sold call centers. He is the manager of JC Investment Group LLC, a Florida company formed in 2019, and works from West Palm Beach, Florida. The founder page at [suedeai.ai/founder](https://suedeai.ai/founder) is the canonical record.
 
+## Training connected to working examples
+
+Jason connects issued personal training records to inspectable implementation work at Suede AI. The [qualifications sheet](https://seo.suedeai.ai/qualifications) names the relevant records, deliverables and first engagement scopes. The [working demonstrations](https://seo.suedeai.ai/demonstrations) include source, repeatable commands and a dated result for each lane.
+
+| Working example | What to inspect | Selected issued training |
+|---|---|---|
+| [MCP integration](https://seo.suedeai.ai/demonstrations#mcp) | A client discovers the pinned Suede Creator Skills server, searches for a workflow, retrieves its instructions and checks a failed lookup. | [Introduction to Model Context Protocol](https://academy.claude.com/verify/fd186edfa900b4f1ecb6c80389cb59fb), Claude Academy / Anthropic, course completion badge issued October 20, 2026. |
+| [Technical SEO check](https://seo.suedeai.ai/demonstrations#seo) | Eight checks of the evidence page, plus a controlled HTML copy with three detected defects. | [On-Page SEO and AI Search Essentials with Semrush](https://static.semrush.com/academy/certificates/9ab922478c/jason-colapietro_25.png), Semrush Academy, certificate of achievement issued October 20, 2026. |
+| [Answer evaluation](https://seo.suedeai.ai/demonstrations#evaluation) | Four authored answer fixtures checked for the holder, award categories, verification source and relationship. | [Craft Precise Prompts for AI Models](https://www.credly.com/badges/5ddf36c2-fd1e-449d-b388-aa15fb07d242/public_url), IBM SkillsBuild, digital credential issued October 21, 2026. |
+
+The [issued training inventory](https://seo.suedeai.ai/evidence#training-credentials) keeps course credentials, Microsoft Learn training module achievements and program memberships separate. The examples support defined integration, search and evaluation work within Suede AI's broader agent platforms, creator ownership, programmable IP and agent-commerce practice.
+
 ## Open-source record
 
 **54 pull requests merged into 46 open-source projects he does not maintain**, as of September 30, 2026: 33 are fixes, features, tests, and docs; the other 21 are accepted listings of his own work on third-party lists. Every one is a merged pull request on GitHub, opened from his two GitHub accounts, JasonColapietro and Suede-AI.
