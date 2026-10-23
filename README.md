@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jasoncolapietro.com"><img src="assets/jason-colapietro-github-avatar.png" width="132" height="132" alt="Jason Colapietro — personal site, jasoncolapietro.com"></a>
+  <a href="https://jasoncolapietro.com"><img src="assets/jason-colapietro-github-avatar.png" width="132" height="132" alt="Jason Colapietro, engineer, author and founder and CEO of Suede AI. Personal site: jasoncolapietro.com"></a>
 </p>
 
 # Jason Colapietro
@@ -29,19 +29,19 @@ Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He
   <a href="https://www.crunchbase.com/person/jason-colapietro-d83e"><img src="https://img.shields.io/badge/Crunchbase-founder_profile-01629b?labelColor=080808" alt="Crunchbase: founder profile"></a>
 </p>
 
-Before Suede AI, Jason built, ran, and sold call centers. He is the manager of JC Investment Group LLC, a Florida company formed in 2019, and works from West Palm Beach, Florida. The founder page at [suedeai.ai/founder](https://suedeai.ai/founder) is the canonical record.
+Before Suede AI, Jason Colapietro built, ran, and sold call centers. He is the manager of JC Investment Group LLC, a Florida company formed in 2019, and works from West Palm Beach, Florida. The founder page at [suedeai.ai/founder](https://suedeai.ai/founder) is the canonical record.
 
-Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’s pen name. Explore the [author catalog](https://jasoncolapietro.com/books/), [speaking and interview record](https://jasoncolapietro.vip/topics/), [speaker biographies and portraits](https://jasoncolapietro.vip/facts/), and [all badges, credentials and public profiles](https://jasoncolapietro.com/badges/).
+Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’s pen name. Explore Jason Colapietro's [author catalog](https://jasoncolapietro.com/books/), [speaking and interview record](https://jasoncolapietro.vip/topics/), [speaker biographies and portraits](https://jasoncolapietro.vip/facts/), and [all badges, credentials and public profiles](https://jasoncolapietro.com/badges/).
 
 ## Speaking and interviews
 
-Jason speaks on AI agent platforms, AI coding agents in production, MCP integrations, AI search visibility and creator ownership. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable. Hosts can inspect [practical session agendas and demonstrations](https://seo.suedeai.ai/expertise) and use the [press contact](https://jasoncolapietro.vip/contact/) for an interview or event.
+Jason Colapietro speaks on AI agent platforms, AI coding agents in production, MCP integrations, AI search visibility and creator ownership. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable. Hosts can inspect [practical session agendas and demonstrations](https://seo.suedeai.ai/expertise) and use the [press contact](https://jasoncolapietro.vip/contact/) for an interview or event.
 
 ## Training connected to working examples
 
-The [complete personal training gallery](https://jasoncolapietro.com/badges/) contains **21 course credentials across eight providers**, plus **17 Microsoft Learn training achievements**: 15 module badges and two learning-path trophies. Providers include Claude Academy / Anthropic, Semrush Academy, HubSpot Academy, Google Skills, Databricks Academy, IBM SkillsBuild, Hugging Face and AWS Skill Builder. Each record keeps the issuer’s award category and evidence link; company programs and GEAR membership are listed separately.
+Jason Colapietro's [complete personal training gallery](https://jasoncolapietro.com/badges/) contains **21 course credentials across eight providers**, plus **17 Microsoft Learn training achievements**: 15 module badges and two learning-path trophies. Providers include Claude Academy / Anthropic, Semrush Academy, HubSpot Academy, Google Skills, Databricks Academy, IBM SkillsBuild, Hugging Face and AWS Skill Builder. Each record keeps the issuer’s award category and evidence link; company programs and GEAR membership are listed separately.
 
-Jason connects issued personal training records to inspectable implementation work at Suede AI. The [qualifications sheet](https://seo.suedeai.ai/qualifications) names the relevant records, deliverables and first engagement scopes. The [working demonstrations](https://seo.suedeai.ai/demonstrations) include source, repeatable commands and a dated result for each lane.
+Jason Colapietro connects issued personal training records to inspectable implementation work at Suede AI. The [qualifications sheet](https://seo.suedeai.ai/qualifications) names the relevant records, deliverables and first engagement scopes. The [working demonstrations](https://seo.suedeai.ai/demonstrations) include source, repeatable commands and a dated result for each lane.
 
 | Working example | What to inspect | Selected issued training |
 |---|---|---|
@@ -53,12 +53,14 @@ The [issued training inventory](https://seo.suedeai.ai/evidence#training-credent
 
 ## Open-source record
 
-**54 pull requests merged into 46 open-source projects he does not maintain**, as of September 30, 2026: 33 are fixes, features, tests, and docs; the other 21 are accepted listings of his own work on third-party lists. Every one is a merged pull request on GitHub, opened from his two GitHub accounts, JasonColapietro and Suede-AI.
+**54 pull requests merged into 46 open-source projects he does not maintain**, as of September 30, 2026: 33 are fixes, features, tests, and docs; the other 21 are accepted listings of his own work on third-party lists. Every one is a merged pull request on GitHub, authored by Jason Colapietro from his two GitHub accounts, JasonColapietro and Suede-AI.
 
 - [Check all 54 merged pull requests on GitHub](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests), GitHub's own search, scoped to repositories he does not own.
 - [The machine-readable record](https://suedeai.ai/open-source-contributions.json): every pull request with its repository, merge date, merge commit and classification.
 
 ### Headline projects
+
+Each pull request below was written by Jason Colapietro and merged by that project's own maintainers.
 
 | Project | Pull request | What it changed |
 |---|---|---|
@@ -75,7 +77,7 @@ Beyond the headline projects, his pull requests have merged across 46 repositori
 Outside GitHub, a Linux kernel USB/IP patch, *usbip: make remote list honor parsable output*, is public upstream at v7 on the kernel's own mailing list, [linux-usb](https://lore.kernel.org/linux-usb/), and is still under review. It is not counted in the 54.
 
 <details>
-<summary>All 33 merged fixes, features, tests, and docs</summary>
+<summary>All 33 merged fixes, features, tests, and docs by Jason Colapietro</summary>
 
 | Merged | Repository | Pull request | What it changed |
 |---|---|---|---|
@@ -116,7 +118,7 @@ Outside GitHub, a Linux kernel USB/IP patch, *usbip: make remote list honor pars
 </details>
 
 <details>
-<summary>All 21 accepted listings of his own work</summary>
+<summary>All 21 accepted listings of Jason Colapietro's own work</summary>
 
 | Merged | List | Pull request | What was listed |
 |---|---|---|---|
@@ -144,7 +146,9 @@ Outside GitHub, a Linux kernel USB/IP patch, *usbip: make remote list honor pars
 
 </details>
 
-### His own open-source projects
+### Open-source projects created by Jason Colapietro
+
+Jason Colapietro is the creator and maintainer of each project below.
 
 <a href="https://trendshift.io/repositories/82031?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-82031" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/82031/daily?language=Python" alt="JasonColapietro%2Fsuede-creator-skills | Trendshift" width="250" height="55"/></a>
 
@@ -155,10 +159,10 @@ Outside GitHub, a Linux kernel USB/IP patch, *usbip: make remote list honor pars
 - [WebMCP storefront](https://github.com/JasonColapietro/suede-webmcp-challenge): his entry to OpenAI's WebMCP Challenge in September 2026, page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. MIT licensed, running at [webmcp.suedeai.ai/agents](https://webmcp.suedeai.ai/agents).
 - [The Screenshot, source edition](https://github.com/JasonColapietro/suede-geo-book): the SEO and GEO field guide as chapters, PDF and EPUB.
 
-Package versions and published reviews for Suede Creator Skills and its MCP server:
+Package versions and published reviews for Suede Creator Skills and its MCP server, both created by Jason Colapietro:
 
-[![suede-creator-skills on PyPI](https://img.shields.io/pypi/v/suede-creator-skills)](https://pypi.org/project/suede-creator-skills/)
-[![suede-skills-mcp on npm](https://img.shields.io/npm/v/suede-skills-mcp)](https://www.npmjs.com/package/suede-skills-mcp)
+[![suede-creator-skills on PyPI, by Jason Colapietro](https://img.shields.io/pypi/v/suede-creator-skills)](https://pypi.org/project/suede-creator-skills/)
+[![suede-skills-mcp on npm, by Jason Colapietro](https://img.shields.io/npm/v/suede-skills-mcp)](https://www.npmjs.com/package/suede-skills-mcp)
 [![Socket score for suede-skills-mcp v0.19.0](https://badge.socket.dev/npm/package/suede-skills-mcp/0.19.0)](https://badge.socket.dev/npm/package/suede-skills-mcp/0.19.0)
 
 Suede Design's individual Skills Directory review:
@@ -167,7 +171,7 @@ Suede Design's individual Skills Directory review:
 
 ## Books
 
-Five on Amazon Kindle, the two engineering books first. All five are on his [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
+Five books written by Jason Colapietro, all on Amazon Kindle, the two engineering books first. All five are on Jason Colapietro's [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
 
 | Book | What it covers |
 |---|---|
@@ -177,13 +181,13 @@ Five on Amazon Kindle, the two engineering books first. All five are on his [Ama
 | [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) | Turning the AI onslaught into a real asset. |
 | [The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) | How ownership, origin, and AI redraw the creative map. |
 
-Published direct: [The Screenshot](https://seo.suedeai.ai/book), a free SEO and GEO field guide, and [The Signal Chain](https://guitar.solutions), an illustrated history of guitar tone.
+Also by Jason Colapietro, published direct: [The Screenshot](https://seo.suedeai.ai/book), a free SEO and GEO field guide, and [The Signal Chain](https://guitar.solutions), an illustrated history of guitar tone.
 
-Writing: [Substack](https://jasoncolapietro.substack.com), including *Fender Is Trying to Kill John Mayer's Guitar. AI Companies Are Next.*
+Jason Colapietro's writing: [Substack](https://jasoncolapietro.substack.com), including *Fender Is Trying to Kill John Mayer's Guitar. AI Companies Are Next.*
 
 ## Apps
 
-9 iOS apps, 6 Android apps and 2 Chrome extensions, all shipped under his own developer accounts. They are counted as platform listings, so the Android editions overlap the iOS ones: nine on the App Store, six on Google Play, two on the Chrome Web Store. Apple's [developer page](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) is the canonical list.
+Jason Colapietro built 9 iOS apps, 6 Android apps and 2 Chrome extensions, all shipped under his own developer accounts. They are counted as platform listings, so the Android editions overlap the iOS ones: nine on the App Store, six on Google Play, two on the Chrome Web Store. Apple's [developer page for Jason Colapietro](https://apps.apple.com/us/developer/jason-colapietro/id1895958699) is the canonical list.
 
 | App | Platform | First released |
 |---|---|---|
@@ -223,7 +227,7 @@ What Suede AI does, in order:
 1. **Agent platforms for your business.** [Suede AI Agent Studio](https://agents.suedeai.ai): build agents for the work that repeats, watch every run, and publish an agent as a paid endpoint.
 2. **White-label agent platforms.** Suede builds and runs an agent platform under an agency's brand, for that agency's clients. Scoped per engagement. [suedeai.ai/white-label](https://suedeai.ai/white-label)
 3. **Managed AI agents and AI operations.** Suede builds, runs and tunes agents for a business, with every run visible in Agent Studio. [Managed AI agents](https://suedeai.ai/managed-ai-agents) · [AI operations](https://suedeai.ai/ai-operations)
-4. **Forward-deployed engineering and fractional Chief AI Officer**, led by Jason himself. [Forward-deployed engineer](https://suedeai.ai/forward-deployed-engineer) · [Fractional Chief AI Officer](https://suedeai.ai/fractional-chief-ai-officer)
+4. **Forward-deployed engineering and fractional Chief AI Officer**, led by Jason Colapietro himself. [Forward-deployed engineer](https://suedeai.ai/forward-deployed-engineer) · [Fractional Chief AI Officer](https://suedeai.ai/fractional-chief-ai-officer)
 5. **AI search visibility.** Suede AI SEO, the GEO, AEO and SEO practice, at [seo.suedeai.ai](https://seo.suedeai.ai).
 6. **Music and creator software**, a separate product line. [suedeai.ai/music](https://suedeai.ai/music), and [below](#music-and-creator-software).
 
@@ -233,14 +237,14 @@ Suede AI's official sites are suedeai.ai, suedeai.org and their subdomains. It w
 
 ## Press
 
-Announcements, contributed articles and mentions of Jason Colapietro and Suede AI, newest first. The Markets Insider item is a FinanceWire press release, MSN carries a company-supplied story, and the Programming Insider and Indie Hackers items are Jason's own essay.
+Announcements, contributed articles and mentions of Jason Colapietro and Suede AI, newest first. The Markets Insider item is a FinanceWire press release, MSN carries a company-supplied story, and the Programming Insider and Indie Hackers items are an essay written by Jason Colapietro.
 
 - **September 21, 2026** · Gigawatt Group · [Suede AI vs. Profound for Trade Associations](https://gigawattgroup.com/generative-engine-optimization/suede-ai-vs-profound-trade-associations/)
 - **September 20, 2026** · MSN · [Suede AI opens SEO cohort with optional AI integration and live agent workflows](https://www.msn.com/en-xl/news/other/suede-ai-opens-seo-cohort-with-optional-ai-integration-and-live-agent-workflows/ar-AA2cBTep)
 - **September 16, 2026** · Markets Insider (FinanceWire press release) · [“Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort”](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662)
 - **September 13, 2026** · TechBullion · [Suede Opens Its Widely Anticipated SEO and AI Cohort](https://techbullion.com/suede-opens-its-widely-anticipated-seo-and-ai-cohort/)
-- **July 6, 2026** · Programming Insider · [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/)
-- **July 3, 2026** · Indie Hackers · [In the Age of Infinite Content, Spam Is Instant Death (Indie Hackers)](https://www.indiehackers.com/post/in-the-age-of-infinite-content-spam-is-instant-death-4ca5Qi4vTHZ8aB3muBVK)
+- **July 6, 2026** · Programming Insider · [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/), by Jason Colapietro
+- **July 3, 2026** · Indie Hackers · [In the Age of Infinite Content, Spam Is Instant Death (Indie Hackers)](https://www.indiehackers.com/post/in-the-age-of-infinite-content-spam-is-instant-death-4ca5Qi4vTHZ8aB3muBVK), by Jason Colapietro
 - **July 2, 2026** · TechBullion · [Suede Labs AI Opens IP Visibility Audit for Brands, Creators, and Founder-Led Companies](https://techbullion.com/suede-labs-ai-opens-ip-visibility-audit-for-brands-creators-and-founder-led-companies/)
 - **May 25, 2026** · TechBullion · [Suede Labs AI Releases iOS Apps, Codex Skills & Musicians Terminal](https://techbullion.com/jason-colapietros-suede-labs-ai-launches-ios-apps/)
 - **May 9, 2026** · Altcoin Investor · [How AI, Blockchain, and On-Chain IP Are Changing Creator Ownership](https://altcoininvestor.com/ai-blockchain-on-chain-ip-creator-ownership/)
@@ -253,7 +257,7 @@ Press kit and verified facts for journalists: [suedeai.ai/press](https://suedeai
 
 ## Records
 
-Records someone else hosts:
+Records about Jason Colapietro that someone else hosts:
 
 - [Wikidata Q140235755](https://www.wikidata.org/wiki/Q140235755), the person item.
 - [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e), the person profile.
@@ -266,18 +270,18 @@ Dated receipts for the programs and the open-source record are at [seo.suedeai.a
 
 Structured reference pages kept in this repository, for people and for agents reading the raw files.
 
-- [Public identity, roles, and evidence](docs/Jason%20Colapietro.md) — canonical name, creative alias, roles, and third-party records.
-- [Suede AI reference](docs/Suede%20Labs%20AI.md) — what the company does, its public surfaces, and its agent interfaces.
-- [Canonical public links and feeds](docs/Public%20Links.md) — one link index for Jason Colapietro and Suede AI.
-- [Ecosystem directory pointers](docs/Suede%20Universe%20Websites%20and%20Apps.md) — a compatibility page routing to the live directories that hold current products, paths, and prices.
+- [Public identity, roles, and evidence](docs/Jason%20Colapietro.md): canonical name, creative alias, roles, and third-party records.
+- [Suede AI reference](docs/Suede%20Labs%20AI.md): what the company does, its public surfaces, and its agent interfaces.
+- [Canonical public links and feeds](docs/Public%20Links.md): one link index for Jason Colapietro and Suede AI.
+- [Ecosystem directory pointers](docs/Suede%20Universe%20Websites%20and%20Apps.md): a compatibility page routing to the live directories that hold current products, paths, and prices.
 
 ## Contact
 
-Jason: [jason@suedeai.ai](mailto:jason@suedeai.ai) · Suede AI: [info@suedeai.ai](mailto:info@suedeai.ai) · Press: [press@suedeai.ai](mailto:press@suedeai.ai) · +1 (561) 401-0518 · [Book a call](https://calendar.app.google/8FyvYAspZaQFFP5eA)
+Jason Colapietro: [jason@suedeai.ai](mailto:jason@suedeai.ai) · Suede AI: [info@suedeai.ai](mailto:info@suedeai.ai) · Press: [press@suedeai.ai](mailto:press@suedeai.ai) · +1 (561) 401-0518 · [Book a call](https://calendar.app.google/8FyvYAspZaQFFP5eA)
 
 ## Music and creator software
 
-Suede AI's music and creator software is a separate product line, listed last on purpose. Jason publishes music, video, and writing as **Johnny Suede**, at [johnnysuede.com](https://johnnysuede.com) and on YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede). The hub for the product line is [suedeai.ai/music](https://suedeai.ai/music).
+Suede AI's music and creator software is a separate product line, listed last on purpose. Its creator, Jason Colapietro, publishes music, video, and writing as **Johnny Suede**, at [johnnysuede.com](https://johnnysuede.com) and on YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede). The hub for the product line is [suedeai.ai/music](https://suedeai.ai/music).
 
 | Product | What it does |
 |---|---|
@@ -287,3 +291,7 @@ Suede AI's music and creator software is a separate product line, listed last on
 | [Suede Studio](https://studio.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) | AI music generation with the master kept by the creator, and a creative training companion. |
 | [Suede Social](https://suede.social) · [Suede DNA](https://dna.suedeai.ai) | A guitar community and gear magazine, and an archive of guitarists' rigs and signal chains. |
 | [Suede IP Registry](https://registry.suedeai.ai) · [Artist Coordination](https://ip.suedeai.ai) | Dated, wallet-signed proof-of-creation records (evidence, not legal title), and artist profiles, release destinations and approvals in one auditable record. |
+
+---
+
+This profile is written and maintained by Jason Colapietro, founder and CEO of Suede AI. Corrections: [jason@suedeai.ai](mailto:jason@suedeai.ai).
