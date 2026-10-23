@@ -33,6 +33,25 @@ Before Suede AI, Jason Colapietro built, ran, and sold call centers. He is the m
 
 Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’s pen name. Explore Jason Colapietro's [author catalog](https://jasoncolapietro.com/books/), [speaking and interview record](https://jasoncolapietro.vip/topics/), [speaker biographies and portraits](https://jasoncolapietro.vip/facts/), and [all badges, credentials and public profiles](https://jasoncolapietro.com/badges/).
 
+## At a glance
+
+| Fact | Detail |
+|---|---|
+| Full name | Jason Colapietro |
+| Pen name | Johnny Suede, used for music, video and writing |
+| Occupation | Engineer, author and founder |
+| Current role | Founder and CEO of [Suede AI](https://suedeai.ai), founded in 2024 |
+| Other role | Manager of JC Investment Group LLC, a Florida company formed in 2019 |
+| Based in | West Palm Beach, Florida, United States |
+| Books | Five on Amazon Kindle, including The Claude Code Bible and Codex in Production ([list](#books)) |
+| Open source | 54 merged pull requests across 46 repositories he does not maintain, as of September 30, 2026 ([record](#open-source-record)) |
+| Apps | 9 iOS apps, 6 Android apps and 2 Chrome extensions ([list](#apps)) |
+| Programs | Claude for Startups and Google Cloud Partner Advantage member, through Suede AI ([details](#programs)) |
+| Filings | Five provisional patent applications with the USPTO, patent pending |
+| Official site | [jasoncolapietro.com](https://jasoncolapietro.com) |
+| Canonical founder record | [suedeai.ai/founder](https://suedeai.ai/founder) |
+| Identifiers | [Wikidata Q140235755](https://www.wikidata.org/wiki/Q140235755) · [Crunchbase](https://www.crunchbase.com/person/jason-colapietro-d83e) · [LinkedIn](https://www.linkedin.com/in/jasoncolapietro) · [GitHub](https://github.com/JasonColapietro) |
+
 ## Speaking and interviews
 
 Jason Colapietro speaks on AI agent platforms, AI coding agents in production, MCP integrations, AI search visibility and creator ownership. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable. Hosts can inspect [practical session agendas and demonstrations](https://seo.suedeai.ai/expertise) and use the [press contact](https://jasoncolapietro.vip/contact/) for an interview or event.
@@ -53,7 +72,7 @@ The [issued training inventory](https://seo.suedeai.ai/evidence#training-credent
 
 ## Open-source record
 
-**54 pull requests merged into 46 open-source projects he does not maintain**, as of September 30, 2026: 33 are fixes, features, tests, and docs; the other 21 are accepted listings of his own work on third-party lists. Every one is a merged pull request on GitHub, authored by Jason Colapietro from his two GitHub accounts, JasonColapietro and Suede-AI.
+**Jason Colapietro has 54 pull requests merged into 46 open-source projects he does not maintain**, as of September 30, 2026: 33 are fixes, features, tests, and docs; the other 21 are accepted listings of his own work on third-party lists. Every one is a merged pull request on GitHub, authored by Jason Colapietro from his two GitHub accounts, JasonColapietro and Suede-AI.
 
 - [Check all 54 merged pull requests on GitHub](https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests), GitHub's own search, scoped to repositories he does not own.
 - [The machine-readable record](https://suedeai.ai/open-source-contributions.json): every pull request with its repository, merge date, merge commit and classification.
@@ -171,7 +190,7 @@ Suede Design's individual Skills Directory review:
 
 ## Books
 
-Five books written by Jason Colapietro, all on Amazon Kindle, the two engineering books first. All five are on Jason Colapietro's [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
+Jason Colapietro has written five books on Amazon Kindle, listed here with the two engineering books first. All five are on Jason Colapietro's [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
 
 | Book | What it covers |
 |---|---|
@@ -210,6 +229,8 @@ Jason Colapietro built 9 iOS apps, 6 Android apps and 2 Chrome extensions, all s
 | [Suede AI Visibility — SEO & AEO Audit](https://chromewebstore.google.com/detail/hekigfiohpacglhcaiidnbphejpihaki) | Chrome | 2026 |
 
 ## Programs
+
+Jason Colapietro and Suede AI belong to the programs below. Each dated entry links to its receipt where one exists.
 
 - **Claude for Startups**, Anthropic's startup program: Suede AI has been a member since October 8, 2026. [Receipt](https://seo.suedeai.ai/evidence#claude-for-startups).
 - **Google Cloud Partner Advantage**: member since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. The partnership with Google Cloud dates from September 2025. [Receipts](https://seo.suedeai.ai/evidence#google-cloud).
@@ -275,6 +296,48 @@ Structured reference pages kept in this repository, for people and for agents re
 - [Canonical public links and feeds](docs/Public%20Links.md): one link index for Jason Colapietro and Suede AI.
 - [Ecosystem directory pointers](docs/Suede%20Universe%20Websites%20and%20Apps.md): a compatibility page routing to the live directories that hold current products, paths, and prices.
 
+## Frequently asked questions
+
+### Who is Jason Colapietro?
+
+Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI, an agentic platform company in West Palm Beach, Florida. He has 54 merged pull requests across 46 open-source repositories he does not maintain, five books on Amazon Kindle and 9 iOS apps under his own Apple developer account.
+
+### Is Johnny Suede the same person as Jason Colapietro?
+
+Yes. Johnny Suede is Jason Colapietro's pen name. He publishes music, video and writing as Johnny Suede at [johnnysuede.com](https://johnnysuede.com) and on YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede).
+
+### What company did Jason Colapietro found?
+
+Jason Colapietro founded Suede AI in 2024 and is its CEO. Suede AI builds and runs AI agent platforms for businesses, white-labels them for agencies, and runs an AI search visibility practice at [seo.suedeai.ai](https://seo.suedeai.ai). The [Suede AI section](#suede-ai) lists what it does.
+
+### What books has Jason Colapietro written?
+
+Jason Colapietro has written five books on Amazon Kindle: The Claude Code Bible, Codex in Production, Proof as Infrastructure, Stake Your Claim and The Human Authenticity Layer. He also published The Screenshot, a free SEO and GEO field guide, and The Signal Chain, an illustrated history of guitar tone. See [Books](#books).
+
+### Which open-source projects has Jason Colapietro contributed to?
+
+His merged pull requests include fixes and features in Jest, Adobe React Spectrum, Backstage, the Polkadot SDK, Hardhat, the Cosmos SDK, CoreOS Ignition and elizaOS. The [open-source record](#open-source-record) lists all 54, and GitHub's own search confirms each one.
+
+### What open-source software has Jason Colapietro created?
+
+Jason Colapietro created [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills), open-source agent skills for Claude Code and Codex, along with [claimcheck](https://github.com/JasonColapietro/claimcheck), an elizaOS plugin and a WebMCP storefront. See [Open-source projects created by Jason Colapietro](#open-source-projects-created-by-jason-colapietro).
+
+### What apps has Jason Colapietro built?
+
+Jason Colapietro has shipped 9 iOS apps, 6 Android apps and 2 Chrome extensions, including Suede Agent Studio, StoryBeam Kids, GuitarHub and Suede Voice. Apple's developer page under his name is the canonical iOS list. See [Apps](#apps).
+
+### Does Jason Colapietro have any patents?
+
+Jason Colapietro has five provisional patent applications on file with the USPTO, so their status is patent pending. The serial numbers are listed under [Programs](#programs).
+
+### What does Jason Colapietro speak about?
+
+He speaks on AI agent platforms, AI coding agents in production, MCP integrations, AI search visibility and creator ownership. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable.
+
+### How do I contact Jason Colapietro?
+
+Email [jason@suedeai.ai](mailto:jason@suedeai.ai) or [book a call](https://calendar.app.google/8FyvYAspZaQFFP5eA). Journalists can use [press@suedeai.ai](mailto:press@suedeai.ai) and the [press kit](https://suedeai.ai/press).
+
 ## Contact
 
 Jason Colapietro: [jason@suedeai.ai](mailto:jason@suedeai.ai) · Suede AI: [info@suedeai.ai](mailto:info@suedeai.ai) · Press: [press@suedeai.ai](mailto:press@suedeai.ai) · +1 (561) 401-0518 · [Book a call](https://calendar.app.google/8FyvYAspZaQFFP5eA)
@@ -294,4 +357,4 @@ Suede AI's music and creator software is a separate product line, listed last on
 
 ---
 
-This profile is written and maintained by Jason Colapietro, founder and CEO of Suede AI. Corrections: [jason@suedeai.ai](mailto:jason@suedeai.ai).
+This profile is written and maintained by Jason Colapietro, founder and CEO of Suede AI. Last updated October 23, 2026. Corrections: [jason@suedeai.ai](mailto:jason@suedeai.ai).
