@@ -6,6 +6,7 @@ import { once } from "node:events";
 import { classify, extractLinks, headingSlugs, slugify } from "../scripts/lib/markdown.mjs";
 import { Report } from "../scripts/lib/report.mjs";
 import { probe } from "../scripts/lib/http.mjs";
+import { hasUnapprovedTracking, verdictFor } from "../scripts/check-links.mjs";
 import {
   acceptsOf,
   amountOf,
@@ -36,6 +37,22 @@ import {
 
 const severities = (problems) => problems.map((p) => p.severity);
 const messages = (problems) => problems.map((p) => p.message).join(" | ");
+
+test("the requested Trendshift badge is the only campaign URL exception", () => {
+  const badge = "https://trendshift.io/repositories/82031?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-82031";
+  assert.equal(hasUnapprovedTracking(badge), false);
+  assert.equal(hasUnapprovedTracking(badge.replaceAll("&", "&amp;")), false);
+  assert.equal(hasUnapprovedTracking("https://suedeai.ai"), false);
+  for (const url of [
+    badge.replace("/82031?", "/999?"),
+    badge.replace("badge-trendshift-82031", "another-campaign"),
+    `${badge}&gclid=extra`,
+    "https://suedeai.ai?utm_source=other",
+    "https://suedeai.ai?x=1&amp;utm_source=other",
+  ]) {
+    assert.equal(hasUnapprovedTracking(url), true, url);
+  }
+});
 
 test("link extraction finds every link form the profile surfaces actually use", () => {
   const md = [
@@ -522,4 +539,18 @@ test("a surface documented without being linked is still documented", async () =
   // Ten digits is the floor so a year, a version or a count cannot qualify.
   const loose = documentedIdentifiers("Released in 2026, version 1.2.3, 44 merges, 3092 PRs.");
   assert.equal(loose.size, 0, "short numbers are not identifiers");
+});
+
+
+test("HTML badge links probe the decoded URL", () => {
+  const links = extractLinks('<a href="https://example.com/?a=1&amp;b=2"><img src="https://example.com/image?a=1&amp;b=2"></a>', "README.md");
+  assert.deepEqual(links.map((link) => link.url), ["https://example.com/?a=1&b=2", "https://example.com/image?a=1&b=2"]);
+});
+
+test("only the verified badge's CI 403 is unverifiable; dead and other links fail", () => {
+  const badge = "https://trendshift.io/repositories/82031?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-82031";
+  assert.equal(verdictFor(403, badge).severity, "warn");
+  assert.equal(verdictFor(404, badge).severity, "fail");
+  assert.equal(verdictFor(410, badge).severity, "fail");
+  assert.equal(verdictFor(403, badge.replace("/82031?", "/999?")).severity, "fail");
 });

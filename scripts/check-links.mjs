@@ -29,6 +29,14 @@ const offline = process.argv.includes("--offline");
 // that one host; these are the same failure on any other.
 const TRACKING = /[?&](utm_[a-z]+|igsh|igshid|fbclid|gclid|si|ref_src|ref_url)=/i;
 
+// Preserve the exact attribution URL supplied for this repository badge.
+// Different repositories, campaigns and additional parameters remain blocked.
+const TRENDSHIFT_BADGE = "https://trendshift.io/repositories/82031?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-82031";
+export function hasUnapprovedTracking(url) {
+  const normalized = url.replaceAll("&amp;", "&");
+  return normalized !== TRENDSHIFT_BADGE && TRACKING.test(normalized);
+}
+
 // Hosts that answer a datacenter IP with a challenge instead of content.
 //
 // The first live run reported eleven failures, and nine were these: LinkedIn's
@@ -88,6 +96,11 @@ const challengesBots = (url) => {
  * serving a challenge.
  */
 export const verdictFor = (status, url) => {
+  // This exact badge destination renders in Chrome but returns 403 to GitHub
+  // runners. Record the probe as unverifiable; a 404/410 still fails.
+  if (status === 403 && url.replaceAll("&amp;", "&") === TRENDSHIFT_BADGE) {
+    return { severity: "warn", reason: "HTTP 403 from CI; badge destination verified in Chrome, automated probe unverifiable" };
+  }
   // Rate limiting is never evidence that a link is dead, on any host.
   if (status === 429) return { severity: "warn", reason: "rate-limited (HTTP 429); not checkable from CI" };
   // LinkedIn's non-standard anti-automation code.
@@ -146,7 +159,7 @@ const main = async () => {
     if (kind === "external") {
       if (url.startsWith("http://")) {
         report.fail(where(link), `plain HTTP, should be https: ${url}`);
-      } else if (TRACKING.test(url)) {
+      } else if (hasUnapprovedTracking(url)) {
         report.fail(where(link), `carries a tracking parameter: ${url}`);
       } else {
         report.pass(where(link), url);

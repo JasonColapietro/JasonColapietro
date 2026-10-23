@@ -39,7 +39,8 @@ export const extractLinks = (text, file) => {
     for (const pattern of [MARKDOWN_LINK, HTML_ATTR, AUTOLINK]) {
       pattern.lastIndex = 0;
       for (const match of line.matchAll(pattern)) {
-        const url = match.groups.url;
+        // HTML escapes belong to markup, not to the URL sent over HTTP.
+        const url = pattern === HTML_ATTR ? match.groups.url.replaceAll("&amp;", "&") : match.groups.url;
         found.push({ file, line: index + 1, url, kind: classify(url) });
       }
     }

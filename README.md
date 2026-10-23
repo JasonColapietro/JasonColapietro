@@ -146,6 +146,8 @@ Outside GitHub, a Linux kernel USB/IP patch, *usbip: make remote list honor pars
 
 ### His own open-source projects
 
+<a href="https://trendshift.io/repositories/82031?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-82031" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/82031/daily?language=Python" alt="JasonColapietro%2Fsuede-creator-skills | Trendshift" width="250" height="55"/></a>
+
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) ([skills.suedeai.ai](https://skills.suedeai.ai)): open-source agent skills for Claude Code and Codex, installable as a plugin marketplace. Most of the accepted listings above are this pack.
 - [claimcheck](https://github.com/JasonColapietro/claimcheck): turns the promises on a privacy page into tests that fail the build. Zero dependencies.
 - [Suede Python SDK](https://github.com/Suede-AI/suede-sdk-python): a client for Suede's x402 pay-per-call endpoints.
