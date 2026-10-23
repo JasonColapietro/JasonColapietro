@@ -4,7 +4,7 @@
 
 # Jason Colapietro
 
-**Engineer · Founder and CEO of [Suede AI](https://suedeai.ai) · author of five books on Amazon Kindle · five provisional patent applications (patent pending)**
+**Engineer · Founder and CEO of [Suede AI](https://suedeai.ai) · author of five books on Amazon Kindle · [speaker](https://jasoncolapietro.vip/topics/) · five provisional patent applications (patent pending)**
 
 Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.
 
@@ -31,7 +31,15 @@ Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He
 
 Before Suede AI, Jason built, ran, and sold call centers. He is the manager of JC Investment Group LLC, a Florida company formed in 2019, and works from West Palm Beach, Florida. The founder page at [suedeai.ai/founder](https://suedeai.ai/founder) is the canonical record.
 
+Suede AI is also known as **Suede Labs AI**. **Johnny Suede** is Jason Colapietro’s pen name. Explore the [author catalog](https://jasoncolapietro.com/books/), [speaking and interview record](https://jasoncolapietro.vip/topics/), [speaker biographies and portraits](https://jasoncolapietro.vip/facts/), and [all badges, credentials and public profiles](https://jasoncolapietro.com/badges/).
+
+## Speaking and interviews
+
+Jason speaks on AI agent platforms, AI coding agents in production, MCP integrations, AI search visibility and creator ownership. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable. Hosts can inspect [practical session agendas and demonstrations](https://seo.suedeai.ai/expertise) and use the [press contact](https://jasoncolapietro.vip/contact/) for an interview or event.
+
 ## Training connected to working examples
+
+The [complete personal training gallery](https://jasoncolapietro.com/badges/) contains **21 course credentials across eight providers**, plus **17 Microsoft Learn training achievements**: 15 module badges and two learning-path trophies. Providers include Claude Academy / Anthropic, Semrush Academy, HubSpot Academy, Google Skills, Databricks Academy, IBM SkillsBuild, Hugging Face and AWS Skill Builder. Each record keeps the issuer’s award category and evidence link; company programs and GEAR membership are listed separately.
 
 Jason connects issued personal training records to inspectable implementation work at Suede AI. The [qualifications sheet](https://seo.suedeai.ai/qualifications) names the relevant records, deliverables and first engagement scopes. The [working demonstrations](https://seo.suedeai.ai/demonstrations) include source, repeatable commands and a dated result for each lane.
 
@@ -207,7 +215,7 @@ What Suede AI does, in order:
 5. **AI search visibility.** Suede AI SEO, the GEO, AEO and SEO practice, at [seo.suedeai.ai](https://seo.suedeai.ai).
 6. **Music and creator software**, a separate product line. [suedeai.ai/music](https://suedeai.ai/music), and [below](#music-and-creator-software).
 
-Suede AI is also known as Suede Labs AI. Company links: [suedeai.ai](https://suedeai.ai) · [suedeai.org](https://suedeai.org), Suede AI's research and investor site · [GitHub](https://github.com/Suede-AI) · [X @AISUEDE](https://x.com/AISUEDE) · [LinkedIn company page](https://www.linkedin.com/company/suede-labs) · [YouTube: Suede AI](https://www.youtube.com/@aisuede) · [Instagram @suedeai](https://www.instagram.com/suedeai) · [Crunchbase](https://www.crunchbase.com/organization/suede-labs-ai) · [press kit](https://suedeai.ai/press)
+Company links: [suedeai.ai](https://suedeai.ai) · [suedeai.org](https://suedeai.org), Suede AI's research and investor site · [GitHub](https://github.com/Suede-AI) · [X @AISUEDE](https://x.com/AISUEDE) · [LinkedIn company page](https://www.linkedin.com/company/suede-labs) · [YouTube: Suede AI](https://www.youtube.com/@aisuede) · [Instagram @suedeai](https://www.instagram.com/suedeai) · [Crunchbase](https://www.crunchbase.com/organization/suede-labs-ai) · [press kit](https://suedeai.ai/press)
 
 Suede AI's official sites are suedeai.ai, suedeai.org and their subdomains. It was founded in 2024 by Jason Colapietro.
 
