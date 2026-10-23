@@ -31,7 +31,7 @@ Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He
 
 Before Suede AI, Jason built, ran, and sold call centers. He is the manager of JC Investment Group LLC, a Florida company formed in 2019, and works from West Palm Beach, Florida. The founder page at [suedeai.ai/founder](https://suedeai.ai/founder) is the canonical record.
 
-Suede AI is also known as **Suede Labs AI**. **Johnny Suede** is Jason Colapietro’s pen name. Explore the [author catalog](https://jasoncolapietro.com/books/), [speaking and interview record](https://jasoncolapietro.vip/topics/), [speaker biographies and portraits](https://jasoncolapietro.vip/facts/), and [all badges, credentials and public profiles](https://jasoncolapietro.com/badges/).
+Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’s pen name. Explore the [author catalog](https://jasoncolapietro.com/books/), [speaking and interview record](https://jasoncolapietro.vip/topics/), [speaker biographies and portraits](https://jasoncolapietro.vip/facts/), and [all badges, credentials and public profiles](https://jasoncolapietro.com/badges/).
 
 ## Speaking and interviews
 
