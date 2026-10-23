@@ -155,6 +155,16 @@ Outside GitHub, a Linux kernel USB/IP patch, *usbip: make remote list honor pars
 - [WebMCP storefront](https://github.com/JasonColapietro/suede-webmcp-challenge): his entry to OpenAI's WebMCP Challenge in September 2026, page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. MIT licensed, running at [webmcp.suedeai.ai/agents](https://webmcp.suedeai.ai/agents).
 - [The Screenshot, source edition](https://github.com/JasonColapietro/suede-geo-book): the SEO and GEO field guide as chapters, PDF and EPUB.
 
+Package versions and published reviews for Suede Creator Skills and its MCP server:
+
+[![suede-creator-skills on PyPI](https://img.shields.io/pypi/v/suede-creator-skills)](https://pypi.org/project/suede-creator-skills/)
+[![suede-skills-mcp on npm](https://img.shields.io/npm/v/suede-skills-mcp)](https://www.npmjs.com/package/suede-skills-mcp)
+[![Socket score for suede-skills-mcp v0.19.0](https://badge.socket.dev/npm/package/suede-skills-mcp/0.19.0)](https://badge.socket.dev/npm/package/suede-skills-mcp/0.19.0)
+
+Suede Design's individual Skills Directory review:
+
+[![Suede Design review on Skills Directory](https://www.skillsdirectory.com/api/skills/jasoncolapietro-suede-design/badge)](https://www.skillsdirectory.com/skills/jasoncolapietro-suede-design)
+
 ## Books
 
 Five on Amazon Kindle, the two engineering books first. All five are on his [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
