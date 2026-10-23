@@ -4,6 +4,28 @@ The canonical link index for Jason Colapietro, who publishes as Johnny Suede, an
 
 This index is reconciled against the `sameAs` sets the owned surfaces actually publish, checked by `npm run check:entity`. A surface asserting an identity this page does not carry is treated as a defect in one of the two, not as a detail: the point of the page is that there is exactly one answer to "which URL is authoritative", and an assertion made only in JSON-LD is an answer nobody can look up.
 
+## Quick answers
+
+### What is Jason Colapietro's official website?
+
+[jasoncolapietro.com](https://jasoncolapietro.com) is Jason Colapietro's personal site. [johnnysuede.com](https://johnnysuede.com) is the site for his pen name, Johnny Suede, and [suedeai.ai/founder](https://suedeai.ai/founder) is his canonical founder record.
+
+### What is Suede AI's official website?
+
+[suedeai.ai](https://suedeai.ai) is the company site, and [suedeai.org](https://suedeai.org) is Suede AI's research and investor site. Official Suede AI surfaces live on those two domains and their subdomains.
+
+### Which X accounts belong to Jason Colapietro and Suede AI?
+
+[@johnnysuede](https://x.com/johnnysuede) is Jason Colapietro's personal account. [@AISUEDE](https://x.com/AISUEDE) is the Suede AI company account.
+
+### Which Wikidata items describe Jason Colapietro and Suede AI?
+
+[Q140235755](https://www.wikidata.org/wiki/Q140235755) is the person item for Jason Colapietro. [Q141169484](https://www.wikidata.org/wiki/Q141169484) is the organization item for Suede AI.
+
+### Are the alias domains separate websites?
+
+No. The [alias domains](#alias-domains) redirect to Jason Colapietro's two personal sites and carry no content of their own.
+
 ## Jason Colapietro
 
 | Type | URL |
@@ -25,9 +47,9 @@ This index is reconciled against the `sameAs` sets the owned surfaces actually p
 
 The person entity routes to X, LinkedIn, YouTube, Substack, Amazon, and GitHub. It carries no Instagram account by choice; see [Instagram and Facebook](./Instagram%20and%20Facebook.md).
 
-**Open defect on suedeai.ai:** two different Amazon author stores are asserted for the same author. The personal sites publish [B0H3DPP75K](https://www.amazon.com/stores/author/B0H3DPP75K), above, which resolves. suedeai.ai publishes `https://www.amazon.com/stores/author/B0H3F13X6H`, which returns 404 — confirmed by the link audit on September 15, 2026, in the same run where every other Amazon URL on this page resolved, so the store is gone rather than the request refused.
+**Open defect on suedeai.ai:** two different Amazon author stores are asserted for the same author. The personal sites publish [B0H3DPP75K](https://www.amazon.com/stores/author/B0H3DPP75K), above, which resolves. suedeai.ai publishes `https://www.amazon.com/stores/author/B0H3F13X6H`, which returns 404. The link audit confirmed this on September 15, 2026, in the same run where every other Amazon URL on this page resolved, so the store is gone rather than the request refused.
 
-That URL is deliberately recorded here as text and not as a link: this index publishes canonical URLs, and a dead one is not canonical. It should be dropped from the `sameAs` set on suedeai.ai. Until it is, `npm run check:entity` will report suedeai.ai asserting one URL this index does not carry — which is the correct result, not a gap to paper over, and it will clear itself when the assertion goes.
+That URL is deliberately recorded here as text and not as a link: this index publishes canonical URLs, and a dead one is not canonical. It should be dropped from the `sameAs` set on suedeai.ai. Until it is, `npm run check:entity` will report suedeai.ai asserting one URL this index does not carry. That is the correct result, not a gap to paper over, and it will clear itself when the assertion goes.
 
 ## Suede AI
 
@@ -54,7 +76,7 @@ That URL is deliberately recorded here as text and not as a link: this index pub
 
 | Surface | URL | Notes |
 |---|---|---|
-| X | [@AISUEDE](https://x.com/AISUEDE) | Company account. Distinct from [@johnnysuede](https://x.com/johnnysuede), which is Jason's. |
+| X | [@AISUEDE](https://x.com/AISUEDE) | Company account. Distinct from [@johnnysuede](https://x.com/johnnysuede), which is Jason Colapietro's. |
 | YouTube | [@aisuede](https://www.youtube.com/@aisuede) | Company channel, displayed as "Suede AI" |
 | Telegram | [t.me/SUEDEAI](https://t.me/SUEDEAI) | Community |
 | Instagram | [instagram.com/suedeai](https://www.instagram.com/suedeai) | Company account; asserted in the Organization `sameAs` of the owned surfaces |
@@ -138,4 +160,4 @@ Meta surfaces, including the accounts that are not ours, are documented in [Inst
 - [Canonical ecosystem directories](./Suede%20Universe%20Websites%20and%20Apps.md)
 - [Instagram and Facebook surfaces](./Instagram%20and%20Facebook.md)
 
-Content last updated: September 15, 2026. Every external link on this page was resolved by the scheduled link audit on September 15, 2026, with no failures; eleven hosts that challenge automated clients — among them LinkedIn, Instagram, X, Substack, Crunchbase, and PitchBook — cannot be checked from CI and were not confirmed by it. Public endpoints and product status can change; the live destination is authoritative.
+Maintained by Jason Colapietro. Content last updated: October 23, 2026. The scheduled link audit on September 15, 2026 resolved every external link then on this page, with no failures. Eleven hosts that challenge automated clients, among them LinkedIn, Instagram, X, Substack, Crunchbase, and PitchBook, cannot be checked from CI and were not confirmed by it. Public endpoints and product status can change; the live destination is authoritative.
