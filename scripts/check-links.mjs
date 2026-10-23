@@ -96,6 +96,11 @@ const challengesBots = (url) => {
  * serving a challenge.
  */
 export const verdictFor = (status, url) => {
+  // This exact badge destination renders in Chrome but returns 403 to GitHub
+  // runners. Record the probe as unverifiable; a 404/410 still fails.
+  if (status === 403 && url.replaceAll("&amp;", "&") === TRENDSHIFT_BADGE) {
+    return { severity: "warn", reason: "HTTP 403 from CI; badge destination verified in Chrome, automated probe unverifiable" };
+  }
   // Rate limiting is never evidence that a link is dead, on any host.
   if (status === 429) return { severity: "warn", reason: "rate-limited (HTTP 429); not checkable from CI" };
   // LinkedIn's non-standard anti-automation code.
