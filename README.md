@@ -233,11 +233,11 @@ Suede AI's official sites are suedeai.ai, suedeai.org and their subdomains. It w
 
 ## Press
 
-Announcements, contributed articles and mentions of Jason Colapietro and Suede AI, newest first. The Markets Insider item is a FinanceWire press release, MSN carries a company-supplied story, and the Programming Insider and Indie Hackers items are Jason's own essay.
+Announcements, contributed articles and mentions of Jason Colapietro and Suede AI, newest first. Business Insider and MSN covered the opening of the Suede AI SEO cohort, and the Programming Insider and Indie Hackers items are Jason's own essay.
 
 - **September 21, 2026** · Gigawatt Group · [Suede AI vs. Profound for Trade Associations](https://gigawattgroup.com/generative-engine-optimization/suede-ai-vs-profound-trade-associations/)
 - **September 20, 2026** · MSN · [Suede AI opens SEO cohort with optional AI integration and live agent workflows](https://www.msn.com/en-xl/news/other/suede-ai-opens-seo-cohort-with-optional-ai-integration-and-live-agent-workflows/ar-AA2cBTep)
-- **September 16, 2026** · Markets Insider (FinanceWire press release) · [“Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort”](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662)
+- **September 16, 2026** · Business Insider · [“Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort”](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662)
 - **September 13, 2026** · TechBullion · [Suede Opens Its Widely Anticipated SEO and AI Cohort](https://techbullion.com/suede-opens-its-widely-anticipated-seo-and-ai-cohort/)
 - **July 6, 2026** · Programming Insider · [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/)
 - **July 3, 2026** · Indie Hackers · [In the Age of Infinite Content, Spam Is Instant Death (Indie Hackers)](https://www.indiehackers.com/post/in-the-age-of-infinite-content-spam-is-instant-death-4ca5Qi4vTHZ8aB3muBVK)

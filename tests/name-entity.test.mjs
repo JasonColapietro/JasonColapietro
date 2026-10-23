@@ -336,68 +336,69 @@ test("the header and the badge give one book count: the titles on Amazon Kindle"
   }
 });
 
-// The September 16, 2026 item on markets.businessinsider.com is a paid press
-// release: FinanceWire distributed it, Markets Insider syndicated it, and the
-// originals on finanzwire.com and webdisclosure.com say "This is a paid press
-// release." For a month this page presented it as Business Insider coverage —
-// a badge, a Highlights claim, the outlet of a Press entry, and "the eleventh
-// feature placement" in the changelog. The release stays listed; it is named
-// for what it is everywhere it is linked.
-test("the Markets Insider release keeps its publisher and release label on every claim surface", async () => {
+// The September 16, 2026 item on markets.businessinsider.com is labelled
+// "Business Insider". The label changed on 2026-10-23 at Jason's direction,
+// matching suedeai.ai: before that this page called it "Markets Insider
+// (FinanceWire press release)" and called the MSN story "company-supplied".
+// Those labels and qualifiers are retired on every claim surface. The entry
+// keeps its URL, its date and its verbatim headline in quotes, and no surface
+// turns the item into a count of "feature placements".
+test("the September 16, 2026 Business Insider item keeps its label on every claim surface", async () => {
   const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
   const retired = [
-    [/badge\/Business_Insider/i, "a Business Insider badge"],
-    [/covered by Business Insider/i, '"covered by Business Insider"'],
-    [/Business Insider(?:['’]s)? (?:coverage|feature|piece|ran|covered)/i, "Business Insider presented as the publisher"],
-    [/(?:featured|as seen) (?:in|on|by) Business Insider/i, '"featured in" / "as seen in" Business Insider'],
-    [/· Business Insider ·/, "Business Insider as the outlet of a Press entry"],
+    [/Markets[ _]Insider/i, 'the retired "Markets Insider" label'],
+    [/FinanceWire/i, "the retired FinanceWire attribution"],
+    [/company-supplied/i, 'the retired "company-supplied" qualifier'],
     [/feature placement/i, 'a "feature placement" count'],
   ];
 
   for (const [index, text] of surfaces.entries()) {
     for (const [pattern, what] of retired) {
-      assert.doesNotMatch(text, pattern, `${CLAIM_SURFACES[index]} reintroduces ${what}; the item is a FinanceWire press release syndicated on Markets Insider`);
+      assert.doesNotMatch(text, pattern, `${CLAIM_SURFACES[index]} reintroduces ${what}; the item is labelled "Business Insider"`);
     }
   }
 
-  const RELEASE = "markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro";
+  const ITEM = "https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662";
+  const HEADLINE = "“Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort”";
   for (const [index, text] of surfaces.entries()) {
     const file = CLAIM_SURFACES[index];
     const lines = text.split("\n");
-    const linking = lines.filter((line) => line.includes(RELEASE));
+    const linking = lines.filter((line) => line.includes("markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro"));
     for (const line of linking) {
-      assert.match(line, /FinanceWire/i, `${file}: release link must name FinanceWire`);
-      assert.match(line, /press release/i, `${file}: release link must identify the press release`);
-    }
-    for (const line of lines.filter((l) => /img\.shields\.io\/badge\/[^"]*Markets_Insider/.test(l))) {
-      assert.match(line, /alt="[^"]*press release[^"]*"/i, `${file}: Markets Insider badge must describe the press release`);
+      assert.ok(line.includes(ITEM), `${file}: the Business Insider link must keep its exact URL`);
+      assert.match(line, /Business Insider/, `${file}: the Business Insider link must carry the "Business Insider" label`);
+      assert.doesNotMatch(line, /press release/i, `${file}: the Business Insider link must not carry a press-release label`);
     }
     if (file === "README.md") {
       const entry = linking.find((line) => line.startsWith("- **September 16, 2026** · "));
       assert.ok(entry, "the Press list keeps its September 16, 2026 entry");
-      assert.match(entry, /· Markets Insider \(FinanceWire press release\) ·/);
+      assert.ok(
+        entry.startsWith(`- **September 16, 2026** · Business Insider · [${HEADLINE}](${ITEM})`),
+        "the September 16, 2026 entry reads: Business Insider, the verbatim headline in quotes, the exact URL",
+      );
+      const msn = lines.find((line) => line.startsWith("- **September 20, 2026** · "));
+      assert.ok(msn, "the Press list keeps its September 20, 2026 entry");
+      assert.match(msn, /^- \*\*September 20, 2026\*\* · MSN · \[/, "the MSN entry is labelled plainly \"MSN\"");
     }
   }
-
 });
 
-// "Award-Winning Developer" is the headline Suede's own release ran under, and
-// no award is named anywhere: not in the release, not on any of Jason's
-// surfaces. The headline may be quoted as the release headline it is, labelled
-// as such. It may not become a description of him anywhere else, including
-// elsewhere on the same line.
-test('"award-winning" appears only inside the quoted, labelled release headline', async () => {
+// "Award-Winning Developer" is the headline of the September 16, 2026 Business
+// Insider item, and no award is named anywhere on Jason's surfaces. The
+// headline may be quoted verbatim in its Press entry. It may not become a
+// description of him anywhere else, including elsewhere on the same line.
+test('"award-winning" appears only inside the quoted Business Insider headline', async () => {
   const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
 
   for (const [index, text] of surfaces.entries()) {
     for (const line of text.split("\n")) {
       // URLs and slugs are addresses, not claims.
       const prose = line.replace(/\]\([^)\s]*\)/g, "]").replace(/https?:\/\/[^\s"'<>)]+/g, "");
-      const rest = prose.replace(/(?:Press release headlined |Markets Insider \(FinanceWire press release\) · )\[“[^”]*”\]/g, "");
+      const rest = prose.replace(/Business Insider · \[“[^”]*”\]/g, "");
       assert.doesNotMatch(
         rest,
         /award[- ]winning/i,
-        `${CLAIM_SURFACES[index]} uses "award-winning" outside the quoted release headline: ${line.slice(0, 120)}`,
+        `${CLAIM_SURFACES[index]} uses "award-winning" outside the quoted Business Insider headline: ${line.slice(0, 120)}`,
       );
     }
   }
