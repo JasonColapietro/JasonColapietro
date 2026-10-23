@@ -6,6 +6,7 @@ import { once } from "node:events";
 import { classify, extractLinks, headingSlugs, slugify } from "../scripts/lib/markdown.mjs";
 import { Report } from "../scripts/lib/report.mjs";
 import { probe } from "../scripts/lib/http.mjs";
+import { hasUnapprovedTracking } from "../scripts/check-links.mjs";
 import {
   acceptsOf,
   amountOf,
@@ -36,6 +37,22 @@ import {
 
 const severities = (problems) => problems.map((p) => p.severity);
 const messages = (problems) => problems.map((p) => p.message).join(" | ");
+
+test("the requested Trendshift badge is the only campaign URL exception", () => {
+  const badge = "https://trendshift.io/repositories/82031?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-82031";
+  assert.equal(hasUnapprovedTracking(badge), false);
+  assert.equal(hasUnapprovedTracking(badge.replaceAll("&", "&amp;")), false);
+  assert.equal(hasUnapprovedTracking("https://suedeai.ai"), false);
+  for (const url of [
+    badge.replace("/82031?", "/999?"),
+    badge.replace("badge-trendshift-82031", "another-campaign"),
+    `${badge}&gclid=extra`,
+    "https://suedeai.ai?utm_source=other",
+    "https://suedeai.ai?x=1&amp;utm_source=other",
+  ]) {
+    assert.equal(hasUnapprovedTracking(url), true, url);
+  }
+});
 
 test("link extraction finds every link form the profile surfaces actually use", () => {
   const md = [
