@@ -13,6 +13,7 @@ Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He
   <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon_Kindle-ff9900?labelColor=080808" alt="5 books on Amazon Kindle"></a>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-9-c8a96e?labelColor=080808" alt="9 iOS apps"></a>
   <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-6-3ddc84?labelColor=080808" alt="6 Android apps"></a>
+  <a href="#training-connected-to-working-examples"><img src="https://img.shields.io/badge/credentials-21_courses_%2B_17_Microsoft_Learn-c8a96e?labelColor=080808" alt="21 course credentials and 17 Microsoft Learn achievements"></a>
   <a href="#programs"><img src="https://img.shields.io/badge/Claude_for_Startups-member-d97757?labelColor=080808" alt="Member of Claude for Startups, Anthropic's startup program"></a>
   <a href="#programs"><img src="https://img.shields.io/badge/Google_Cloud_Partner_Advantage-member-4285f4?labelColor=080808" alt="Member of Google Cloud Partner Advantage"></a>
 </p>
@@ -25,6 +26,7 @@ Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He
   <a href="https://jasoncolapietro.substack.com"><img src="https://img.shields.io/badge/Writing-Substack-c2410c?labelColor=080808" alt="Writing on Substack"></a>
   <a href="https://www.linkedin.com/in/jasoncolapietro"><img src="https://img.shields.io/badge/Jason's_LinkedIn-jasoncolapietro-0a66c2?labelColor=080808" alt="Jason's LinkedIn"></a>
   <a href="https://x.com/johnnysuede"><img src="https://img.shields.io/badge/X-%40johnnysuede-1a6fb5?labelColor=080808" alt="X: @johnnysuede"></a>
+  <a href="https://www.youtube.com/@johnnysuede"><img src="https://img.shields.io/badge/YouTube-%40johnnysuede-c4302b?labelColor=080808" alt="YouTube: @johnnysuede"></a>
   <a href="https://www.wikidata.org/wiki/Q140235755"><img src="https://img.shields.io/badge/Wikidata-Q140235755-1f6b46?labelColor=080808" alt="Wikidata item Q140235755"></a>
   <a href="https://www.crunchbase.com/person/jason-colapietro-d83e"><img src="https://img.shields.io/badge/Crunchbase-founder_profile-01629b?labelColor=080808" alt="Crunchbase: founder profile"></a>
 </p>
@@ -69,6 +71,54 @@ Jason Colapietro connects issued personal training records to inspectable implem
 | [Answer evaluation](https://seo.suedeai.ai/demonstrations#evaluation) | Four authored answer fixtures checked for the holder, award categories, verification source and relationship. | [Craft Precise Prompts for AI Models](https://www.credly.com/badges/5ddf36c2-fd1e-449d-b388-aa15fb07d242/public_url), IBM SkillsBuild, digital credential issued October 21, 2026. |
 
 The [issued training inventory](https://seo.suedeai.ai/evidence#training-credentials) keeps course credentials, Microsoft Learn module badges and learning path trophies, and program memberships separate. The examples support defined integration, search and evaluation work within Suede AI's agent platform and agent-commerce practice.
+
+Credential profiles: [full badge gallery](https://jasoncolapietro.com/badges/) · [Microsoft Learn achievements](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements) · [Credly](https://www.credly.com/users/jason-colapietro/badges/credly) · [AWS Skills Profile](https://skillsprofile.skillbuilder.aws/user/jasoncolapietro/certification-badges) · [Hugging Face](https://huggingface.co/jasoncolapietro) · [Google Developer profile](https://me.developers.google.com/u/101508597028441586213).
+
+<details>
+<summary>All 21 course credentials and 17 Microsoft Learn achievements, with provider records</summary>
+
+| Provider | Credential | Type |
+|---|---|---|
+| Claude Academy / Anthropic | [Claude 101](https://academy.claude.com/verify/16b87ab26756bd773c4d4ae6042ec678) | Course completion badge |
+| Claude Academy / Anthropic | [Building with the Claude API](https://academy.claude.com/verify/cfd6ca0e9fffb70a3f6d17af25bf8c48) | Course completion badge |
+| Claude Academy / Anthropic | [Claude Code 101](https://academy.claude.com/verify/445961fadfb02c06d388b1ff473475e5) | Course completion badge |
+| Claude Academy / Anthropic | [Claude Code in action](https://academy.claude.com/verify/70a67d6dd1993766e62dcb19ca843fa2) | Course completion badge |
+| Claude Academy / Anthropic | [Introduction to Model Context Protocol](https://academy.claude.com/verify/fd186edfa900b4f1ecb6c80389cb59fb) | Course completion badge |
+| Claude Academy / Anthropic | [Model Context Protocol: Advanced topics](https://academy.claude.com/verify/de8b52f32a06ba02c4ccff9810dfc8f3) | Course completion badge |
+| Claude Academy / Anthropic | [Claude Platform 101](https://academy.claude.com/verify/848d8f4bdeaead556efd9d04dbea7252) | Course completion badge |
+| Claude Academy / Anthropic | [Claude with Amazon Bedrock](https://academy.claude.com/verify/c0c651d603539277db22af92ad025031) | Course completion badge |
+| Claude Academy / Anthropic | [Claude on Google Cloud](https://academy.claude.com/verify/2de1c5e87909f732f034bf766a1072e1) | Course completion badge |
+| Semrush Academy | [AI PR Toolkit Crash Course](https://static.semrush.com/academy/certificates/8fac8693bd/jason-colapietro_36.png) | Certificate of achievement |
+| Semrush Academy | [AI Search Operating System](https://static.semrush.com/academy/certificates/60d5e7e763/jason-colapietro_37.png) | Certificate of achievement |
+| Semrush Academy | [On-Page SEO and AI Search Essentials with Semrush](https://static.semrush.com/academy/certificates/9ab922478c/jason-colapietro_25.png) | Certificate of achievement |
+| Semrush Academy | [Keyword Research Essentials with Semrush](https://static.semrush.com/academy/certificates/582a65c1b2/jason-colapietro_25.png) | Certificate of achievement |
+| Semrush Academy | [Local SEO Essentials with Semrush](https://static.semrush.com/academy/certificates/208fabd2f0/jason-colapietro_25.png) | Certificate of achievement |
+| HubSpot Academy | [AEO Fundamentals](https://seo.suedeai.ai/evidence#training-credentials) | Certification |
+| Google Cloud / Google Skills | [Introduction to Large Language Models](https://seo.suedeai.ai/evidence#training-credentials) | Course completion badge |
+| Google Cloud / Google Skills | [Introduction to Generative AI](https://seo.suedeai.ai/evidence#training-credentials) | Course completion badge |
+| Databricks Academy | [Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/5589da4e-cdf8-4032-a004-8af8dc9eed9b) | Academy accreditation badge |
+| IBM SkillsBuild | [Craft Precise Prompts for AI Models](https://www.credly.com/badges/5ddf36c2-fd1e-449d-b388-aa15fb07d242/public_url) | Digital credential |
+| Hugging Face | [Fundamentals of Agents](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/jasoncolapietro/2026-10-22.png) | Course certificate of achievement |
+| AWS Skill Builder | [Amazon Bedrock Getting Started](https://seo.suedeai.ai/assets/credentials/aws-bedrock-completion.png) | Course completion certificate |
+| Microsoft Learn | [Integrate custom tools into your agent](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/xpwwcu6y) | Training module achievement badge |
+| Microsoft Learn | [Integrate MCP Tools with Azure AI Agents](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/crlljl59) | Training module achievement badge |
+| Microsoft Learn | [Build knowledge-enhanced AI agents with Foundry IQ](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/egvv2hvp) | Training module achievement badge |
+| Microsoft Learn | [Develop AI agents with Microsoft Foundry and Visual Studio Code](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/2taaacev) | Training module achievement badge |
+| Microsoft Learn | [Integrate your agent with Microsoft 365](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/9agg9nau) | Training module achievement badge |
+| Microsoft Learn | [Build agent-driven workflows using Microsoft Foundry](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/8vu3n2qw) | Training module achievement badge |
+| Microsoft Learn | [Develop an AI agent with Microsoft Agent Framework](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/8vu3fazw) | Training module achievement badge |
+| Microsoft Learn | [Orchestrate a multi-agent solution using the Microsoft Agent Framework](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/8vu3xaew) | Training module achievement badge |
+| Microsoft Learn | [Discover Azure AI Agents with A2A](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/9ag6wtqu) | Training module achievement badge |
+| Microsoft Learn | [Develop AI agents on Azure](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/fe8w79dx) | Learning path achievement trophy |
+| Microsoft Learn | [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/ql2vj9le) | Training module achievement badge |
+| Microsoft Learn | [Select, deploy, and evaluate Microsoft Foundry models](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/y4nfmgyr) | Training module achievement badge |
+| Microsoft Learn | [Develop a generative AI chat app with Microsoft Foundry](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/y4nfmcar) | Training module achievement badge |
+| Microsoft Learn | [Develop generative AI apps that use tools](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/h29urs58) | Training module achievement badge |
+| Microsoft Learn | [Optimize generative AI model performance with Microsoft Foundry](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/nqh8zclf) | Training module achievement badge |
+| Microsoft Learn | [Implement a responsible generative AI solution in Microsoft Foundry](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/4cqe5q6k) | Training module achievement badge |
+| Microsoft Learn | [Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements/print/y4nfmner) | Learning path achievement trophy |
+
+</details>
 
 ## Open-source record
 
@@ -234,6 +284,7 @@ Jason Colapietro and Suede AI belong to the programs below. Each dated entry lin
 
 - **Claude for Startups**, Anthropic's startup program: Suede AI has been a member since October 8, 2026. [Receipt](https://seo.suedeai.ai/evidence#claude-for-startups).
 - **Google Cloud Partner Advantage**: member since September 4, 2026, through JC Investment Group LLC, with suedeai.ai as the verified domain. The partnership with Google Cloud dates from September 2025. [Receipts](https://seo.suedeai.ai/evidence#google-cloud).
+- **Google Developer Program**: member of Gemini Agent Ready (GEAR). [Profile](https://me.developers.google.com/u/101508597028441586213).
 - **Stripe Startups**: admitted in July 2026.
 - **Florida Atlantic Entrepreneurship Institute**, FAU College of Business: accepted in July 2026.
 - **1909**, the West Palm Beach entrepreneurship hub: member.
@@ -329,6 +380,10 @@ Jason Colapietro has shipped 9 iOS apps, 6 Android apps and 2 Chrome extensions,
 ### Does Jason Colapietro have any patents?
 
 Jason Colapietro has five provisional patent applications on file with the USPTO, so their status is patent pending. The serial numbers are listed under [Programs](#programs).
+
+### What certifications does Jason Colapietro hold?
+
+He holds 21 course credentials across eight providers, including nine Claude Academy courses from Anthropic, five Semrush Academy certificates and HubSpot Academy's AEO Fundamentals certification, plus 17 Microsoft Learn achievements on AI agents and Microsoft Foundry. Each one is listed with its provider record under [Training](#training-connected-to-working-examples) and at [jasoncolapietro.com/badges](https://jasoncolapietro.com/badges/).
 
 ### What does Jason Colapietro speak about?
 
