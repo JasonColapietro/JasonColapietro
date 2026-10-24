@@ -222,7 +222,6 @@ Jason Colapietro is the creator and maintainer of each project below.
 <a href="https://trendshift.io/repositories/82031?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-82031" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/82031/daily?language=Python" alt="JasonColapietro%2Fsuede-creator-skills | Trendshift" width="250" height="55"/></a>
 
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) ([skills.suedeai.ai](https://skills.suedeai.ai)): open-source agent skills for Claude Code and Codex, installable as a plugin marketplace. Most of the accepted listings above are this pack.
-- [claimcheck](https://github.com/JasonColapietro/claimcheck): turns the promises on a privacy page into tests that fail the build. Zero dependencies.
 - [Suede Python SDK](https://github.com/Suede-AI/suede-sdk-python): a client for Suede's x402 pay-per-call endpoints.
 - [elizaOS plugin](https://github.com/JasonColapietro/elizaos-plugin-suede): lets elizaOS agents pay for media generation over x402, published to npm as [@suedeai/plugin-suede](https://www.npmjs.com/package/@suedeai/plugin-suede).
 - [WebMCP storefront](https://github.com/JasonColapietro/suede-webmcp-challenge): his entry to OpenAI's WebMCP Challenge in September 2026, page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. MIT licensed, running at [webmcp.suedeai.ai/agents](https://webmcp.suedeai.ai/agents).
@@ -371,7 +370,7 @@ His merged pull requests include fixes and features in Jest, Adobe React Spectru
 
 ### What open-source software has Jason Colapietro created?
 
-Jason Colapietro created [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills), open-source agent skills for Claude Code and Codex, along with [claimcheck](https://github.com/JasonColapietro/claimcheck), an elizaOS plugin and a WebMCP storefront. See [Open-source projects created by Jason Colapietro](#open-source-projects-created-by-jason-colapietro).
+Jason Colapietro created [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills), open-source agent skills for Claude Code and Codex, along with an elizaOS plugin and a WebMCP storefront. See [Open-source projects created by Jason Colapietro](#open-source-projects-created-by-jason-colapietro).
 
 ### What apps has Jason Colapietro built?
 
