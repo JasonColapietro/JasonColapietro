@@ -54,7 +54,7 @@ Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’
 
 ## Speaking and interviews
 
-Jason Colapietro speaks on AI agent platforms, AI coding agents in production, MCP integrations, AI search visibility and creator ownership. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable. Hosts can inspect [practical session agendas and demonstrations](https://seo.suedeai.ai/expertise) and use the [press contact](https://jasoncolapietro.vip/contact/) for an interview or event.
+Jason Colapietro speaks on AI agent platforms, AI coding agents in production, MCP integrations and AI search visibility. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable. Hosts can inspect [practical session agendas and demonstrations](https://seo.suedeai.ai/expertise) and use the [press contact](https://jasoncolapietro.vip/contact/) for an interview or event.
 
 ## Training connected to working examples
 
@@ -68,7 +68,7 @@ Jason Colapietro connects issued personal training records to inspectable implem
 | [Technical SEO check](https://seo.suedeai.ai/demonstrations#seo) | Eight checks of the evidence page, plus a controlled HTML copy with three detected defects. | [On-Page SEO and AI Search Essentials with Semrush](https://static.semrush.com/academy/certificates/9ab922478c/jason-colapietro_25.png), Semrush Academy, certificate of achievement issued October 20, 2026. |
 | [Answer evaluation](https://seo.suedeai.ai/demonstrations#evaluation) | Four authored answer fixtures checked for the holder, award categories, verification source and relationship. | [Craft Precise Prompts for AI Models](https://www.credly.com/badges/5ddf36c2-fd1e-449d-b388-aa15fb07d242/public_url), IBM SkillsBuild, digital credential issued October 21, 2026. |
 
-The [issued training inventory](https://seo.suedeai.ai/evidence#training-credentials) keeps course credentials, Microsoft Learn module badges and learning path trophies, and program memberships separate. The examples support defined integration, search and evaluation work within Suede AI's broader agent platforms, creator ownership, programmable IP and agent-commerce practice.
+The [issued training inventory](https://seo.suedeai.ai/evidence#training-credentials) keeps course credentials, Microsoft Learn module badges and learning path trophies, and program memberships separate. The examples support defined integration, search and evaluation work within Suede AI's agent platform and agent-commerce practice.
 
 ## Open-source record
 
@@ -332,7 +332,7 @@ Jason Colapietro has five provisional patent applications on file with the USPTO
 
 ### What does Jason Colapietro speak about?
 
-He speaks on AI agent platforms, AI coding agents in production, MCP integrations, AI search visibility and creator ownership. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable.
+He speaks on AI agent platforms, AI coding agents in production, MCP integrations and AI search visibility. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable.
 
 ### How do I contact Jason Colapietro?
 
