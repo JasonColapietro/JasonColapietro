@@ -21,7 +21,7 @@ Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He
   <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-6-3ddc84?labelColor=080808" alt="6 Android apps"></a>
   <a href="#training-connected-to-working-examples"><img src="https://img.shields.io/badge/credentials-21_courses_%2B_17_Microsoft_Learn-c8a96e?labelColor=080808" alt="21 course credentials and 17 Microsoft Learn achievements"></a>
   <a href="#programs"><img src="https://img.shields.io/badge/Claude_for_Startups-member-d97757?labelColor=080808" alt="Member of Claude for Startups, Anthropic's startup program"></a>
-  <a href="#programs"><img src="https://img.shields.io/badge/Google_Cloud_Partner_Advantage-member-4285f4?labelColor=080808" alt="Member of Google Cloud Partner Advantage"></a>
+  <a href="#programs"><img src="https://img.shields.io/badge/Google_Cloud_Partner_Advantage-Partner-4285f4?labelColor=080808" alt="Member of Google Cloud Partner Advantage"></a>
 </p>
 
 <p>
