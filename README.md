@@ -4,6 +4,12 @@
 
 # Jason Colapietro
 
+<p>
+  <a href="https://themanifest.com/artificial-intelligence/consulting/deployment/companies/florida"><img src="assets/florida-ai-deployment-ranking.svg" width="380" alt="TOP 24 IN FLORIDA"></a><br>
+  <strong>AI deployment developers · October 2026</strong><br>
+  Suede AI SEO ranked <strong>#24</strong>. <a href="https://themanifest.com/artificial-intelligence/consulting/deployment/companies/florida">View ranking →</a>
+</p>
+
 **Engineer · Founder and CEO of [Suede AI](https://suedeai.ai) · author of five books on Amazon Kindle · [speaker](https://jasoncolapietro.vip/topics/) · five provisional patent applications (patent pending)**
 
 Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.
