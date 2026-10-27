@@ -231,7 +231,7 @@ Jason Colapietro is the creator and maintainer of each project below.
 - [Suede Python SDK](https://github.com/Suede-AI/suede-sdk-python): a client for Suede's x402 pay-per-call endpoints.
 - [elizaOS plugin](https://github.com/JasonColapietro/elizaos-plugin-suede): lets elizaOS agents pay for media generation over x402, published to npm as [@suedeai/plugin-suede](https://www.npmjs.com/package/@suedeai/plugin-suede).
 - [WebMCP storefront](https://github.com/JasonColapietro/suede-webmcp-challenge): his entry to OpenAI's WebMCP Challenge in September 2026, page-scoped tools that let an in-browser agent find, inspect, dry-run, and buy a published service. MIT licensed, running at [webmcp.suedeai.ai/agents](https://webmcp.suedeai.ai/agents).
-- [The Screenshot, source edition](https://github.com/JasonColapietro/suede-geo-book): the SEO and GEO field guide as chapters, PDF and EPUB.
+- <img src="https://suedeai.ai/books/the-screenshot-cover.jpg" alt="Cover of The Screenshot" width="80"><br>[The Screenshot, source edition](https://github.com/JasonColapietro/suede-geo-book): the SEO and GEO field guide as chapters, PDF and EPUB.
 
 Package versions and published reviews for Suede Creator Skills and its MCP server, both created by Jason Colapietro:
 
@@ -249,13 +249,18 @@ Jason Colapietro has written five books on Amazon in hardcover, paperback, and K
 
 | Book | What it covers |
 |---|---|
-| [The Claude Code Bible](https://www.amazon.com/dp/B0HHTMJWB4) | The complete operator's guide to Claude Code and AI coding agents. |
-| [Codex in Production](https://www.amazon.com/dp/B0HHTF3LG1) | A practical operator's guide to OpenAI Codex, AGENTS.md, worktrees, skills, security, and long-running agent work. |
-| [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) | Designing durable systems without trust assumptions. |
-| [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) | Turning the AI onslaught into a real asset. |
-| [The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) | How ownership, origin, and AI redraw the creative map. |
+| <img src="https://suedeai.ai/books/claude-code-bible-cover.jpg" alt="Cover of The Claude Code Bible" width="80"><br>[The Claude Code Bible](https://www.amazon.com/dp/B0HHTMJWB4) | The complete operator's guide to Claude Code and AI coding agents. |
+| <img src="https://suedeai.ai/books/codex-in-production-cover.jpg" alt="Cover of Codex in Production" width="80"><br>[Codex in Production](https://www.amazon.com/dp/B0HHTF3LG1) | A practical operator's guide to OpenAI Codex, AGENTS.md, worktrees, skills, security, and long-running agent work. |
+| <img src="https://suedeai.ai/books/proof-as-infrastructure-cover.jpg" alt="Cover of Proof as Infrastructure" width="80"><br>[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) | Designing durable systems without trust assumptions. |
+| <img src="https://suedeai.ai/books/stake-your-claim-cover.jpg" alt="Cover of Stake Your Claim" width="80"><br>[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) | Turning the AI onslaught into a real asset. |
+| <img src="https://suedeai.ai/books/human-authenticity-layer-cover.jpg" alt="Cover of The Human Authenticity Layer" width="80"><br>[The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) | How ownership, origin, and AI redraw the creative map. |
 
-Also by Jason Colapietro, published direct: [The Screenshot](https://seo.suedeai.ai/book), a free SEO and GEO field guide, and [The Signal Chain](https://guitar.solutions), an illustrated history of guitar tone.
+Also by Jason Colapietro, published direct:
+
+| Book | What it covers |
+|---|---|
+| <img src="https://suedeai.ai/books/the-screenshot-cover.jpg" alt="Cover of The Screenshot" width="80"><br>[The Screenshot](https://seo.suedeai.ai/book) | A free SEO and GEO field guide. |
+| <img src="https://suedeai.ai/books/the-signal-chain-cover.webp" alt="Cover of The Signal Chain" width="80"><br>[The Signal Chain](https://guitar.solutions) | An illustrated history of guitar tone. |
 
 Jason Colapietro's writing: [Substack](https://jasoncolapietro.substack.com), including *Fender Is Trying to Kill John Mayer's Guitar. AI Companies Are Next.*
 
@@ -409,7 +414,7 @@ Suede AI's music and creator software is a separate product line, listed last on
 | Product | What it does |
 |---|---|
 | [Suede Sing](https://sing.suedeai.ai) | The vocal studio in your browser: range test, register detection, pitch training, and measured warm-ups. Also on iOS and Android as Suede Voice, and on Chrome as Suede Sing. |
-| [Strumly](https://strumly.suedeai.ai) · [guitar.solutions](https://guitar.solutions) | A guitar coach, and the engineering-grade signal-chain reference behind The Signal Chain. |
+| <img src="https://suedeai.ai/books/the-signal-chain-cover.webp" alt="Cover of The Signal Chain" width="80"><br>[Strumly](https://strumly.suedeai.ai) · [guitar.solutions](https://guitar.solutions) | A guitar coach, and the engineering-grade signal-chain reference behind The Signal Chain. |
 | [GuitarHub](https://guitarhub.org) · [guitarchords.info](https://guitarchords.info) | Free guitar lessons on the web and on iOS, and free chord, scale, tuner, and metronome tools. |
 | [Suede Studio](https://studio.suedeai.ai) · [Suede Muse](https://muse.suedeai.ai) | AI music generation with the master kept by the creator, and a creative training companion. |
 | [Suede Social](https://suede.social) · [Suede DNA](https://dna.suedeai.ai) | A guitar community and gear magazine, and an archive of guitarists' rigs and signal chains. |
