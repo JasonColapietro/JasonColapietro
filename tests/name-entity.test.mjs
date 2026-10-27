@@ -217,8 +217,8 @@ test("profile counts agree with the badges and with what the file lists", async 
     "Apps section lead vs the badges and the Chrome row",
   );
 
-  // Books badge counts Amazon Kindle titles only; the independents are listed separately.
-  assert.equal(badge(/badge\/books-(\d+)_on_Amazon_Kindle-/), occurrences(/amazon\.com\/dp/g), "books badge vs Amazon links");
+  // Books badge counts Amazon titles; independent books are listed separately.
+  assert.equal(badge(/badge\/books-(\d+)_hardcover_paperback_Kindle-/), occurrences(/amazon\.com\/dp/g), "books badge vs Amazon links");
 
   // The upstream record is one number in three renderings, plus a split that must sum.
   const prs = badge(/upstream_merges-(\d+)_PRs/);
@@ -307,30 +307,30 @@ test("patent claims are scoped to provisional applications and agree on the coun
   );
 });
 
-// Jason's ruling of 2026-09-04: the titles on Amazon Kindle are the book count
+// Jason's ruling of 2026-09-04: the titles on Amazon in hardcover, paperback, and Kindle are the book count
 // of record. The two independent titles stay listed in Highlights and under
 // Books, but the header and the badge carry the Amazon count alone. Before
 // this guard the header said "seven books" beside a badge reading "5 on Amazon,
 // 7 total", while other surfaces said three, four, five or eight.
-test("the header and the badge give one book count: the titles on Amazon Kindle", async () => {
+test("the header and the badge give one book count: the titles on Amazon in hardcover, paperback, and Kindle", async () => {
   const readme = await read("README.md");
   const surfaces = await Promise.all(CLAIM_SURFACES.map(read));
   const WORDS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"];
 
-  const badge = readme.match(/badge\/books-(\d+)_on_Amazon_Kindle-/);
+  const badge = readme.match(/badge\/books-(\d+)_hardcover_paperback_Kindle-/);
   assert.ok(badge, "the books badge must read books-<n>_on_Amazon_Kindle");
 
   const header = readme.split("\n").find((line) => /^\*\*.*· author of .*\*\*$/.test(line));
   assert.ok(header, "the header line must carry the author credit");
-  const stated = header.match(/· author of (\w+) books on Amazon Kindle ·/i);
-  assert.ok(stated, 'the header must read "author of <n> books on Amazon Kindle"');
+  const stated = header.match(/· author of (\w+) books on Amazon in hardcover, paperback, and Kindle ·/i);
+  assert.ok(stated, 'the header must read "author of <n> books on Amazon in hardcover, paperback, and Kindle"');
   assert.equal(stated[1].toLowerCase(), WORDS[Number(badge[1])], "header book count vs the books badge");
 
   for (const [index, text] of surfaces.entries()) {
     assert.doesNotMatch(
       text,
       /\b(?:seven|eight|7|8) books\b/i,
-      `${CLAIM_SURFACES[index]} gives a book count other than the Amazon Kindle count of record`,
+      `${CLAIM_SURFACES[index]} gives a book count other than the Amazon in hardcover, paperback, and Kindle count of record`,
     );
     assert.doesNotMatch(text, /\bbest-?selling\b/i, `${CLAIM_SURFACES[index]} calls a book bestselling, which no list supports`);
   }
@@ -514,7 +514,7 @@ test("identity spec v2: retired claims stay off every claim surface", async () =
 test("identity spec v2: the profile leads with the founder line and describes Suede AI canonically", async () => {
   const readme = await read("README.md");
   const FOUNDER_ONE_LINER =
-    "Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.";
+    "Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon in hardcover, paperback, and Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.";
   const COMPANY_ONE_LINER =
     "Suede AI is an agentic platform company founded in 2024 by engineer Jason Colapietro in West Palm Beach, Florida. It builds and runs AI agent platforms that businesses use to manage their work, and white-labels them for agencies and their clients.";
 

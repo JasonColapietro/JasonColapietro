@@ -10,13 +10,13 @@
   Suede AI SEO ranked <strong>#24</strong>. <a href="https://themanifest.com/artificial-intelligence/consulting/deployment/companies/florida">View ranking →</a>
 </p>
 
-**Engineer · Founder and CEO of [Suede AI](https://suedeai.ai) · author of five books on Amazon Kindle · [speaker](https://jasoncolapietro.vip/topics/) · five provisional patent applications (patent pending)**
+**Engineer · Founder and CEO of [Suede AI](https://suedeai.ai) · author of five books on Amazon in hardcover, paperback, and Kindle · [speaker](https://jasoncolapietro.vip/topics/) · five provisional patent applications (patent pending)**
 
-Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.
+Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon in hardcover, paperback, and Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.
 
 <p>
   <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-54_PRs_%2F_46_repos-8250df?labelColor=080808" alt="54 merged upstream pull requests across 46 external repositories"></a>
-  <a href="#books"><img src="https://img.shields.io/badge/books-5_on_Amazon_Kindle-ff9900?labelColor=080808" alt="5 books on Amazon Kindle"></a>
+  <a href="#books"><img src="https://img.shields.io/badge/books-5_hardcover_paperback_Kindle-ff9900?labelColor=080808" alt="5 books on Amazon in hardcover, paperback, and Kindle"></a>
   <a href="https://apps.apple.com/us/developer/jason-colapietro/id1895958699"><img src="https://img.shields.io/badge/iOS_apps-9-c8a96e?labelColor=080808" alt="9 iOS apps"></a>
   <a href="#apps"><img src="https://img.shields.io/badge/Android_apps-6-3ddc84?labelColor=080808" alt="6 Android apps"></a>
   <a href="#training-connected-to-working-examples"><img src="https://img.shields.io/badge/credentials-21_courses_%2B_17_Microsoft_Learn-c8a96e?labelColor=080808" alt="21 course credentials and 17 Microsoft Learn achievements"></a>
@@ -51,7 +51,7 @@ Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’
 | Current role | Founder and CEO of [Suede AI](https://suedeai.ai), founded in 2024 |
 | Other role | Manager of JC Investment Group LLC, a Florida company formed in 2019 |
 | Based in | West Palm Beach, Florida, United States |
-| Books | Five on Amazon Kindle, including The Claude Code Bible and Codex in Production ([list](#books)) |
+| Books | Five on Amazon in hardcover, paperback, and Kindle, including The Claude Code Bible and Codex in Production ([list](#books)) |
 | Open source | 54 merged pull requests across 46 repositories he does not maintain, as of September 30, 2026 ([record](#open-source-record)) |
 | Apps | 9 iOS apps, 6 Android apps and 2 Chrome extensions ([list](#apps)) |
 | Programs | Claude for Startups and Google Cloud Partner Advantage member, through Suede AI ([details](#programs)) |
@@ -245,7 +245,7 @@ Suede Design's individual Skills Directory review:
 
 ## Books
 
-Jason Colapietro has written five books on Amazon Kindle, listed here with the two engineering books first. All five are on Jason Colapietro's [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
+Jason Colapietro has written five books on Amazon in hardcover, paperback, and Kindle, listed here with the two engineering books first. All five are on Jason Colapietro's [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
 
 | Book | What it covers |
 |---|---|
@@ -356,7 +356,7 @@ Structured reference pages kept in this repository, for people and for agents re
 
 ### Who is Jason Colapietro?
 
-Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI, an agentic platform company in West Palm Beach, Florida. He has 54 merged pull requests across 46 open-source repositories he does not maintain, five books on Amazon Kindle and 9 iOS apps under his own Apple developer account.
+Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI, an agentic platform company in West Palm Beach, Florida. He has 54 merged pull requests across 46 open-source repositories he does not maintain, five books on Amazon in hardcover, paperback, and Kindle and 9 iOS apps under his own Apple developer account.
 
 ### Is Johnny Suede the same person as Jason Colapietro?
 
@@ -368,7 +368,7 @@ Jason Colapietro founded Suede AI in 2024 and is its CEO. Suede AI builds and ru
 
 ### What books has Jason Colapietro written?
 
-Jason Colapietro has written five books on Amazon Kindle: The Claude Code Bible, Codex in Production, Proof as Infrastructure, Stake Your Claim and The Human Authenticity Layer. He also published The Screenshot, a free SEO and GEO field guide, and The Signal Chain, an illustrated history of guitar tone. See [Books](#books).
+Jason Colapietro has written five books on Amazon in hardcover, paperback, and Kindle: The Claude Code Bible, Codex in Production, Proof as Infrastructure, Stake Your Claim and The Human Authenticity Layer. He also published The Screenshot, a free SEO and GEO field guide, and The Signal Chain, an illustrated history of guitar tone. See [Books](#books).
 
 ### Which open-source projects has Jason Colapietro contributed to?
 
