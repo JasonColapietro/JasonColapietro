@@ -229,7 +229,7 @@ test("price drift between the manifest and the live 402 is the finding nothing e
 test("an A2A agent card is held to the fields a conforming client requires", () => {
   const card = {
     name: "Suede",
-    description: "Creator ownership infrastructure",
+    description: "AI agent platforms for businesses",
     url: "https://app.suedeai.ai",
     version: "1.0.0",
     capabilities: {},
