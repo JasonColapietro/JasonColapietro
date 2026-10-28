@@ -10,9 +10,11 @@
   Suede AI SEO ranked <strong>#24</strong>. <a href="https://themanifest.com/artificial-intelligence/consulting/deployment/companies/florida">View ranking →</a>
 </p>
 
-**Engineer · Founder and CEO of [Suede AI](https://suedeai.ai) · author of five books on Amazon in hardcover, paperback, and Kindle · [speaker](https://jasoncolapietro.vip/topics/) · five provisional patent applications (patent pending)**
+**Engineer · Founder and CEO of [Suede AI](https://suedeai.ai), AI agent platforms for businesses, white-labelled for agencies · author of five books on Amazon in hardcover, paperback, and Kindle · [speaker](https://jasoncolapietro.vip/topics/) · five provisional patent applications (patent pending)**
 
 Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI. He has 54 pull requests merged across 46 open-source repositories he does not maintain, including Jest, Adobe React Spectrum, Backstage and the Polkadot SDK; he has written five books on Amazon in hardcover, paperback, and Kindle, including The Claude Code Bible and Codex in Production; and he has shipped 9 iOS apps under his own Apple developer account. He publishes under the pen name Johnny Suede.
+
+Suede AI, founded in 2024 in West Palm Beach, Florida, builds and runs the AI agent platforms businesses use to run their work and white-labels them for agencies: [Suede AI Agent Studio](https://agents.suedeai.ai), [managed AI agents](https://suedeai.ai/managed-ai-agents), and Suede AI SEO, the GEO, AEO and SEO agency at [seo.suedeai.ai](https://seo.suedeai.ai). Suede AI has been a member of Claude for Startups, Anthropic's startup program, since October 2026. The [Suede AI section](#suede-ai) lists everything it does.
 
 <p>
   <a href="https://github.com/search?q=is%3Apr+author%3AJasonColapietro+author%3ASuede-AI+is%3Amerged+-user%3AJasonColapietro+-user%3ASuede-AI&type=pullrequests"><img src="https://img.shields.io/badge/upstream_merges-54_PRs_%2F_46_repos-8250df?labelColor=080808" alt="54 merged upstream pull requests across 46 external repositories"></a>
@@ -76,7 +78,7 @@ Jason Colapietro connects issued personal training records to inspectable implem
 | [Technical SEO check](https://seo.suedeai.ai/demonstrations#seo) | Eight checks of the evidence page, plus a controlled HTML copy with three detected defects. | [On-Page SEO and AI Search Essentials with Semrush](https://static.semrush.com/academy/certificates/9ab922478c/jason-colapietro_25.png), Semrush Academy, certificate of achievement issued October 20, 2026. |
 | [Answer evaluation](https://seo.suedeai.ai/demonstrations#evaluation) | Four authored answer fixtures checked for the holder, award categories, verification source and relationship. | [Craft Precise Prompts for AI Models](https://www.credly.com/badges/5ddf36c2-fd1e-449d-b388-aa15fb07d242/public_url), IBM SkillsBuild, digital credential issued October 21, 2026. |
 
-The [issued training inventory](https://seo.suedeai.ai/evidence#training-credentials) keeps course credentials, Microsoft Learn module badges and learning path trophies, and program memberships separate. The examples support defined integration, search and evaluation work within Suede AI's agent platform and agent-commerce practice.
+The [issued training inventory](https://seo.suedeai.ai/evidence#training-credentials) keeps course credentials, Microsoft Learn module badges and learning path trophies, and program memberships separate. The examples support defined integration, search and evaluation work within Suede AI's agent platform and AI search visibility practice.
 
 Credential profiles: [full badge gallery](https://jasoncolapietro.com/badges/) · [Microsoft Learn achievements](https://learn.microsoft.com/en-us/users/jasoncolapietro-8734/achievements) · [Credly](https://www.credly.com/users/jason-colapietro/badges/credly) · [AWS Skills Profile](https://skillsprofile.skillbuilder.aws/user/jasoncolapietro/certification-badges) · [Hugging Face](https://huggingface.co/jasoncolapietro) · [Google Developer profile](https://me.developers.google.com/u/101508597028441586213).
 
@@ -422,4 +424,4 @@ Suede AI's music and creator software is a separate product line, listed last on
 
 ---
 
-This profile is written and maintained by Jason Colapietro, founder and CEO of Suede AI. Last updated October 23, 2026. Corrections: [jason@suedeai.ai](mailto:jason@suedeai.ai).
+This profile is written and maintained by Jason Colapietro, founder and CEO of Suede AI. Last updated October 27, 2026. Corrections: [jason@suedeai.ai](mailto:jason@suedeai.ai).

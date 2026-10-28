@@ -148,7 +148,7 @@ Hosts only; the individual paths change as editions ship.
 | [JasonColapietro/agentix](https://github.com/JasonColapietro/agentix) | Public agent activity and earnings tracker |
 | [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source agent skills and workflows |
 | [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Guitar history and signal-chain research |
-| [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
+| [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Two open-source HTML design systems, warm editorial and terminal, with no build step |
 
 Meta surfaces, including the accounts that are not ours, are documented in [Instagram and Facebook.md](./Instagram%20and%20Facebook.md).
 
@@ -160,4 +160,4 @@ Meta surfaces, including the accounts that are not ours, are documented in [Inst
 - [Canonical ecosystem directories](./Suede%20Universe%20Websites%20and%20Apps.md)
 - [Instagram and Facebook surfaces](./Instagram%20and%20Facebook.md)
 
-Maintained by Jason Colapietro. Content last updated: October 23, 2026. The scheduled link audit on September 15, 2026 resolved every external link then on this page, with no failures. Eleven hosts that challenge automated clients, among them LinkedIn, Instagram, X, Substack, Crunchbase, and PitchBook, cannot be checked from CI and were not confirmed by it. Public endpoints and product status can change; the live destination is authoritative.
+Maintained by Jason Colapietro. Content last updated: October 27, 2026. The scheduled link audit on September 15, 2026 resolved every external link then on this page, with no failures. Eleven hosts that challenge automated clients, among them LinkedIn, Instagram, X, Substack, Crunchbase, and PitchBook, cannot be checked from CI and were not confirmed by it. Public endpoints and product status can change; the live destination is authoritative.
