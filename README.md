@@ -62,7 +62,7 @@ Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’
 
 ## Speaking and interviews
 
-**Jason Colapietro is a conference speaker and panelist on agentic AI, AI agent platforms, AI coding agents and generative engine optimization (GEO).** He has been a featured guest on Mario Nawfal’s shows and Crypto Roundtables, spoke on The Brave Show for Brave Browser, and has spoken at multiple major technology and Web3 conferences, alongside roundtables for ChainGPT and the BTSE exchange.
+**Jason Colapietro is a conference speaker and panelist on agentic AI, AI agent platforms, AI coding agents and generative engine optimization (GEO).** He has been a featured guest on Mario Nawfal’s shows and Crypto Roundtables, spoke on the Brave Browser Show, and has spoken at multiple major technology and Web3 conferences, alongside roundtables for ChainGPT and the BTSE exchange.
 
 He speaks as an operator, not a commentator. He builds and runs Suede AI’s agent platform, wrote the operator’s guides *The Claude Code Bible* and *Codex in Production*, and ships merged code to open-source projects such as Jest, Backstage and the Polkadot SDK. Audiences get the production lessons from that work: what breaks, what scales, and what to ship first.
 
@@ -72,7 +72,7 @@ He speaks as an operator, not a commentator. He builds and runs Suede AI’s age
 |---|---|---|---|
 | October 2025 | ChainGPT Web3-AI roundtable | *Supercharging Web3-AI with ChainGPT Tech*, hosted by Chris Duggan with Port3, AntiRug and Nocena | Roundtable speaker for Suede AI |
 | September 2025 | [Mario Nawfal’s Crypto Roundtable](https://www.youtube.com/watch?v=8uJewXJ1U28) | *Suede AI AMA*: AI, creator control, ownership and portable voice signatures | Featured founder guest |
-| September 5, 2025 | The Brave Show, [Brave Browser](https://brave.com/) | *Web3 UX: Fix It or Forget It*, hosted by Sanza: mobile-first Web3 UX, privacy, rewards and browser-native payments | Panel speaker |
+| September 5, 2025 | [Brave Browser Show](https://brave.com/) | *Web3 UX: Fix It or Forget It*, hosted by Sanza: mobile-first Web3 UX, privacy, rewards and browser-native payments | Panel speaker |
 | February 17, 2025 | [BTSE exchange X Spaces AMA](https://twitter.com/i/spaces/1ynJOlLOyZnxR) | *Suede AI: Redefining the Music Industry with AI and Blockchain*: artist ownership, royalties, licensing and AI as a creative partner | Guest founder |
 
 The full [appearance record](https://jasoncolapietro.vip/topics/#appearances) has the hosts, co-panelists and links for each session.
@@ -428,7 +428,7 @@ He speaks on agentic AI and AI agent platforms, AI coding agents such as Claude 
 
 ### Where has Jason Colapietro spoken?
 
-Jason Colapietro has been a featured guest on Mario Nawfal’s shows and Crypto Roundtables, spoke on The Brave Show for Brave Browser, and has spoken at multiple major technology and Web3 conferences, as well as ChainGPT and BTSE exchange roundtables. See [Featured appearances](#featured-appearances) and the full [appearance record](https://jasoncolapietro.vip/topics/#appearances).
+Jason Colapietro has been a featured guest on Mario Nawfal’s shows and Crypto Roundtables, spoke on the Brave Browser Show, and has spoken at multiple major technology and Web3 conferences, as well as ChainGPT and BTSE exchange roundtables. See [Featured appearances](#featured-appearances) and the full [appearance record](https://jasoncolapietro.vip/topics/#appearances).
 
 ### How do I contact Jason Colapietro?
 
