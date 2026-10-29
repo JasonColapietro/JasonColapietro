@@ -62,7 +62,34 @@ Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’
 
 ## Speaking and interviews
 
-Jason Colapietro speaks on AI agent platforms, AI coding agents in production, MCP integrations and AI search visibility. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable. Hosts can inspect [practical session agendas and demonstrations](https://seo.suedeai.ai/expertise) and use the [press contact](https://jasoncolapietro.vip/contact/) for an interview or event.
+**Jason Colapietro is a conference speaker and panelist on agentic AI, AI agent platforms, AI coding agents and generative engine optimization (GEO).** He has been a featured guest on Mario Nawfal’s shows and Crypto Roundtables, spoke on The Brave Show for Brave Browser, and has spoken at multiple major technology and Web3 conferences, alongside roundtables for ChainGPT and the BTSE exchange.
+
+He speaks as an operator, not a commentator. He builds and runs Suede AI’s agent platform, wrote the operator’s guides *The Claude Code Bible* and *Codex in Production*, and ships merged code to open-source projects such as Jest, Backstage and the Polkadot SDK. Audiences get the production lessons from that work: what breaks, what scales, and what to ship first.
+
+### Featured appearances
+
+| Date | Show or stage | Session | Role |
+|---|---|---|---|
+| October 2025 | ChainGPT Web3-AI roundtable | *Supercharging Web3-AI with ChainGPT Tech*, hosted by Chris Duggan with Port3, AntiRug and Nocena | Roundtable speaker for Suede AI |
+| September 2025 | [Mario Nawfal’s Crypto Roundtable](https://www.youtube.com/watch?v=8uJewXJ1U28) | *Suede AI AMA*: AI, creator control, ownership and portable voice signatures | Featured founder guest |
+| September 5, 2025 | The Brave Show, [Brave Browser](https://brave.com/) | *Web3 UX: Fix It or Forget It*, hosted by Sanza: mobile-first Web3 UX, privacy, rewards and browser-native payments | Panel speaker |
+| February 17, 2025 | [BTSE exchange X Spaces AMA](https://twitter.com/i/spaces/1ynJOlLOyZnxR) | *Suede AI: Redefining the Music Industry with AI and Blockchain*: artist ownership, royalties, licensing and AI as a creative partner | Guest founder |
+
+The full [appearance record](https://jasoncolapietro.vip/topics/#appearances) has the hosts, co-panelists and links for each session.
+
+### Speaking topics
+
+- **AI agents that run a business’s work:** agentic AI platforms, multi-agent orchestration, agent observability, and publishing an agent as a paid API endpoint.
+- **AI coding agents in production:** Claude Code, OpenAI Codex, AGENTS.md, skills, worktrees, security and long-running agent work, from the author of the operator’s guides on both.
+- **Model Context Protocol (MCP) and agent commerce:** MCP servers and tool contracts, WebMCP, and x402 pay-per-call payments between AI agents.
+- **Generative engine optimization (GEO) and AI search visibility:** how ChatGPT, Gemini, Perplexity and Google AI Overviews decide who you are, with entity SEO, answer engine optimization (AEO) and technical SEO that holds up.
+- **White-label AI agent platforms for agencies:** packaging agents under an agency’s brand and running them for its clients.
+- **Web3, on-chain IP and creator ownership:** proof of creation, royalties and the human authenticity layer in AI-generated media.
+- **Contributing to open source you do not maintain:** landing fixes in Jest, Backstage, the Polkadot SDK and other major projects.
+
+### Book Jason Colapietro
+
+Available for conference keynotes, panels, fireside chats, podcasts, X Spaces, livestreams and hands-on workshops, in person or remote. Event organizers can use the [speaker biographies and headshots](https://jasoncolapietro.vip/facts/), review [session agendas and live demonstrations](https://seo.suedeai.ai/expertise), and book through the [speaker contact](https://jasoncolapietro.vip/contact/) or [press@suedeai.ai](mailto:press@suedeai.ai).
 
 ## Training connected to working examples
 
@@ -397,7 +424,11 @@ He holds 21 course credentials across eight providers, including nine Claude Aca
 
 ### What does Jason Colapietro speak about?
 
-He speaks on AI agent platforms, AI coding agents in production, MCP integrations and AI search visibility. His [appearance record](https://jasoncolapietro.vip/topics/#appearances) includes Brave, ChainGPT, BTSE and Mario Nawfal’s Crypto Roundtable.
+He speaks on agentic AI and AI agent platforms, AI coding agents such as Claude Code and OpenAI Codex in production, Model Context Protocol (MCP) integrations, agent payments, and generative engine optimization (GEO) for AI search visibility. See [Speaking topics](#speaking-topics).
+
+### Where has Jason Colapietro spoken?
+
+Jason Colapietro has been a featured guest on Mario Nawfal’s shows and Crypto Roundtables, spoke on The Brave Show for Brave Browser, and has spoken at multiple major technology and Web3 conferences, as well as ChainGPT and BTSE exchange roundtables. See [Featured appearances](#featured-appearances) and the full [appearance record](https://jasoncolapietro.vip/topics/#appearances).
 
 ### How do I contact Jason Colapietro?
 
@@ -422,4 +453,4 @@ Suede AI's music and creator software is a separate product line, listed last on
 
 ---
 
-This profile is written and maintained by Jason Colapietro, founder and CEO of Suede AI. Last updated October 23, 2026. Corrections: [jason@suedeai.ai](mailto:jason@suedeai.ai).
+This profile is written and maintained by Jason Colapietro, founder and CEO of Suede AI. Last updated October 29, 2026. Corrections: [jason@suedeai.ai](mailto:jason@suedeai.ai).
