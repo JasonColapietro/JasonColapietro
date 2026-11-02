@@ -82,7 +82,7 @@ Projects Jason Colapietro created or leads, each with its public reference.
 | Suede AI Agent Studio | [agents.suedeai.ai](https://agents.suedeai.ai) | Visual agent building, publishing, and pay-per-call workflows |
 | Suede Creator Skills | [skills.suedeai.ai](https://skills.suedeai.ai) · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source workflows for creators, agents, and software teams |
 | The Signal Chain | [guitar.solutions](https://guitar.solutions) · [JasonColapietro/the-signal-chain](https://github.com/JasonColapietro/the-signal-chain) | Electric-guitar history, signal flow, and research |
-| Anti-Slop Templates | [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Open-source editorial and creator-ownership design systems |
+| Anti-Slop Templates | [JasonColapietro/anti-slop-templates](https://github.com/JasonColapietro/anti-slop-templates) | Two open-source HTML design systems, warm editorial and terminal, with no build step |
 
 ## Public evidence
 
@@ -134,4 +134,4 @@ Email [jason@suedeai.ai](mailto:jason@suedeai.ai). Press requests go to [press@s
 - [Canonical public links and feeds](./Public%20Links.md)
 - [Suede AI platform reference](./Suede%20Labs%20AI.md)
 
-Written and maintained by Jason Colapietro. Content last updated: October 23, 2026. Last reviewed against the linked public sources: July 17, 2026. Entries added or changed since that date match the profile README but have not been independently re-verified.
+Written and maintained by Jason Colapietro. Content last updated: October 27, 2026. Last reviewed against the linked public sources: July 17, 2026. Entries added or changed since that date match the profile README but have not been independently re-verified.
