@@ -35,7 +35,7 @@ Suede AI, founded in 2024 in West Palm Beach, Florida, builds and runs the AI ag
   <a href="https://jasoncolapietro.substack.com"><img src="https://img.shields.io/badge/Writing-Substack-c2410c?labelColor=080808" alt="Writing on Substack"></a>
   <a href="https://www.linkedin.com/in/jasoncolapietro"><img src="https://img.shields.io/badge/Jason's_LinkedIn-jasoncolapietro-0a66c2?labelColor=080808" alt="Jason's LinkedIn"></a>
   <a href="https://x.com/johnnysuede"><img src="https://img.shields.io/badge/X-%40johnnysuede-1a6fb5?labelColor=080808" alt="X: @johnnysuede"></a>
-  <a href="https://www.youtube.com/@johnnysuede"><img src="https://img.shields.io/badge/YouTube-%40johnnysuede-c4302b?labelColor=080808" alt="YouTube: @johnnysuede"></a>
+  <a href="https://www.youtube.com/@aisuede"><img src="https://img.shields.io/badge/YouTube-%40aisuede-c4302b?labelColor=080808" alt="YouTube: @aisuede"></a>
   <a href="https://www.wikidata.org/wiki/Q140235755"><img src="https://img.shields.io/badge/Wikidata-Q140235755-1f6b46?labelColor=080808" alt="Wikidata item Q140235755"></a>
   <a href="https://www.crunchbase.com/person/jason-colapietro-d83e"><img src="https://img.shields.io/badge/Crunchbase-founder_profile-01629b?labelColor=080808" alt="Crunchbase: founder profile"></a>
 </p>
@@ -395,7 +395,7 @@ Jason Colapietro is an engineer, author, and the founder and CEO of Suede AI, an
 
 ### Is Johnny Suede the same person as Jason Colapietro?
 
-Yes. Johnny Suede is Jason Colapietro's pen name. He publishes music, video and writing as Johnny Suede at [johnnysuede.com](https://johnnysuede.com) and on YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede).
+Yes. Johnny Suede is Jason Colapietro's pen name. He publishes music, video and writing as Johnny Suede at [johnnysuede.com](https://johnnysuede.com), on YouTube as [@aisuede](https://www.youtube.com/@aisuede), and on X as [@johnnysuede](https://x.com/johnnysuede).
 
 ### What company did Jason Colapietro found?
 
@@ -443,7 +443,7 @@ Jason Colapietro: [jason@suedeai.ai](mailto:jason@suedeai.ai) · Suede AI: [info
 
 ## Music and creator software
 
-Suede AI's music and creator software is a separate product line, listed last on purpose. Its creator, Jason Colapietro, publishes music, video, and writing as **Johnny Suede**, at [johnnysuede.com](https://johnnysuede.com) and on YouTube as [@johnnysuede](https://www.youtube.com/@johnnysuede). The hub for the product line is [suedeai.ai/music](https://suedeai.ai/music).
+Suede AI's music and creator software is a separate product line, listed last on purpose. Its creator, Jason Colapietro, publishes music, video, and writing as **Johnny Suede**, at [johnnysuede.com](https://johnnysuede.com), on YouTube as [@aisuede](https://www.youtube.com/@aisuede), and on X as [@johnnysuede](https://x.com/johnnysuede). The hub for the product line is [suedeai.ai/music](https://suedeai.ai/music).
 
 | Product | What it does |
 |---|---|
