@@ -11,7 +11,7 @@ Jason Colapietro is an engineer, author, and the founder and CEO of [Suede AI](h
 | Occupation | Engineer, author and founder |
 | Current role | Founder and CEO of Suede AI, founded in 2024 |
 | Other role | Manager of JC Investment Group LLC, a Florida company formed in 2019 |
-| Earlier work | Built, ran, and sold call centers |
+| Earlier work | Two decades building and running businesses |
 | Based in | West Palm Beach, Florida, United States |
 | Books | Five on Amazon Kindle ([list](#books-by-jason-colapietro)) |
 | Open source | 54 merged pull requests across 46 repositories he does not maintain, as of September 30, 2026 ([record](#open-source-record)) |

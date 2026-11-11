@@ -40,7 +40,7 @@ Suede AI, founded in 2024 in West Palm Beach, Florida, builds and runs the AI ag
   <a href="https://www.crunchbase.com/person/jason-colapietro-d83e"><img src="https://img.shields.io/badge/Crunchbase-founder_profile-01629b?labelColor=080808" alt="Crunchbase: founder profile"></a>
 </p>
 
-Before Suede AI, Jason Colapietro built, ran, and sold call centers. He is the manager of JC Investment Group LLC, a Florida company formed in 2019, and works from West Palm Beach, Florida. The founder page at [suedeai.ai/founder](https://suedeai.ai/founder) is the canonical record.
+Jason Colapietro has spent two decades building and running businesses. He is the manager of JC Investment Group LLC, a Florida company formed in 2019, and works from West Palm Beach, Florida. The founder page at [suedeai.ai/founder](https://suedeai.ai/founder) is the canonical record.
 
 Suede AI is also known as Suede Labs AI. **Johnny Suede** is Jason Colapietro’s pen name. Explore Jason Colapietro's [author catalog](https://jasoncolapietro.com/books/), [speaking and interview record](https://jasoncolapietro.vip/topics/), [speaker biographies and portraits](https://jasoncolapietro.vip/facts/), and [all badges, credentials and public profiles](https://jasoncolapietro.com/badges/).
 
