@@ -352,7 +352,9 @@ Suede AI's official sites are suedeai.ai, suedeai.org and their subdomains. It w
 Announcements, contributed articles and mentions of Jason Colapietro and Suede AI, newest first. The Markets Insider item is a FinanceWire press release, MSN carries a company-supplied story, and the Programming Insider and Indie Hackers items are an essay written by Jason Colapietro.
 
 - **September 21, 2026** · Gigawatt Group · [Suede AI vs. Profound for Trade Associations](https://gigawattgroup.com/generative-engine-optimization/suede-ai-vs-profound-trade-associations/)
-- **September 20, 2026** · MSN · [Suede AI opens SEO cohort with optional AI integration and live agent workflows](https://www.msn.com/en-xl/news/other/suede-ai-opens-seo-cohort-with-optional-ai-integration-and-live-agent-workflows/ar-AA2cBTep)
+- **September 20, 2026** · MSN · Suede AI opens SEO cohort with optional AI integration and live agent workflows
+
+  <img src="https://suedeai.ai/press/msn-2026-09-20.webp" alt="MSN article screenshot showing the Suede AI SEO cohort headline and MSN masthead" width="700">
 - **September 16, 2026** · Markets Insider (FinanceWire press release) · [“Award-Winning Developer Jason Colapietro Opens Suede Labs AI’s Long-Awaited SEO Cohort”](https://markets.businessinsider.com/news/currencies/award-winning-developer-jason-colapietro-opens-suede-labs-ai-s-long-awaited-seo-cohort-1036549662)
 - **September 13, 2026** · TechBullion · [Suede Opens Its Widely Anticipated SEO and AI Cohort](https://techbullion.com/suede-opens-its-widely-anticipated-seo-and-ai-cohort/)
 - **July 6, 2026** · Programming Insider · [In the Age of Infinite Content, Spam Is Instant Death](https://programminginsider.com/in-the-age-of-infinite-content-spam-is-instant-death/), by Jason Colapietro
