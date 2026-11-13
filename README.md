@@ -441,7 +441,7 @@ Email [jason@suedeai.ai](mailto:jason@suedeai.ai) or [book a call](https://calen
 
 ## Contact
 
-Jason Colapietro: [jason@suedeai.ai](mailto:jason@suedeai.ai) · Suede AI: [info@suedeai.ai](mailto:info@suedeai.ai) · Press: [press@suedeai.ai](mailto:press@suedeai.ai) · +1 (561) 401-0518 · [Book a call](https://calendar.app.google/8FyvYAspZaQFFP5eA)
+Jason Colapietro: [jason@suedeai.ai](mailto:jason@suedeai.ai) · Suede AI: [info@suedeai.ai](mailto:info@suedeai.ai) · Press: [press@suedeai.ai](mailto:press@suedeai.ai) · +1 (561) 316-3205 · [Book a call](https://calendar.app.google/8FyvYAspZaQFFP5eA)
 
 ## Music and creator software
 
