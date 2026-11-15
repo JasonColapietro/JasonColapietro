@@ -277,6 +277,8 @@ Suede Design's individual Skills Directory review:
 
 Jason Colapietro has written five books on Amazon in hardcover, paperback, and Kindle, listed here with the two engineering books first. All five are on Jason Colapietro's [Amazon author page](https://www.amazon.com/stores/author/B0H3DPP75K).
 
+New in November 2026: [his five-book AI Operator Series](https://suedeai.ai/books) climbs from a first ChatGPT session to an AI business you own, with a free sample chapter of every volume.
+
 | Book | What it covers |
 |---|---|
 | <img src="https://suedeai.ai/books/claude-code-bible-cover.jpg" alt="Cover of The Claude Code Bible" width="80"><br>[The Claude Code Bible](https://www.amazon.com/dp/B0HHTMJWB4) | The complete operator's guide to Claude Code and AI coding agents. |
