@@ -237,7 +237,7 @@ Outside GitHub, a Linux kernel USB/IP patch, *usbip: make remote list honor pars
 | Aug 15, 2026 | 0xNyk/awesome-agent-cortex | [#57](https://github.com/0xNyk/awesome-agent-cortex/pull/57) | Added Suede Creator Skills to the skill-engineering and playbooks directory. |
 | Aug 13, 2026 | elizaOS/eliza | [#19210](https://github.com/elizaOS/eliza/pull/19210) | Registered the Suede community plugin in the Eliza third-party plugin registry. |
 | Aug 13, 2026 | zients/awesome-agent-harness | [#7](https://github.com/zients/awesome-agent-harness/pull/7) | Added Suede Creator Skills to the agent-harness collections directory. |
-| Aug 12, 2026 | ccplugins/awesome-claude-code-plugins | [#273](https://github.com/ccplugins/awesome-claude-code-plugins/pull/273) | Added the public iOS App Dev Skills pack to the development-engineering directory. |
+| Aug 12, 2026 | ccplugins/awesome-claude-code-plugins | [#273](https://github.com/ccplugins/awesome-claude-code-plugins/commit/f7fb0b6201aa2f4d1392011c312522b2be696b7a) | Added the public iOS App Dev Skills pack to the development-engineering directory. |
 | Aug 9, 2026 | junminhong/awesome-agent-skills | [#29](https://github.com/junminhong/awesome-agent-skills/pull/29) | Added Suede Creator Skills to the agent-skills directory. |
 | Aug 7, 2026 | VoltAgent/awesome-agent-skills | [#833](https://github.com/VoltAgent/awesome-agent-skills/pull/833) | Listed Suede Creator Skills in the agent-skills directory. |
 | Aug 6, 2026 | GetBindu/awesome-claude-code-and-skills | [#138](https://github.com/GetBindu/awesome-claude-code-and-skills/pull/138) | Added Suede Creator Skills to the Claude Code skills collection. |
